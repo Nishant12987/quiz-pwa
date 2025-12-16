@@ -1,9 +1,8 @@
 {
-  "name": "Smart Quiz",
-  "short_name": "Quiz",
+  "name": "REET Test Series",
+  "short_name": "REET",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#0a5cff",
   "background_color": "#ffffff"
 }
-
