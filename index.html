@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Quiz App</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div class="box">
+  <h2 id="title">Quiz App</h2>
+
+  <div id="login">
+    <input id="email" placeholder="Enter email">
+    <button onclick="login()">Start</button>
+  </div>
+
+  <div id="dashboard" style="display:none">
+    <p id="welcome"></p>
+    <p id="limit"></p>
+    <button onclick="startQuiz()">Start Quiz</button>
+    <button onclick="logout()">Logout</button>
+  </div>
+
+  <div id="quiz" style="display:none">
+    <h3 id="question"></h3>
+    <div id="options"></div>
+    <p id="score"></p>
+    <button onclick="next()">Next</button>
+  </div>
+</div>
+
+<script src="js/app.js"></script>
+
+<script>
+  if ("serviceWorker" in navigator) {
+    navigator.serviceWorker.register("service-worker.js");
+  }
+</script>
+
+</body>
+</html>
