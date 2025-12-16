@@ -1,6 +1,6 @@
 self.addEventListener("install", e => {
   e.waitUntil(
-    caches.open("quiz-pwa").then(c =>
+    caches.open("reet-pwa").then(c =>
       c.addAll(["./","./index.html","./css/style.css","./js/app.js"])
     )
   );
@@ -11,5 +11,3 @@ self.addEventListener("fetch", e => {
     caches.match(e.request).then(r => r || fetch(e.request))
   );
 });
-
-
