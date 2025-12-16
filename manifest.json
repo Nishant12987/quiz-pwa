@@ -1,8 +1,9 @@
 {
-  "name": "Quiz App",
+  "name": "Smart Quiz",
   "short_name": "Quiz",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#0a5cff"
+  "theme_color": "#0a5cff",
+  "background_color": "#ffffff"
 }
+
