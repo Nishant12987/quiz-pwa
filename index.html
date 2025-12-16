@@ -10,41 +10,79 @@
 </head>
 <body>
 
-<div class="box">
-  <h2>Quiz App</h2>
+<div class="app">
+
+  <!-- HEADER -->
+  <div class="header">
+    <h2>📘 Smart Quiz</h2>
+  </div>
 
   <!-- LOGIN -->
-  <div id="login">
-    <input id="email" placeholder="Enter email">
-    <button onclick="login()">Start</button>
+  <div id="login" class="card">
+    <h3>Welcome</h3>
+    <p>Enter your email to start</p>
+    <input id="email" placeholder="Email address">
+    <button class="primary" onclick="login()">Start</button>
   </div>
 
   <!-- DASHBOARD -->
-  <div id="dashboard" style="display:none">
-    <p id="welcome"></p>
-    <p id="limit"></p>
+  <div id="dashboard" class="card" style="display:none">
+    <h3 id="welcome"></h3>
+    <div class="stats">
+      <div class="stat">
+        <span id="limit"></span>
+        <small>Quizzes left today</small>
+      </div>
+      <div class="stat">
+        <span id="rating"></span>
+        <small>Preparation level</small>
+      </div>
+    </div>
 
-    <p id="progress"></p>
-    <p id="rating"></p>
+    <p id="progress" class="info"></p>
     <p id="breakMsg" class="warning"></p>
 
-    <button onclick="startQuiz()">Start Quiz</button>
-    <button onclick="logout()">Logout</button>
+    <button class="primary" onclick="startQuiz()">Start Test</button>
+    <button class="secondary" onclick="logout()">Logout</button>
   </div>
 
   <!-- QUIZ -->
-  <div id="quiz" style="display:none">
+  <div id="quiz" class="card" style="display:none">
+
+    <div class="progress-bar">
+      <div id="progressBar"></div>
+    </div>
+
+    <p id="qCounter" class="counter"></p>
     <h3 id="question"></h3>
-    <div id="options"></div>
-    <button onclick="next()">Next</button>
+
+    <div id="options" class="options"></div>
+
+    <div class="nav">
+      <button class="secondary" onclick="prevQ()">Previous</button>
+      <button class="secondary" onclick="nextQ()">Next</button>
+      <button class="danger" onclick="finishQuiz()">Finish</button>
+    </div>
   </div>
+
+  <!-- RESULT -->
+  <div id="result" class="card" style="display:none">
+    <h3>📊 Result</h3>
+    <p id="finalScore" class="score"></p>
+    <div id="review"></div>
+    <button class="primary" onclick="showDashboard()">Back to Dashboard</button>
+  </div>
+
 </div>
 
 <script src="js/app.js"></script>
-
 <script>
   if ("serviceWorker" in navigator) {
     navigator.serviceWorker.register("service-worker.js");
   }
+</script>
+</body>
+</html>
+
 
 
