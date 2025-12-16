@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background: #f2f5ff;
+  background: #eef2ff;
 }
 
 .app {
@@ -10,16 +10,13 @@ body {
   padding: 20px;
 }
 
-.header {
-  text-align: center;
-  margin-bottom: 20px;
-}
+.center { text-align: center; }
 
 .card {
   background: white;
   padding: 20px;
-  border-radius: 12px;
   margin-bottom: 20px;
+  border-radius: 12px;
   box-shadow: 0 10px 30px rgba(0,0,0,0.08);
 }
 
@@ -36,7 +33,7 @@ input, button {
 }
 
 .secondary {
-  background: #e0e7ff;
+  background: #dde3ff;
   border: none;
 }
 
@@ -73,7 +70,6 @@ input, button {
   height: 8px;
   background: #0a5cff;
   width: 0%;
-  border-radius: 8px;
 }
 
 #options button {
@@ -94,4 +90,3 @@ input, button {
   border-bottom: 1px solid #ddd;
   padding: 10px 0;
 }
-
