@@ -2,45 +2,51 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Quiz App</title>
+  <title>Smart Quiz</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-
   <link rel="manifest" href="manifest.json">
   <link rel="stylesheet" href="css/style.css">
 </head>
-<body>
 
+<body>
 <div class="app">
 
   <!-- HEADER -->
   <div class="header">
     <h2>📘 Smart Quiz</h2>
+    <button onclick="toggleDark()">🌙</button>
   </div>
 
   <!-- LOGIN -->
   <div id="login" class="card">
-    <h3>Welcome</h3>
-    <p>Enter your email to start</p>
-    <input id="email" placeholder="Email address">
+    <input id="email" placeholder="Enter email">
     <button class="primary" onclick="login()">Start</button>
   </div>
 
   <!-- DASHBOARD -->
   <div id="dashboard" class="card" style="display:none">
     <h3 id="welcome"></h3>
-    <div class="stats">
-      <div class="stat">
-        <span id="limit"></span>
-        <small>Quizzes left today</small>
-      </div>
-      <div class="stat">
-        <span id="rating"></span>
-        <small>Preparation level</small>
-      </div>
-    </div>
 
-    <p id="progress" class="info"></p>
+    <select id="topic">
+      <option value="math">Math</option>
+      <option value="gk">General Knowledge</option>
+      <option value="science">Science</option>
+    </select>
+
+    <p id="limit"></p>
+    <p id="timerInfo">⏱ 40 minutes</p>
+    <p id="rating"></p>
+    <p id="progress"></p>
     <p id="breakMsg" class="warning"></p>
+
+    <!-- ADS -->
+    <div id="adBox" class="ad">Ad Banner (Free Users)</div>
+
+    <!-- PREMIUM -->
+    <label>
+      <input type="checkbox" id="premiumToggle" onchange="togglePremium()">
+      Premium (No Ads + Unlimited Tests)
+    </label>
 
     <button class="primary" onclick="startQuiz()">Start Test</button>
     <button class="secondary" onclick="logout()">Logout</button>
@@ -48,41 +54,38 @@
 
   <!-- QUIZ -->
   <div id="quiz" class="card" style="display:none">
+    <div class="timer">⏱ <span id="time">40:00</span></div>
 
     <div class="progress-bar">
       <div id="progressBar"></div>
     </div>
 
-    <p id="qCounter" class="counter"></p>
+    <p id="qCounter"></p>
     <h3 id="question"></h3>
-
-    <div id="options" class="options"></div>
+    <div id="options"></div>
 
     <div class="nav">
-      <button class="secondary" onclick="prevQ()">Previous</button>
-      <button class="secondary" onclick="nextQ()">Next</button>
+      <button onclick="prevQ()">Previous</button>
+      <button onclick="nextQ()">Next</button>
       <button class="danger" onclick="finishQuiz()">Finish</button>
     </div>
   </div>
 
   <!-- RESULT -->
   <div id="result" class="card" style="display:none">
-    <h3>📊 Result</h3>
-    <p id="finalScore" class="score"></p>
+    <h3>Result</h3>
+    <p id="finalScore"></p>
     <div id="review"></div>
-    <button class="primary" onclick="showDashboard()">Back to Dashboard</button>
+    <button class="primary" onclick="showDashboard()">Back</button>
   </div>
 
 </div>
 
 <script src="js/app.js"></script>
 <script>
-  if ("serviceWorker" in navigator) {
-    navigator.serviceWorker.register("service-worker.js");
-  }
+if ("serviceWorker" in navigator) {
+  navigator.serviceWorker.register("service-worker.js");
+}
 </script>
 </body>
 </html>
-
-
-
