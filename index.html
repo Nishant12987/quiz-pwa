@@ -20,7 +20,8 @@
   <!-- LOGIN -->
   <div id="login" class="card">
     <input id="email" placeholder="Enter email">
-    <button class="primary" onclick="login()">Start</button>
+   <button class="primary" onclick="showInstructions()">Start Test</button>
+
   </div>
 
   <!-- DASHBOARD -->
@@ -50,6 +51,48 @@
     <button class="primary" onclick="startQuiz()">Start Test</button>
     <button class="secondary" onclick="logout()">Logout</button>
   </div>
+  </div>
+
+<!-- DASHBOARD -->
+<div id="dashboard" class="card" style="display:none">
+  <h3 id="welcome"></h3>
+
+  <select id="topic">
+    <option value="reet">REET (Level 1 & 2)</option>
+  </select>
+
+  <p id="limit"></p>
+  <p id="timerInfo">⏱ 40 minutes</p>
+  <p id="rating"></p>
+  <p id="progress"></p>
+  <p id="breakMsg" class="warning"></p>
+
+  <button class="primary" onclick="showInstructions()">Start Test</button>
+  <button class="secondary" onclick="logout()">Logout</button>
+</div>
+
+<!-- INSTRUCTIONS (PASTE HERE) -->
+<div id="instructions" class="card" style="display:none">
+  <h3>REET Practice Test – Instructions</h3>
+
+  <ul>
+    <li>Total Questions: <b>40</b></li>
+    <li>Time Duration: <b>40 Minutes</b></li>
+    <li>Each question carries <b>1 mark</b></li>
+    <li><b>No negative marking</b></li>
+    <li>You may skip questions and return later</li>
+    <li>Click <b>Finish Test</b> to submit</li>
+  </ul>
+
+  <button class="primary" onclick="startQuiz()">I Understand – Start Test</button>
+  <button class="secondary" onclick="showDashboard()">Back</button>
+</div>
+
+<!-- QUIZ -->
+<div id="quiz" class="card" style="display:none">
+  ...
+</div>
+
 
   <!-- QUIZ -->
   <div id="quiz" class="card" style="display:none">
