@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Smart Quiz</title>
+  <title>REET Test Series</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="manifest" href="manifest.json">
   <link rel="stylesheet" href="css/style.css">
@@ -11,114 +11,87 @@
 <body>
 <div class="app">
 
-  <!-- HEADER -->
-  <div class="header">
-    <h2>📘 Smart Quiz</h2>
-    <button onclick="toggleDark()">🌙</button>
-  </div>
+  <header class="header">
+    <h2>REET Test Series</h2>
+  </header>
 
   <!-- LOGIN -->
   <div id="login" class="card">
-    <input id="email" placeholder="Enter email">
-   <button class="primary" onclick="showInstructions()">Start Test</button>
-
+    <h3>Start Practice</h3>
+    <input id="email" placeholder="Enter Email ID">
+    <p class="note">Your data stays on this device.</p>
+    <button class="primary" onclick="login()">Continue</button>
   </div>
 
   <!-- DASHBOARD -->
   <div id="dashboard" class="card" style="display:none">
     <h3 id="welcome"></h3>
 
-    <select id="topic">
-  <option value="reet">REET (Level 1 & 2)</option>
-</select>
-
-
     <p id="limit"></p>
-    <p id="timerInfo">⏱ 40 minutes</p>
     <p id="rating"></p>
     <p id="progress"></p>
     <p id="breakMsg" class="warning"></p>
 
-    <!-- ADS -->
-    <div id="adBox" class="ad">Ad Banner (Free Users)</div>
-
-    <!-- PREMIUM -->
-    <label>
-      <input type="checkbox" id="premiumToggle" onchange="togglePremium()">
-      Premium (No Ads + Unlimited Tests)
-    </label>
-
-    <button class="primary" onclick="startQuiz()">Start Test</button>
+    <button class="primary" onclick="showInstructions()">Start Test</button>
+    <button class="secondary" onclick="showHistory()">Test History</button>
     <button class="secondary" onclick="logout()">Logout</button>
   </div>
+
+  <!-- INSTRUCTIONS -->
+  <div id="instructions" class="card" style="display:none">
+    <h3>REET Practice Test – Instructions</h3>
+    <ul>
+      <li>Total Questions: <b>40</b></li>
+      <li>Time: <b>40 Minutes</b></li>
+      <li>Correct: <b>+1</b></li>
+      <li>Wrong: <b>–⅓</b></li>
+      <li>No mark for skipped questions</li>
+      <li>You can skip & revisit questions</li>
+      <li>Auto-submit when time ends</li>
+    </ul>
+    <button class="primary" onclick="startQuiz()">I Understand – Start Test</button>
+    <button class="secondary" onclick="showDashboard()">Back</button>
   </div>
-
-<!-- DASHBOARD -->
-<div id="dashboard" class="card" style="display:none">
-  <h3 id="welcome"></h3>
-
-  <select id="topic">
-    <option value="reet">REET (Level 1 & 2)</option>
-  </select>
-
-  <p id="limit"></p>
-  <p id="timerInfo">⏱ 40 minutes</p>
-  <p id="rating"></p>
-  <p id="progress"></p>
-  <p id="breakMsg" class="warning"></p>
-
-  <button class="primary" onclick="showInstructions()">Start Test</button>
-  <button class="secondary" onclick="logout()">Logout</button>
-</div>
-
-<!-- INSTRUCTIONS (PASTE HERE) -->
-<div id="instructions" class="card" style="display:none">
-  <h3>REET Practice Test – Instructions</h3>
-
-  <ul>
-    <li>Total Questions: <b>40</b></li>
-    <li>Time Duration: <b>40 Minutes</b></li>
-    <li>Each question carries <b>1 mark</b></li>
-    <li><b>No negative marking</b></li>
-    <li>You may skip questions and return later</li>
-    <li>Click <b>Finish Test</b> to submit</li>
-  </ul>
-
-  <button class="primary" onclick="startQuiz()">I Understand – Start Test</button>
-  <button class="secondary" onclick="showDashboard()">Back</button>
-</div>
-
-<!-- QUIZ -->
-<div id="quiz" class="card" style="display:none">
-  ...
-</div>
-
 
   <!-- QUIZ -->
   <div id="quiz" class="card" style="display:none">
-    <div class="timer">⏱ <span id="time">40:00</span></div>
+    <div class="topbar">
+      <span id="qCounter"></span>
+      <span id="time"></span>
+    </div>
 
     <div class="progress-bar">
       <div id="progressBar"></div>
     </div>
 
-    <p id="qCounter"></p>
     <h3 id="question"></h3>
     <div id="options"></div>
 
     <div class="nav">
       <button onclick="prevQ()">Previous</button>
       <button onclick="nextQ()">Next</button>
-      <button class="danger" onclick="finishQuiz()">Finish</button>
+      <button class="danger" onclick="finishQuiz()">Finish Test</button>
     </div>
   </div>
 
   <!-- RESULT -->
   <div id="result" class="card" style="display:none">
-    <h3>Result</h3>
+    <h3>Result Summary</h3>
     <p id="finalScore"></p>
+    <p id="counts"></p>
+    <p id="finalRating"></p>
+
+    <h4>Answer Review</h4>
     <div id="review"></div>
-    <button class="primary" onclick="showDashboard()">Back</button>
+
+    <button class="primary" onclick="showDashboard()">Back to Dashboard</button>
+  </div>
+
+  <!-- HISTORY -->
+  <div id="history" class="card" style="display:none">
+    <h3>Test History (Last 1 Year)</h3>
+    <div id="historyList"></div>
+    <button class="secondary" onclick="showDashboard()">Back</button>
   </div>
 
 </div>
