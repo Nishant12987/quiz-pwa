@@ -1,13 +1,24 @@
+// QUIZ DATA
 const questions = [
-  { q: "2 + 2 = ?", options: ["1","2","3","4"], a: 3 },
-  { q: "Capital of India?", options: ["Mumbai","Delhi","Chennai","Kolkata"], a: 1 }
+  {
+    q: "2 + 2 = ?",
+    options: ["1", "2", "3", "4"],
+    a: 3
+  },
+  {
+    q: "Capital of India?",
+    options: ["Mumbai", "Delhi", "Chennai", "Kolkata"],
+    a: 1
+  }
 ];
 
 let index = 0;
 let score = 0;
 
+/* ---------------- LOGIN ---------------- */
+
 function login() {
-  const email = emailInput();
+  const email = document.getElementById("email").value;
   if (!email) return alert("Enter email");
 
   localStorage.setItem("user", email);
@@ -18,6 +29,7 @@ function login() {
       used: 0
     }));
   }
+
   showDashboard();
 }
 
@@ -26,12 +38,15 @@ function logout() {
   location.reload();
 }
 
+/* ---------------- DASHBOARD ---------------- */
+
 function showDashboard() {
   hide("login");
+  hide("quiz");
   show("dashboard");
 
   const email = localStorage.getItem("user");
-  welcome.innerText = "Welcome " + email;
+  document.getElementById("welcome").innerText = "Welcome " + email;
 
   let daily = JSON.parse(localStorage.getItem("daily"));
   if (daily.date !== today()) {
@@ -39,8 +54,11 @@ function showDashboard() {
     localStorage.setItem("daily", JSON.stringify(daily));
   }
 
-  limit.innerText = "Tests left today: " + (2 - daily.used);
+  document.getElementById("limit").innerText =
+    "Tests left today: " + (2 - daily.used);
 }
+
+/* ---------------- QUIZ ---------------- */
 
 function startQuiz() {
   const daily = JSON.parse(localStorage.getItem("daily"));
@@ -48,42 +66,64 @@ function startQuiz() {
 
   hide("dashboard");
   show("quiz");
+
   index = 0;
   score = 0;
   showQuestion();
 }
 
 function showQuestion() {
-  question.innerText = questions[index].q;
-  options.innerHTML = "";
+  const q = questions[index];
+  document.getElementById("question").innerText = q.q;
+  const optionsDiv = document.getElementById("options");
+  optionsDiv.innerHTML = "";
 
-  questions[index].options.forEach((opt, i) => {
-    const b = document.createElement("button");
-    b.innerText = opt;
-    b.onclick = () => {
-      if (i === questions[index].a) score++;
-      scoreBox();
+  q.options.forEach((opt, i) => {
+    const btn = document.createElement("button");
+    btn.innerText = opt;
+    btn.onclick = () => {
+      if (i === q.a) score++;
     };
-    options.appendChild(b);
+    optionsDiv.appendChild(btn);
   });
 }
 
 function next() {
   index++;
+
   if (index >= questions.length) {
     let daily = JSON.parse(localStorage.getItem("daily"));
     daily.used++;
     localStorage.setItem("daily", JSON.stringify(daily));
-    alert("Quiz finished. Score: " + score);
-    location.reload();
-  } else showQuestion();
+
+    alert(
+      "Quiz Finished!\n\nYour Score: " +
+      score + " / " + questions.length
+    );
+
+    showDashboard();
+  } else {
+    showQuestion();
+  }
 }
 
-/* helpers */
-function today(){ return new Date().toDateString(); }
-function hide(id){ document.getElementById(id).style.display="none"; }
-function show(id){ document.getElementById(id).style.display="block"; }
-function emailInput(){ return document.getElementById("email").value; }
-function scoreBox(){ document.getElementById("score").innerText="Score: "+score; }
+/* ---------------- HELPERS ---------------- */
 
-if (localStorage.getItem("user")) showDashboard();
+function today() {
+  return new Date().toDateString();
+}
+
+function hide(id) {
+  document.getElementById(id).style.display = "none";
+}
+
+function show(id) {
+  document.getElementById(id).style.display = "block";
+}
+
+/* ---------------- AUTO LOGIN ---------------- */
+
+if (localStorage.getItem("user")) {
+  showDashboard();
+}
+
