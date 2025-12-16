@@ -1,21 +1,12 @@
 /* ---------------- DATA ---------------- */
 const papers = {
-  math: Array.from({length:40},(_,i)=>({
-    q:`Math Question ${i+1}?`,
-    options:["A","B","C","D"],
-    a:Math.floor(Math.random()*4)
-  })),
-  gk: Array.from({length:40},(_,i)=>({
-    q:`GK Question ${i+1}?`,
-    options:["A","B","C","D"],
-    a:Math.floor(Math.random()*4)
-  })),
-  science: Array.from({length:40},(_,i)=>({
-    q:`Science Question ${i+1}?`,
-    options:["A","B","C","D"],
-    a:Math.floor(Math.random()*4)
+  reet: Array.from({ length: 40 }, (_, i) => ({
+    q: `REET Practice Question ${i + 1}`,
+    options: ["Option A", "Option B", "Option C", "Option D"],
+    a: Math.floor(Math.random() * 4)
   }))
 };
+
 
 let questions=[], answers=[], index=0, timer, timeLeft=2400;
 
