@@ -1,27 +1,148 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
-  font-family: Arial, sans-serif;
-  background: #f2f2f2;
+  margin: 0;
+  font-family: "Segoe UI", Roboto, Arial, sans-serif;
+  background: linear-gradient(135deg, #e8f0ff, #f9fbff);
+  color: #333;
 }
 
-.box {
-  max-width: 400px;
-  margin: 80px auto;
-  background: white;
+/* App Wrapper */
+.app {
+  max-width: 900px;
+  margin: auto;
   padding: 20px;
-  text-align: center;
-  border-radius: 8px;
 }
 
-input, button {
+/* Header */
+.header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Card */
+.card {
+  background: white;
+  border-radius: 16px;
+  padding: 25px;
+  box-shadow: 0 15px 40px rgba(0,0,0,0.08);
+  margin-bottom: 20px;
+}
+
+/* Inputs & Buttons */
+input {
   width: 100%;
-  padding: 10px;
-  margin-top: 10px;
+  padding: 12px;
+  margin: 12px 0;
+  border-radius: 8px;
+  border: 1px solid #ccc;
 }
 
 button {
-  background: #0a5cff;
-  color: white;
+  padding: 12px;
+  border-radius: 8px;
   border: none;
   cursor: pointer;
+  font-weight: 600;
+  margin-top: 10px;
 }
+
+.primary {
+  background: #0a5cff;
+  color: white;
+}
+
+.secondary {
+  background: #e0e7ff;
+  color: #0a5cff;
+}
+
+.danger {
+  background: #ff4d4f;
+  color: white;
+}
+
+/* Dashboard Stats */
+.stats {
+  display: flex;
+  gap: 20px;
+  margin: 15px 0;
+}
+
+.stat {
+  flex: 1;
+  background: #f4f6ff;
+  padding: 15px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.stat span {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+/* Info */
+.info {
+  margin: 10px 0;
+  color: #555;
+}
+
+.warning {
+  color: #d32f2f;
+  font-weight: bold;
+}
+
+/* Quiz */
+.counter {
+  color: #666;
+  margin-bottom: 5px;
+}
+
+.options button {
+  width: 100%;
+  margin: 8px 0;
+  background: #f1f3ff;
+  color: #333;
+}
+
+.options button:hover {
+  background: #dbe4ff;
+}
+
+/* Navigation */
+.nav {
+  display: flex;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+/* Progress Bar */
+.progress-bar {
+  background: #eee;
+  height: 8px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+#progressBar {
+  height: 8px;
+  width: 0%;
+  background: #0a5cff;
+  border-radius: 10px;
+}
+
+/* Result */
+.score {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.review {
+  border-bottom: 1px solid #ddd;
+  padding: 10px 0;
+}
+
 
