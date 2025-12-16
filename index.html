@@ -4,34 +4,28 @@
   <meta charset="UTF-8">
   <title>REET Test Series</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="manifest" href="manifest.json">
   <link rel="stylesheet" href="css/style.css">
 </head>
-
 <body>
+
 <div class="app">
 
-  <header class="header">
-    <h2>REET Test Series</h2>
-  </header>
+  <h2 class="center">REET Test Series</h2>
 
   <!-- LOGIN -->
   <div id="login" class="card">
-    <h3>Start Practice</h3>
-    <input id="email" placeholder="Enter Email ID">
-    <p class="note">Your data stays on this device.</p>
+    <input id="email" placeholder="Enter Email">
+    <p class="note">Data stays on this device</p>
     <button class="primary" onclick="login()">Continue</button>
   </div>
 
   <!-- DASHBOARD -->
   <div id="dashboard" class="card" style="display:none">
     <h3 id="welcome"></h3>
-
     <p id="limit"></p>
     <p id="rating"></p>
     <p id="progress"></p>
     <p id="breakMsg" class="warning"></p>
-
     <button class="primary" onclick="showInstructions()">Start Test</button>
     <button class="secondary" onclick="showHistory()">Test History</button>
     <button class="secondary" onclick="logout()">Logout</button>
@@ -39,17 +33,14 @@
 
   <!-- INSTRUCTIONS -->
   <div id="instructions" class="card" style="display:none">
-    <h3>REET Practice Test – Instructions</h3>
+    <h3>Instructions</h3>
     <ul>
-      <li>Total Questions: <b>40</b></li>
-      <li>Time: <b>40 Minutes</b></li>
-      <li>Correct: <b>+1</b></li>
-      <li>Wrong: <b>–⅓</b></li>
-      <li>No mark for skipped questions</li>
-      <li>You can skip & revisit questions</li>
-      <li>Auto-submit when time ends</li>
+      <li>40 Questions – 40 Minutes</li>
+      <li>+1 Correct, −⅓ Wrong</li>
+      <li>No negative for skipped</li>
+      <li>Skip & revisit allowed</li>
     </ul>
-    <button class="primary" onclick="startQuiz()">I Understand – Start Test</button>
+    <button class="primary" onclick="startQuiz()">Start Test</button>
     <button class="secondary" onclick="showDashboard()">Back</button>
   </div>
 
@@ -59,37 +50,29 @@
       <span id="qCounter"></span>
       <span id="time"></span>
     </div>
-
-    <div class="progress-bar">
-      <div id="progressBar"></div>
-    </div>
-
+    <div class="progress-bar"><div id="progressBar"></div></div>
     <h3 id="question"></h3>
     <div id="options"></div>
-
     <div class="nav">
       <button onclick="prevQ()">Previous</button>
       <button onclick="nextQ()">Next</button>
-      <button class="danger" onclick="finishQuiz()">Finish Test</button>
+      <button class="danger" onclick="finishQuiz()">Finish</button>
     </div>
   </div>
 
   <!-- RESULT -->
   <div id="result" class="card" style="display:none">
-    <h3>Result Summary</h3>
+    <h3>Result</h3>
     <p id="finalScore"></p>
     <p id="counts"></p>
     <p id="finalRating"></p>
-
-    <h4>Answer Review</h4>
     <div id="review"></div>
-
-    <button class="primary" onclick="showDashboard()">Back to Dashboard</button>
+    <button class="primary" onclick="showDashboard()">Back</button>
   </div>
 
   <!-- HISTORY -->
   <div id="history" class="card" style="display:none">
-    <h3>Test History (Last 1 Year)</h3>
+    <h3>Test History</h3>
     <div id="historyList"></div>
     <button class="secondary" onclick="showDashboard()">Back</button>
   </div>
@@ -97,10 +80,5 @@
 </div>
 
 <script src="js/app.js"></script>
-<script>
-if ("serviceWorker" in navigator) {
-  navigator.serviceWorker.register("service-worker.js");
-}
-</script>
 </body>
 </html>
