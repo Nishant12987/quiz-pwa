@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <title>Quiz App</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
 
   <link rel="manifest" href="manifest.json">
   <link rel="stylesheet" href="css/style.css">
@@ -11,13 +11,15 @@
 <body>
 
 <div class="box">
-  <h2 id="title">Quiz App</h2>
+  <h2>Quiz App</h2>
 
+  <!-- LOGIN -->
   <div id="login">
     <input id="email" placeholder="Enter email">
     <button onclick="login()">Start</button>
   </div>
 
+  <!-- DASHBOARD -->
   <div id="dashboard" style="display:none">
     <p id="welcome"></p>
     <p id="limit"></p>
@@ -25,10 +27,10 @@
     <button onclick="logout()">Logout</button>
   </div>
 
+  <!-- QUIZ -->
   <div id="quiz" style="display:none">
     <h3 id="question"></h3>
     <div id="options"></div>
-    <p id="score"></p>
     <button onclick="next()">Next</button>
   </div>
 </div>
@@ -43,3 +45,4 @@
 
 </body>
 </html>
+
