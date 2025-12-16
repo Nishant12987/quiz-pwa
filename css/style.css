@@ -1,20 +1,7 @@
-:root {
-  --bg: #f4f6ff;
-  --card: #fff;
-  --text: #333;
-}
-
-body.dark {
-  --bg: #121212;
-  --card: #1e1e1e;
-  --text: #f5f5f5;
-}
-
 body {
   margin: 0;
-  background: var(--bg);
   font-family: Arial, sans-serif;
-  color: var(--text);
+  background: #f2f5ff;
 }
 
 .app {
@@ -24,19 +11,19 @@ body {
 }
 
 .header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+  text-align: center;
+  margin-bottom: 20px;
 }
 
 .card {
-  background: var(--card);
+  background: white;
   padding: 20px;
   border-radius: 12px;
-  margin-top: 15px;
+  margin-bottom: 20px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.08);
 }
 
-button, input, select {
+input, button {
   width: 100%;
   padding: 10px;
   margin-top: 10px;
@@ -49,38 +36,62 @@ button, input, select {
 }
 
 .secondary {
-  background: #ddd;
+  background: #e0e7ff;
+  border: none;
 }
 
 .danger {
   background: #ff4d4f;
   color: white;
-}
-
-.ad {
-  background: #ccc;
-  text-align: center;
-  padding: 10px;
-  margin: 10px 0;
-}
-
-.timer {
-  font-weight: bold;
-  text-align: right;
-}
-
-.progress-bar {
-  background: #ddd;
-  height: 8px;
-  border-radius: 10px;
-}
-
-#progressBar {
-  background: #0a5cff;
-  height: 8px;
-  width: 0%;
+  border: none;
 }
 
 .warning {
   color: red;
+  font-weight: bold;
 }
+
+.note {
+  font-size: 12px;
+  color: #666;
+}
+
+.topbar {
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+}
+
+.progress-bar {
+  height: 8px;
+  background: #ddd;
+  border-radius: 8px;
+  margin: 10px 0;
+}
+
+#progressBar {
+  height: 8px;
+  background: #0a5cff;
+  width: 0%;
+  border-radius: 8px;
+}
+
+#options button {
+  background: #f1f3ff;
+}
+
+.correct {
+  background: #4caf50 !important;
+  color: white;
+}
+
+.wrong {
+  background: #f44336 !important;
+  color: white;
+}
+
+.review-item {
+  border-bottom: 1px solid #ddd;
+  padding: 10px 0;
+}
+
