@@ -1,157 +1,144 @@
-/* ---------------- QUESTIONS (40 SAMPLE) ---------------- */
-const questions = Array.from({ length: 40 }, (_, i) => ({
-  q: `Sample Question ${i + 1}?`,
-  options: ["Option A", "Option B", "Option C", "Option D"],
-  a: Math.floor(Math.random() * 4)
-}));
+/* ---------------- DATA ---------------- */
+const papers = {
+  math: Array.from({length:40},(_,i)=>({
+    q:`Math Question ${i+1}?`,
+    options:["A","B","C","D"],
+    a:Math.floor(Math.random()*4)
+  })),
+  gk: Array.from({length:40},(_,i)=>({
+    q:`GK Question ${i+1}?`,
+    options:["A","B","C","D"],
+    a:Math.floor(Math.random()*4)
+  })),
+  science: Array.from({length:40},(_,i)=>({
+    q:`Science Question ${i+1}?`,
+    options:["A","B","C","D"],
+    a:Math.floor(Math.random()*4)
+  }))
+};
 
-let index = 0;
-let answers = Array(40).fill(null);
+let questions=[], answers=[], index=0, timer, timeLeft=2400;
 
 /* ---------------- LOGIN ---------------- */
-function login() {
-  const email = document.getElementById("email").value;
-  if (!email) return alert("Enter email");
-
-  localStorage.setItem("user", email);
-
-  if (!localStorage.getItem("daily")) {
-    localStorage.setItem("daily", JSON.stringify({
-      date: today(),
-      used: 0,
-      scores: []
-    }));
-  }
-
+function login(){
+  const e=email.value;
+  if(!e) return alert("Enter email");
+  localStorage.setItem("user",e);
+  if(!localStorage.getItem("daily"))
+    localStorage.setItem("daily",JSON.stringify({date:today(),used:0,scores:[]}));
   showDashboard();
 }
 
-function logout() {
-  localStorage.clear();
-  location.reload();
-}
+function logout(){localStorage.clear();location.reload();}
 
 /* ---------------- DASHBOARD ---------------- */
-function showDashboard() {
-  hideAll();
-  show("dashboard");
+function showDashboard(){
+  hideAll();dashboard.style.display="block";
+  welcome.innerText="Hello "+localStorage.getItem("user");
 
-  welcome.innerText = "Hello, " + localStorage.getItem("user");
-
-  let daily = JSON.parse(localStorage.getItem("daily"));
-  if (daily.date !== today()) {
-    localStorage.setItem("lastDayScore", avg(daily.scores));
-    daily = { date: today(), used: 0, scores: [] };
-    localStorage.setItem("daily", JSON.stringify(daily));
+  let d=JSON.parse(localStorage.getItem("daily"));
+  if(d.date!==today()){
+    localStorage.setItem("lastDayScore",avg(d.scores));
+    d={date:today(),used:0,scores:[]};
+    localStorage.setItem("daily",JSON.stringify(d));
   }
 
-  limit.innerText = 2 - daily.used;
+  const premium=localStorage.getItem("premium")==="true";
+  adBox.style.display=premium?"none":"block";
+  limit.innerText=premium?"Unlimited Tests":"Tests left: "+(2-d.used);
 
-  const yesterday = localStorage.getItem("lastDayScore") || 0;
-  const todayAvg = avg(daily.scores);
-  const improvement = yesterday ? (((todayAvg - yesterday) / yesterday) * 100).toFixed(1) : 0;
-
-  progress.innerText =
-    `Yesterday: ${yesterday}% | Today: ${todayAvg}% | Improvement: ${improvement}%`;
-
-  rating.innerText = getRating(todayAvg);
-
-  breakMsg.innerText =
-    daily.used === 1 ? "⏳ Take a 2–3 hour break before the next test." : "";
+  const y=localStorage.getItem("lastDayScore")||0;
+  const t=avg(d.scores);
+  progress.innerText=`Yesterday ${y}% | Today ${t}%`;
+  rating.innerText=getRating(t);
+  breakMsg.innerText=d.used===1?"Take 2–3 hour break":"";
 }
 
 /* ---------------- QUIZ ---------------- */
-function startQuiz() {
-  let daily = JSON.parse(localStorage.getItem("daily"));
-  if (daily.used >= 2) return alert("Daily limit reached");
+function startQuiz(){
+  let d=JSON.parse(localStorage.getItem("daily"));
+  if(localStorage.getItem("premium")!=="true" && d.used>=2)
+    return alert("Daily limit reached");
 
-  hideAll();
-  show("quiz");
-
-  index = 0;
-  answers.fill(null);
-  renderQuestion();
+  questions=papers[topic.value];
+  answers=Array(40).fill(null);
+  index=0;timeLeft=2400;
+  hideAll();quiz.style.display="block";
+  startTimer();render();
 }
 
-function renderQuestion() {
-  qCounter.innerText = `Question ${index + 1} of 40`;
-  question.innerText = questions[index].q;
-  options.innerHTML = "";
+function render(){
+  qCounter.innerText=`Q ${index+1}/40`;
+  question.innerText=questions[index].q;
+  options.innerHTML="";
+  progressBar.style.width=((index+1)/40*100)+"%";
 
-  progressBar.style.width = `${((index + 1) / 40) * 100}%`;
-
-  questions[index].options.forEach((opt, i) => {
-    const b = document.createElement("button");
-    b.innerText = opt;
-    if (answers[index] === i) b.style.background = "#0a5cff", b.style.color = "white";
-    b.onclick = () => {
-      answers[index] = i;
-      renderQuestion();
-    };
+  questions[index].options.forEach((o,i)=>{
+    const b=document.createElement("button");
+    b.innerText=o;
+    if(answers[index]===i) b.style.background="#0a5cff",b.style.color="white";
+    b.onclick=()=>{answers[index]=i;render();}
     options.appendChild(b);
   });
 }
 
-function nextQ() {
-  if (index < 39) index++;
-  renderQuestion();
+function nextQ(){if(index<39){index++;render();}}
+function prevQ(){if(index>0){index--;render();}}
+
+function finishQuiz(){
+  clearInterval(timer);
+  let score=0;
+  answers.forEach((a,i)=>{if(a===questions[i].a)score++;});
+  const pct=Math.round(score/40*100);
+
+  let d=JSON.parse(localStorage.getItem("daily"));
+  d.used++;d.scores.push(pct);
+  localStorage.setItem("daily",JSON.stringify(d));
+  showResult(score,pct);
 }
 
-function prevQ() {
-  if (index > 0) index--;
-  renderQuestion();
+/* ---------------- TIMER ---------------- */
+function startTimer(){
+  updateTime();
+  timer=setInterval(()=>{
+    timeLeft--;
+    updateTime();
+    if(timeLeft<=0){finishQuiz();}
+  },1000);
 }
 
-function finishQuiz() {
-  let score = 0;
-  answers.forEach((a, i) => {
-    if (a === questions[i].a) score++;
-  });
-
-  const percent = Math.round((score / 40) * 100);
-
-  let daily = JSON.parse(localStorage.getItem("daily"));
-  daily.used++;
-  daily.scores.push(percent);
-  localStorage.setItem("daily", JSON.stringify(daily));
-
-  showResult(score, percent);
+function updateTime(){
+  time.innerText=
+    Math.floor(timeLeft/60)+":"+(timeLeft%60).toString().padStart(2,"0");
 }
 
 /* ---------------- RESULT ---------------- */
-function showResult(score, percent) {
-  hideAll();
-  show("result");
-
-  finalScore.innerText = `Score: ${score}/40 (${percent}%)`;
-
-  review.innerHTML = "";
-  questions.forEach((q, i) => {
-    review.innerHTML += `
-      <div class="review">
-        <b>Q${i + 1}:</b> ${q.q}<br>
-        Your Answer: ${q.options[answers[i]] ?? "Skipped"}<br>
-        Correct Answer: ${q.options[q.a]}
-      </div>
-    `;
+function showResult(score,pct){
+  hideAll();result.style.display="block";
+  finalScore.innerText=`Score: ${score}/40 (${pct}%)`;
+  review.innerHTML="";
+  questions.forEach((q,i)=>{
+    review.innerHTML+=`
+    <div>
+      <b>Q${i+1}</b> ${q.q}<br>
+      Your: ${q.options[answers[i]]||"Skipped"}<br>
+      Correct: ${q.options[q.a]}
+    </div><hr>`;
   });
 }
 
-/* ---------------- HELPERS ---------------- */
-function hideAll() {
-  ["login","dashboard","quiz","result"].forEach(hide);
+/* ---------------- UTIL ---------------- */
+function toggleDark(){
+  document.body.classList.toggle("dark");
+  localStorage.setItem("dark",document.body.classList.contains("dark"));
 }
-function hide(id){ document.getElementById(id).style.display="none"; }
-function show(id){ document.getElementById(id).style.display="block"; }
-function today(){ return new Date().toDateString(); }
-function avg(arr){ return arr.length ? Math.round(arr.reduce((a,b)=>a+b,0)/arr.length) : 0; }
-function getRating(p){
-  if(p>=80) return "Excellent";
-  if(p>=60) return "Good";
-  if(p>=40) return "Improving";
-  return "Beginner";
-}
+function togglePremium(){localStorage.setItem("premium",premiumToggle.checked);}
+function hideAll(){["login","dashboard","quiz","result"].forEach(id=>document.getElementById(id).style.display="none");}
+function today(){return new Date().toDateString();}
+function avg(a){return a.length?Math.round(a.reduce((x,y)=>x+y,0)/a.length):0;}
+function getRating(p){return p>=80?"Excellent":p>=60?"Good":p>=40?"Improving":"Beginner";}
 
-if (localStorage.getItem("user")) showDashboard();
-
-
+/* ---------------- INIT ---------------- */
+if(localStorage.getItem("dark")==="true") document.body.classList.add("dark");
+if(localStorage.getItem("premium")==="true") premiumToggle.checked=true;
+if(localStorage.getItem("user")) showDashboard();
