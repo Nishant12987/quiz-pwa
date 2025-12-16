@@ -21,6 +21,11 @@ function login(){
 }
 
 function logout(){localStorage.clear();location.reload();}
+function showInstructions() {
+  hideAll();
+  document.getElementById("instructions").style.display = "block";
+}
+
 
 /* ---------------- DASHBOARD ---------------- */
 function showDashboard(){
