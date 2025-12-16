@@ -1,21 +1,15 @@
-self.addEventListener("install", event => {
-  event.waitUntil(
-    caches.open("quiz-pwa").then(cache =>
-      cache.addAll([
-        "./",
-        "./index.html",
-        "./css/style.css",
-        "./js/app.js"
-      ])
+self.addEventListener("install", e => {
+  e.waitUntil(
+    caches.open("quiz-pwa").then(c =>
+      c.addAll(["./","./index.html","./css/style.css","./js/app.js"])
     )
   );
 });
 
-self.addEventListener("fetch", event => {
-  event.respondWith(
-    caches.match(event.request).then(
-      response => response || fetch(event.request)
-    )
+self.addEventListener("fetch", e => {
+  e.respondWith(
+    caches.match(e.request).then(r => r || fetch(e.request))
   );
 });
+
 
