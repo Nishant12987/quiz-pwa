@@ -2,201 +2,241 @@
   {
     "q": "What is the main characteristic of the 'Concrete Operational' stage?",
     "options": ["Abstract reasoning", "Logical thinking about physical objects", "Symbolic play", "Egocentric thought"],
-    "a": 1
+    "a": 1,
+    "explanation": "During this Piagetian stage (7-11 years), children begin thinking logically about concrete events but struggle with abstract concepts."
   },
   {
-    "q": "In 'Trial and Error' theory, which factor is essential for learning according to Thorndike?",
+    "q": "In Thorndike's theory, which factor initiates learning?",
     "options": ["Imitation", "Insight", "Motivation/Drive", "Social pressure"],
-    "a": 2
+    "a": 2,
+    "explanation": "Trial and error learning begins when there is a motive or 'drive' to achieve a goal or satisfy a need."
   },
   {
-    "q": "A teacher asks students to 'list all possible uses of a brick'. This is testing:",
-    "options": ["Convergent thinking", "Divergent thinking", "Memory", "Discipline"],
-    "a": 1
+    "q": "Listing 'all possible uses of a brick' tests which thinking?",
+    "options": ["Convergent", "Divergent", "Memory", "Discipline"],
+    "a": 1,
+    "explanation": "Divergent thinking is the ability to generate multiple creative solutions to a single problem."
   },
   {
-    "q": "The process of adjusting existing schemas to fit new information is called:",
+    "q": "Adjusting existing schemas for new info is:",
     "options": ["Assimilation", "Accommodation", "Equilibration", "Organization"],
-    "a": 1
+    "a": 1,
+    "explanation": "Accommodation happens when a person changes their internal mental structures to incorporate new information."
   },
   {
-    "q": "Which assessment is used to certify students at the end of a term?",
+    "q": "Assessment used to certify students at term end is:",
     "options": ["Formative", "Summative", "Diagnostic", "Placement"],
-    "a": 1
+    "a": 1,
+    "explanation": "Summative assessment evaluates student learning at the end of an instructional unit by comparing it against a standard."
   },
   {
-    "q": "According to Maslow's hierarchy, which is the highest level of need?",
-    "options": ["Safety needs", "Esteem needs", "Social needs", "Self-actualization"],
-    "a": 3
+    "q": "Highest level of need in Maslow's hierarchy:",
+    "options": ["Safety", "Esteem", "Social", "Self-actualization"],
+    "a": 3,
+    "explanation": "Self-actualization is the peak of the pyramid, representing the fulfillment of one's full potential."
   },
   {
-    "q": "What does 'ZPD' stand for in Vygotsky's theory?",
+    "q": "What is 'ZPD'?",
     "options": ["Zone of Personal Development", "Zone of Proximal Development", "Zero Proximity Distance", "Zone of Progressive Development"],
-    "a": 1
+    "a": 1,
+    "explanation": "ZPD is the difference between what a learner can do without help and what he or she can do with help."
   },
   {
-    "q": "A child who has difficulty with mathematical calculations likely has:",
+    "q": "Mathematical calculation difficulty is:",
     "options": ["Dyslexia", "Dysgraphia", "Dyscalculia", "Dysphasia"],
-    "a": 2
+    "a": 2,
+    "explanation": "Dyscalculia is a brain-based condition that makes it hard to learn number-related concepts and perform calculations."
   },
   {
-    "q": "The 'Micro-teaching' technique is primarily used for:",
-    "options": ["Teaching small children", "Developing teaching skills", "Reducing class time", "Testing intelligence"],
-    "a": 1
+    "q": "Micro-teaching is used for:",
+    "options": ["Teaching children", "Developing teaching skills", "Reducing time", "Intelligence tests"],
+    "a": 1,
+    "explanation": "Micro-teaching is a teacher training technique for learning teaching skills under controlled conditions."
   },
   {
-    "q": "A person's height and weight are primarily determined by:",
-    "options": ["Environment", "Heredity", "Diet only", "Exercise only"],
-    "a": 1
+    "q": "Height and weight are determined by:",
+    "options": ["Environment", "Heredity", "Diet", "Exercise"],
+    "a": 1,
+    "explanation": "Physical characteristics like height are primarily passed down through genetics (Heredity)."
   },
   {
-    "q": "Which of the following is a 'Child-centered' education characteristic?",
-    "options": ["Focus on textbook", "Teacher is the center", "Respect for child's experiences", "Strict discipline"],
-    "a": 2
+    "q": "Characteristic of Child-centered education:",
+    "options": ["Textbook focus", "Teacher center", "Respect for child's experience", "Strict discipline"],
+    "a": 2,
+    "explanation": "Child-centered pedagogy gives primacy to children's experiences, voices, and active participation."
   },
   {
-    "q": "'पवन' का सही संधि-विच्छेद है:",
-    "options": ["प + वन", "पा + वन", "पो + अन", "पौ + अन"],
-    "a": 2
+    "q": "Correct sandhi-viched of 'Pavan':",
+    "options": ["Pa + Van", "Paa + Van", "Po + An", "Pau + An"],
+    "a": 2,
+    "explanation": "Po + An = Pavan. This is an example of Ayadi sandhi."
   },
   {
-    "q": "'लम्बोदर' में कौन सा समास है?",
-    "options": ["कर्मधारय", "बहुव्रीहि", "द्वंद्व", "तत्पुरुष"],
-    "a": 1
+    "q": "Samas in 'Lambodar':",
+    "options": ["Karmadharay", "Bahuvrihi", "Dvandva", "Tatpurush"],
+    "a": 1,
+    "explanation": "Lambodar (Large belly) refers to Lord Ganesha. When the compound refers to a third meaning, it is Bahuvrihi."
   },
   {
-    "q": "'प्राचीन' शब्द का विलोम है:",
-    "options": ["पुराना", "नवीन", "अर्वाचीन", "आधुनिक"],
-    "a": 2
+    "q": "Antonym of 'Pracheen':",
+    "options": ["Purana", "Naveen", "Arvacheen", "Adhunik"],
+    "a": 2,
+    "explanation": "'Arvacheen' is the most accurate antonym for 'Pracheen' (Ancient) in formal Hindi."
   },
   {
-    "q": "'आँखें दिखाना' मुहावरे का अर्थ है:",
-    "options": ["स्वागत करना", "गुस्सा करना", "निरीक्षण करना", "सावधान करना"],
-    "a": 1
+    "q": "Hindi idiom 'Aankhen dikhana' means:",
+    "options": ["Welcome", "To be angry", "Inspect", "Warn"],
+    "a": 1,
+    "explanation": "This idiom describes the act of looking at someone with anger or threat."
   },
   {
-    "q": "'लेखक' शब्द में कौन सा प्रत्यय है?",
-    "options": ["क", "इक", "अक", "आक"],
-    "a": 2
+    "q": "Suffix in 'Lekhak':",
+    "options": ["Ka", "Ik", "Ak", "Aak"],
+    "a": 2,
+    "explanation": "Likh (root) + Ak (suffix) = Lekhak."
   },
   {
-    "q": "हिंदी भाषा में कुल कितने 'स्वर' हैं?",
+    "q": "Total 'Swar' (Vowels) in Hindi:",
     "options": ["10", "11", "13", "15"],
-    "a": 1
+    "a": 1,
+    "explanation": "Standard Hindi grammar recognizes 11 vowels (A to Au)."
   },
   {
-    "q": "कविता शिक्षण का मुख्य उद्देश्य है:",
-    "options": ["शब्दार्थ बोध", "रसानुभूति एवं आनंद", "व्याकरण ज्ञान", "लेखन सुधार"],
-    "a": 1
+    "q": "Main objective of Poetry teaching:",
+    "options": ["Vocabulary", "Emotional experience and joy", "Grammar", "Writing improvement"],
+    "a": 1,
+    "explanation": "Poetry is taught primarily for the appreciation of beauty, rhythm, and emotional resonance."
   },
   {
-    "q": "Identify the 'Adverb' in: 'He ran very quickly.'",
+    "q": "Adverb in: 'He ran very quickly.'",
     "options": ["He", "Ran", "Very", "Quickly"],
-    "a": 3
+    "a": 3,
+    "explanation": "'Quickly' describes the manner of the verb 'ran'."
   },
   {
-    "q": "Select the correct plural of 'Mouse'.",
+    "q": "Plural of 'Mouse':",
     "options": ["Mouses", "Mice", "Mice's", "Mices"],
-    "a": 1
+    "a": 1,
+    "explanation": "Mouse has an irregular plural form: Mice."
   },
   {
-    "q": "Choose the word with the correct prefix for 'Fortune'.",
+    "q": "Correct prefix for 'Fortune' (bad luck):",
     "options": ["Unfortune", "Infortune", "Misfortune", "Disfortune"],
-    "a": 2
+    "a": 2,
+    "explanation": "The prefix 'Mis-' added to fortune creates the antonym Misfortune."
   },
   {
-    "q": "Which part of speech is 'Alas!'?",
+    "q": "'Alas!' is which part of speech?",
     "options": ["Conjunction", "Preposition", "Interjection", "Adverb"],
-    "a": 2
+    "a": 2,
+    "explanation": "Interjections express sudden emotions or exclamations."
   },
   {
-    "q": "The primary objective of 'Remedial Teaching' is:",
-    "options": ["To teach new topics", "To fill learning gaps", "To punish slow learners", "To prepare for exams only"],
-    "a": 1
+    "q": "Primary objective of Remedial Teaching:",
+    "options": ["Teach new topics", "Fill learning gaps", "Punish", "Prepare for exams"],
+    "a": 1,
+    "explanation": "Remedial teaching is intended to fix specific learning weaknesses found during diagnostic evaluation."
   },
   {
-    "q": "Choose the correct sentence in 'Present Perfect Tense':",
-    "options": ["He finished the work.", "He has finished the work.", "He had finished the work.", "He is finishing the work."],
-    "a": 1
+    "q": "Present Perfect Tense sentence:",
+    "options": ["He finished", "He has finished", "He had finished", "He is finishing"],
+    "a": 1,
+    "explanation": "Has/Have + V3 is the hallmark of the Present Perfect tense."
   },
   {
-    "q": "What is the feminine gender of 'Bachelor'?",
+    "q": "Feminine of 'Bachelor':",
     "options": ["Spinster", "Widow", "Nun", "Baroness"],
-    "a": 0
+    "a": 0,
+    "explanation": "Spinster is the term for an unmarried woman, corresponding to a bachelor."
   },
   {
-    "q": "The value of x for which the expressions 5x + 3 and 3x - 1 become equal is:",
+    "q": "If 5x + 3 = 3x - 1, then x is:",
     "options": ["-2", "2", "1", "-1"],
-    "a": 0
+    "a": 0,
+    "explanation": "2x = -4 -> x = -2."
   },
   {
-    "q": "A cylindrical tank has a radius of 7 m and a height of 10 m. Its curved surface area is:",
+    "q": "Curved surface area of cylinder (r=7m, h=10m):",
     "options": ["440 sq m", "220 sq m", "154 sq m", "308 sq m"],
-    "a": 0
+    "a": 0,
+    "explanation": "CSA = 2πrh = 2 * (22/7) * 7 * 10 = 440."
   },
   {
-    "q": "Which of the following is a rational number?",
-    "options": ["pi", "Square root of 2", "Square root of 9", "Square root of 7"],
-    "a": 2
+    "q": "Which is a rational number?",
+    "options": ["pi", "√2", "√9", "√7"],
+    "a": 2,
+    "explanation": "√9 = 3, which is a whole number/rational. Others are irrational."
   },
   {
-    "q": "If 15% of a number is 45, then the number is:",
+    "q": "If 15% of a number is 45, the number is:",
     "options": ["300", "200", "400", "150"],
-    "a": 0
+    "a": 0,
+    "explanation": "x * 15/100 = 45 -> x = 4500/15 = 300."
   },
   {
-    "q": "The additive inverse of -7/12 is:",
+    "q": "Additive inverse of -7/12:",
     "options": ["12/7", "-12/7", "7/12", "1"],
-    "a": 2
+    "a": 2,
+    "explanation": "Additive inverse is the number that, when added to n, results in zero. -7/12 + 7/12 = 0."
   },
   {
-    "q": "If the sum of two supplementary angles is 180 degrees and their difference is 40 degrees, the angles are:",
+    "q": "Sum of supplementary angles is 180° and difference is 40°. Angles are:",
     "options": ["110 and 70", "100 and 80", "120 and 60", "90 and 90"],
-    "a": 0
+    "a": 0,
+    "explanation": "x+y=180, x-y=40. Adding gives 2x=220 -> x=110, y=70."
   },
   {
-    "q": "The value of 10^3 multiplied by 10^-5 is:",
+    "q": "Value of 10³ x 10⁻⁵:",
     "options": ["100", "0.01", "0.001", "10"],
-    "a": 1
+    "a": 1,
+    "explanation": "10^(3-5) = 10⁻² = 1/100 = 0.01."
   },
   {
-    "q": "In a right-angled triangle, if the two smaller sides are 3 cm and 4 cm, the hypotenuse is:",
+    "q": "Hypotenuse if sides are 3cm and 4cm:",
     "options": ["5 cm", "7 cm", "6 cm", "8 cm"],
-    "a": 0
+    "a": 0,
+    "explanation": "√(3² + 4²) = √25 = 5."
   },
   {
-    "q": "Which of the following mirrors is used by dentists to see a larger image of teeth?",
-    "options": ["Plane mirror", "Convex mirror", "Concave mirror", "Cylindrical mirror"],
-    "a": 2
+    "q": "Mirror used by dentists:",
+    "options": ["Plane", "Convex", "Concave", "Cylindrical"],
+    "a": 2,
+    "explanation": "Concave mirrors produce enlarged images when held close, helping dentists see details."
   },
   {
-    "q": "The process of iron rusting requires the presence of:",
-    "options": ["Only oxygen", "Only water", "Both oxygen and water", "Nitrogen"],
-    "a": 2
+    "q": "Rusting requires:",
+    "options": ["Oxygen only", "Water only", "Both oxygen and water", "Nitrogen"],
+    "a": 2,
+    "explanation": "Iron rusts through an oxidation reaction with both moisture and oxygen."
   },
   {
-    "q": "The human heart has how many chambers?",
+    "q": "Human heart chambers:",
     "options": ["Two", "Three", "Four", "One"],
-    "a": 2
+    "a": 2,
+    "explanation": "The human heart has 4 chambers: two atria and two ventricles."
   },
   {
-    "q": "Which of the following is a physical change?",
-    "options": ["Burning of paper", "Souring of milk", "Melting of wax", "Digestion of food"],
-    "a": 2
+    "q": "Physical change example:",
+    "options": ["Burning paper", "Souring milk", "Melting wax", "Digestion"],
+    "a": 2,
+    "explanation": "Melting is a change of state; no new chemical substance is formed."
   },
   {
-    "q": "The part of the eye which controls the amount of light entering is:",
+    "q": "Part of eye controlling light amount:",
     "options": ["Retina", "Iris", "Cornea", "Lens"],
-    "a": 1
+    "a": 1,
+    "explanation": "The iris adjusts the pupil size to regulate the amount of light entering the eye."
   },
   {
-    "q": "Which of the following is a greenhouse gas?",
+    "q": "Greenhouse gas:",
     "options": ["Oxygen", "Nitrogen", "Methane", "Argon"],
-    "a": 2
+    "a": 2,
+    "explanation": "Methane (CH4) is a potent greenhouse gas that traps heat in the atmosphere."
   },
   {
-    "q": "The SI unit of force is:",
+    "q": "SI unit of force:",
     "options": ["Watt", "Pascal", "Newton", "Joule"],
-    "a": 2
+    "a": 2,
+    "explanation": "The Newton (N) is the SI unit of force."
   }
 ]
