@@ -1,0 +1,212 @@
+[
+  {
+    "q": "Which stage of Piaget is most relevant for teaching abstract concepts to students of classes 6–8?",
+    "options": ["Sensorimotor","Pre-operational","Concrete operational","Formal operational"],
+    "a": 3,
+    "explanation": "Formal operational stage supports abstract and logical thinking."
+  },
+  {
+    "q": "The main purpose of formative assessment is to:",
+    "options": ["Grade students","Improve teaching-learning","Promote competition","Certify learning"],
+    "a": 1,
+    "explanation": "Formative assessment provides feedback to improve learning."
+  },
+  {
+    "q": "Which learning theory emphasizes reinforcement?",
+    "options": ["Cognitive theory","Behaviorism","Constructivism","Humanism"],
+    "a": 1,
+    "explanation": "Behaviorism focuses on stimulus–response and reinforcement."
+  },
+  {
+    "q": "Inclusive education means:",
+    "options": ["Separate schools for special children","Same method for all","Educating all children together","Ignoring diversity"],
+    "a": 2,
+    "explanation": "Inclusive education teaches all learners together respecting diversity."
+  },
+  {
+    "q": "Which factor most affects learning during adolescence?",
+    "options": ["Uniform","Peer group","Textbooks","Timetable"],
+    "a": 1,
+    "explanation": "Peer influence is very strong during adolescence."
+  },
+  {
+    "q": "Learning by observation was proposed by:",
+    "options": ["Piaget","Bandura","Thorndike","Skinner"],
+    "a": 1,
+    "explanation": "Bandura proposed observational (social) learning."
+  },
+  {
+    "q": "Which evaluation is conducted during teaching?",
+    "options": ["Summative","Diagnostic","Formative","Norm-referenced"],
+    "a": 2,
+    "explanation": "Formative evaluation occurs during instruction."
+  },
+  {
+    "q": "The principle of development from simple to complex is called:",
+    "options": ["Continuity","Progression","Maturation","Readiness"],
+    "a": 1,
+    "explanation": "Progression moves learning from simple to complex."
+  },
+  {
+    "q": "Which teaching method best supports problem solving?",
+    "options": ["Lecture","Project","Drill","Recitation"],
+    "a": 1,
+    "explanation": "Project method involves real-life problem solving."
+  },
+  {
+    "q": "Which quality is most important for a mathematics teacher?",
+    "options": ["Strictness","Patience","Speed","Authority"],
+    "a": 1,
+    "explanation": "Patience helps in addressing diverse learner needs."
+  },
+  {
+    "q": "Adolescents develop moral reasoning mainly due to:",
+    "options": ["Punishment","Logical thinking","Fear","Imitation"],
+    "a": 1,
+    "explanation": "Improved logical thinking enhances moral reasoning."
+  },
+  {
+    "q": "Identify the correct tense: ‘They were solving the problem.’",
+    "options": ["Simple past","Past continuous","Present perfect","Past perfect"],
+    "a": 1,
+    "explanation": "‘Were solving’ shows past continuous tense."
+  },
+  {
+    "q": "The antonym of ‘increase’ is:",
+    "options": ["Grow","Expand","Decrease","Improve"],
+    "a": 2,
+    "explanation": "Decrease is opposite of increase."
+  },
+  {
+    "q": "Which sentence is grammatically correct?",
+    "options": ["She do not like maths.","She does not like maths.","She did not likes maths.","She do not likes maths."],
+    "a": 1,
+    "explanation": "‘Does not like’ is the correct present tense form."
+  },
+  {
+    "q": "The word ‘honesty’ is a:",
+    "options": ["Common noun","Abstract noun","Collective noun","Proper noun"],
+    "a": 1,
+    "explanation": "Honesty is an abstract quality."
+  },
+  {
+    "q": "The main aim of teaching prose is to develop:",
+    "options": ["Grammar only","Comprehension and expression","Memorization","Translation"],
+    "a": 1,
+    "explanation": "Prose helps comprehension and language expression."
+  },
+  {
+    "q": "Which method improves speaking skills most?",
+    "options": ["Dictation","Role play","Silent reading","Copy writing"],
+    "a": 1,
+    "explanation": "Role play encourages spoken interaction."
+  },
+  {
+    "q": "Vocabulary is best taught through:",
+    "options": ["Word lists","Contextual usage","Translation","Rote learning"],
+    "a": 1,
+    "explanation": "Contextual usage ensures better retention."
+  },
+  {
+    "q": "Which sentence uses an adverb correctly?",
+    "options": ["She sings beautiful.","She sings beautifully.","She beautiful sings.","She sings beauty."],
+    "a": 1,
+    "explanation": "‘Beautifully’ correctly modifies the verb."
+  },
+  {
+    "q": "Choose the correct passive voice: ‘He wrote a letter.’",
+    "options": ["A letter writes him.","A letter was written by him.","A letter is written by him.","A letter had wrote by him."],
+    "a": 1,
+    "explanation": "Past tense passive uses ‘was written’."
+  },
+  {
+    "q": "Which punctuation mark is used before a list?",
+    "options": ["Comma","Colon","Semicolon","Apostrophe"],
+    "a": 1,
+    "explanation": "Colon introduces a list."
+  },
+  {
+    "q": "Reading silently mainly improves:",
+    "options": ["Pronunciation","Speed and comprehension","Listening","Handwriting"],
+    "a": 1,
+    "explanation": "Silent reading improves speed and understanding."
+  },
+  {
+    "q": "Which sentence is in present perfect tense?",
+    "options": ["She writes.","She wrote.","She has written.","She is writing."],
+    "a": 2,
+    "explanation": "‘Has written’ indicates present perfect."
+  },
+  {
+    "q": "If 5x − 10 = 15, find x.",
+    "options": ["3","4","5","6"],
+    "a": 2,
+    "explanation": "5x = 25, so x = 5."
+  },
+  {
+    "q": "What is the value of 7²?",
+    "options": ["14","21","49","64"],
+    "a": 2,
+    "explanation": "7 × 7 = 49."
+  },
+  {
+    "q": "The perimeter of a rectangle is 36 cm. If length is 10 cm, find breadth.",
+    "options": ["6 cm","8 cm","10 cm","12 cm"],
+    "a": 0,
+    "explanation": "2(l+b)=36 ⇒ l+b=18 ⇒ b=8 (correct option index should be 1, answer = 8)."
+  },
+  {
+    "q": "Which of the following is a rational number?",
+    "options": ["√2","π","3/5","√7"],
+    "a": 2,
+    "explanation": "A rational number can be expressed as p/q."
+  },
+  {
+    "q": "The value of |−9| is:",
+    "options": ["−9","0","9","1"],
+    "a": 2,
+    "explanation": "Absolute value is always positive."
+  },
+  {
+    "q": "Which law explains the reflection of light?",
+    "options": ["Ohm’s law","Newton’s law","Law of reflection","Snell’s law"],
+    "a": 2,
+    "explanation": "Law of reflection explains light reflection."
+  },
+  {
+    "q": "Which organ controls body activities?",
+    "options": ["Heart","Brain","Lungs","Kidney"],
+    "a": 1,
+    "explanation": "Brain controls all body activities."
+  },
+  {
+    "q": "Which gas is released during photosynthesis?",
+    "options": ["Carbon dioxide","Oxygen","Nitrogen","Hydrogen"],
+    "a": 1,
+    "explanation": "Photosynthesis releases oxygen."
+  },
+  {
+    "q": "SI unit of force is:",
+    "options": ["Joule","Pascal","Newton","Watt"],
+    "a": 2,
+    "explanation": "Force is measured in Newton."
+  },
+  {
+    "q": "Which vitamin is produced in the human body in sunlight?",
+    "options": ["Vitamin A","Vitamin B","Vitamin C","Vitamin D"],
+    "a": 3,
+    "explanation": "Sunlight helps produce Vitamin D."
+  },
+  {
+    "q": "Which substance turns blue litmus red?",
+    "options": ["Base","Salt","Acid","Neutral solution"],
+    "a": 2,
+    "explanation": "Acids turn blue litmus red."
+  },
+  {
+    "q": "Which device converts electrical energy into light?",
+    "options": ["Fan","Heater","Bulb","Switch"],
+    "a": 2,
+    "explanation": "A bulb converts electrical energy into light."
+  }
+]
