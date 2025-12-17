@@ -1,236 +1,242 @@
 [
   {
-    "q": "According to Kohlberg, moral development in primary children is mainly influenced by:",
-    "options": ["Abstract reasoning","Fear of punishment","Social contracts","Universal ethics"],
-    "a": 1,
-    "explanation": "At early stages, children judge actions based on consequences like reward or punishment."
-  },
-  {
-    "q": "Which teaching strategy best supports constructivist learning in classrooms?",
-    "options": ["Lecture-based teaching","Drill and practice","Group activities","Textbook reading"],
-    "a": 2,
-    "explanation": "Constructivism emphasizes learning through interaction and shared experiences."
-  },
-  {
-    "q": "A child learns best when new knowledge is linked to:",
-    "options": ["Examinations","Previous experiences","Strict rules","Rewards"],
-    "a": 1,
-    "explanation": "Learning becomes meaningful when connected with prior knowledge."
-  },
-  {
-    "q": "Which of the following reflects emotional development in children?",
-    "options": ["Solving sums quickly","Showing empathy","Reading fluently","Good handwriting"],
-    "a": 1,
-    "explanation": "Empathy shows understanding and managing emotions."
-  },
-  {
-    "q": "The role of a teacher in activity-based learning is mainly to:",
-    "options": ["Control students","Provide information","Facilitate learning","Evaluate only"],
-    "a": 2,
-    "explanation": "In activity-based learning, teachers guide and support students."
-  },
-  {
-    "q": "Which principle states that learning proceeds from simple to complex?",
-    "options": ["Readiness","Maturation","Progression","Continuity"],
-    "a": 2,
-    "explanation": "Progression ensures concepts move from simple to complex."
-  },
-  {
-    "q": "Which assessment focuses on diagnosing learning difficulties?",
-    "options": ["Summative","Norm-referenced","Diagnostic","Placement"],
-    "a": 2,
-    "explanation": "Diagnostic assessment identifies learning gaps and difficulties."
-  },
-  {
-    "q": "Which factor is least responsible for individual differences?",
-    "options": ["Heredity","Environment","Motivation","School uniform"],
-    "a": 3,
-    "explanation": "School uniform does not affect individual learning differences."
-  },
-  {
-    "q": "Learning through imitation is best explained by:",
-    "options": ["Trial and error","Insight learning","Social learning theory","Classical conditioning"],
-    "a": 2,
-    "explanation": "Bandura emphasized learning by observing others."
-  },
-  {
-    "q": "Which classroom environment supports positive mental health?",
-    "options": ["Fear-based discipline","Rigid rules","Supportive atmosphere","Competition only"],
-    "a": 2,
-    "explanation": "Supportive classrooms help emotional and mental well-being."
-  },
-  {
-    "q": "Which stage of development focuses on growth of fine motor skills?",
-    "options": ["Emotional","Social","Physical","Moral"],
-    "a": 2,
-    "explanation": "Fine motor skills are part of physical development."
-  },
-  {
-    "q": "Which method encourages self-learning among children?",
-    "options": ["Lecture method","Project method","Recitation","Explanation"],
-    "a": 1,
-    "explanation": "Project method promotes independent thinking and exploration."
-  },
-  {
-    "q": "‘राम स्कूल जा रहा है।’ इस वाक्य में क्रिया का भेद है:",
-    "options": ["सकर्मक","अकर्मक","संयुक्त","प्रेरणार्थक"],
-    "a": 1,
-    "explanation": "यहाँ क्रिया का कोई कर्म नहीं है, इसलिए अकर्मक है।"
-  },
-  {
-    "q": "‘सुंदर’ शब्द का भाववाचक संज्ञा रूप है:",
-    "options": ["सुंदरता","सुंदरी","सौंदर्य","सुंदरपन"],
+    "q": "Which psychologist described the 'Identity Crisis' during adolescence?",
+    "options": ["Erik Erikson", "Jean Piaget", "Sigmund Freud", "Carl Rogers"],
     "a": 0,
-    "explanation": "‘सुंदरता’ गुण से बनी भाववाचक संज्ञा है।"
+    "explanation": "Erik Erikson's theory of psychosocial development identifies 'Identity vs. Role Confusion' as the core conflict in teenagers."
   },
   {
-    "q": "निम्न में से कौन-सा वाक्य अशुद्ध है?",
-    "options": ["वह घर गया।","मैंने पुस्तक पढ़ी।","वे बाजार जाता है।","हम खेल रहे हैं।"],
+    "q": "In 'Project Method' of teaching, the role of the teacher is that of a:",
+    "options": ["Director", "Dictator", "Guide and Facilitator", "Passive Spectator"],
     "a": 2,
-    "explanation": "कर्ता-क्रिया में वचन की संगति नहीं है।"
+    "explanation": "In progressive education, the teacher supports students as they explore projects rather than just lecturing."
   },
   {
-    "q": "‘ज्ञान’ शब्द का विलोम है:",
-    "options": ["बुद्धि","अज्ञान","विवेक","चेतना"],
+    "q": "Which intelligence type is high in a successful 'Sculptor' or 'Architect' according to Gardner?",
+    "options": ["Logical-Mathematical", "Spatial", "Kinesthetic", "Linguistic"],
     "a": 1,
-    "explanation": "ज्ञान का विपरीत अर्थ अज्ञान होता है।"
+    "explanation": "Spatial intelligence involves the ability to visualize and manipulate three-dimensional objects."
   },
   {
-    "q": "निम्न में से देशज शब्द कौन-सा है?",
-    "options": ["पुस्तक","आकाश","लोटा","विद्यालय"],
+    "q": "What does 'IQ' stand for in psychology?",
+    "options": ["Internal Quotient", "Intellectual Quantity", "Intelligence Quotient", "Integrated Quality"],
     "a": 2,
-    "explanation": "‘लोटा’ देशज शब्द है।"
+    "explanation": "Intelligence Quotient is a score derived from standardized tests to measure human intelligence."
   },
   {
-    "q": "भाषा शिक्षण में कविता का उपयोग मुख्यतः किसके लिए किया जाता है?",
-    "options": ["व्याकरण","रुचि और लय","अनुवाद","लेखन"],
+    "q": "Which law of Thorndike states that 'Learning is stronger when followed by satisfaction'?",
+    "options": ["Law of Readiness", "Law of Exercise", "Law of Effect", "Law of Use"],
+    "a": 2,
+    "explanation": "The 'Law of Effect' suggests that responses followed by pleasant outcomes are more likely to be repeated."
+  },
+  {
+    "q": "The 'Individualized Education Program' (IEP) is designed for:",
+    "options": ["Gifted students only", "Children with special needs", "Average students", "Teachers' training"],
     "a": 1,
-    "explanation": "कविता बच्चों में लय और रुचि विकसित करती है।"
+    "explanation": "IEPs are legally mandated plans in inclusive education to provide tailored support for students with disabilities."
   },
   {
-    "q": "श्रवण कौशल के विकास के लिए सबसे उपयुक्त गतिविधि है:",
-    "options": ["पठन","कहानी सुनना","नकल","लेखन"],
+    "q": "Which type of reinforcement is most effective for long-term behavior maintenance?",
+    "options": ["Continuous reinforcement", "Variable ratio reinforcement", "Fixed ratio reinforcement", "Negative reinforcement"],
     "a": 1,
-    "explanation": "कहानी सुनने से ध्यानपूर्वक सुनने की आदत बनती है।"
+    "explanation": "Variable ratio schedules (like gambling) produce high, steady rates of responding and are very resistant to extinction."
   },
   {
-    "q": "Which of the following is a productive language skill?",
-    "options": ["Listening","Reading","Speaking","Viewing"],
-    "a": 2,
-    "explanation": "Speaking involves producing language."
-  },
-  {
-    "q": "Language learning becomes effective when errors are treated as:",
-    "options": ["Failures","Punishable","Natural process","Carelessness"],
-    "a": 2,
-    "explanation": "Errors are a natural part of language learning."
-  },
-  {
-    "q": "Which activity integrates listening and speaking skills?",
-    "options": ["Silent reading","Role play","Grammar exercise","Copy writing"],
+    "q": "What is 'Metacognition'?",
+    "options": ["Learning by rote", "Thinking about one's own thinking", "Social interaction", "Physical growth"],
     "a": 1,
-    "explanation": "Role play involves both listening and speaking."
+    "explanation": "Metacognition is the awareness and understanding of one's own thought processes (planning, monitoring, evaluating)."
   },
   {
-    "q": "Which approach focuses on learners’ needs and interests?",
-    "options": ["Structural","Teacher-centered","Learner-centered","Audio-lingual"],
+    "q": "'यथाशक्ति' में कौन सा समास है?",
+    "options": ["तत्पुरुष", "द्विगु", "अव्ययीभाव", "बहुव्रीहि"],
     "a": 2,
-    "explanation": "Learner-centered approach prioritizes students’ needs."
+    "explanation": "जहाँ पहला पद अव्यय हो (यथा), वहाँ अव्ययीभाव समास होता है।"
   },
   {
-    "q": "Which is the correct plural form of ‘child’?",
-    "options": ["Childs","Children","Childes","Childrens"],
+    "q": "निम्न में से 'तद्भव' शब्द छाँटिए:",
+    "options": ["अग्नि", "पुष्प", "हाथ", "सूर्य"],
+    "a": 2,
+    "explanation": "'हाथ' तद्भव है; इसका तत्सम 'हस्त' होता है। अन्य शब्द तत्सम हैं।"
+  },
+  {
+    "q": "'अंधे की लाठी' मुहावरे का सही अर्थ है:",
+    "options": ["बहुत कमजोर होना", "एकमात्र सहारा", "मूर्ख व्यक्ति", "अंधे व्यक्ति का सहायक"],
     "a": 1,
-    "explanation": "‘Children’ is the correct plural form."
+    "explanation": "यह मुहावरा किसी असहाय व्यक्ति के इकलौते सहारे के लिए प्रयोग किया जाता है।"
   },
   {
-    "q": "Reading aloud in class mainly helps in improving:",
-    "options": ["Writing","Pronunciation","Grammar","Vocabulary only"],
+    "q": "जो 'सब कुछ जानता हो' - वाक्यांश के लिए एक शब्द है:",
+    "options": ["अल्पज्ञ", "बहुज्ञ", "सर्वज्ञ", "अभिज्ञ"],
+    "a": 2,
+    "explanation": "सर्व (सब कुछ) + ज्ञ (जानने वाला) = सर्वज्ञ।"
+  },
+  {
+    "q": "शिक्षण की 'आगमन विधि' (Inductive Method) चलती है:",
+    "options": ["नियम से उदाहरण की ओर", "उदाहरण से नियम की ओर", "सूक्ष्म से स्थूल की ओर", "अमूर्त से मूर्त की ओर"],
     "a": 1,
-    "explanation": "Reading aloud improves pronunciation and fluency."
+    "explanation": "आगमन विधि में पहले अनेक उदाहरण दिए जाते हैं, फिर एक सामान्य नियम निकाला जाता है।"
   },
   {
-    "q": "Which assessment tool best evaluates speaking skills?",
-    "options": ["Written test","Observation checklist","MCQs","Worksheet"],
+    "q": "इनमें से कौन सा 'स्त्रीलिंग' शब्द है?",
+    "options": ["घी", "दही", "नदी", "पानी"],
+    "a": 2,
+    "explanation": "नदी बहती है (स्त्रीलिंग)। घी, दही और पानी पुल्लिंग शब्द हैं।"
+  },
+  {
+    "q": "हिंदी भाषा में कुल कितने 'स्वर' हैं?",
+    "options": ["10", "11", "13", "15"],
     "a": 1,
-    "explanation": "Observation helps assess speaking performance."
+    "explanation": "मानक हिंदी वर्णमाला में कुल 11 स्वर (अ से औ) माने जाते हैं।"
   },
   {
-    "q": "Which sentence is in past tense?",
-    "options": ["She writes a letter.","She is writing a letter.","She wrote a letter.","She will write a letter."],
+    "q": "'प्राचीन' शब्द का विलोम है:",
+    "options": ["पुराना", "नवीन", "अर्वाचीन", "आधुनिक"],
     "a": 2,
-    "explanation": "‘Wrote’ indicates past tense."
+    "explanation": "प्राचीन का सबसे उपयुक्त विलोम 'अर्वाचीन' (Modern) होता है।"
   },
   {
-    "q": "What is the place value of 7 in 3,472?",
-    "options": ["7","70","700","7000"],
+    "q": "Identify the 'Adjective' in the sentence: 'The blue umbrella belongs to me.'",
+    "options": ["Umbrella", "Belongs", "Me", "Blue"],
+    "a": 3,
+    "explanation": "An adjective modifies a noun; 'blue' describes the noun 'umbrella'."
+  },
+  {
+    "q": "Which of these is NOT a principle of Language Teaching?",
+    "options": ["Principle of Motivation", "Principle of Habit Formation", "Principle of Rote Memorization", "Principle of Oral Approach"],
     "a": 2,
-    "explanation": "7 is in the hundreds place."
+    "explanation": "Modern pedagogy discourages rote memorization, favoring communicative and natural learning."
   },
   {
-    "q": "Which number comes next in the pattern: 2, 4, 8, 16, ___?",
-    "options": ["18","24","32","20"],
-    "a": 2,
-    "explanation": "Each number is multiplied by 2."
-  },
-  {
-    "q": "How many sides does a pentagon have?",
-    "options": ["4","5","6","7"],
+    "q": "Find the error: 'Each of the students (A) have (B) submitted (C) the assignment (D).'",
+    "options": ["A", "B", "C", "D"],
     "a": 1,
-    "explanation": "A pentagon has five sides."
+    "explanation": "'Each' is singular. The verb should be 'has' instead of 'have'."
   },
   {
-    "q": "If a book costs ₹120, how much will 3 books cost?",
-    "options": ["₹240","₹360","₹300","₹180"],
+    "q": "Identify the 'Subject' in the sentence: 'On the top of the hill lives a hermit.'",
+    "options": ["The hill", "The top", "A hermit", "Lives"],
+    "a": 2,
+    "explanation": "The sentence is inverted; 'a hermit' is the person who lives, making him the subject."
+  },
+  {
+    "q": "Which of these is a 'Vowel Sound' symbol in Phonetics?",
+    "options": ["/p/", "/b/", "/e/", "/t/"],
+    "a": 2,
+    "explanation": "/p/, /b/, and /t/ are consonant sounds; /e/ represents a vowel sound."
+  },
+  {
+    "q": "The phrase 'Call it a day' means:",
+    "options": ["To start working", "To stop working on something", "To wake up early", "To celebrate"],
     "a": 1,
-    "explanation": "120 × 3 = 360."
+    "explanation": "This idiom is used to decide to stop doing something for the rest of the day."
   },
   {
-    "q": "Which unit is used to measure weight?",
-    "options": ["Meter","Liter","Kilogram","Second"],
-    "a": 2,
-    "explanation": "Kilogram is the unit of weight."
-  },
-  {
-    "q": "Which of the following is a 3D shape?",
-    "options": ["Circle","Triangle","Cube","Square"],
-    "a": 2,
-    "explanation": "Cube has length, breadth, and height."
-  },
-  {
-    "q": "Which sense organ helps us to smell?",
-    "options": ["Eyes","Ears","Nose","Tongue"],
-    "a": 2,
-    "explanation": "Nose detects smell."
-  },
-  {
-    "q": "Which season comes after winter in India?",
-    "options": ["Monsoon","Summer","Spring","Autumn"],
-    "a": 2,
-    "explanation": "Spring follows winter."
-  },
-  {
-    "q": "Which of the following animals is a herbivore?",
-    "options": ["Lion","Tiger","Cow","Dog"],
-    "a": 2,
-    "explanation": "Cow eats plants only."
-  },
-  {
-    "q": "Why are traffic rules important?",
-    "options": ["To increase speed","To avoid accidents","To waste time","To collect fines"],
+    "q": "Select the correct 'Question Tag': 'You are a student, ________?'",
+    "options": ["don't you", "aren't you", "are you", "isn't it"],
     "a": 1,
-    "explanation": "Traffic rules ensure road safety."
+    "explanation": "A positive statement with 'are' takes a negative tag 'aren't you?'."
   },
   {
-    "q": "Which gas is essential for breathing?",
-    "options": ["Nitrogen","Carbon dioxide","Oxygen","Hydrogen"],
-    "a": 2,
-    "explanation": "Oxygen is required for respiration."
-  },
-  {
-    "q": "Which practice helps in conserving water?",
-    "options": ["Leaving taps open","Using water carefully","Washing roads daily","Overuse of water"],
+    "q": "Fill in the blank: 'I have been living here ________ 2010.'",
+    "options": ["for", "since", "from", "during"],
     "a": 1,
-    "explanation": "Careful use helps conserve water resources."
+    "explanation": "'Since' is used for a specific point in time in the past when using the present perfect continuous tense."
+  },
+  {
+    "q": "What is the value of 0.5 + 0.05 + 0.005?",
+    "options": ["0.555", "0.6", "0.15", "0.55"],
+    "a": 0,
+    "explanation": "Align the decimal points: 0.500 + 0.050 + 0.005 = 0.555."
+  },
+  {
+    "q": "A triangle with all three sides equal is called:",
+    "options": ["Isosceles", "Equilateral", "Scalene", "Right-angled"],
+    "a": 1,
+    "explanation": "Equi (equal) + lateral (sides) = Equilateral triangle."
+  },
+  {
+    "q": "Convert 2.5 kg into grams:",
+    "options": ["250 g", "2500 g", "25 g", "25000 g"],
+    "a": 1,
+    "explanation": "1 kg = 1000 grams. So, 2.5 x 1000 = 2500 grams."
+  },
+  {
+    "q": "What is the LCM of 4 and 6?",
+    "options": ["2", "12", "24", "10"],
+    "a": 1,
+    "explanation": "Multiples of 4: 4, 8, 12... Multiples of 6: 6, 12... The least common multiple is 12."
+  },
+  {
+    "q": "Which of the following is a prime number?",
+    "options": ["4", "9", "13", "15"],
+    "a": 2,
+    "explanation": "A prime number has exactly two factors: 1 and itself. 13 is only divisible by 1 and 13."
+  },
+  {
+    "q": "If an angle is 90 degrees, it is called a:",
+    "options": ["Acute angle", "Obtuse angle", "Right angle", "Reflex angle"],
+    "a": 2,
+    "explanation": "An angle measuring exactly 90 degrees is a right angle."
+  },
+  {
+    "q": "How many faces does a cube have?",
+    "options": ["4", "6", "8", "12"],
+    "a": 1,
+    "explanation": "A cube (like a die) has 6 flat square faces."
+  },
+  {
+    "q": "What is 25 percent of 200?",
+    "options": ["25", "50", "75", "100"],
+    "a": 1,
+    "explanation": "(25/100) x 200 = 0.25 x 200 = 50."
+  },
+  {
+    "q": "Which of the following is a source of Vitamin A?",
+    "options": ["Carrot", "Lemon", "Amla", "Rice"],
+    "a": 0,
+    "explanation": "Carrots are rich in beta-carotene, which the body converts into Vitamin A (essential for eyesight)."
+  },
+  {
+    "q": "A group of ants is known as a:",
+    "options": ["Pride", "Colony", "School", "Pack"],
+    "a": 1,
+    "explanation": "Collective noun for ants is a 'colony'."
+  },
+  {
+    "q": "Which planet is known as the 'Red Planet'?",
+    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "a": 1,
+    "explanation": "Mars appears red due to iron oxide (rust) on its surface."
+  },
+  {
+    "q": "Who is known as the 'Birdman of India'?",
+    "options": ["Salim Ali", "C.V. Raman", "Homi Bhabha", "Vikram Sarabhai"],
+    "a": 0,
+    "explanation": "Dr. Salim Ali was a famous Indian ornithologist and naturalist."
+  },
+  {
+    "q": "Which part of the plant absorbs water from the soil?",
+    "options": ["Stem", "Leaf", "Root", "Flower"],
+    "a": 2,
+    "explanation": "Roots have root hairs that absorb water and minerals through osmosis."
+  },
+  {
+    "q": "The 'Chipko Movement' was started to protect:",
+    "options": ["Animals", "Water", "Trees", "Soil"],
+    "a": 2,
+    "explanation": "The movement began in Uttarakhand where villagers hugged trees to prevent them from being cut."
+  },
+  {
+    "q": "Which gas do plants release during photosynthesis?",
+    "options": ["Carbon Dioxide", "Nitrogen", "Oxygen", "Hydrogen"],
+    "a": 2,
+    "explanation": "Plants take in carbon dioxide and release oxygen as a byproduct of making food."
+  },
+  {
+    "q": "The festival of 'Gangaur' is mainly celebrated in which state?",
+    "options": ["Punjab", "Gujarat", "Rajasthan", "Bihar"],
+    "a": 2,
+    "explanation": "Gangaur is one of the most important festivals of Rajasthan, celebrating Gauri (Parvati)."
   }
 ]
