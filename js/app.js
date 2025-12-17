@@ -1,136 +1,132 @@
-let questions = [];
+let currentQ = 0;
 let answers = [];
-let index = 0;
+let paid = localStorage.getItem("paid") === "true";
+let testCount = Number(localStorage.getItem("testsGiven") || 0);
 let timeLeft = 2400;
 let timer;
+let switchCount = 0;
 
-/* ---------- LOGIN ---------- */
+const questions = [
+  { q: "Sample Question?", options: ["A","B","C","D"], a: 0 }
+];
+
 function login() {
-  localStorage.setItem("email", email.value);
-  localStorage.setItem("lang", language.value);
-  hideAll(); show("category");
-}
-
-/* ---------- CATEGORY ---------- */
-function toggleStream() {
-  stream.style.display = level.value === "level2" ? "block" : "none";
-}
-
-function saveCategory() {
-  localStorage.setItem("level", level.value);
-  localStorage.setItem("stream", stream.value);
-  if (!localStorage.getItem("attempts")) localStorage.setItem("attempts", 0);
+  localStorage.setItem("user", email.value);
   showDashboard();
 }
 
-/* ---------- DASHBOARD ---------- */
 function showDashboard() {
-  hideAll(); show("dashboard");
-  welcome.innerText = "Welcome";
-  info.innerText = "1 Free Test | ₹149 for 40 Full Tests";
+  hideAll();
+  dashboard.style.display = "block";
+  welcome.innerText = "Welcome " + localStorage.getItem("user");
+
+  accessInfo.innerText = paid
+    ? "Full access unlocked"
+    : "1 free test available";
 }
 
-/* ---------- TEST PREP ---------- */
-function prepareTest() {
-  let attempts = +localStorage.getItem("attempts");
-  if (attempts === 0) {
-    hideAll(); show("adScreen");
+function startFlow() {
+  if (!paid && testCount >= 1) {
+    hideAll();
+    paywall.style.display = "block";
   } else {
-    hideAll(); show("result");
-    paymentMsg.innerText = "Please unlock full access to continue.";
+    startQuiz();
   }
 }
 
-/* ---------- START TEST ---------- */
-function startTest() {
-  document.documentElement.requestFullscreen();
-  document.addEventListener("visibilitychange", warnSwitch);
-
-  fetchQuestions().then(qs => {
-    questions = qs;
-    answers = Array(40).fill(null);
-    index = 0;
-    timeLeft = 2400;
-    hideAll(); show("quiz");
-    startTimer();
-    render();
-  });
+function startQuiz() {
+  hideAll();
+  quiz.style.display = "block";
+  currentQ = 0;
+  answers = [];
+  startTimer();
+  render();
 }
 
-/* ---------- FETCH QUESTIONS ---------- */
-async function fetchQuestions() {
-  const level = localStorage.getItem("level");
-  const stream = localStorage.getItem("stream");
-  const lang = localStorage.getItem("lang");
-  const path =
-    level === "level1"
-      ? `papers/level1/${lang}/mock1.json`
-      : `papers/level2/${stream}/${lang}/mock1.json`;
-
-  const res = await fetch(path);
-  return await res.json();
-}
-
-/* ---------- QUIZ ---------- */
 function render() {
-  qCounter.innerText = `Q ${index + 1}/40`;
-  question.innerText = questions[index].q;
+  qCounter.innerText = `Q ${currentQ + 1}`;
+  question.innerText = questions[currentQ].q;
   options.innerHTML = "";
-  questions[index].options.forEach((o, i) => {
+  questions[currentQ].options.forEach((o, i) => {
     const b = document.createElement("button");
     b.innerText = o;
-    b.onclick = () => { answers[index] = i; };
+    b.onclick = () => {
+      answers[currentQ] = i;
+      nextQ();
+    };
     options.appendChild(b);
   });
 }
 
-function nextQ(){ if(index<39){index++;render();}}
-function prevQ(){ if(index>0){index--;render();}}
-
-/* ---------- FINISH ---------- */
-function finishQuiz() {
-  clearInterval(timer);
-  document.exitFullscreen();
-  document.removeEventListener("visibilitychange", warnSwitch);
-
-  let correct=0, wrong=0;
-  answers.forEach((a,i)=>{
-    if(a===null)return;
-    a===questions[i].a ? correct++ : wrong++;
-  });
-
-  let score = +(correct - wrong/3).toFixed(2);
-  let lang = localStorage.getItem("lang");
-
-  hideAll(); show("result");
-  scoreText.innerText = `Score: ${score}/40`;
-  motivation.innerText = lang==="hindi"
-    ? score>=20 ? "बहुत बढ़िया प्रयास!" : "अभ्यास जारी रखें"
-    : score>=20 ? "Good effort! Keep improving." : "Keep practicing!";
-
-  let attempts = +localStorage.getItem("attempts");
-  localStorage.setItem("attempts", attempts+1);
+function nextQ() {
+  if (currentQ < questions.length - 1) {
+    currentQ++;
+    render();
+  } else {
+    finish();
+  }
 }
 
-/* ---------- TIMER ---------- */
-function startTimer(){
-  timer=setInterval(()=>{
+function finish() {
+  clearInterval(timer);
+  testCount++;
+  localStorage.setItem("testsGiven", testCount);
+  hideAll();
+  result.style.display = "block";
+
+  let score = answers.filter((a,i)=>a===questions[i].a).length;
+
+  scoreText.innerText = `Score: ${score}/${questions.length}`;
+
+  motivation.innerText =
+    score >= 30 ? "Excellent! Keep it up 💪" :
+    score >= 20 ? "Good effort! Improve more 👍" :
+    "Keep practicing! You can do better 🔥";
+}
+
+function startTimer() {
+  timeLeft = 2400;
+  timer = setInterval(() => {
     timeLeft--;
-    time.innerText=`${Math.floor(timeLeft/60)}:${String(timeLeft%60).padStart(2,"0")}`;
-    if(timeLeft<=0) finishQuiz();
+    time.innerText = `${Math.floor(timeLeft/60)}:${timeLeft%60}`;
+    if (timeLeft <= 0) finish();
   },1000);
 }
 
-/* ---------- SECURITY (BEST POSSIBLE) ---------- */
-function warnSwitch(){
-  alert("Please stay on the test screen for best experience.");
+/* SECURITY: TAB SWITCH */
+document.addEventListener("visibilitychange", () => {
+  if (document.hidden) {
+    switchCount++;
+    alert("Do not switch tabs during test");
+    if (switchCount >= 3) {
+      alert("Test auto-submitted");
+      finish();
+    }
+  }
+});
+
+/* PAYMENT */
+function payNow() {
+  const options = {
+    key: "RAZORPAY_KEY_HERE",
+    amount: 14900,
+    currency: "INR",
+    name: "REET Test Series",
+    description: "Full Access",
+    handler: function () {
+      localStorage.setItem("paid", "true");
+      paid = true;
+      alert("Payment successful");
+      showDashboard();
+    }
+  };
+  new Razorpay(options).open();
 }
 
-/* ---------- UTILS ---------- */
-function hideAll(){
-  ["login","category","dashboard","quiz","result","adScreen"]
-    .forEach(id=>document.getElementById(id).style.display="none");
+function hideAll() {
+  ["login","dashboard","quiz","result","paywall"].forEach(id=>{
+    document.getElementById(id).style.display="none";
+  });
 }
-function show(id){document.getElementById(id).style.display="block";}
 
-
+if (localStorage.getItem("user")) showDashboard();
