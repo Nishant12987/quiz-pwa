@@ -1,202 +1,202 @@
 [
   {
-    "q": "Which stage of Piaget's cognitive development theory is characterized by 'Object Permanence'?",
-    "options": ["Sensory-motor stage", "Pre-operational stage", "Concrete operational stage", "Formal operational stage"],
+    "q": "Which psychologist described the 'Identity Crisis' during adolescence?",
+    "options": ["Erik Erikson", "Jean Piaget", "Sigmund Freud", "Carl Rogers"],
     "a": 0
   },
   {
-    "q": "According to Kohlberg's theory of moral development, at which level does an individual follow rules to avoid punishment?",
-    "options": ["Post-conventional", "Pre-conventional", "Conventional", "Universal ethical"],
+    "q": "In 'Project Method' of teaching, the role of the teacher is that of a:",
+    "options": ["Director", "Dictator", "Guide and Facilitator", "Passive Spectator"],
+    "a": 2
+  },
+  {
+    "q": "Which intelligence type is high in a successful 'Sculptor' or 'Architect' according to Gardner?",
+    "options": ["Logical-Mathematical", "Spatial", "Kinesthetic", "Linguistic"],
     "a": 1
   },
   {
-    "q": "In an inclusive classroom, what should be the primary focus of a teacher regarding 'Individual Differences'?",
-    "options": ["Ignoring differences to treat all equally", "Labeling students based on their abilities", "Using diverse teaching strategies to cater to all needs", "Focusing only on gifted children"],
+    "q": "What does 'IQ' stand for in psychology?",
+    "options": ["Internal Quotient", "Intellectual Quantity", "Intelligence Quotient", "Integrated Quality"],
     "a": 2
   },
   {
-    "q": "Which of the following is an example of an 'Extrinsic' motivator?",
-    "options": ["Curiosity about a topic", "Joy of learning a new skill", "Receiving a gold medal for a task", "Personal satisfaction"],
+    "q": "Which law of Thorndike states that 'Learning is stronger when followed by satisfaction'?",
+    "options": ["Law of Readiness", "Law of Exercise", "Law of Effect", "Law of Use"],
     "a": 2
   },
   {
-    "q": "Gardner's theory of Multiple Intelligences suggests that a person with high 'Interpersonal Intelligence' is good at:",
-    "options": ["Understanding oneself", "Understanding others' emotions and intentions", "Solving mathematical puzzles", "Bodily coordination"],
+    "q": "The 'Individualized Education Program' (IEP) is designed for:",
+    "options": ["Gifted students only", "Children with special needs", "Average students", "Teachers' training"],
     "a": 1
   },
   {
-    "q": "Which learning principle emphasizes that 'Whole is greater than the sum of its parts'?",
-    "options": ["Behaviorism", "Gestalt Psychology", "Constructivism", "Cognitivism"],
+    "q": "Which type of reinforcement is most effective for long-term behavior maintenance?",
+    "options": ["Continuous reinforcement", "Variable ratio reinforcement", "Fixed interval reinforcement", "Negative reinforcement"],
     "a": 1
   },
   {
-    "q": "What is the primary purpose of 'Continuous and Comprehensive Evaluation' (CCE)?",
-    "options": ["To rank students", "To reduce the burden of board exams", "To assess all aspects of a child's development", "To conduct monthly tests"],
-    "a": 2
+    "q": "What is 'Metacognition'?",
+    "options": ["Learning by rote", "Thinking about one's own thinking", "Social interaction", "Physical growth"],
+    "a": 1
   },
   {
-    "q": "A child who struggles with reading and decoding words likely has:",
-    "options": ["Dysgraphia", "Dyscalculia", "Dyslexia", "ADHD"],
-    "a": 2
+    "q": "Which stage of development is known as the 'Golden Age' or 'Toy Age'?",
+    "options": ["Infancy", "Early Childhood", "Later Childhood", "Adolescence"],
+    "a": 1
   },
   {
-    "q": "The concept of 'Scaffolding' in teaching is most closely associated with:",
-    "options": ["B.F. Skinner", "Jean Piaget", "Lev Vygotsky", "Lawrence Kohlberg"],
-    "a": 2
-  },
-  {
-    "q": "Which domain of Bloom's Taxonomy deals with physical skills and coordination?",
-    "options": ["Cognitive domain", "Affective domain", "Psychomotor domain", "Reflective domain"],
-    "a": 2
-  },
-  {
-    "q": "Growth is a quantitative process, whereas Development is a:",
-    "options": ["Qualitative process", "Physical process", "Static process", "Temporary process"],
+    "q": "Who is the father of the 'Behaviorism' school of psychology?",
+    "options": ["J.B. Watson", "William James", "Wilhelm Wundt", "Abraham Maslow"],
     "a": 0
   },
   {
-    "q": "हिंदी भाषा शिक्षण में 'निदानात्मक परीक्षण' का मुख्य उद्देश्य क्या है?",
-    "options": ["छात्रों को अंक देना", "कमियों के कारणों को जानना", "अगली कक्षा में भेजना", "कठिन शब्दों को लिखवाना"],
+    "q": "The 'Discovery Learning' model was proposed by:",
+    "options": ["David Ausubel", "Jerome Bruner", "Robert Gagne", "Albert Bandura"],
     "a": 1
   },
   {
-    "q": "इनमें से कौन सा शब्द 'बादल' का पर्यायवाची नहीं है?",
-    "options": ["जलद", "नीरज", "वारिद", "पयोधर"],
-    "a": 1
-  },
-  {
-    "q": "'शुद्ध' वर्तनी वाले शब्द का चयन कीजिए:",
-    "options": ["अतिश्योक्ति", "अतिशयोक्ति", "अतिश्योक्ती", "अतिशयोक्ती"],
-    "a": 1
-  },
-  {
-    "q": "जो शब्द संज्ञा के स्थान पर प्रयुक्त होते हैं, उन्हें क्या कहते हैं?",
-    "options": ["विशेषण", "क्रिया", "सर्वनाम", "अव्यय"],
+    "q": "'नायक' शब्द में कौन सी संधि है?",
+    "options": ["गुण संधि", "वृद्धि संधि", "अयादि संधि", "यण संधि"],
     "a": 2
   },
   {
-    "q": "'हिमालय से गंगा निकलती है' - इस वाक्य में कौन सा कारक है?",
-    "options": ["करण कारक", "अपादान कारक", "संप्रदान कारक", "अधिकरण कारक"],
+    "q": "'यथाशक्ति' में कौन सा समास है?",
+    "options": ["तत्पुरुष", "द्विगु", "अव्ययीभाव", "बहुव्रीहि"],
+    "a": 2
+  },
+  {
+    "q": "निम्न में से 'तद्भव' शब्द छाँटिए:",
+    "options": ["अग्नि", "पुष्प", "हाथ", "सूर्य"],
+    "a": 2
+  },
+  {
+    "q": "'अंधे की लाठी' मुहावरे का सही अर्थ है:",
+    "options": ["बहुत कमजोर होना", "एकमात्र सहारा", "मूर्ख व्यक्ति", "अंधे व्यक्ति का सहायक"],
     "a": 1
   },
   {
-    "q": "'प्रत्युत्पन्नमति' शब्द में कौन सा उपसर्ग है?",
-    "options": ["प्र", "प्रति", "प्रत्यु", "प्रत"],
+    "q": "जो 'सब कुछ जानता हो' - वाक्यांश के लिए एक शब्द है:",
+    "options": ["अल्पज्ञ", "बहुज्ञ", "सर्वज्ञ", "अभिज्ञ"],
+    "a": 2
+  },
+  {
+    "q": "शिक्षण की 'आगमन विधि' (Inductive Method) चलती है:",
+    "options": ["नियम से उदाहरण की ओर", "उदाहरण से नियम की ओर", "सूक्ष्म से स्थूल की ओर", "अमूर्त से मूर्त की ओर"],
     "a": 1
   },
   {
-    "q": "भाषा कौशल का सही क्रम क्या है?",
-    "options": ["सुनना, बोलना, पढ़ना, लिखना", "बोलना, सुनना, पढ़ना, लिखना", "लिखना, पढ़ना, सुनना, बोलना", "सुनना, पढ़ना, बोलना, लिखना"],
+    "q": "इनमें से कौन सा 'स्त्रीलिंग' शब्द है?",
+    "options": ["घी", "दही", "नदी", "पानी"],
+    "a": 2
+  },
+  {
+    "q": "Identify the 'Conjunction' in: 'I wanted to go, but I was tired.'",
+    "options": ["Wanted", "Go", "But", "Tired"],
+    "a": 2
+  },
+  {
+    "q": "Choose the correct spelling:",
+    "options": ["Accomodation", "Accommodation", "Acomodation", "Accommadation"],
+    "a": 1
+  },
+  {
+    "q": "The antonym of 'Transparent' is:",
+    "options": ["Clear", "Opaque", "Bright", "Fragile"],
+    "a": 1
+  },
+  {
+    "q": "Convert to Direct Speech: 'She said that she was happy.'",
+    "options": ["She said, 'I am happy.'", "She said, 'She is happy.'", "She says, 'I am happy.'", "She said, 'I was happy.'"],
     "a": 0
   },
   {
-    "q": "Choose the synonym for the word 'Diligent'.",
-    "options": ["Lazy", "Hardworking", "Careless", "Wealthy"],
+    "q": "Which method of teaching English focuses on 'translation' and 'rules of grammar'?",
+    "options": ["Direct Method", "Grammar-Translation Method", "Bilingual Method", "Audio-Lingual Method"],
     "a": 1
   },
   {
-    "q": "Select the correct passive voice for: 'The teacher corrected the mistakes.'",
-    "options": ["The mistakes are corrected by the teacher.", "The mistakes were corrected by the teacher.", "The teacher was corrected by the mistakes.", "The mistakes corrected by the teacher."],
-    "a": 1
-  },
-  {
-    "q": "Which of the following is an example of an 'Interrogative Pronoun'?",
-    "options": ["He", "Each", "Who", "Them"],
+    "q": "Select the correct collective noun: 'A ________ of wolves.'",
+    "options": ["Flock", "Herd", "Pack", "Swarm"],
     "a": 2
   },
   {
-    "q": "Choose the correct article: 'He is ________ honest man.'",
-    "options": ["a", "an", "the", "No article"],
+    "q": "Choose the correct preposition: 'The cat is sitting ________ the table.'",
+    "options": ["in", "under", "between", "into"],
     "a": 1
   },
   {
-    "q": "Identify the 'Adjective' in the sentence: 'The blue umbrella belongs to me.'",
-    "options": ["Umbrella", "Belongs", "Me", "Blue"],
-    "a": 3
-  },
-  {
-    "q": "Which of these is NOT a principle of Language Teaching?",
-    "options": ["Principle of Motivation", "Principle of Habit Formation", "Principle of Rote Memorization", "Principle of Oral Approach"],
-    "a": 2
-  },
-  {
-    "q": "Find the error: 'Each of the students (A) have (B) submitted (C) the assignment (D).'",
-    "options": ["Each of the students", "have", "submitted", "the assignment"],
-    "a": 1
-  },
-  {
-    "q": "The value of 256 raised to the power 0.16 multiplied by 256 raised to the power 0.09 is:",
-    "options": ["4", "16", "64", "256"],
+    "q": "If x + 1/x = 5, then the value of x^2 + 1/x^2 is:",
+    "options": ["23", "25", "27", "21"],
     "a": 0
   },
   {
-    "q": "If the cost price of 10 articles is equal to the selling price of 8 articles, the gain percent is:",
-    "options": ["15%", "20%", "25%", "30%"],
-    "a": 2
-  },
-  {
-    "q": "The sum of all internal angles of a regular hexagon is:",
-    "options": ["360 degrees", "540 degrees", "720 degrees", "1080 degrees"],
-    "a": 2
-  },
-  {
-    "q": "Which of the following numbers is a perfect square as well as a perfect cube?",
-    "options": ["36", "64", "81", "125"],
+    "q": "The mean of the first five prime numbers is:",
+    "options": ["3.6", "5.6", "5.0", "5.4"],
     "a": 1
   },
   {
-    "q": "The probability of getting a prime number when a fair die is thrown once is:",
-    "options": ["1/6", "1/3", "1/2", "2/3"],
-    "a": 2
-  },
-  {
-    "q": "A can do a piece of work in 10 days and B can do it in 15 days. How many days will they take to finish it together?",
-    "options": ["5 days", "6 days", "8 days", "12 days"],
-    "a": 1
-  },
-  {
-    "q": "Find the value of x if 3(x - 3) = 5(2x + 1):",
-    "options": ["-2", "-3", "2", "3"],
+    "q": "A shopkeeper marks his goods 20% above cost price and allows a discount of 10%. His profit percent is:",
+    "options": ["8%", "10%", "12%", "15%"],
     "a": 0
   },
   {
-    "q": "The ratio of the areas of two squares, one having its diagonal double that of the other, is:",
-    "options": ["2:1", "3:1", "4:1", "8:1"],
-    "a": 2
-  },
-  {
-    "q": "Which of the following is a non-metal that remains liquid at room temperature?",
-    "options": ["Mercury", "Bromine", "Chlorine", "Helium"],
-    "a": 1
-  },
-  {
-    "q": "The image formed by a plane mirror is always:",
-    "options": ["Virtual and erect", "Real and inverted", "Virtual and inverted", "Real and erect"],
+    "q": "In a circle, the angle subtended by an arc at the center is 80 degrees. The angle subtended by it at any point on the remaining part of the circle is:",
+    "options": ["40 degrees", "80 degrees", "160 degrees", "20 degrees"],
     "a": 0
   },
   {
-    "q": "The process of conversion of sugar into alcohol by yeast is called:",
-    "options": ["Nitrogen fixation", "Molding", "Fermentation", "Infection"],
-    "a": 2
+    "q": "The sum of the digits of a two-digit number is 9. If 27 is added to the number, digits are reversed. The number is:",
+    "options": ["36", "63", "45", "54"],
+    "a": 0
   },
   {
-    "q": "Which cell organelle is known as the 'Powerhouse of the cell'?",
-    "options": ["Nucleus", "Ribosome", "Mitochondria", "Golgi apparatus"],
-    "a": 2
+    "q": "If the volume of a cube is 729 cubic cm, its total surface area is:",
+    "options": ["486 sq cm", "324 sq cm", "243 sq cm", "162 sq cm"],
+    "a": 0
   },
   {
-    "q": "Sound can travel through:",
-    "options": ["Solids only", "Liquids only", "Gases only", "Solids, liquids, and gases"],
-    "a": 3
-  },
-  {
-    "q": "The deficiency of Vitamin C in the human diet causes a disease known as:",
-    "options": ["Beri-beri", "Scurvy", "Rickets", "Night blindness"],
+    "q": "The base of a triangle is 12 cm and height is 8 cm. The area of the triangle is:",
+    "options": ["96 sq cm", "48 sq cm", "24 sq cm", "40 sq cm"],
     "a": 1
   },
   {
-    "q": "Which of the following is a chemical change?",
-    "options": ["Melting of ice", "Cutting of wood", "Rusting of iron", "Dissolving salt in water"],
+    "q": "The value of square root of (0.0009) is:",
+    "options": ["0.3", "0.03", "0.003", "3.0"],
+    "a": 1
+  },
+  {
+    "q": "Which of the following is an example of a scalar quantity?",
+    "options": ["Velocity", "Force", "Work", "Acceleration"],
     "a": 2
+  },
+  {
+    "q": "The pitch of sound depends on its:",
+    "options": ["Amplitude", "Frequency", "Loudness", "Velocity"],
+    "a": 1
+  },
+  {
+    "q": "Which of the following acids is present in an ant's sting?",
+    "options": ["Citric acid", "Lactic acid", "Formic acid", "Oxalic acid"],
+    "a": 2
+  },
+  {
+    "q": "The structural and functional unit of kidney is:",
+    "options": ["Neuron", "Nephron", "Alveoli", "Ureter"],
+    "a": 1
+  },
+  {
+    "q": "Which gas is used in fire extinguishers?",
+    "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+    "a": 2
+  },
+  {
+    "q": "The process by which plants lose water in the form of vapor is:",
+    "options": ["Photosynthesis", "Transpiration", "Respiration", "Transportation"],
+    "a": 1
+  },
+  {
+    "q": "A concave lens always forms an image which is:",
+    "options": ["Real and erect", "Virtual and erect", "Real and inverted", "Virtual and inverted"],
+    "a": 1
   }
 ]
