@@ -1,0 +1,230 @@
+[
+  {
+    "q": "According to Erikson, children in the primary stage mainly face the crisis of:",
+    "options": ["Trust vs Mistrust","Autonomy vs Shame","Industry vs Inferiority","Identity vs Role confusion"],
+    "a": 2,
+    "explanation": "Primary-age children strive to develop competence and a sense of achievement."
+  },
+  {
+    "q": "Which principle of development states that growth follows a fixed sequence?",
+    "options": ["Individual difference","Continuity","Sequential development","General to specific"],
+    "a": 2,
+    "explanation": "Development occurs in a definite order such as crawling before walking."
+  },
+  {
+    "q": "Learning without reinforcement is emphasized in which theory?",
+    "options": ["Operant conditioning","Trial and error","Insight learning","Classical conditioning"],
+    "a": 2,
+    "explanation": "Insight learning focuses on sudden understanding without reinforcement."
+  },
+  {
+    "q": "Which teacher behavior promotes democratic classroom environment?",
+    "options": ["Strict control","Ignoring opinions","Encouraging discussion","Only lecturing"],
+    "a": 2,
+    "explanation": "Democratic classrooms value student opinions and participation."
+  },
+  {
+    "q": "Which type of motivation is driven by grades and prizes?",
+    "options": ["Intrinsic","Social","Extrinsic","Moral"],
+    "a": 2,
+    "explanation": "Extrinsic motivation comes from external rewards."
+  },
+  {
+    "q": "A slow learner mainly needs:",
+    "options": ["Punishment","Extra practice","Removal from class","Less attention"],
+    "a": 1,
+    "explanation": "Extra practice and support help slow learners improve."
+  },
+  {
+    "q": "Which method best develops creativity in children?",
+    "options": ["Drill method","Lecture method","Play-way method","Explanation method"],
+    "a": 2,
+    "explanation": "Play-way method encourages imagination and creativity."
+  },
+  {
+    "q": "Which assessment is conducted at the end of a term?",
+    "options": ["Formative","Diagnostic","Summative","Placement"],
+    "a": 2,
+    "explanation": "Summative assessment evaluates learning after instruction."
+  },
+  {
+    "q": "Which factor directly affects attention in learning?",
+    "options": ["Seating arrangement","Interest","Uniform","Timetable"],
+    "a": 1,
+    "explanation": "Interest increases focus and attention."
+  },
+  {
+    "q": "Learning that remains for a long time is called:",
+    "options": ["Temporary learning","Surface learning","Permanent learning","Conditioned learning"],
+    "a": 2,
+    "explanation": "Permanent learning leads to long-term retention."
+  },
+  {
+    "q": "Which quality is essential for a primary teacher?",
+    "options": ["Authoritarian nature","Patience","Strictness","Indifference"],
+    "a": 1,
+    "explanation": "Patience helps teachers handle diverse learners."
+  },
+  {
+    "q": "Which approach considers children as active learners?",
+    "options": ["Teacher-centered","Behaviorist","Constructivist","Authoritative"],
+    "a": 2,
+    "explanation": "Constructivism views learners as active participants."
+  },
+  {
+    "q": "‘सीता ने फल खाया।’ इस वाक्य में क्रिया का भेद है:",
+    "options": ["अकर्मक","सकर्मक","संयुक्त","प्रेरणार्थक"],
+    "a": 1,
+    "explanation": "क्रिया का कर्म ‘फल’ है, इसलिए सकर्मक है।"
+  },
+  {
+    "q": "‘बालक’ शब्द का स्त्रीलिंग रूप है:",
+    "options": ["बालिका","बच्ची","कन्या","लड़की"],
+    "a": 0,
+    "explanation": "बालक का स्त्रीलिंग बालिका होता है।"
+  },
+  {
+    "q": "‘अंधकार’ शब्द का विलोम है:",
+    "options": ["काला","प्रकाश","छाया","धुंध"],
+    "a": 1,
+    "explanation": "अंधकार का विलोम प्रकाश है।"
+  },
+  {
+    "q": "निम्न में से कौन-सा शब्द तद्भव है?",
+    "options": ["अग्नि","नयन","आँख","जल"],
+    "a": 2,
+    "explanation": "‘आँख’ तद्भव शब्द है।"
+  },
+  {
+    "q": "भाषा शिक्षण में चित्रों का प्रयोग मुख्यतः किसलिए किया जाता है?",
+    "options": ["रटने के लिए","रुचि बढ़ाने के लिए","अनुवाद के लिए","व्याकरण के लिए"],
+    "a": 1,
+    "explanation": "चित्र बच्चों की रुचि और समझ बढ़ाते हैं।"
+  },
+  {
+    "q": "कौन-सा कौशल लिखित अभिव्यक्ति से संबंधित है?",
+    "options": ["श्रवण","वाचन","लेखन","संवाद"],
+    "a": 2,
+    "explanation": "लेखन लिखित अभिव्यक्ति का कौशल है।"
+  },
+  {
+    "q": "भाषा शिक्षण में प्रश्नोत्तर विधि का उद्देश्य है:",
+    "options": ["डर पैदा करना","सक्रिय सहभागिता","केवल मूल्यांकन","समय नष्ट करना"],
+    "a": 1,
+    "explanation": "प्रश्नोत्तर से छात्र सक्रिय रूप से सीखते हैं।"
+  },
+  {
+    "q": "Which word is a noun?",
+    "options": ["Run","Beautiful","Happiness","Quickly"],
+    "a": 2,
+    "explanation": "‘Happiness’ is a naming word (noun)."
+  },
+  {
+    "q": "Which sentence is correct?",
+    "options": ["She do her work.","She did her work.","She doing her work.","She done her work."],
+    "a": 1,
+    "explanation": "‘Did’ is the correct past tense form."
+  },
+  {
+    "q": "Which skill helps in understanding a written passage?",
+    "options": ["Speaking","Listening","Reading","Writing"],
+    "a": 2,
+    "explanation": "Reading skill helps in comprehension."
+  },
+  {
+    "q": "Which activity improves vocabulary most effectively?",
+    "options": ["Copying words","Using words in sentences","Memorizing lists","Dictation only"],
+    "a": 1,
+    "explanation": "Using words in context strengthens vocabulary."
+  },
+  {
+    "q": "Which tense expresses future action?",
+    "options": ["I eat food.","I ate food.","I will eat food.","I am eating food."],
+    "a": 2,
+    "explanation": "‘Will eat’ shows future tense."
+  },
+  {
+    "q": "Which punctuation mark is used at the end of a question?",
+    "options": ["Full stop","Comma","Question mark","Exclamation mark"],
+    "a": 2,
+    "explanation": "A question mark ends an interrogative sentence."
+  },
+  {
+    "q": "Which is the smallest 3-digit number?",
+    "options": ["99","100","101","111"],
+    "a": 1,
+    "explanation": "100 is the smallest three-digit number."
+  },
+  {
+    "q": "What is the result of 45 ÷ 5?",
+    "options": ["7","8","9","10"],
+    "a": 2,
+    "explanation": "45 divided by 5 equals 9."
+  },
+  {
+    "q": "Which fraction is greater?",
+    "options": ["1/4","1/3","1/5","1/6"],
+    "a": 1,
+    "explanation": "Among unit fractions, smaller denominator means larger value."
+  },
+  {
+    "q": "How many hours are there in 2 days?",
+    "options": ["24","36","48","12"],
+    "a": 2,
+    "explanation": "1 day = 24 hours, so 2 days = 48 hours."
+  },
+  {
+    "q": "Which shape has no corners?",
+    "options": ["Square","Triangle","Circle","Rectangle"],
+    "a": 2,
+    "explanation": "A circle has no corners."
+  },
+  {
+    "q": "Which operation is used to find total?",
+    "options": ["Subtraction","Division","Addition","Multiplication"],
+    "a": 2,
+    "explanation": "Addition is used to find total."
+  },
+  {
+    "q": "Which part of a plant makes food?",
+    "options": ["Root","Stem","Leaf","Flower"],
+    "a": 2,
+    "explanation": "Leaves prepare food by photosynthesis."
+  },
+  {
+    "q": "Which source gives us milk?",
+    "options": ["Hen","Cow","Dog","Goat"],
+    "a": 1,
+    "explanation": "Cow is a common source of milk."
+  },
+  {
+    "q": "Which festival is known as the festival of lights?",
+    "options": ["Holi","Diwali","Eid","Christmas"],
+    "a": 1,
+    "explanation": "Diwali is celebrated with lamps and lights."
+  },
+  {
+    "q": "Which object floats on water?",
+    "options": ["Stone","Iron nail","Wood","Coin"],
+    "a": 2,
+    "explanation": "Wood floats due to lower density."
+  },
+  {
+    "q": "Which habit keeps us healthy?",
+    "options": ["Skipping meals","Eating junk food","Washing hands","Sleeping late"],
+    "a": 2,
+    "explanation": "Washing hands prevents diseases."
+  },
+  {
+    "q": "Which direction does the sun rise from?",
+    "options": ["West","North","East","South"],
+    "a": 2,
+    "explanation": "The sun rises in the east."
+  },
+  {
+    "q": "Which vehicle runs on tracks?",
+    "options": ["Bus","Car","Train","Bicycle"],
+    "a": 2,
+    "explanation": "Trains run on railway tracks."
+  }
+]
