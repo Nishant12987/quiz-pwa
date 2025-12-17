@@ -1,0 +1,218 @@
+[
+  {
+    "q": "According to Vygotsky, the most effective learning takes place in which zone?",
+    "options": ["Zone of actual development","Zone of proximal development","Maturity zone","Intellectual zone"],
+    "a": 1,
+    "explanation": "In the Zone of Proximal Development, a child learns best with guidance."
+  },
+  {
+    "q": "Adolescence is considered as which type of stage?",
+    "options": ["Stable stage","Transitional stage","Mature stage","Final stage"],
+    "a": 1,
+    "explanation": "Adolescence is a transition between childhood and adulthood."
+  },
+  {
+    "q": "What is the main function of motivation in learning?",
+    "options": ["To punish","To control behavior","To maintain interest in learning","To evaluate"],
+    "a": 2,
+    "explanation": "Motivation sustains interest and continuity in learning."
+  },
+  {
+    "q": "Which method of learning is based on problem solving?",
+    "options": ["Lecture method","Project method","Story method","Repetition method"],
+    "a": 1,
+    "explanation": "Project method focuses on solving real-life problems."
+  },
+  {
+    "q": "What is the main medium of moral development in children?",
+    "options": ["Punishment","Imitation","Logical thinking","Fear"],
+    "a": 2,
+    "explanation": "Logical thinking helps children make moral judgments."
+  },
+  {
+    "q": "In inclusive education, the role of the teacher is to:",
+    "options": ["Only teach","Discriminate","Act as facilitator and guide","Promote competition"],
+    "a": 2,
+    "explanation": "Teachers support and guide all learners in inclusive classrooms."
+  },
+  {
+    "q": "Which assessment is conducted at the end of teaching?",
+    "options": ["Formative","Diagnostic","Summative","Informal"],
+    "a": 2,
+    "explanation": "Summative assessment is done after instruction."
+  },
+  {
+    "q": "Which principle of development states that development is continuous?",
+    "options": ["Sequence","Continuity","Maturation","Readiness"],
+    "a": 1,
+    "explanation": "Continuity principle says development continues throughout life."
+  },
+  {
+    "q": "Which social factor influences learning the most?",
+    "options": ["School building","Family","Peer group","Curriculum"],
+    "a": 2,
+    "explanation": "Peer group strongly influences learning, especially in adolescence."
+  },
+  {
+    "q": "In constructivist teaching, who constructs knowledge?",
+    "options": ["Teacher","Textbook","Learner","School"],
+    "a": 2,
+    "explanation": "Learners actively construct their own knowledge."
+  },
+  {
+    "q": "Which factor helps most in the development of self-concept?",
+    "options": ["Neglect","Negative remarks","Positive feedback","Punishment"],
+    "a": 2,
+    "explanation": "Positive feedback strengthens self-concept."
+  },
+  {
+    "q": "Identify the tense of the sentence: ‘He is preparing for the exam.’",
+    "options": ["Past tense","Present tense","Present continuous","Future tense"],
+    "a": 2,
+    "explanation": "‘Is preparing’ indicates present continuous tense."
+  },
+  {
+    "q": "What is the antonym of ‘Success’?",
+    "options": ["Progress","Failure","Profit","Growth"],
+    "a": 1,
+    "explanation": "Failure is the opposite of success."
+  },
+  {
+    "q": "Which sentence is grammatically correct?",
+    "options": ["I have written the letter.","I have wrote the letter.","I has written the letter.","I writing the letter."],
+    "a": 0,
+    "explanation": "‘Have written’ is the correct present perfect form."
+  },
+  {
+    "q": "The word ‘childhood’ is a/an:",
+    "options": ["Proper noun","Common noun","Abstract noun","Collective noun"],
+    "a": 2,
+    "explanation": "Childhood refers to a state or phase, hence an abstract noun."
+  },
+  {
+    "q": "The main objective of teaching essay is to develop:",
+    "options": ["Rote writing","Expression of ideas","Only grammar","Translation"],
+    "a": 1,
+    "explanation": "Essay writing helps in clear expression of ideas."
+  },
+  {
+    "q": "One advantage of question–answer method in teaching is:",
+    "options": ["Passivity","Active participation","Fear","Waste of time"],
+    "a": 1,
+    "explanation": "It keeps students actively engaged."
+  },
+  {
+    "q": "Which helps in the development of reading skill?",
+    "options": ["Dictation","Regular practice","Copying","Translation"],
+    "a": 1,
+    "explanation": "Regular practice improves reading ability."
+  },
+  {
+    "q": "Which word is a conjunction?",
+    "options": ["But","Very","Slow","Run"],
+    "a": 0,
+    "explanation": "‘But’ is used to join clauses."
+  },
+  {
+    "q": "Choose the correct sentence:",
+    "options": ["He don’t like science.","He doesn’t like science.","He didn’t likes science.","He don’t likes science."],
+    "a": 1,
+    "explanation": "Third person singular uses ‘doesn’t’."
+  },
+  {
+    "q": "Which tense is used in: ‘She has completed her work.’?",
+    "options": ["Simple present","Present continuous","Present perfect","Past perfect"],
+    "a": 2,
+    "explanation": "‘Has completed’ shows present perfect tense."
+  },
+  {
+    "q": "Which word is a preposition?",
+    "options": ["Under","Happy","Quick","Think"],
+    "a": 0,
+    "explanation": "‘Under’ shows position or relation."
+  },
+  {
+    "q": "Which punctuation mark is used at the end of an exclamatory sentence?",
+    "options": ["Full stop","Comma","Question mark","Exclamation mark"],
+    "a": 3,
+    "explanation": "Exclamation mark shows strong feeling."
+  },
+  {
+    "q": "Which skill helps in understanding spoken language?",
+    "options": ["Speaking","Reading","Listening","Writing"],
+    "a": 2,
+    "explanation": "Listening is needed to understand spoken language."
+  },
+  {
+    "q": "Which sentence is in passive voice?",
+    "options": ["She writes a letter.","She wrote a letter.","A letter is written by her.","She is writing a letter."],
+    "a": 2,
+    "explanation": "Passive voice focuses on the object."
+  },
+  {
+    "q": "If 4x = 20, find the value of x.",
+    "options": ["4","5","6","8"],
+    "a": 1,
+    "explanation": "4x = 20, so x = 5."
+  },
+  {
+    "q": "What is the LCM of 15 and 25?",
+    "options": ["50","75","100","150"],
+    "a": 1,
+    "explanation": "LCM of 15 and 25 is 75."
+  },
+  {
+    "q": "The area of a square is 64 sq cm. What is the length of its side?",
+    "options": ["6 cm","7 cm","8 cm","9 cm"],
+    "a": 2,
+    "explanation": "8 × 8 = 64."
+  },
+  {
+    "q": "Which of the following is an irrational number?",
+    "options": ["1/2","0.25","√3","5"],
+    "a": 2,
+    "explanation": "√3 cannot be expressed as p/q."
+  },
+  {
+    "q": "Which angle measures 90°?",
+    "options": ["Acute angle","Right angle","Obtuse angle","Complete angle"],
+    "a": 1,
+    "explanation": "A right angle measures 90°."
+  },
+  {
+    "q": "Where does digestion start in the human body?",
+    "options": ["Stomach","Mouth","Intestine","Liver"],
+    "a": 1,
+    "explanation": "Digestion starts in the mouth."
+  },
+  {
+    "q": "Which organ purifies blood in the human body?",
+    "options": ["Heart","Lungs","Kidneys","Liver"],
+    "a": 2,
+    "explanation": "Kidneys filter waste from blood."
+  },
+  {
+    "q": "Energy possessed due to motion is called:",
+    "options": ["Potential energy","Kinetic energy","Heat energy","Chemical energy"],
+    "a": 1,
+    "explanation": "Kinetic energy is due to motion."
+  },
+  {
+    "q": "What is the SI unit of electric current?",
+    "options": ["Volt","Ohm","Ampere","Watt"],
+    "a": 2,
+    "explanation": "Ampere is the SI unit of electric current."
+  },
+  {
+    "q": "Which substance is attracted by a magnet?",
+    "options": ["Wood","Plastic","Iron","Paper"],
+    "a": 2,
+    "explanation": "Iron is a magnetic material."
+  },
+  {
+    "q": "The reaction between an acid and a base is called:",
+    "options": ["Oxidation","Reduction","Neutralization","Combustion"],
+    "a": 2,
+    "explanation": "Acid and base react to form salt and water."
+  }
+]
