@@ -82,20 +82,33 @@ function startFlow() {
   loadMock();
 }
 
-/* ================= LOAD MOCK ================= */
+/* ================= LOAD MOCK (FIXED) ================= */
 async function loadMock() {
   const access = JSON.parse(localStorage.getItem("user_access"));
   const mockNo = access.testsDone + 1;
 
-  const path = `data/${access.level}/${access.language}/${
-    access.level === "level2" ? access.stream + "/" : ""
-  }mock${mockNo}.json`;
+  let baseFolder = "";
+
+  if (access.level === "level1") {
+    baseFolder = "level1";
+  } else if (access.level === "level2" && access.stream === "social") {
+    baseFolder = "level2-social";
+  } else if (access.level === "level2" && access.stream === "socio") {
+    baseFolder = "level2-socio";
+  }
+
+  const path = `data/${baseFolder}/${access.language}/mock${mockNo}.json`;
 
   try {
     const res = await fetch(path);
+    if (!res.ok) throw new Error("Not found");
     questions = await res.json();
   } catch {
-    alert("No more mocks available");
+    alert(
+      "You have completed all available mocks for your selected exam.\n\n" +
+      "New tests will be added soon."
+    );
+    showDashboard();
     return;
   }
 
@@ -146,15 +159,16 @@ function prevQ() {
   }
 }
 
-/* ================= FINISH (WITH UNATTEMPTED WARNING) ================= */
+/* ================= FINISH (WARNINGS INCLUDED) ================= */
 function finishQuiz() {
   const unattempted = answers.filter(a => a === null).length;
 
   if (unattempted > 0) {
-    const confirmSubmit = confirm(
-      `You have not attempted ${unattempted} question(s).\nDo you want to submit anyway?`
-    );
-    if (!confirmSubmit) return;
+    if (
+      !confirm(
+        `You have not attempted ${unattempted} question(s).\nDo you want to submit anyway?`
+      )
+    ) return;
   }
 
   clearInterval(timer);
@@ -189,14 +203,13 @@ function finishQuiz() {
       : "Don’t give up. Improvement will come.";
 }
 
-/* ================= TIMER (WITH 5-MIN WARNING) ================= */
+/* ================= TIMER (5-MIN WARNING) ================= */
 function startTimer() {
   updateTime();
   timer = setInterval(() => {
     timeLeft--;
     updateTime();
 
-    // 🔔 5-minute warning (only once)
     if (timeLeft === 300 && !fiveMinWarned) {
       fiveMinWarned = true;
       alert("⚠️ Only 5 minutes left. Please review your answers.");
