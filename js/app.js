@@ -2,7 +2,8 @@ let questions = [];
 let answers = [];
 let index = 0;
 let timer;
-let timeLeft = 2400;
+let timeLeft = 2400; // 40 minutes
+let fiveMinWarned = false;
 
 /* ================= LOGIN ================= */
 function login() {
@@ -11,10 +12,8 @@ function login() {
   const email = document.getElementById("email").value.trim();
   if (!email) return alert("Enter email");
 
-  // Save email
   localStorage.setItem("user_email", email);
 
-  // Create access object ONLY once
   if (!localStorage.getItem("user_access")) {
     localStorage.setItem(
       "user_access",
@@ -41,10 +40,8 @@ function showDashboard() {
 
   welcome.innerText = "Welcome " + email;
 
-  // LOCK selection forever once chosen
   if (access.level) {
     document.getElementById("selectionBox").style.display = "none";
-
     limit.innerText = access.paid
       ? `Paid access: ${access.level.toUpperCase()} ${access.language.toUpperCase()}`
       : "1 free mock remaining";
@@ -53,7 +50,6 @@ function showDashboard() {
     limit.innerText = "Choose your exam (one-time selection)";
   }
 
-  // Show stream only for level 2
   level.onchange = () => {
     stream.style.display = level.value === "level2" ? "block" : "none";
   };
@@ -63,7 +59,6 @@ function showDashboard() {
 function startFlow() {
   let access = JSON.parse(localStorage.getItem("user_access"));
 
-  /* FIRST TIME SELECTION ONLY */
   if (!access.level) {
     if (!level.value || !language.value)
       return alert("Select all options");
@@ -78,7 +73,6 @@ function startFlow() {
     localStorage.setItem("user_access", JSON.stringify(access));
   }
 
-  /* ACCESS CONTROL */
   if (!access.paid && access.testsDone >= 1) {
     alert("Free test over. Purchase required for this selection.");
     window.open("https://razorpay.me/@prepone", "_blank");
@@ -100,7 +94,7 @@ async function loadMock() {
   try {
     const res = await fetch(path);
     questions = await res.json();
-  } catch (e) {
+  } catch {
     alert("No more mocks available");
     return;
   }
@@ -108,6 +102,7 @@ async function loadMock() {
   answers = Array(questions.length).fill(null);
   index = 0;
   timeLeft = 2400;
+  fiveMinWarned = false;
 
   hideAll();
   show("quiz");
@@ -151,8 +146,17 @@ function prevQ() {
   }
 }
 
-/* ================= FINISH ================= */
+/* ================= FINISH (WITH UNATTEMPTED WARNING) ================= */
 function finishQuiz() {
+  const unattempted = answers.filter(a => a === null).length;
+
+  if (unattempted > 0) {
+    const confirmSubmit = confirm(
+      `You have not attempted ${unattempted} question(s).\nDo you want to submit anyway?`
+    );
+    if (!confirmSubmit) return;
+  }
+
   clearInterval(timer);
 
   let correct = 0,
@@ -185,12 +189,19 @@ function finishQuiz() {
       : "Don’t give up. Improvement will come.";
 }
 
-/* ================= TIMER ================= */
+/* ================= TIMER (WITH 5-MIN WARNING) ================= */
 function startTimer() {
   updateTime();
   timer = setInterval(() => {
     timeLeft--;
     updateTime();
+
+    // 🔔 5-minute warning (only once)
+    if (timeLeft === 300 && !fiveMinWarned) {
+      fiveMinWarned = true;
+      alert("⚠️ Only 5 minutes left. Please review your answers.");
+    }
+
     if (timeLeft <= 0) finishQuiz();
   }, 1000);
 }
