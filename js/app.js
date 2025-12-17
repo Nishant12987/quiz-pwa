@@ -35,10 +35,10 @@ function startFlow(){
   if(!level.value || !language.value) return alert("Select all options");
   if(level.value === "level2" && !stream.value) return alert("Select stream");
 
-  if(!u.paid && u.tests >= 1){
-    alert("Free mock completed. Pay ₹149 to unlock full series.");
-    window.open("https://razorpay.me/@prepone","_blank");
-    return;
+  if (!u.paid && u.tests >= 1 && !TEST_MODE) {
+  alert("Free test over. Pay ₹149 to unlock all tests.");
+  window.open("https://razorpay.me/@prepone", "_blank");
+  return;
   }
 
   loadNextMock();
