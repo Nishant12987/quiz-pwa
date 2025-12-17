@@ -2,16 +2,10 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>PrepOne – Exam Prep App</title>
+  <title>PrepOne</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <!-- Styles -->
   <link rel="stylesheet" href="css/style.css">
-
-  <!-- PWA -->
   <link rel="manifest" href="manifest.json">
-  <link rel="icon" type="image/png" href="icon-192.png">
-  <meta name="theme-color" content="#2563eb">
 </head>
 
 <body>
@@ -22,16 +16,10 @@
   <!-- LOGIN -->
   <div id="login" class="card">
     <input id="email" placeholder="Enter Email">
-    <p class="note">Progress saved on this device</p>
-
     <label class="checkbox">
       <input type="checkbox" id="agree">
-      I agree to
-      <a href="policies.html" target="_blank">
-        Terms, Privacy & Refund Policy
-      </a>
+      I agree to <a href="policies.html" target="_blank">Terms & Policies</a>
     </label>
-
     <button class="primary" onclick="login()">Continue</button>
   </div>
 
@@ -59,7 +47,7 @@
 
     <p id="limit"></p>
 
-    <button class="primary" onclick="startFlow()">Start Test</button>
+    <button class="primary" onclick="startFlow()">Start Next Mock</button>
     <button class="secondary" onclick="showHistory()">Test History</button>
   </div>
 
@@ -97,21 +85,13 @@
 
 </div>
 
-<!-- App Logic -->
 <script src="js/app.js"></script>
-
-<!-- Service Worker Registration -->
 <script>
 if ("serviceWorker" in navigator) {
-  window.addEventListener("load", () => {
-    navigator.serviceWorker
-      .register("./service-worker.js")
-      .then(reg => console.log("Service Worker registered:", reg.scope))
-      .catch(err => console.error("Service Worker registration failed:", err));
-  });
+  navigator.serviceWorker.register("service-worker.js");
 }
 </script>
-
 </body>
 </html>
+
 
