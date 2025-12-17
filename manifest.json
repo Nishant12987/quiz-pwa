@@ -1,8 +1,9 @@
 {
-  "name": "REET Test Series",
-  "short_name": "REET",
+  "name": "PrepOne",
+  "short_name": "PrepOne",
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#0a5cff",
+  "theme_color": "#2563eb",
   "background_color": "#ffffff"
 }
+
