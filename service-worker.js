@@ -1,5 +1,4 @@
-const CACHE_NAME = "prepone-cache-v1";
-
+const CACHE = "prepone-v1";
 const CACHE_FILES = [
   "/",
   "/index.html",
@@ -11,38 +10,14 @@ const CACHE_FILES = [
   "/icon-512.png"
 ];
 
-// Install
-self.addEventListener("install", event => {
-  event.waitUntil(
-    caches.open(CACHE_NAME).then(cache => {
-      return cache.addAll(CACHE_FILES);
-    })
-  );
-  self.skipWaiting();
-});
-
-// Activate
-self.addEventListener("activate", event => {
-  event.waitUntil(
-    caches.keys().then(keys =>
-      Promise.all(
-        keys.map(key => {
-          if (key !== CACHE_NAME) {
-            return caches.delete(key);
-          }
-        })
-      )
-    )
-  );
-  self.clients.claim();
-});
-
-// Fetch
-self.addEventListener("fetch", event => {
-  event.respondWith(
-    caches.match(event.request).then(response => {
-      return response || fetch(event.request);
-    })
+self.addEventListener("install", e=>{
+  e.waitUntil(
+    caches.open(CACHE).then(c=>c.addAll(CACHE_FILES))
   );
 });
 
+self.addEventListener("fetch", e=>{
+  e.respondWith(
+    caches.match(e.request).then(r=>r || fetch(e.request))
+  );
+});
