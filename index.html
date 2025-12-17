@@ -19,23 +19,23 @@
       <option value="en">English</option>
       <option value="hi">हिंदी</option>
     </select>
-    <p class="note">Progress saved on this device</p>
+    <p class="note">Your progress is saved on this device.</p>
     <button class="primary" onclick="login()">Continue</button>
   </div>
 
   <!-- DASHBOARD -->
   <div id="dashboard" class="card" style="display:none">
     <h3 id="welcome"></h3>
-    <p id="testStatus"></p>
-    <button class="primary" onclick="startFlow()">Start Test</button>
-    <button class="secondary" onclick="showHistory()">Test History</button>
-  </div>
+    <p id="limit"></p>
 
-  <!-- AD SCREEN -->
-  <div id="adScreen" class="card" style="display:none">
-    <h3>Advertisement</h3>
-    <div class="ad-box">[ Ad Placeholder ]</div>
-    <button class="primary" onclick="startQuiz()">Continue to Test</button>
+    <div class="price-box">
+      <p><b>₹149 for full REET series</b></p>
+      <p>Only ₹3–4 per test</p>
+    </div>
+
+    <button class="primary" onclick="startTest(0)">Start Free Test</button>
+    <button class="secondary" onclick="locked()">Start Test 2+</button>
+    <button class="secondary" onclick="showHistory()">Test History</button>
   </div>
 
   <!-- QUIZ -->
@@ -44,13 +44,11 @@
       <span id="qCounter"></span>
       <span id="time"></span>
     </div>
+
     <h3 id="question"></h3>
     <div id="options"></div>
-    <div class="nav">
-      <button onclick="prevQ()">Previous</button>
-      <button onclick="nextQ()">Next</button>
-      <button class="danger" onclick="finishQuiz()">Finish</button>
-    </div>
+
+    <button class="danger" onclick="finishQuiz()">Finish Test</button>
   </div>
 
   <!-- RESULT -->
@@ -58,7 +56,12 @@
     <h3 id="resultTitle"></h3>
     <p id="finalScore"></p>
     <p id="motivation"></p>
-    <div id="upgradeBox"></div>
+
+    <div class="price-box">
+      <p><b>Unlock full series @ ₹149</b></p>
+      <p>40 tests • ₹3.7 per test</p>
+    </div>
+
     <button class="primary" onclick="showDashboard()">Back</button>
   </div>
 
@@ -74,3 +77,4 @@
 <script src="js/app.js"></script>
 </body>
 </html>
+
