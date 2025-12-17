@@ -1,61 +1,72 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>REET Test Series</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="css/style.css">
-  <script src="https://checkout.razorpay.com/v1/checkout.js"></script>
+<meta charset="UTF-8">
+<title>PrepOne – Exam Prep</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="css/style.css">
 </head>
-<body>
+<body oncontextmenu="return false">
 
 <div class="app">
 
-  <h2 class="center">REET Test Series</h2>
+<h2 class="center">PrepOne – REET Preparation</h2>
 
-  <!-- LOGIN -->
-  <div id="login" class="card">
-    <input id="email" placeholder="Enter Email">
-    <p class="note">Progress saved on this device</p>
-    <button class="primary" onclick="login()">Continue</button>
-  </div>
+<!-- LOGIN -->
+<div id="login" class="card">
+  <input id="email" placeholder="Enter Email">
+  <p class="note">Your progress is saved on this device.</p>
+  <button class="primary" onclick="login()">Continue</button>
+</div>
 
-  <!-- DASHBOARD -->
-  <div id="dashboard" class="card" style="display:none">
-    <h3 id="welcome"></h3>
-    <p id="accessInfo"></p>
-    <button class="primary" onclick="startFlow()">Start Test</button>
-  </div>
+<!-- DASHBOARD -->
+<div id="dashboard" class="card" style="display:none">
+  <h3 id="welcome"></h3>
+  <p id="accessMsg"></p>
+  <button class="primary" onclick="startTest()">Start Test</button>
+  <button class="secondary" onclick="showUnlock()">Unlock Full Tests</button>
+</div>
 
-  <!-- PAYWALL -->
-  <div id="paywall" class="card" style="display:none">
-    <h3>Unlock Full Test Series</h3>
-    <p>₹149 for 40 full REET mock tests</p>
-    <p><b>₹3.7 per test only</b></p>
-    <button class="primary" onclick="payNow()">Pay ₹149</button>
-    <button class="secondary" onclick="showDashboard()">Back</button>
-  </div>
+<!-- UNLOCK -->
+<div id="unlock" class="card" style="display:none">
+  <h3>Unlock Full REET Test Series</h3>
+  <p>Get 40 full-length REET mock tests</p>
+  <p><b>₹149 only (₹3.7 per test)</b></p>
 
-  <!-- QUIZ -->
-  <div id="quiz" class="card" style="display:none">
-    <div class="topbar">
-      <span id="qCounter"></span>
-      <span id="time"></span>
-    </div>
-    <div id="question"></div>
-    <div id="options"></div>
-    <button onclick="nextQ()">Next</button>
-  </div>
+  <a class="primary btn" href="https://razorpay.me/@prepone" target="_blank">
+    Pay ₹149 Now
+  </a>
 
-  <!-- RESULT -->
-  <div id="result" class="card" style="display:none">
-    <h3 id="scoreText"></h3>
-    <p id="motivation"></p>
-    <button class="primary" onclick="showDashboard()">Back</button>
+  <button class="secondary" onclick="confirmPayment()">I Have Completed Payment</button>
+
+  <p class="note">
+    Access unlocks on this device only.<br>
+    Contact: prepone.exam@gmail.com
+  </p>
+</div>
+
+<!-- QUIZ -->
+<div id="quiz" class="card" style="display:none">
+  <div class="topbar">
+    <span id="qCounter"></span>
+    <span id="time"></span>
   </div>
+  <h3 id="question"></h3>
+  <div id="options"></div>
+  <button class="danger" onclick="finish()">Finish Test</button>
+</div>
+
+<!-- RESULT -->
+<div id="result" class="card" style="display:none">
+  <h3 id="resultTitle"></h3>
+  <p id="scoreText"></p>
+  <p id="motivation"></p>
+  <button class="primary" onclick="showDashboard()">Back</button>
+</div>
 
 </div>
 
 <script src="js/app.js"></script>
 </body>
 </html>
+
