@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
+  <meta charset="UTF-8">
   <title>PrepOne</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="manifest" href="manifest.json" />
-  <link rel="stylesheet" href="css/style.css" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" href="css/style.css">
 </head>
 
 <body>
@@ -15,9 +15,9 @@
 
   <!-- LOGIN -->
   <div id="login" class="card">
-    <input id="email" placeholder="Enter Email" />
+    <input id="email" placeholder="Enter Email">
     <label class="checkbox">
-      <input type="checkbox" id="agree" />
+      <input type="checkbox" id="agree">
       I agree to <a href="policies.html" target="_blank">Policies</a>
     </label>
     <button class="primary" onclick="login()">Continue</button>
@@ -27,28 +27,29 @@
   <div id="dashboard" class="card" style="display:none">
     <h3 id="welcome"></h3>
 
-    <select id="level">
-      <option value="">Select REET Level</option>
-      <option value="level1">REET Level 1</option>
-      <option value="level2">REET Level 2</option>
-    </select>
+    <div id="selectionBox">
+      <select id="level">
+        <option value="">Select Level</option>
+        <option value="level1">REET Level 1</option>
+        <option value="level2">REET Level 2</option>
+      </select>
 
-    <select id="stream" style="display:none">
-      <option value="">Select Stream</option>
-      <option value="socio">Maths & Science</option>
-      <option value="social">Social Studies</option>
-    </select>
+      <select id="stream" style="display:none">
+        <option value="">Select Stream</option>
+        <option value="socio">Maths & Science</option>
+        <option value="social">Social Studies</option>
+      </select>
 
-    <select id="language">
-      <option value="">Select Language</option>
-      <option value="english">English</option>
-      <option value="hindi">Hindi</option>
-    </select>
+      <select id="language">
+        <option value="">Select Language</option>
+        <option value="english">English</option>
+        <option value="hindi">Hindi</option>
+      </select>
+    </div>
 
     <p id="limit"></p>
 
-    <button class="primary" onclick="startFlow()">Start Next Mock</button>
-    <button class="secondary" onclick="showHistory()">Test History</button>
+    <button class="primary" onclick="startFlow()">Start Test</button>
   </div>
 
   <!-- QUIZ -->
@@ -75,20 +76,8 @@
     <button class="primary" onclick="showDashboard()">Back</button>
   </div>
 
-  <!-- HISTORY -->
-  <div id="history" class="card" style="display:none">
-    <h3>Test History</h3>
-    <div id="historyList"></div>
-    <button class="secondary" onclick="showDashboard()">Back</button>
-  </div>
-
 </div>
 
 <script src="js/app.js"></script>
-<script>
-if ("serviceWorker" in navigator) {
-  navigator.serviceWorker.register("service-worker.js");
-}
-</script>
 </body>
 </html>
