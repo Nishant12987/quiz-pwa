@@ -1,218 +1,242 @@
 [
   {
-    "q": "Which stage of development is considered most sensitive for value formation?",
-    "options": ["Early childhood","Adolescence","Adulthood","Old age"],
-    "a": 1,
-    "explanation": "During adolescence, moral values and attitudes are strongly shaped."
-  },
-  {
-    "q": "According to Piaget, logical thinking develops mainly at which stage?",
-    "options": ["Sensorimotor","Pre-operational","Concrete operational","Formal operational"],
-    "a": 2,
-    "explanation": "Concrete operational stage develops logical thinking related to real objects."
-  },
-  {
-    "q": "What is the main purpose of diagnostic assessment?",
-    "options": ["Grading students","Identifying learning difficulties","Promoting competition","Final evaluation"],
-    "a": 1,
-    "explanation": "Diagnostic assessment identifies specific learning problems."
-  },
-  {
-    "q": "Inclusive education emphasizes:",
-    "options": ["Uniform teaching","Segregation","Respect for diversity","Competition"],
-    "a": 2,
-    "explanation": "Inclusive education values and respects learner diversity."
-  },
-  {
-    "q": "Which factor most influences learning at school level?",
-    "options": ["School building","Teacher","Textbook","Time-table"],
-    "a": 1,
-    "explanation": "Teacher plays a key role in facilitating learning."
-  },
-  {
-    "q": "Which learning theory focuses on stimulus–response?",
-    "options": ["Constructivism","Humanism","Behaviorism","Cognitivism"],
-    "a": 2,
-    "explanation": "Behaviorism emphasizes stimulus–response relationships."
-  },
-  {
-    "q": "What helps most in developing creativity among learners?",
-    "options": ["Rigid curriculum","Freedom of expression","Exams","Punishment"],
-    "a": 1,
-    "explanation": "Freedom of expression encourages creative thinking."
-  },
-  {
-    "q": "Formative assessment is useful because it:",
-    "options": ["Ends learning","Improves teaching-learning","Ranks students","Certifies achievement"],
-    "a": 1,
-    "explanation": "Formative assessment provides feedback for improvement."
-  },
-  {
-    "q": "Which principle states that development follows a definite order?",
-    "options": ["Continuity","Sequence","Readiness","Maturation"],
-    "a": 1,
-    "explanation": "Development occurs in a specific and predictable sequence."
-  },
-  {
-    "q": "Which teaching strategy promotes active learning?",
-    "options": ["Lecture","Project work","Dictation","Rote memorization"],
-    "a": 1,
-    "explanation": "Project work actively involves learners in learning."
-  },
-  {
-    "q": "Peer interaction mainly helps in developing:",
-    "options": ["Memory","Social skills","Handwriting","Listening"],
-    "a": 1,
-    "explanation": "Peers support social and emotional development."
-  },
-  {
-    "q": "Identify the correct tense: ‘She was cooking food.’",
-    "options": ["Simple past","Past continuous","Present perfect","Past perfect"],
-    "a": 1,
-    "explanation": "‘Was cooking’ indicates past continuous tense."
-  },
-  {
-    "q": "The antonym of ‘ancient’ is:",
-    "options": ["Old","Historic","Modern","Traditional"],
-    "a": 2,
-    "explanation": "Modern is opposite of ancient."
-  },
-  {
-    "q": "Which sentence is grammatically correct?",
-    "options": ["He have done the work.","He has done the work.","He is done the work.","He done the work."],
-    "a": 1,
-    "explanation": "‘Has done’ is the correct present perfect form."
-  },
-  {
-    "q": "The word ‘freedom’ is a/an:",
-    "options": ["Common noun","Proper noun","Abstract noun","Collective noun"],
-    "a": 2,
-    "explanation": "Freedom is an abstract idea."
-  },
-  {
-    "q": "The main aim of teaching grammar is to:",
-    "options": ["Promote memorization","Enable correct language use","Increase fear","Focus only on exams"],
-    "a": 1,
-    "explanation": "Grammar helps in correct and meaningful language use."
-  },
-  {
-    "q": "Which activity best improves speaking skills?",
-    "options": ["Silent reading","Group discussion","Copy writing","Dictation"],
-    "a": 1,
-    "explanation": "Group discussion enhances speaking ability."
-  },
-  {
-    "q": "Vocabulary is best developed through:",
-    "options": ["Word lists","Contextual usage","Rote learning","Translation"],
-    "a": 1,
-    "explanation": "Using words in context ensures better understanding."
-  },
-  {
-    "q": "Which word is an adverb?",
-    "options": ["Slow","Slowly","Slowness","Slower"],
-    "a": 1,
-    "explanation": "‘Slowly’ modifies a verb."
-  },
-  {
-    "q": "Choose the correct sentence:",
-    "options": ["They has finished.","They have finished.","They is finished.","They finishing."],
-    "a": 1,
-    "explanation": "Plural subject uses ‘have’."
-  },
-  {
-    "q": "Which tense is used in: ‘I will visit Jaipur tomorrow.’?",
-    "options": ["Present","Past","Future","Present perfect"],
-    "a": 2,
-    "explanation": "‘Will visit’ indicates future tense."
-  },
-  {
-    "q": "Which punctuation mark is used to separate clauses?",
-    "options": ["Comma","Colon","Apostrophe","Hyphen"],
+    "q": "Which psychologist described the 'Identity Crisis' during adolescence?",
+    "options": ["Erik Erikson", "Jean Piaget", "Sigmund Freud", "Carl Rogers"],
     "a": 0,
-    "explanation": "Comma separates clauses in a sentence."
+    "explanation": "Erikson identified 'Identity vs. Role Confusion' as the core conflict of adolescence."
   },
   {
-    "q": "Which skill helps in understanding spoken messages?",
-    "options": ["Speaking","Listening","Reading","Writing"],
+    "q": "In 'Project Method' of teaching, the role of the teacher is that of a:",
+    "options": ["Director", "Dictator", "Guide and Facilitator", "Passive Spectator"],
+    "a": 2,
+    "explanation": "The project method is student-centered where the teacher provides guidance."
+  },
+  {
+    "q": "Which intelligence type is high in a successful 'Sculptor' or 'Architect' according to Gardner?",
+    "options": ["Logical-Mathematical", "Spatial", "Kinesthetic", "Linguistic"],
     "a": 1,
-    "explanation": "Listening helps understand spoken language."
+    "explanation": "Spatial intelligence is the ability to perceive the visual-spatial world accurately."
   },
   {
-    "q": "Which sentence is in passive voice?",
-    "options": ["She paints a picture.","She painted a picture.","A picture is painted by her.","She is painting a picture."],
+    "q": "What does 'IQ' stand for in psychology?",
+    "options": ["Internal Quotient", "Intellectual Quantity", "Intelligence Quotient", "Integrated Quality"],
     "a": 2,
-    "explanation": "Passive voice emphasizes the object."
+    "explanation": "IQ stands for Intelligence Quotient, a measure of relative intelligence."
   },
   {
-    "q": "Which was the capital of the Maurya Empire?",
-    "options": ["Ujjain","Taxila","Pataliputra","Vaishali"],
+    "q": "Which law of Thorndike states that 'Learning is stronger when followed by satisfaction'?",
+    "options": ["Law of Readiness", "Law of Exercise", "Law of Effect", "Law of Use"],
     "a": 2,
-    "explanation": "Pataliputra was the Maurya capital."
+    "explanation": "The Law of Effect posits that behaviors followed by pleasant consequences are likely to be repeated."
   },
   {
-    "q": "Which river is known as the ‘Sorrow of Bihar’?",
-    "options": ["Ganga","Kosi","Yamuna","Son"],
+    "q": "The 'Individualized Education Program' (IEP) is designed for:",
+    "options": ["Gifted students only", "Children with special needs", "Average students", "Teachers' training"],
     "a": 1,
-    "explanation": "Kosi causes frequent floods in Bihar."
+    "explanation": "IEPs are tailored plans for students with disabilities to ensure they receive appropriate education."
   },
   {
-    "q": "Which Fundamental Right ensures equality before law?",
-    "options": ["Right to Freedom","Right to Equality","Right to Religion","Right to Education"],
+    "q": "Which type of reinforcement is most effective for long-term behavior maintenance?",
+    "options": ["Continuous reinforcement", "Variable ratio reinforcement", "Fixed interval reinforcement", "Negative reinforcement"],
     "a": 1,
-    "explanation": "Right to Equality ensures equality before law."
+    "explanation": "Variable schedules are more resistant to extinction compared to continuous ones."
   },
   {
-    "q": "Who introduced the policy of ‘Dhamma’?",
-    "options": ["Chandragupta Maurya","Bindusara","Ashoka","Harsha"],
-    "a": 2,
-    "explanation": "Ashoka promoted moral values through Dhamma."
-  },
-  {
-    "q": "Which imaginary line divides the Earth into Northern and Southern Hemispheres?",
-    "options": ["Tropic of Cancer","Prime Meridian","Equator","Tropic of Capricorn"],
-    "a": 2,
-    "explanation": "The Equator divides Earth into two hemispheres."
-  },
-  {
-    "q": "Who elects the members of the Rajya Sabha?",
-    "options": ["People","President","Elected members of State Assemblies","Prime Minister"],
-    "a": 2,
-    "explanation": "Rajya Sabha members are elected by State Legislative Assemblies."
-  },
-  {
-    "q": "Who was the founder of the Gupta dynasty?",
-    "options": ["Samudragupta","Chandragupta I","Chandragupta Maurya","Skandagupta"],
+    "q": "What is 'Metacognition'?",
+    "options": ["Learning by rote", "Thinking about one's own thinking", "Social interaction", "Physical growth"],
     "a": 1,
-    "explanation": "Chandragupta I founded the Gupta dynasty."
+    "explanation": "Metacognition involves awareness and control of one's own cognitive processes."
   },
   {
-    "q": "Which plateau is known as the ‘Roof of the World’?",
-    "options": ["Deccan Plateau","Chotanagpur Plateau","Tibetan Plateau","Iranian Plateau"],
-    "a": 2,
-    "explanation": "The Tibetan Plateau is called the Roof of the World."
-  },
-  {
-    "q": "Which body resolves disputes between the Centre and States?",
-    "options": ["Parliament","Supreme Court","High Court","Election Commission"],
+    "q": "Which stage of development is known as the 'Golden Age' or 'Toy Age'?",
+    "options": ["Infancy", "Early Childhood", "Later Childhood", "Adolescence"],
     "a": 1,
-    "explanation": "The Supreme Court settles Centre–State disputes."
+    "explanation": "Early childhood (2-6 years) is characterized by high curiosity and play with toys."
   },
   {
-    "q": "Who wrote the book ‘Arthashastra’?",
-    "options": ["Kalidasa","Chanakya","Panini","Banabhatta"],
+    "q": "Who is the father of the 'Behaviorism' school of psychology?",
+    "options": ["J.B. Watson", "William James", "Wilhelm Wundt", "Abraham Maslow"],
+    "a": 0,
+    "explanation": "John B. Watson established the behaviorist school, focusing on observable behavior."
+  },
+  {
+    "q": "The 'Discovery Learning' model was proposed by:",
+    "options": ["David Ausubel", "Jerome Bruner", "Robert Gagne", "Albert Bandura"],
     "a": 1,
-    "explanation": "Chanakya (Kautilya) authored Arthashastra."
+    "explanation": "Bruner advocated for students to discover principles for themselves."
   },
   {
-    "q": "Which state has the longest coastline in India?",
-    "options": ["Tamil Nadu","Andhra Pradesh","Gujarat","Kerala"],
+    "q": "'नायक' शब्द में कौन सी संधि है?",
+    "options": ["गुण संधि", "वृद्धि संधि", "अयादि संधि", "यण संधि"],
     "a": 2,
-    "explanation": "Gujarat has the longest coastline in India."
+    "explanation": "नै + अक = नायक (अयादि संधि)।"
   },
   {
-    "q": "Which institution conducts elections in India?",
-    "options": ["Supreme Court","Parliament","Election Commission","President"],
+    "q": "'यथाशक्ति' में कौन सा समास है?",
+    "options": ["तत्पुरुष", "द्विगु", "अव्ययीभाव", "बहुव्रीहि"],
     "a": 2,
-    "explanation": "The Election Commission conducts free and fair elections."
+    "explanation": "जहाँ प्रथम पद अव्यय हो, वहाँ अव्ययीभाव समास होता है।"
+  },
+  {
+    "q": "निम्न में से 'तद्भव' शब्द छाँटिए:",
+    "options": ["अग्नि", "पुष्प", "हाथ", "सूर्य"],
+    "a": 2,
+    "explanation": "'हाथ' तद्भव है, इसका तत्सम 'हस्त' होता है।"
+  },
+  {
+    "q": "'अंधे की लाठी' मुहावरे का सही अर्थ है:",
+    "options": ["बहुत कमजोर होना", "एकमात्र सहारा", "मूर्ख व्यक्ति", "अंधे व्यक्ति का सहायक"],
+    "a": 1,
+    "explanation": "इसका अर्थ है किसी का इकलौता सहारा होना।"
+  },
+  {
+    "q": "जो 'सब कुछ जानता हो' - वाक्यांश के लिए एक शब्द है:",
+    "options": ["अल्पज्ञ", "बहुज्ञ", "सर्वज्ञ", "अभिज्ञ"],
+    "a": 2,
+    "explanation": "सब कुछ जानने वाले को सर्वज्ञ कहते हैं।"
+  },
+  {
+    "q": "शिक्षण की 'आगमन विधि' (Inductive Method) चलती है:",
+    "options": ["नियम से उदाहरण की ओर", "उदाहरण से नियम की ओर", "सूक्ष्म से स्थूल की ओर", "अमूर्त से मूर्त की ओर"],
+    "a": 1,
+    "explanation": "आगमन विधि में पहले उदाहरण दिए जाते हैं, फिर नियम निकाला जाता है।"
+  },
+  {
+    "q": "इनमें से कौन सा 'स्त्रीलिंग' शब्द है?",
+    "options": ["घी", "दही", "नदी", "पानी"],
+    "a": 2,
+    "explanation": "हिंदी में नदी स्त्रीलिंग है, जबकि घी, दही, पानी पुल्लिंग माने जाते हैं।"
+  },
+  {
+    "q": "Identify the 'Conjunction' in: 'I wanted to go, but I was tired.'",
+    "options": ["Wanted", "Go", "But", "Tired"],
+    "a": 2,
+    "explanation": "'But' connects two independent clauses."
+  },
+  {
+    "q": "Choose the correct spelling:",
+    "options": ["Accomodation", "Accommodation", "Acomodation", "Accommadation"],
+    "a": 1,
+    "explanation": "The correct spelling has double 'c' and double 'm'."
+  },
+  {
+    "q": "The antonym of 'Transparent' is:",
+    "options": ["Clear", "Opaque", "Bright", "Fragile"],
+    "a": 1,
+    "explanation": "Opaque means not able to be seen through; the opposite of transparent."
+  },
+  {
+    "q": "Convert to Direct Speech: 'She said that she was happy.'",
+    "options": ["She said, \"I am happy.\"", "She said, \"She is happy.\"", "She says, \"I am happy.\"", "She said, \"I was happy.\""],
+    "a": 0,
+    "explanation": "In direct speech, 'was' changes back to 'am' and 'that' is removed."
+  },
+  {
+    "q": "Which method of teaching English focuses on 'translation' and 'rules of grammar'?",
+    "options": ["Direct Method", "Grammar-Translation Method", "Bilingual Method", "Audio-Lingual Method"],
+    "a": 1,
+    "explanation": "GT method is the traditional method focusing on translating texts."
+  },
+  {
+    "q": "Select the correct collective noun: 'A ________ of wolves.'",
+    "options": ["Flock", "Herd", "Pack", "Swarm"],
+    "a": 2,
+    "explanation": "A group of wolves is called a pack."
+  },
+  {
+    "q": "Choose the correct preposition: 'The cat is sitting ________ the table.'",
+    "options": ["in", "under", "between", "into"],
+    "a": 1,
+    "explanation": "'Under' indicates the position beneath the table."
+  },
+  {
+    "q": "The 'Ibn Battuta', a famous traveler, came to India during the reign of:",
+    "options": ["Alauddin Khalji", "Muhammad bin Tughlaq", "Firoz Shah Tughlaq", "Iltutmish"],
+    "a": 1,
+    "explanation": "Ibn Battuta visited India during the 14th century when Tughlaq was the Sultan."
+  },
+  {
+    "q": "The 'Great Bath' was found in which site of the Indus Valley Civilization?",
+    "options": ["Harappa", "Mohenjo-daro", "Lothal", "Kalibangan"],
+    "a": 1,
+    "explanation": "The Great Bath is one of the most well-known structures of Mohenjo-daro."
+  },
+  {
+    "q": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+    "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+    "a": 1,
+    "explanation": "Venus is highly visible in the sky before sunrise or after sunset."
+  },
+  {
+    "q": "Which Fundamental Right was described by Dr. B.R. Ambedkar as the 'Heart and Soul' of the Constitution?",
+    "options": ["Right to Equality", "Right to Freedom", "Right to Constitutional Remedies", "Right against Exploitation"],
+    "a": 2,
+    "explanation": "Article 32 allows citizens to approach courts for the enforcement of rights."
+  },
+  {
+    "q": "The 'Standard Meridian' of India passes through which city?",
+    "options": ["Mirzapur", "Patna", "Nagpur", "Jaipur"],
+    "a": 0,
+    "explanation": "82°30' E passes through Mirzapur (UP) and is taken as the Indian Standard Time."
+  },
+  {
+    "q": "Who wrote the book 'Discovery of India'?",
+    "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Subhash Chandra Bose", "Rabindranath Tagore"],
+    "a": 1,
+    "explanation": "Nehru wrote this book during his imprisonment in Ahmednagar Fort (1942–46)."
+  },
+  {
+    "q": "The 'Continental Drift Theory' was proposed by:",
+    "options": ["Alfred Wegener", "Harry Hess", "Charles Darwin", "Eratosthenes"],
+    "a": 0,
+    "explanation": "Wegener proposed in 1912 that continents were once a single landmass called Pangea."
+  },
+  {
+    "q": "Which institution in India is known as the 'Upper House' of Parliament?",
+    "options": ["Lok Sabha", "Rajya Sabha", "Vidhan Sabha", "Supreme Court"],
+    "a": 1,
+    "explanation": "The Rajya Sabha is the Council of States and the permanent Upper House."
+  },
+  {
+    "q": "The 'Bhakti Movement' in South India was led by Alvars and Nayanars. Alvars were devotees of:",
+    "options": ["Shiva", "Vishnu", "Shakti", "Ganesha"],
+    "a": 1,
+    "explanation": "Alvars were Vaishnavite saints, while Nayanars were Shaivite saints."
+  },
+  {
+    "q": "Which soil is most suitable for growing 'Cotton' in India?",
+    "options": ["Alluvial Soil", "Red Soil", "Black Soil", "Laterite Soil"],
+    "a": 2,
+    "explanation": "Black soil (Regur) is rich in clay and moisture-retentive, ideal for cotton."
+  },
+  {
+    "q": "Who was the Chairman of the Drafting Committee of the Indian Constitution?",
+    "options": ["Dr. Rajendra Prasad", "Dr. B.R. Ambedkar", "Sardar Patel", "J.L. Nehru"],
+    "a": 1,
+    "explanation": "Ambedkar chaired the committee responsible for drafting the Constitution."
+  },
+  {
+    "q": "The 'Quit India Movement' was launched in response to the failure of:",
+    "options": ["Cabinet Mission", "Cripps Mission", "Simon Commission", "Wavell Plan"],
+    "a": 1,
+    "explanation": "The failure of the Cripps Mission in 1942 led to the launch of 'Bharat Chhodo Andolan'."
+  },
+  {
+    "q": "Which state of India shares boundaries with maximum number of other states?",
+    "options": ["Madhya Pradesh", "Rajasthan", "Uttar Pradesh", "Maharashtra"],
+    "a": 2,
+    "explanation": "Uttar Pradesh shares borders with 8 states and 1 Union Territory."
+  },
+  {
+    "q": "The 'Panchayati Raj' system was first inaugurated in which district of Rajasthan?",
+    "options": ["Jaipur", "Nagaur", "Ajmer", "Bikaner"],
+    "a": 1,
+    "explanation": "It was inaugurated by PM Nehru in Nagaur district on Oct 2, 1959."
+  },
+  {
+    "q": "Which forest type is also known as 'Monsoon Forest'?",
+    "options": ["Tropical Evergreen", "Tropical Deciduous", "Mangrove", "Montane"],
+    "a": 1,
+    "explanation": "Tropical Deciduous forests shed their leaves in the dry season and are common in India."
   }
 ]
