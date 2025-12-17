@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>PrepOne</title>
+  <title>PrepOne – Exam Prep App</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="css/style.css">
   <link rel="manifest" href="manifest.json">
@@ -16,10 +16,12 @@
   <!-- LOGIN -->
   <div id="login" class="card">
     <input id="email" placeholder="Enter Email">
+
     <label class="checkbox">
       <input type="checkbox" id="agree">
-      I agree to <a href="policies.html" target="_blank">Terms & Policies</a>
+      I agree to <a href="policies.html" target="_blank">Terms, Privacy & Refund Policy</a>
     </label>
+
     <button class="primary" onclick="login()">Continue</button>
   </div>
 
@@ -46,6 +48,12 @@
     </select>
 
     <p id="limit"></p>
+
+    <!-- TEST MODE (ONLY FOR YOU) -->
+    <label class="checkbox">
+      <input type="checkbox" id="testMode">
+      Enable TEST MODE (Admin)
+    </label>
 
     <button class="primary" onclick="startFlow()">Start Next Mock</button>
     <button class="secondary" onclick="showHistory()">Test History</button>
@@ -93,5 +101,3 @@ if ("serviceWorker" in navigator) {
 </script>
 </body>
 </html>
-
-
