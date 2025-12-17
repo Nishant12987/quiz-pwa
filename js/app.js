@@ -1,3 +1,4 @@
+const TEST_MODE = true; // ← set false before final launch
 let questions = [];
 let answers = [];
 let index = 0;
