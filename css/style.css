@@ -1,11 +1,11 @@
 body {
-  font-family: Arial, sans-serif;
-  background: #eef2ff;
   margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f0f2ff;
 }
 
 .app {
-  max-width: 800px;
+  max-width: 900px;
   margin: auto;
   padding: 20px;
 }
@@ -17,7 +17,7 @@ body {
   padding: 20px;
   margin-bottom: 20px;
   border-radius: 12px;
-  box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+  box-shadow: 0 10px 25px rgba(0,0,0,0.1);
 }
 
 input, select, button {
@@ -32,22 +32,10 @@ input, select, button {
   border: none;
 }
 
-.secondary {
-  background: #dde3ff;
-  border: none;
-}
-
 .danger {
   background: #ff4d4f;
   color: white;
   border: none;
-}
-
-.price-box {
-  background: #f5f7ff;
-  padding: 10px;
-  border-radius: 8px;
-  margin: 10px 0;
 }
 
 .note {
@@ -55,9 +43,24 @@ input, select, button {
   color: #555;
 }
 
+.ad-box {
+  height: 120px;
+  background: #ddd;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 15px 0;
+  font-weight: bold;
+}
+
 .topbar {
   display: flex;
   justify-content: space-between;
   font-weight: bold;
 }
+
+#options button {
+  background: #eef;
+}
+
 
