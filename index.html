@@ -1,90 +1,99 @@
-let freeUsed = localStorage.getItem("freeUsed") === "true";
-let isPaid = localStorage.getItem("isPaid") === "true";
-let timer, timeLeft = 2400;
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>PrepOne – Exam Prep App</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="manifest" href="manifest.json">
+</head>
 
-function login() {
-  const email = emailInput();
-  if (!email) return alert("Enter email");
-  localStorage.setItem("user", email);
-  showDashboard();
+<body>
+<div class="app">
+
+  <h2 class="center">PrepOne</h2>
+
+  <!-- LOGIN -->
+  <div id="login" class="card">
+    <input id="email" placeholder="Enter Email">
+    <p class="note">Progress saved on this device</p>
+
+    <label class="checkbox">
+      <input type="checkbox" id="agree">
+      I agree to <a href="policies.html" target="_blank">Terms, Privacy & Refund Policy</a>
+    </label>
+
+    <button class="primary" onclick="login()">Continue</button>
+  </div>
+
+  <!-- DASHBOARD -->
+  <div id="dashboard" class="card" style="display:none">
+    <h3 id="welcome"></h3>
+
+    <select id="level">
+      <option value="">Select REET Level</option>
+      <option value="level1">REET Level 1</option>
+      <option value="level2">REET Level 2</option>
+    </select>
+
+    <select id="stream" style="display:none">
+      <option value="">Select Stream</option>
+      <option value="science">Maths & Science</option>
+      <option value="sst">Social Studies</option>
+    </select>
+
+    <select id="language">
+      <option value="">Select Language</option>
+      <option value="english">English</option>
+      <option value="hindi">Hindi</option>
+    </select>
+
+    <p id="limit"></p>
+
+    <button class="primary" onclick="startFlow()">Start Test</button>
+    <button class="secondary" onclick="showHistory()">Test History</button>
+  </div>
+
+  <!-- QUIZ -->
+  <div id="quiz" class="card" style="display:none">
+    <div class="topbar">
+      <span id="qCounter"></span>
+      <span id="time"></span>
+    </div>
+
+    <h3 id="question"></h3>
+    <div id="options"></div>
+
+    <div class="nav">
+      <button onclick="prevQ()">Previous</button>
+      <button onclick="nextQ()">Next</button>
+      <button class="danger" onclick="finishQuiz()">Finish</button>
+    </div>
+  </div>
+
+  <!-- RESULT -->
+  <div id="result" class="card" style="display:none">
+    <h3 id="resultTitle"></h3>
+    <p id="finalScore"></p>
+    <p id="finalMsg"></p>
+    <button class="primary" onclick="showDashboard()">Back</button>
+  </div>
+
+  <!-- HISTORY -->
+  <div id="history" class="card" style="display:none">
+    <h3>Test History</h3>
+    <div id="historyList"></div>
+    <button class="secondary" onclick="showDashboard()">Back</button>
+  </div>
+
+</div>
+
+<script src="js/app.js"></script>
+<script>
+if("serviceWorker" in navigator){
+  navigator.serviceWorker.register("service-worker.js");
 }
+</script>
+</body>
+</html>
 
-function showDashboard() {
-  hideAll();
-  show("dashboard");
-  welcome.innerText = "Welcome to PrepOne";
-  accessMsg.innerText = isPaid
-    ? "Full access unlocked"
-    : freeUsed
-      ? "Free test used. Unlock full tests."
-      : "You have 1 free test available";
-}
-
-function startTest() {
-  if (!isPaid && freeUsed) {
-    alert("Please unlock full tests");
-    showUnlock();
-    return;
-  }
-  hideAll();
-  show("quiz");
-  timeLeft = 2400;
-  startTimer();
-  loadQuestion();
-}
-
-function loadQuestion() {
-  qCounter.innerText = "Sample Question";
-  question.innerText = "PrepOne sample REET question";
-  options.innerHTML = "";
-  ["A","B","C","D"].forEach(o => {
-    let b = document.createElement("button");
-    b.innerText = o;
-    b.onclick = finish;
-    options.appendChild(b);
-  });
-}
-
-function finish() {
-  clearInterval(timer);
-  hideAll();
-  show("result");
-
-  if (!isPaid) localStorage.setItem("freeUsed","true");
-
-  resultTitle.innerText = "Test Completed";
-  scoreText.innerText = "Score calculated";
-  motivation.innerText = isHindi()
-    ? "अच्छा प्रयास! अभ्यास जारी रखें।"
-    : "Good effort! Keep practicing.";
-}
-
-function showUnlock() {
-  hideAll();
-  show("unlock");
-}
-
-function confirmPayment() {
-  localStorage.setItem("isPaid","true");
-  isPaid = true;
-  alert("Access unlocked on this device");
-  showDashboard();
-}
-
-function startTimer() {
-  timer = setInterval(() => {
-    timeLeft--;
-    time.innerText = Math.floor(timeLeft/60)+":"+String(timeLeft%60).padStart(2,"0");
-    if (timeLeft <= 0) finish();
-  },1000);
-}
-
-function hideAll() {
-  ["login","dashboard","quiz","result","unlock"].forEach(id=>{
-    let e=document.getElementById(id);
-    if(e) e.style.display="none";
-  });
-}
-function show(id){document.getElementById(id).style.display="block";}
-function emailInput(){return document.getElementById("email").value;}
-function isHindi(){return false;}
