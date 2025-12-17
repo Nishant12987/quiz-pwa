@@ -1,0 +1,236 @@
+[
+  {
+    "q": "According to Kohlberg, moral development in primary children is mainly influenced by:",
+    "options": ["Abstract reasoning","Fear of punishment","Social contracts","Universal ethics"],
+    "a": 1,
+    "explanation": "At early stages, children judge actions based on consequences like reward or punishment."
+  },
+  {
+    "q": "Which teaching strategy best supports constructivist learning in classrooms?",
+    "options": ["Lecture-based teaching","Drill and practice","Group activities","Textbook reading"],
+    "a": 2,
+    "explanation": "Constructivism emphasizes learning through interaction and shared experiences."
+  },
+  {
+    "q": "A child learns best when new knowledge is linked to:",
+    "options": ["Examinations","Previous experiences","Strict rules","Rewards"],
+    "a": 1,
+    "explanation": "Learning becomes meaningful when connected with prior knowledge."
+  },
+  {
+    "q": "Which of the following reflects emotional development in children?",
+    "options": ["Solving sums quickly","Showing empathy","Reading fluently","Good handwriting"],
+    "a": 1,
+    "explanation": "Empathy shows understanding and managing emotions."
+  },
+  {
+    "q": "The role of a teacher in activity-based learning is mainly to:",
+    "options": ["Control students","Provide information","Facilitate learning","Evaluate only"],
+    "a": 2,
+    "explanation": "In activity-based learning, teachers guide and support students."
+  },
+  {
+    "q": "Which principle states that learning proceeds from simple to complex?",
+    "options": ["Readiness","Maturation","Progression","Continuity"],
+    "a": 2,
+    "explanation": "Progression ensures concepts move from simple to complex."
+  },
+  {
+    "q": "Which assessment focuses on diagnosing learning difficulties?",
+    "options": ["Summative","Norm-referenced","Diagnostic","Placement"],
+    "a": 2,
+    "explanation": "Diagnostic assessment identifies learning gaps and difficulties."
+  },
+  {
+    "q": "Which factor is least responsible for individual differences?",
+    "options": ["Heredity","Environment","Motivation","School uniform"],
+    "a": 3,
+    "explanation": "School uniform does not affect individual learning differences."
+  },
+  {
+    "q": "Learning through imitation is best explained by:",
+    "options": ["Trial and error","Insight learning","Social learning theory","Classical conditioning"],
+    "a": 2,
+    "explanation": "Bandura emphasized learning by observing others."
+  },
+  {
+    "q": "Which classroom environment supports positive mental health?",
+    "options": ["Fear-based discipline","Rigid rules","Supportive atmosphere","Competition only"],
+    "a": 2,
+    "explanation": "Supportive classrooms help emotional and mental well-being."
+  },
+  {
+    "q": "Which stage of development focuses on growth of fine motor skills?",
+    "options": ["Emotional","Social","Physical","Moral"],
+    "a": 2,
+    "explanation": "Fine motor skills are part of physical development."
+  },
+  {
+    "q": "Which method encourages self-learning among children?",
+    "options": ["Lecture method","Project method","Recitation","Explanation"],
+    "a": 1,
+    "explanation": "Project method promotes independent thinking and exploration."
+  },
+  {
+    "q": "‘राम स्कूल जा रहा है।’ इस वाक्य में क्रिया का भेद है:",
+    "options": ["सकर्मक","अकर्मक","संयुक्त","प्रेरणार्थक"],
+    "a": 1,
+    "explanation": "यहाँ क्रिया का कोई कर्म नहीं है, इसलिए अकर्मक है।"
+  },
+  {
+    "q": "‘सुंदर’ शब्द का भाववाचक संज्ञा रूप है:",
+    "options": ["सुंदरता","सुंदरी","सौंदर्य","सुंदरपन"],
+    "a": 0,
+    "explanation": "‘सुंदरता’ गुण से बनी भाववाचक संज्ञा है।"
+  },
+  {
+    "q": "निम्न में से कौन-सा वाक्य अशुद्ध है?",
+    "options": ["वह घर गया।","मैंने पुस्तक पढ़ी।","वे बाजार जाता है।","हम खेल रहे हैं।"],
+    "a": 2,
+    "explanation": "कर्ता-क्रिया में वचन की संगति नहीं है।"
+  },
+  {
+    "q": "‘ज्ञान’ शब्द का विलोम है:",
+    "options": ["बुद्धि","अज्ञान","विवेक","चेतना"],
+    "a": 1,
+    "explanation": "ज्ञान का विपरीत अर्थ अज्ञान होता है।"
+  },
+  {
+    "q": "निम्न में से देशज शब्द कौन-सा है?",
+    "options": ["पुस्तक","आकाश","लोटा","विद्यालय"],
+    "a": 2,
+    "explanation": "‘लोटा’ देशज शब्द है।"
+  },
+  {
+    "q": "भाषा शिक्षण में कविता का उपयोग मुख्यतः किसके लिए किया जाता है?",
+    "options": ["व्याकरण","रुचि और लय","अनुवाद","लेखन"],
+    "a": 1,
+    "explanation": "कविता बच्चों में लय और रुचि विकसित करती है।"
+  },
+  {
+    "q": "श्रवण कौशल के विकास के लिए सबसे उपयुक्त गतिविधि है:",
+    "options": ["पठन","कहानी सुनना","नकल","लेखन"],
+    "a": 1,
+    "explanation": "कहानी सुनने से ध्यानपूर्वक सुनने की आदत बनती है।"
+  },
+  {
+    "q": "Which of the following is a productive language skill?",
+    "options": ["Listening","Reading","Speaking","Viewing"],
+    "a": 2,
+    "explanation": "Speaking involves producing language."
+  },
+  {
+    "q": "Language learning becomes effective when errors are treated as:",
+    "options": ["Failures","Punishable","Natural process","Carelessness"],
+    "a": 2,
+    "explanation": "Errors are a natural part of language learning."
+  },
+  {
+    "q": "Which activity integrates listening and speaking skills?",
+    "options": ["Silent reading","Role play","Grammar exercise","Copy writing"],
+    "a": 1,
+    "explanation": "Role play involves both listening and speaking."
+  },
+  {
+    "q": "Which approach focuses on learners’ needs and interests?",
+    "options": ["Structural","Teacher-centered","Learner-centered","Audio-lingual"],
+    "a": 2,
+    "explanation": "Learner-centered approach prioritizes students’ needs."
+  },
+  {
+    "q": "Which is the correct plural form of ‘child’?",
+    "options": ["Childs","Children","Childes","Childrens"],
+    "a": 1,
+    "explanation": "‘Children’ is the correct plural form."
+  },
+  {
+    "q": "Reading aloud in class mainly helps in improving:",
+    "options": ["Writing","Pronunciation","Grammar","Vocabulary only"],
+    "a": 1,
+    "explanation": "Reading aloud improves pronunciation and fluency."
+  },
+  {
+    "q": "Which assessment tool best evaluates speaking skills?",
+    "options": ["Written test","Observation checklist","MCQs","Worksheet"],
+    "a": 1,
+    "explanation": "Observation helps assess speaking performance."
+  },
+  {
+    "q": "Which sentence is in past tense?",
+    "options": ["She writes a letter.","She is writing a letter.","She wrote a letter.","She will write a letter."],
+    "a": 2,
+    "explanation": "‘Wrote’ indicates past tense."
+  },
+  {
+    "q": "What is the place value of 7 in 3,472?",
+    "options": ["7","70","700","7000"],
+    "a": 2,
+    "explanation": "7 is in the hundreds place."
+  },
+  {
+    "q": "Which number comes next in the pattern: 2, 4, 8, 16, ___?",
+    "options": ["18","24","32","20"],
+    "a": 2,
+    "explanation": "Each number is multiplied by 2."
+  },
+  {
+    "q": "How many sides does a pentagon have?",
+    "options": ["4","5","6","7"],
+    "a": 1,
+    "explanation": "A pentagon has five sides."
+  },
+  {
+    "q": "If a book costs ₹120, how much will 3 books cost?",
+    "options": ["₹240","₹360","₹300","₹180"],
+    "a": 1,
+    "explanation": "120 × 3 = 360."
+  },
+  {
+    "q": "Which unit is used to measure weight?",
+    "options": ["Meter","Liter","Kilogram","Second"],
+    "a": 2,
+    "explanation": "Kilogram is the unit of weight."
+  },
+  {
+    "q": "Which of the following is a 3D shape?",
+    "options": ["Circle","Triangle","Cube","Square"],
+    "a": 2,
+    "explanation": "Cube has length, breadth, and height."
+  },
+  {
+    "q": "Which sense organ helps us to smell?",
+    "options": ["Eyes","Ears","Nose","Tongue"],
+    "a": 2,
+    "explanation": "Nose detects smell."
+  },
+  {
+    "q": "Which season comes after winter in India?",
+    "options": ["Monsoon","Summer","Spring","Autumn"],
+    "a": 2,
+    "explanation": "Spring follows winter."
+  },
+  {
+    "q": "Which of the following animals is a herbivore?",
+    "options": ["Lion","Tiger","Cow","Dog"],
+    "a": 2,
+    "explanation": "Cow eats plants only."
+  },
+  {
+    "q": "Why are traffic rules important?",
+    "options": ["To increase speed","To avoid accidents","To waste time","To collect fines"],
+    "a": 1,
+    "explanation": "Traffic rules ensure road safety."
+  },
+  {
+    "q": "Which gas is essential for breathing?",
+    "options": ["Nitrogen","Carbon dioxide","Oxygen","Hydrogen"],
+    "a": 2,
+    "explanation": "Oxygen is required for respiration."
+  },
+  {
+    "q": "Which practice helps in conserving water?",
+    "options": ["Leaving taps open","Using water carefully","Washing roads daily","Overuse of water"],
+    "a": 1,
+    "explanation": "Careful use helps conserve water resources."
+  }
+]
