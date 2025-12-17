@@ -1,230 +1,242 @@
 [
   {
-    "q": "According to Erikson, children in the primary stage mainly face the crisis of:",
-    "options": ["Trust vs Mistrust","Autonomy vs Shame","Industry vs Inferiority","Identity vs Role confusion"],
-    "a": 2,
-    "explanation": "Primary-age children strive to develop competence and a sense of achievement."
-  },
-  {
-    "q": "Which principle of development states that growth follows a fixed sequence?",
-    "options": ["Individual difference","Continuity","Sequential development","General to specific"],
-    "a": 2,
-    "explanation": "Development occurs in a definite order such as crawling before walking."
-  },
-  {
-    "q": "Learning without reinforcement is emphasized in which theory?",
-    "options": ["Operant conditioning","Trial and error","Insight learning","Classical conditioning"],
-    "a": 2,
-    "explanation": "Insight learning focuses on sudden understanding without reinforcement."
-  },
-  {
-    "q": "Which teacher behavior promotes democratic classroom environment?",
-    "options": ["Strict control","Ignoring opinions","Encouraging discussion","Only lecturing"],
-    "a": 2,
-    "explanation": "Democratic classrooms value student opinions and participation."
-  },
-  {
-    "q": "Which type of motivation is driven by grades and prizes?",
-    "options": ["Intrinsic","Social","Extrinsic","Moral"],
-    "a": 2,
-    "explanation": "Extrinsic motivation comes from external rewards."
-  },
-  {
-    "q": "A slow learner mainly needs:",
-    "options": ["Punishment","Extra practice","Removal from class","Less attention"],
+    "q": "What is the main characteristic of the 'Concrete Operational' stage?",
+    "options": ["Abstract reasoning", "Logical thinking about physical objects", "Symbolic play", "Egocentric thought"],
     "a": 1,
-    "explanation": "Extra practice and support help slow learners improve."
+    "explanation": "In this Piagetian stage (7-11 years), children can think logically but only about physical, 'concrete' things."
   },
   {
-    "q": "Which method best develops creativity in children?",
-    "options": ["Drill method","Lecture method","Play-way method","Explanation method"],
+    "q": "In 'Trial and Error' theory, which factor is essential for learning according to Thorndike?",
+    "options": ["Imitation", "Insight", "Motivation/Drive", "Social pressure"],
     "a": 2,
-    "explanation": "Play-way method encourages imagination and creativity."
+    "explanation": "Without a need or motive (drive), the organism will not attempt to solve the problem or learn."
   },
   {
-    "q": "Which assessment is conducted at the end of a term?",
-    "options": ["Formative","Diagnostic","Summative","Placement"],
-    "a": 2,
-    "explanation": "Summative assessment evaluates learning after instruction."
-  },
-  {
-    "q": "Which factor directly affects attention in learning?",
-    "options": ["Seating arrangement","Interest","Uniform","Timetable"],
+    "q": "A teacher asks students to 'list all possible uses of a brick'. This is testing:",
+    "options": ["Convergent thinking", "Divergent thinking", "Memory", "Discipline"],
     "a": 1,
-    "explanation": "Interest increases focus and attention."
+    "explanation": "Divergent thinking involves generating many unique solutions to a single prompt, a key part of creativity."
   },
   {
-    "q": "Learning that remains for a long time is called:",
-    "options": ["Temporary learning","Surface learning","Permanent learning","Conditioned learning"],
-    "a": 2,
-    "explanation": "Permanent learning leads to long-term retention."
-  },
-  {
-    "q": "Which quality is essential for a primary teacher?",
-    "options": ["Authoritarian nature","Patience","Strictness","Indifference"],
+    "q": "The process of adjusting existing schemas to fit new information is called:",
+    "options": ["Assimilation", "Accommodation", "Equilibration", "Organization"],
     "a": 1,
-    "explanation": "Patience helps teachers handle diverse learners."
+    "explanation": "Accommodation involves modifying internal mental structures to account for new data."
   },
   {
-    "q": "Which approach considers children as active learners?",
-    "options": ["Teacher-centered","Behaviorist","Constructivist","Authoritative"],
-    "a": 2,
-    "explanation": "Constructivism views learners as active participants."
-  },
-  {
-    "q": "‘सीता ने फल खाया।’ इस वाक्य में क्रिया का भेद है:",
-    "options": ["अकर्मक","सकर्मक","संयुक्त","प्रेरणार्थक"],
+    "q": "Which assessment is used to certify students at the end of a term?",
+    "options": ["Formative", "Summative", "Diagnostic", "Placement"],
     "a": 1,
-    "explanation": "क्रिया का कर्म ‘फल’ है, इसलिए सकर्मक है।"
+    "explanation": "Summative assessments (like final exams) are used to evaluate learning at the end of a period."
   },
   {
-    "q": "‘बालक’ शब्द का स्त्रीलिंग रूप है:",
-    "options": ["बालिका","बच्ची","कन्या","लड़की"],
+    "q": "According to Maslow's hierarchy, which is the highest level of need?",
+    "options": ["Safety needs", "Esteem needs", "Social needs", "Self-actualization"],
+    "a": 3,
+    "explanation": "Self-actualization is the realization of one's full potential, sitting at the top of the pyramid."
+  },
+  {
+    "q": "What does 'ZPD' stand for in Vygotsky's theory?",
+    "options": ["Zone of Personal Development", "Zone of Proximal Development", "Zero Proximity Distance", "Zone of Progressive Development"],
+    "a": 1,
+    "explanation": "The Zone of Proximal Development is the gap between what a learner can do alone and what they can do with help."
+  },
+  {
+    "q": "A child who has difficulty with mathematical calculations likely has:",
+    "options": ["Dyslexia", "Dysgraphia", "Dyscalculia", "Dysphasia"],
+    "a": 2,
+    "explanation": "Dyscalculia is a specific learning disability in mathematics."
+  },
+  {
+    "q": "'दयानंद' में प्रयुक्त संधि का नाम है:",
+    "options": ["गुण संधि", "दीर्घ संधि", "व्यंजन संधि", "यण संधि"],
+    "a": 1,
+    "explanation": "दया + आनंद = दयानंद (आ + आ = आ), यह दीर्घ संधि का उदाहरण है।"
+  },
+  {
+    "q": "'चौराहा' में कौन सा समास है?",
+    "options": ["द्विगु", "द्वंद्व", "तत्पुरुष", "अव्ययीभाव"],
     "a": 0,
-    "explanation": "बालक का स्त्रीलिंग बालिका होता है।"
+    "explanation": "जिस समास का पहला पद संख्यावाचक हो (चौ = चार), वह द्विगु समास होता है।"
   },
   {
-    "q": "‘अंधकार’ शब्द का विलोम है:",
-    "options": ["काला","प्रकाश","छाया","धुंध"],
+    "q": "'उपकार' का विलोम शब्द है:",
+    "options": ["विकार", "अनुपकार", "अपकार", "तिरस्कार"],
+    "a": 2,
+    "explanation": "उपकार का विलोम 'अपकार' होता है।"
+  },
+  {
+    "q": "'नाक कटना' मुहावरे का अर्थ है:",
+    "options": ["चोट लगना", "इज्जत जाना", "बीमार होना", "झगड़ा करना"],
     "a": 1,
-    "explanation": "अंधकार का विलोम प्रकाश है।"
+    "explanation": "इसका प्रयोग प्रतिष्ठा या मान-सम्मान कम होने के संदर्भ में किया जाता है।"
   },
   {
-    "q": "निम्न में से कौन-सा शब्द तद्भव है?",
-    "options": ["अग्नि","नयन","आँख","जल"],
-    "a": 2,
-    "explanation": "‘आँख’ तद्भव शब्द है।"
-  },
-  {
-    "q": "भाषा शिक्षण में चित्रों का प्रयोग मुख्यतः किसलिए किया जाता है?",
-    "options": ["रटने के लिए","रुचि बढ़ाने के लिए","अनुवाद के लिए","व्याकरण के लिए"],
+    "q": "शुद्ध वाक्य का चयन कीजिए:",
+    "options": ["वह दंड देने योग्य है।", "वह दंड के योग्य है।", "वह दंड लेने योग्य है।", "वह दंड पाने योग्य है।"],
     "a": 1,
-    "explanation": "चित्र बच्चों की रुचि और समझ बढ़ाते हैं।"
+    "explanation": "सही वाक्य संरचना 'वह दंड के योग्य है' है।"
   },
   {
-    "q": "कौन-सा कौशल लिखित अभिव्यक्ति से संबंधित है?",
-    "options": ["श्रवण","वाचन","लेखन","संवाद"],
-    "a": 2,
-    "explanation": "लेखन लिखित अभिव्यक्ति का कौशल है।"
+    "q": "'तरणि' शब्द का अर्थ है:",
+    "options": ["सूर्य", "नाव", "युवती", "नदी"],
+    "a": 0,
+    "explanation": "'तरणि' (छोटी इ) का अर्थ सूर्य होता है, जबकि 'तरणी' (बड़ी ई) का अर्थ नाव होता है।"
   },
   {
-    "q": "भाषा शिक्षण में प्रश्नोत्तर विधि का उद्देश्य है:",
-    "options": ["डर पैदा करना","सक्रिय सहभागिता","केवल मूल्यांकन","समय नष्ट करना"],
+    "q": "भाषा शिक्षण की 'प्रत्यक्ष विधि' (Direct Method) में:",
+    "options": ["मातृभाषा का प्रयोग वर्जित है", "अनुवाद पर बल दिया जाता है", "व्याकरण के नियमों को रटाया जाता है", "चित्रों का प्रयोग नहीं होता"],
+    "a": 0,
+    "explanation": "प्रत्यक्ष विधि में लक्ष्य भाषा (जैसे अंग्रेजी) को सीधे बिना अनुवाद के सिखाया जाता है।"
+  },
+  {
+    "q": "कविता शिक्षण का मुख्य उद्देश्य है:",
+    "options": ["शब्दार्थ बोध", "रसानुभूति एवं आनंद", "व्याकरण ज्ञान", "लेखन सुधार"],
     "a": 1,
-    "explanation": "प्रश्नोत्तर से छात्र सक्रिय रूप से सीखते हैं।"
+    "explanation": "कविता का उद्देश्य भावनाओं को महसूस करना और साहित्यिक आनंद प्राप्त करना है।"
   },
   {
-    "q": "Which word is a noun?",
-    "options": ["Run","Beautiful","Happiness","Quickly"],
-    "a": 2,
-    "explanation": "‘Happiness’ is a naming word (noun)."
-  },
-  {
-    "q": "Which sentence is correct?",
-    "options": ["She do her work.","She did her work.","She doing her work.","She done her work."],
+    "q": "Choose the correctly punctuated sentence:",
+    "options": ["He said I am coming.", "He said, 'I am coming.'", "He said \"I am coming.\"", "He said, I am coming."],
     "a": 1,
-    "explanation": "‘Did’ is the correct past tense form."
+    "explanation": "Direct speech requires a comma before the opening quotation mark."
   },
   {
-    "q": "Which skill helps in understanding a written passage?",
-    "options": ["Speaking","Listening","Reading","Writing"],
+    "q": "Select the correct plural of 'Child'.",
+    "options": ["Childs", "Childes", "Children", "Childrens"],
     "a": 2,
-    "explanation": "Reading skill helps in comprehension."
+    "explanation": "Child has an irregular plural form: Children."
   },
   {
-    "q": "Which activity improves vocabulary most effectively?",
-    "options": ["Copying words","Using words in sentences","Memorizing lists","Dictation only"],
+    "q": "Which tense is used in: 'They are watching TV.'?",
+    "options": ["Simple present", "Present continuous", "Present perfect", "Past continuous"],
     "a": 1,
-    "explanation": "Using words in context strengthens vocabulary."
+    "explanation": "'Are watching' indicates an action currently in progress (Present Continuous)."
   },
   {
-    "q": "Which tense expresses future action?",
-    "options": ["I eat food.","I ate food.","I will eat food.","I am eating food."],
+    "q": "Choose the word with the correct prefix for 'Fortune'.",
+    "options": ["Unfortune", "Infortune", "Misfortune", "Disfortune"],
     "a": 2,
-    "explanation": "‘Will eat’ shows future tense."
+    "explanation": "The prefix 'mis-' creates the word 'misfortune' (bad luck)."
   },
   {
-    "q": "Which punctuation mark is used at the end of a question?",
-    "options": ["Full stop","Comma","Question mark","Exclamation mark"],
+    "q": "Which part of speech is 'Alas!'?",
+    "options": ["Conjunction", "Preposition", "Interjection", "Adverb"],
     "a": 2,
-    "explanation": "A question mark ends an interrogative sentence."
+    "explanation": "Interjections express sudden emotions or feelings."
   },
   {
-    "q": "Which is the smallest 3-digit number?",
-    "options": ["99","100","101","111"],
+    "q": "The primary objective of 'Remedial Teaching' is:",
+    "options": ["To teach new topics", "To fill learning gaps", "To punish slow learners", "To prepare for exams only"],
     "a": 1,
-    "explanation": "100 is the smallest three-digit number."
+    "explanation": "Remedial teaching addresses specific learning weaknesses identified during diagnosis."
   },
   {
-    "q": "What is the result of 45 ÷ 5?",
-    "options": ["7","8","9","10"],
-    "a": 2,
-    "explanation": "45 divided by 5 equals 9."
-  },
-  {
-    "q": "Which fraction is greater?",
-    "options": ["1/4","1/3","1/5","1/6"],
+    "q": "Choose the correct sentence in 'Present Perfect Tense':",
+    "options": ["He finished the work.", "He has finished the work.", "He had finished the work.", "He is finishing the work."],
     "a": 1,
-    "explanation": "Among unit fractions, smaller denominator means larger value."
+    "explanation": "Present perfect uses 'has/have + past participle (V3)'."
   },
   {
-    "q": "How many hours are there in 2 days?",
-    "options": ["24","36","48","12"],
+    "q": "What is the feminine gender of 'Bachelor'?",
+    "options": ["Spinster", "Widow", "Nun", "Baroness"],
+    "a": 0,
+    "explanation": "Spinster is the standard feminine term for an unmarried woman (counterpart of bachelor)."
+  },
+  {
+    "q": "Find the average of 10, 20, 30, 40, and 50.",
+    "options": ["20", "25", "30", "35"],
     "a": 2,
-    "explanation": "1 day = 24 hours, so 2 days = 48 hours."
+    "explanation": "(10+20+30+40+50) / 5 = 150 / 5 = 30."
   },
   {
-    "q": "Which shape has no corners?",
-    "options": ["Square","Triangle","Circle","Rectangle"],
-    "a": 2,
-    "explanation": "A circle has no corners."
-  },
-  {
-    "q": "Which operation is used to find total?",
-    "options": ["Subtraction","Division","Addition","Multiplication"],
-    "a": 2,
-    "explanation": "Addition is used to find total."
-  },
-  {
-    "q": "Which part of a plant makes food?",
-    "options": ["Root","Stem","Leaf","Flower"],
-    "a": 2,
-    "explanation": "Leaves prepare food by photosynthesis."
-  },
-  {
-    "q": "Which source gives us milk?",
-    "options": ["Hen","Cow","Dog","Goat"],
+    "q": "The Roman numeral for 50 is:",
+    "options": ["X", "L", "C", "D"],
     "a": 1,
-    "explanation": "Cow is a common source of milk."
+    "explanation": "In Roman numerals: X=10, L=50, C=100, D=500."
   },
   {
-    "q": "Which festival is known as the festival of lights?",
-    "options": ["Holi","Diwali","Eid","Christmas"],
+    "q": "What is 1/4 + 1/4?",
+    "options": ["1/8", "2/8", "1/2", "1/4"],
+    "a": 2,
+    "explanation": "1/4 + 1/4 = 2/4. Simplified, 2/4 = 1/2."
+  },
+  {
+    "q": "A leap year has how many days?",
+    "options": ["364", "365", "366", "367"],
+    "a": 2,
+    "explanation": "A leap year occurs every 4 years and has one extra day in February."
+  },
+  {
+    "q": "What is the product of 15 and 6?",
+    "options": ["80", "90", "100", "110"],
     "a": 1,
-    "explanation": "Diwali is celebrated with lamps and lights."
+    "explanation": "15 x 6 = 90."
   },
   {
-    "q": "Which object floats on water?",
-    "options": ["Stone","Iron nail","Wood","Coin"],
-    "a": 2,
-    "explanation": "Wood floats due to lower density."
+    "q": "How many centimeters are in 5 meters?",
+    "options": ["50", "500", "5000", "5"],
+    "a": 1,
+    "explanation": "1 meter = 100 cm. So, 5 meters = 500 cm."
   },
   {
-    "q": "Which habit keeps us healthy?",
-    "options": ["Skipping meals","Eating junk food","Washing hands","Sleeping late"],
+    "q": "The smallest 4-digit number is:",
+    "options": ["1111", "1001", "1000", "9999"],
     "a": 2,
-    "explanation": "Washing hands prevents diseases."
+    "explanation": "The counting starts from 1000 for 4-digit numbers."
   },
   {
-    "q": "Which direction does the sun rise from?",
-    "options": ["West","North","East","South"],
-    "a": 2,
-    "explanation": "The sun rises in the east."
+    "q": "If 3x = 12, then x is:",
+    "options": ["2", "4", "6", "9"],
+    "a": 1,
+    "explanation": "x = 12 / 3 = 4."
   },
   {
-    "q": "Which vehicle runs on tracks?",
-    "options": ["Bus","Car","Train","Bicycle"],
+    "q": "Which of the following is an example of a pulse?",
+    "options": ["Rice", "Gram", "Maize", "Bajra"],
+    "a": 1,
+    "explanation": "Grams (Chana) are legumes/pulses. Rice, Maize, and Bajra are cereals."
+  },
+  {
+    "q": "Which animal is called the 'Ship of the Desert'?",
+    "options": ["Horse", "Donkey", "Camel", "Elephant"],
     "a": 2,
-    "explanation": "Trains run on railway tracks."
+    "explanation": "Camels are adapted to move across sand dunes with ease and can survive without water for long periods."
+  },
+  {
+    "q": "What is the main source of water on Earth?",
+    "options": ["River", "Lake", "Rain", "Well"],
+    "a": 2,
+    "explanation": "Rain (precipitation) is the primary natural source that replenishes other water bodies."
+  },
+  {
+    "q": "Which sense organ helps us to smell?",
+    "options": ["Eye", "Ear", "Nose", "Tongue"],
+    "a": 2,
+    "explanation": "The nose contains olfactory receptors that detect scents."
+  },
+  {
+    "q": "The process of a seed growing into a plant is called:",
+    "options": ["Photosynthesis", "Germination", "Pollination", "Transpiration"],
+    "a": 1,
+    "explanation": "Germination is the biological process where a seed develops into a seedling."
+  },
+  {
+    "q": "Which of the following is a non-living thing?",
+    "options": ["Bird", "Tree", "Stone", "Fish"],
+    "a": 2,
+    "explanation": "A stone does not grow, breathe, or reproduce."
+  },
+  {
+    "q": "Our national flower is:",
+    "options": ["Rose", "Lily", "Lotus", "Sunflower"],
+    "a": 2,
+    "explanation": "The Lotus (Nelumbo nucifera) is the national flower of India."
+  },
+  {
+    "q": "Which part of the bird helps it to fly?",
+    "options": ["Beak", "Tail", "Wings", "Claws"],
+    "a": 2,
+    "explanation": "Wings and flight feathers provide the lift and thrust needed for flight."
   }
 ]
