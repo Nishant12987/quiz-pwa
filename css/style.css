@@ -1,59 +1,37 @@
-body {
-  margin: 0;
-  font-family: Arial, sans-serif;
-  background: #eef2ff;
+body{
+  margin:0;
+  font-family:Arial,sans-serif;
+  background:#eef2ff;
 }
+.app{
+  max-width:800px;
+  margin:auto;
+  padding:20px;
+}
+.center{text-align:center}
+.card{
+  background:white;
+  padding:20px;
+  margin-bottom:20px;
+  border-radius:12px;
+  box-shadow:0 10px 30px rgba(0,0,0,.1);
+}
+input,select,button{
+  width:100%;
+  padding:10px;
+  margin-top:10px;
+}
+.primary{background:#2563eb;color:white;border:none}
+.secondary{background:#e5e7eb;border:none}
+.danger{background:#dc2626;color:white;border:none}
+.topbar{
+  display:flex;
+  justify-content:space-between;
+  font-weight:bold;
+}
+#options button{background:#f1f5ff}
+.note{font-size:12px;color:#555}
+.checkbox{font-size:13px}
 
-.app {
-  max-width: 900px;
-  margin: auto;
-  padding: 20px;
-}
-
-.center {
-  text-align: center;
-}
-
-.card {
-  background: white;
-  padding: 20px;
-  margin-bottom: 20px;
-  border-radius: 12px;
-  box-shadow: 0 10px 25px rgba(0,0,0,0.08);
-}
-
-input, select, button {
-  width: 100%;
-  padding: 10px;
-  margin-top: 10px;
-}
-
-.primary {
-  background: #0a5cff;
-  color: white;
-  border: none;
-}
-
-.secondary {
-  background: #dde3ff;
-  border: none;
-}
-
-.danger {
-  background: #ff4d4f;
-  color: white;
-  border: none;
-}
-
-.checkbox {
-  margin-top: 10px;
-  font-size: 14px;
-}
-
-.topbar {
-  display: flex;
-  justify-content: space-between;
-  font-weight: bold;
-}
 
 
