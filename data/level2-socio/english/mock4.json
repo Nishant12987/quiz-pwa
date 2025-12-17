@@ -1,202 +1,242 @@
 [
   {
-    "q": "Which type of development is most affected by 'Socio-cultural' factors according to Vygotsky?",
+    "q": "Development most affected by 'Socio-cultural' factors according to Vygotsky:",
     "options": ["Physical", "Cognitive", "Biological", "Reflexive"],
-    "a": 1
+    "a": 1,
+    "explanation": "Vygotsky's theory emphasizes that social interaction and cultural tools lead to cognitive development."
   },
   {
-    "q": "The concept of 'Mental Age' was first introduced by:",
-    "options": ["Lewis Terman", "Alfred Binet", "David Wechsler", "Robert Sternberg"],
-    "a": 1
+    "q": "'Mental Age' concept first introduced by:",
+    "options": ["Terman", "Binet", "Wechsler", "Sternberg"],
+    "a": 1,
+    "explanation": "Alfred Binet introduced the concept of mental age in 1908 as a part of his intelligence tests."
   },
   {
-    "q": "Which of the following is a 'Projective Technique' for personality assessment?",
-    "options": ["Observation", "Interview", "Rorschach Inkblot Test", "Rating Scale"],
-    "a": 2
+    "q": "Projective Technique for personality assessment:",
+    "options": ["Observation", "Interview", "Rorschach Inkblot", "Rating Scale"],
+    "a": 2,
+    "explanation": "Projective tests use ambiguous stimuli to allow the subject to project their unconscious thoughts."
   },
   {
-    "q": "A teacher notices a student is very good at identifying patterns in nature and plants. Which intelligence is this?",
+    "q": "Good at nature patterns means high in which intelligence?",
     "options": ["Spatial", "Naturalistic", "Mathematical", "Musical"],
-    "a": 1
+    "a": 1,
+    "explanation": "Naturalistic intelligence is the ability to identify, classify, and manipulate elements of the environment."
   },
   {
-    "q": "'Learning by Doing' is the main principle of:",
+    "q": "'Learning by Doing' principle belongs to:",
     "options": ["Idealism", "Pragmatism", "Naturalism", "Realism"],
-    "a": 1
+    "a": 1,
+    "explanation": "Pragmatism (John Dewey) emphasizes active participation and learning through practical life experiences."
   },
   {
-    "q": "Which of the following is NOT a stage of creative thinking?",
+    "q": "NOT a stage of creative thinking:",
     "options": ["Preparation", "Incubation", "Verification", "Rote repetition"],
-    "a": 3
+    "a": 3,
+    "explanation": "Creativity involves Preparation, Incubation, Illumination, and Verification. Rote learning is mechanical."
   },
   {
-    "q": "The term 'Cephalocaudal' development means growth from:",
+    "q": "'Cephalocaudal' development direction:",
     "options": ["Center to periphery", "Head to toe", "Toe to head", "Specific to general"],
-    "a": 1
+    "a": 1,
+    "explanation": "Cephalocaudal means growth and motor control proceed from the head downward."
   },
   {
-    "q": "Which law of learning states that 'Practice makes perfect'?",
-    "options": ["Law of Readiness", "Law of Exercise", "Law of Effect", "Law of Recency"],
-    "a": 1
+    "q": "Law stating 'Practice makes perfect':",
+    "options": ["Readiness", "Exercise", "Effect", "Recency"],
+    "a": 1,
+    "explanation": "Thorndike's Law of Exercise states that connections are strengthened with practice."
   },
   {
-    "q": "In a 'Democratic' style of leadership, the teacher:",
-    "options": ["Takes all decisions alone", "Allows students to do whatever they want", "Consults with students and encourages participation", "Does not participate at all"],
-    "a": 2
+    "q": "Democratic teacher role:",
+    "options": ["Lone decision maker", "No control", "Participation and consultation", "No participation"],
+    "a": 2,
+    "explanation": "Democratic leadership involves shared decision-making and encouraging student input."
   },
   {
-    "q": "What is the I.Q. range of an 'Average' child?",
+    "q": "Average child IQ range:",
     "options": ["70-80", "90-109", "120-140", "Above 140"],
-    "a": 1
+    "a": 1,
+    "explanation": "Scores between 90 and 109 are statistically considered 'Average' on most IQ scales."
   },
   {
-    "q": "Which of these is a secondary agency of socialization?",
+    "q": "Secondary agency of socialization:",
     "options": ["Family", "School", "Peer group", "Parents"],
-    "a": 1
+    "a": 1,
+    "explanation": "School is a formal institution where secondary socialization occurs outside the family unit."
   },
   {
-    "q": "'दयानंद' में प्रयुक्त संधि का नाम है:",
-    "options": ["गुण संधि", "दीर्घ संधि", "व्यंजन संधि", "यण संधि"],
-    "a": 1
+    "q": "Sandhi in 'Dayanand':",
+    "options": ["Gun", "Deergh", "Vyanjan", "Yan"],
+    "a": 1,
+    "explanation": "Daya + Anand = Dayanand (A + A = A). This is Deergh Sandhi."
   },
   {
-    "q": "'चौराहा' में कौन सा समास है?",
-    "options": ["द्विगु", "द्वंद्व", "तत्पुरुष", "अव्ययीभाव"],
-    "a": 0
+    "q": "Samas in 'Chauraha':",
+    "options": ["Dvigu", "Dvandva", "Tatpurush", "Avyayibhav"],
+    "a": 0,
+    "explanation": "Since 'Chau' indicates the number 4, it is Dvigu Samas."
   },
   {
-    "q": "'उपकार' का विलोम शब्द है:",
-    "options": ["विकार", "अनुपकार", "अपकार", "तिरस्कार"],
-    "a": 2
+    "q": "Antonym of 'Upkar':",
+    "options": ["Vikar", "Anupkar", "Apkar", "Tiraskar"],
+    "a": 2,
+    "explanation": "'Apkar' (harm) is the direct antonym for 'Upkar' (favor/benefit)."
   },
   {
-    "q": "'नाक कटना' मुहावरे का अर्थ है:",
-    "options": ["चोट लगना", "इज्जत जाना", "बीमार होना", "झगड़ा करना"],
-    "a": 1
+    "q": "Meaning of 'Naak katna':",
+    "options": ["Injured", "Loss of prestige", "Illness", "Fight"],
+    "a": 1,
+    "explanation": "In Hindi, this idiom signifies a loss of honor or reputation."
   },
   {
-    "q": "शुद्ध वाक्य का चयन कीजिए:",
-    "options": ["वह दंड देने योग्य है।", "वह दंड के योग्य है।", "वह दंड लेने योग्य है।", "वह दंड पाने योग्य है।"],
-    "a": 1
+    "q": "Correct Hindi sentence:",
+    "options": ["Vah dand dene yogya hai", "Vah dand ke yogya hai", "Vah dand lene yogya hai", "Vah dand pane yogya hai"],
+    "a": 1,
+    "explanation": "The standard grammatical phrase is 'Dand ke yogya' (worthy of punishment)."
   },
   {
-    "q": "'तरणि' शब्द का अर्थ है:",
-    "options": ["सूर्य", "नाव", "युवती", "नदी"],
-    "a": 0
+    "q": "Meaning of 'Tarani' (short 'i'):",
+    "options": ["Sun", "Boat", "Lady", "River"],
+    "a": 0,
+    "explanation": "Tarani (short i) is Sun; Taranee (long ee) is Boat."
   },
   {
-    "q": "भाषा शिक्षण की 'प्रत्यक्ष विधि' (Direct Method) में:",
-    "options": ["मातृभाषा का प्रयोग वर्जित है", "अनुवाद पर बल दिया जाता है", "व्याकरण के नियमों को रटाया जाता है", "चित्रों का प्रयोग नहीं होता"],
-    "a": 0
+    "q": "Direct Method characteristic:",
+    "options": ["Mother tongue forbidden", "Translation focus", "Rote grammar", "No pictures"],
+    "a": 0,
+    "explanation": "The Direct Method prohibits the use of the native language, focusing on immersive learning."
   },
   {
-    "q": "Choose the correctly punctuated sentence:",
+    "q": "Correct punctuation:",
     "options": ["He said I am coming.", "He said, 'I am coming.'", "He said 'I am coming.'", "He said, I am coming."],
-    "a": 1
+    "a": 1,
+    "explanation": "Direct speech requires a comma before quotes and capitalization of the first word inside quotes."
   },
   {
-    "q": "What is the superlative degree of 'Little'?",
+    "q": "Superlative of 'Little':",
     "options": ["Littlest", "Less", "Least", "Lesser"],
-    "a": 2
+    "a": 2,
+    "explanation": "Little - Less - Least."
   },
   {
-    "q": "Identify the 'Subject' in the sentence: 'On the top of the hill lives a hermit.'",
+    "q": "Subject in: 'On top of the hill lives a hermit.'",
     "options": ["The hill", "The top", "A hermit", "Lives"],
-    "a": 2
+    "a": 2,
+    "explanation": "The person performing the action (living) is 'a hermit'."
   },
   {
-    "q": "Which of these is a 'Vowel Sound' symbol in Phonetics?",
+    "q": "Vowel Sound symbol:",
     "options": ["/p/", "/b/", "/e/", "/t/"],
-    "a": 2
+    "a": 2,
+    "explanation": "/e/ is a phonetic vowel symbol; the others are consonants."
   },
   {
-    "q": "The phrase 'Call it a day' means:",
-    "options": ["To start working", "To stop working on something", "To wake up early", "To celebrate"],
-    "a": 1
+    "q": "'Call it a day' means:",
+    "options": ["Start working", "Stop working", "Wake early", "Celebrate"],
+    "a": 1,
+    "explanation": "Idiom used to signify ending a task or work for the day."
   },
   {
-    "q": "Select the correct 'Question Tag': 'You are a student, ________?'",
+    "q": "Question Tag: 'You are a student, ________?'",
     "options": ["don't you", "aren't you", "are you", "isn't it"],
-    "a": 1
+    "a": 1,
+    "explanation": "Positive statement with 'are' requires the negative tag 'aren't you'."
   },
   {
-    "q": "Fill in the blank: 'I have been living here ________ 2010.'",
+    "q": "I have lived here ________ 2010:",
     "options": ["for", "since", "from", "during"],
-    "a": 1
+    "a": 1,
+    "explanation": "'Since' is used with a specific starting point in time (2010)."
   },
   {
-    "q": "The value of 0.333... in p/q form is:",
+    "q": "0.333... in p/q form:",
     "options": ["1/3", "3/10", "33/100", "1/33"],
-    "a": 0
+    "a": 0,
+    "explanation": "x = 0.333 -> 10x = 3.333 -> 9x = 3 -> x = 1/3."
   },
   {
-    "q": "If the diameter of a sphere is 6 cm, its volume is:",
-    "options": ["36 pi cubic cm", "288 pi cubic cm", "12 pi cubic cm", "72 pi cubic cm"],
-    "a": 0
+    "q": "Volume of sphere (d=6cm):",
+    "options": ["36 pi cm³", "288 pi cm³", "12 pi cm³", "72 pi cm³"],
+    "a": 0,
+    "explanation": "Radius=3. Volume = 4/3 * pi * 3³ = 36 pi."
   },
   {
-    "q": "The probability of an impossible event is:",
+    "q": "Probability of impossible event:",
     "options": ["1", "0.5", "0", "0.1"],
-    "a": 2
+    "a": 2,
+    "explanation": "An event that cannot happen has a probability of 0."
   },
   {
-    "q": "The square of an odd number is always:",
+    "q": "Square of odd number is always:",
     "options": ["Even", "Odd", "Prime", "Composite"],
-    "a": 1
+    "a": 1,
+    "explanation": "e.g., 3²=9, 5²=25. Odd * Odd = Odd."
   },
   {
-    "q": "The product of (x + 2)(x - 2) is:",
-    "options": ["x^2 + 4", "x^2 - 4", "x^2 - 4x + 4", "x^2 + 4x + 4"],
-    "a": 1
+    "q": "Product (x+2)(x-2):",
+    "options": ["x²+4", "x²-4", "x²-4x+4", "x²+4x+4"],
+    "a": 1,
+    "explanation": "Algebraic identity: (a+b)(a-b) = a² - b²."
   },
   {
-    "q": "If a angle is its own complement, the angle is:",
+    "q": "Angle which is its own complement:",
     "options": ["45 degrees", "90 degrees", "180 degrees", "0 degrees"],
-    "a": 0
+    "a": 0,
+    "explanation": "Complementary angles sum to 90. 45 + 45 = 90."
   },
   {
-    "q": "The value of 5^0 + 2^0 is:",
+    "q": "Value of 5⁰ + 2⁰:",
     "options": ["7", "1", "2", "0"],
-    "a": 2
+    "a": 2,
+    "explanation": "Any number to the power 0 is 1. So 1 + 1 = 2."
   },
   {
-    "q": "The exterior angle of a triangle is equal to the sum of its:",
-    "options": ["Two interior opposite angles", "All three interior angles", "Adjacent interior angle", "None of these"],
-    "a": 0
+    "q": "Exterior angle of triangle equals sum of:",
+    "options": ["Opposite interior angles", "All interior", "Adjacent interior", "None"],
+    "a": 0,
+    "explanation": "The exterior angle theorem states that an exterior angle equals the sum of the two non-adjacent interior angles."
   },
   {
-    "q": "Which of the following is a primary color of light?",
+    "q": "Primary color of light:",
     "options": ["Yellow", "Magenta", "Cyan", "Green"],
-    "a": 3
+    "a": 3,
+    "explanation": "The primary additive colors (light) are Red, Green, and Blue (RGB)."
   },
   {
-    "q": "The metal used in galvanizing iron to prevent rusting is:",
+    "q": "Metal used in galvanizing:",
     "options": ["Copper", "Zinc", "Aluminum", "Tin"],
-    "a": 1
+    "a": 1,
+    "explanation": "Galvanizing is the process of applying a protective zinc coating to iron or steel to prevent rusting."
   },
   {
-    "q": "Which part of the plant is known as the 'Food Factory'?",
+    "q": "Plant 'Food Factory':",
     "options": ["Root", "Stem", "Leaf", "Flower"],
-    "a": 2
+    "a": 2,
+    "explanation": "Photosynthesis occurs in the leaves where chlorophyll traps sunlight."
   },
   {
-    "q": "Which of the following is a renewable source of energy?",
-    "options": ["Coal", "Petroleum", "Solar energy", "Natural gas"],
-    "a": 2
+    "q": "Renewable energy source:",
+    "options": ["Coal", "Petroleum", "Solar", "Natural gas"],
+    "a": 2,
+    "explanation": "Solar energy is naturally replenished on a human timescale."
   },
   {
-    "q": "The chromosome responsible for determining the male gender in humans is:",
-    "options": ["X chromosome", "Y chromosome", "Z chromosome", "O chromosome"],
-    "a": 1
+    "q": "Chromosome for male gender:",
+    "options": ["X", "Y", "Z", "O"],
+    "a": 1,
+    "explanation": "In humans, the presence of the Y chromosome triggers male development."
   },
   {
-    "q": "Which instrument is used to measure atmospheric pressure?",
+    "q": "Instrument for atmospheric pressure:",
     "options": ["Thermometer", "Barometer", "Hygrometer", "Anemometer"],
-    "a": 1
+    "a": 1,
+    "explanation": "A barometer is used to measure air pressure."
   },
   {
-    "q": "Penicillin, the first antibiotic, was discovered by:",
-    "options": ["Edward Jenner", "Louis Pasteur", "Alexander Fleming", "Robert Koch"],
-    "a": 2
+    "q": "Who discovered Penicillin?",
+    "options": ["Jenner", "Pasteur", "Fleming", "Koch"],
+    "a": 2,
+    "explanation": "Alexander Fleming discovered the first antibiotic, penicillin, in 1928."
   }
 ]
