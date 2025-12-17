@@ -1,72 +1,90 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>PrepOne – Exam Prep</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="css/style.css">
-</head>
-<body oncontextmenu="return false">
+let freeUsed = localStorage.getItem("freeUsed") === "true";
+let isPaid = localStorage.getItem("isPaid") === "true";
+let timer, timeLeft = 2400;
 
-<div class="app">
+function login() {
+  const email = emailInput();
+  if (!email) return alert("Enter email");
+  localStorage.setItem("user", email);
+  showDashboard();
+}
 
-<h2 class="center">PrepOne – REET Preparation</h2>
+function showDashboard() {
+  hideAll();
+  show("dashboard");
+  welcome.innerText = "Welcome to PrepOne";
+  accessMsg.innerText = isPaid
+    ? "Full access unlocked"
+    : freeUsed
+      ? "Free test used. Unlock full tests."
+      : "You have 1 free test available";
+}
 
-<!-- LOGIN -->
-<div id="login" class="card">
-  <input id="email" placeholder="Enter Email">
-  <p class="note">Your progress is saved on this device.</p>
-  <button class="primary" onclick="login()">Continue</button>
-</div>
+function startTest() {
+  if (!isPaid && freeUsed) {
+    alert("Please unlock full tests");
+    showUnlock();
+    return;
+  }
+  hideAll();
+  show("quiz");
+  timeLeft = 2400;
+  startTimer();
+  loadQuestion();
+}
 
-<!-- DASHBOARD -->
-<div id="dashboard" class="card" style="display:none">
-  <h3 id="welcome"></h3>
-  <p id="accessMsg"></p>
-  <button class="primary" onclick="startTest()">Start Test</button>
-  <button class="secondary" onclick="showUnlock()">Unlock Full Tests</button>
-</div>
+function loadQuestion() {
+  qCounter.innerText = "Sample Question";
+  question.innerText = "PrepOne sample REET question";
+  options.innerHTML = "";
+  ["A","B","C","D"].forEach(o => {
+    let b = document.createElement("button");
+    b.innerText = o;
+    b.onclick = finish;
+    options.appendChild(b);
+  });
+}
 
-<!-- UNLOCK -->
-<div id="unlock" class="card" style="display:none">
-  <h3>Unlock Full REET Test Series</h3>
-  <p>Get 40 full-length REET mock tests</p>
-  <p><b>₹149 only (₹3.7 per test)</b></p>
+function finish() {
+  clearInterval(timer);
+  hideAll();
+  show("result");
 
-  <a class="primary btn" href="https://razorpay.me/@prepone" target="_blank">
-    Pay ₹149 Now
-  </a>
+  if (!isPaid) localStorage.setItem("freeUsed","true");
 
-  <button class="secondary" onclick="confirmPayment()">I Have Completed Payment</button>
+  resultTitle.innerText = "Test Completed";
+  scoreText.innerText = "Score calculated";
+  motivation.innerText = isHindi()
+    ? "अच्छा प्रयास! अभ्यास जारी रखें।"
+    : "Good effort! Keep practicing.";
+}
 
-  <p class="note">
-    Access unlocks on this device only.<br>
-    Contact: prepone.exam@gmail.com
-  </p>
-</div>
+function showUnlock() {
+  hideAll();
+  show("unlock");
+}
 
-<!-- QUIZ -->
-<div id="quiz" class="card" style="display:none">
-  <div class="topbar">
-    <span id="qCounter"></span>
-    <span id="time"></span>
-  </div>
-  <h3 id="question"></h3>
-  <div id="options"></div>
-  <button class="danger" onclick="finish()">Finish Test</button>
-</div>
+function confirmPayment() {
+  localStorage.setItem("isPaid","true");
+  isPaid = true;
+  alert("Access unlocked on this device");
+  showDashboard();
+}
 
-<!-- RESULT -->
-<div id="result" class="card" style="display:none">
-  <h3 id="resultTitle"></h3>
-  <p id="scoreText"></p>
-  <p id="motivation"></p>
-  <button class="primary" onclick="showDashboard()">Back</button>
-</div>
+function startTimer() {
+  timer = setInterval(() => {
+    timeLeft--;
+    time.innerText = Math.floor(timeLeft/60)+":"+String(timeLeft%60).padStart(2,"0");
+    if (timeLeft <= 0) finish();
+  },1000);
+}
 
-</div>
-
-<script src="js/app.js"></script>
-</body>
-</html>
-
+function hideAll() {
+  ["login","dashboard","quiz","result","unlock"].forEach(id=>{
+    let e=document.getElementById(id);
+    if(e) e.style.display="none";
+  });
+}
+function show(id){document.getElementById(id).style.display="block";}
+function emailInput(){return document.getElementById("email").value;}
+function isHindi(){return false;}
