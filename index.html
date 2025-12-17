@@ -15,32 +15,27 @@
   <!-- LOGIN -->
   <div id="login" class="card">
     <input id="email" placeholder="Enter Email">
-    <p class="note">Data stays on this device</p>
+    <select id="language">
+      <option value="en">English</option>
+      <option value="hi">हिंदी</option>
+    </select>
+    <p class="note">Progress saved on this device</p>
     <button class="primary" onclick="login()">Continue</button>
   </div>
 
   <!-- DASHBOARD -->
   <div id="dashboard" class="card" style="display:none">
     <h3 id="welcome"></h3>
-    <p id="limit"></p>
-    <p id="rating"></p>
-    <p id="progress"></p>
-    <p id="breakMsg" class="warning"></p>
-    <button class="primary" onclick="showInstructions()">Start Test</button>
+    <p id="testStatus"></p>
+    <button class="primary" onclick="startFlow()">Start Test</button>
     <button class="secondary" onclick="showHistory()">Test History</button>
   </div>
 
-  <!-- INSTRUCTIONS -->
-  <div id="instructions" class="card" style="display:none">
-    <h3>Instructions</h3>
-    <ul>
-      <li>40 Questions – 40 Minutes</li>
-      <li>+1 Correct, −⅓ Wrong</li>
-      <li>No negative for skipped</li>
-      <li>Skip & revisit allowed</li>
-    </ul>
-    <button class="primary" onclick="startQuiz()">Start Test</button>
-    <button class="secondary" onclick="showDashboard()">Back</button>
+  <!-- AD SCREEN -->
+  <div id="adScreen" class="card" style="display:none">
+    <h3>Advertisement</h3>
+    <div class="ad-box">[ Ad Placeholder ]</div>
+    <button class="primary" onclick="startQuiz()">Continue to Test</button>
   </div>
 
   <!-- QUIZ -->
@@ -49,7 +44,6 @@
       <span id="qCounter"></span>
       <span id="time"></span>
     </div>
-    <div class="progress-bar"><div id="progressBar"></div></div>
     <h3 id="question"></h3>
     <div id="options"></div>
     <div class="nav">
@@ -61,11 +55,10 @@
 
   <!-- RESULT -->
   <div id="result" class="card" style="display:none">
-    <h3>Result</h3>
+    <h3 id="resultTitle"></h3>
     <p id="finalScore"></p>
-    <p id="counts"></p>
-    <p id="finalRating"></p>
-    <div id="review"></div>
+    <p id="motivation"></p>
+    <div id="upgradeBox"></div>
     <button class="primary" onclick="showDashboard()">Back</button>
   </div>
 
