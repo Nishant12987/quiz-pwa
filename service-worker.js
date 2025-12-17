@@ -6,17 +6,12 @@ const CACHE_FILES = [
   "/css/style.css",
   "/js/app.js",
   "/manifest.json",
-
-  // App icons (root level)
   "/icon-144.png",
   "/icon-192.png",
-  "/icon-512.png",
-
-  // Policies page
-  "/policies.html"
+  "/icon-512.png"
 ];
 
-// Install event – cache files
+// Install
 self.addEventListener("install", event => {
   event.waitUntil(
     caches.open(CACHE_NAME).then(cache => {
@@ -26,7 +21,7 @@ self.addEventListener("install", event => {
   self.skipWaiting();
 });
 
-// Activate event – clean old caches
+// Activate
 self.addEventListener("activate", event => {
   event.waitUntil(
     caches.keys().then(keys =>
@@ -42,7 +37,7 @@ self.addEventListener("activate", event => {
   self.clients.claim();
 });
 
-// Fetch event – serve from cache first
+// Fetch
 self.addEventListener("fetch", event => {
   event.respondWith(
     caches.match(event.request).then(response => {
@@ -50,3 +45,4 @@ self.addEventListener("fetch", event => {
     })
   );
 });
+
