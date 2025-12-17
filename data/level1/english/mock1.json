@@ -1,236 +1,202 @@
 [
   {
-    "q": "According to Piaget, children in the age group of 6–7 years mainly belong to which stage of cognitive development?",
-    "options": ["Pre-operational stage","Concrete operational stage","Formal operational stage","Sensorimotor stage"],
-    "a": 1,
-    "explanation": "Children around 6–7 years start logical thinking related to concrete objects, which is the concrete operational stage."
+    "q": "Which stage of Piaget's cognitive development theory is characterized by 'Object Permanence'?",
+    "options": ["Sensory-motor stage", "Pre-operational stage", "Concrete operational stage", "Formal operational stage"],
+    "a": 0
   },
   {
-    "q": "Which of the following best reflects the principle of child-centered education?",
-    "options": ["Strict discipline","Teacher domination","Learning based on child's interests","Fixed curriculum for all"],
-    "a": 2,
-    "explanation": "Child-centered education emphasizes interests, needs, and abilities of the learner."
+    "q": "According to Kohlberg's theory of moral development, at which level does an individual follow rules to avoid punishment?",
+    "options": ["Post-conventional", "Pre-conventional", "Conventional", "Universal ethical"],
+    "a": 1
   },
   {
-    "q": "Continuous and Comprehensive Evaluation (CCE) mainly focuses on:",
-    "options": ["Final examination","Rote learning","Holistic development","Only academic achievement"],
-    "a": 2,
-    "explanation": "CCE evaluates both scholastic and co-scholastic aspects for overall development."
+    "q": "In an inclusive classroom, what should be the primary focus of a teacher regarding 'Individual Differences'?",
+    "options": ["Ignoring differences to treat all equally", "Labeling students based on their abilities", "Using diverse teaching strategies to cater to all needs", "Focusing only on gifted children"],
+    "a": 2
   },
   {
-    "q": "Which factor has the most significant influence on a child's language development?",
-    "options": ["Heredity","School infrastructure","Social interaction","Economic status"],
-    "a": 2,
-    "explanation": "Language develops largely through interaction with family, peers, and society."
+    "q": "Which of the following is an example of an 'Extrinsic' motivator?",
+    "options": ["Curiosity about a topic", "Joy of learning a new skill", "Receiving a gold medal for a task", "Personal satisfaction"],
+    "a": 2
   },
   {
-    "q": "Learning by doing was emphasized by which educationist?",
-    "options": ["Skinner","John Dewey","Thorndike","Kohlberg"],
-    "a": 1,
-    "explanation": "John Dewey advocated experiential learning and learning through activities."
+    "q": "Gardner's theory of Multiple Intelligences suggests that a person with high 'Interpersonal Intelligence' is good at:",
+    "options": ["Understanding oneself", "Understanding others' emotions and intentions", "Solving mathematical puzzles", "Bodily coordination"],
+    "a": 1
   },
   {
-    "q": "Which teaching method is most suitable for developing problem-solving skills in children?",
-    "options": ["Lecture method","Project method","Drill method","Storytelling"],
-    "a": 1,
-    "explanation": "Project method involves real-life problems and active participation."
+    "q": "Which learning principle emphasizes that 'Whole is greater than the sum of its parts'?",
+    "options": ["Behaviorism", "Gestalt Psychology", "Constructivism", "Cognitivism"],
+    "a": 1
   },
   {
-    "q": "Motivation in learning primarily helps in:",
-    "options": ["Punishment","Memorization","Sustaining interest","Teacher control"],
-    "a": 2,
-    "explanation": "Motivation maintains learners’ interest and engagement in learning tasks."
+    "q": "What is the primary purpose of 'Continuous and Comprehensive Evaluation' (CCE)?",
+    "options": ["To rank students", "To reduce the burden of board exams", "To assess all aspects of a child's development", "To conduct monthly tests"],
+    "a": 2
   },
   {
-    "q": "Which of the following is an example of intrinsic motivation?",
-    "options": ["Reward for good marks","Fear of punishment","Enjoyment of reading a story","Competition with peers"],
-    "a": 2,
-    "explanation": "Intrinsic motivation arises from internal satisfaction and interest."
+    "q": "A child who struggles with reading and decoding words likely has:",
+    "options": ["Dysgraphia", "Dyscalculia", "Dyslexia", "ADHD"],
+    "a": 2
   },
   {
-    "q": "Individual differences among children are mainly due to:",
-    "options": ["Only heredity","Only environment","Heredity and environment","School rules"],
-    "a": 2,
-    "explanation": "Both heredity and environment together shape individual differences."
+    "q": "The concept of 'Scaffolding' in teaching is most closely associated with:",
+    "options": ["B.F. Skinner", "Jean Piaget", "Lev Vygotsky", "Lawrence Kohlberg"],
+    "a": 2
   },
   {
-    "q": "Which assessment tool is best for evaluating attitudes and values?",
-    "options": ["Written test","Oral test","Observation","Objective test"],
-    "a": 2,
-    "explanation": "Observation helps assess behavior, attitudes, and values in real situations."
+    "q": "Which domain of Bloom's Taxonomy deals with physical skills and coordination?",
+    "options": ["Cognitive domain", "Affective domain", "Psychomotor domain", "Reflective domain"],
+    "a": 2
   },
   {
-    "q": "Inclusive education primarily aims to:",
-    "options": ["Separate children with disabilities","Provide equal learning opportunities","Focus only on gifted children","Reduce curriculum load"],
-    "a": 1,
-    "explanation": "Inclusive education ensures equal participation of all learners."
+    "q": "Growth is a quantitative process, whereas Development is a:",
+    "options": ["Qualitative process", "Physical process", "Static process", "Temporary process"],
+    "a": 0
   },
   {
-    "q": "Which learning theory emphasizes stimulus–response association?",
-    "options": ["Cognitive theory","Constructivism","Behaviorism","Humanistic theory"],
-    "a": 2,
-    "explanation": "Behaviorism focuses on learning through stimulus and response."
+    "q": "हिंदी भाषा शिक्षण में 'निदानात्मक परीक्षण' का मुख्य उद्देश्य क्या है?",
+    "options": ["छात्रों को अंक देना", "कमियों के कारणों को जानना", "अगली कक्षा में भेजना", "कठिन शब्दों को लिखवाना"],
+    "a": 1
   },
   {
-    "q": "‘वह पुस्तक पढ़ रहा है।’ इस वाक्य में क्रिया का काल है:",
-    "options": ["भूतकाल","वर्तमान काल","भविष्य काल","पूर्ण काल"],
-    "a": 1,
-    "explanation": "‘पढ़ रहा है’ वर्तमान में चल रही क्रिया को दर्शाता है।"
+    "q": "इनमें से कौन सा शब्द 'बादल' का पर्यायवाची नहीं है?",
+    "options": ["जलद", "नीरज", "वारिद", "पयोधर"],
+    "a": 1
   },
   {
-    "q": "‘कमल’ शब्द का सही बहुवचन रूप क्या है?",
-    "options": ["कमलें","कमलों","कमल","कमलियाँ"],
-    "a": 1,
-    "explanation": "पुल्लिंग संज्ञा ‘कमल’ का बहुवचन ‘कमलों’ होता है।"
+    "q": "'शुद्ध' वर्तनी वाले शब्द का चयन कीजिए:",
+    "options": ["अतिश्योक्ति", "अतिशयोक्ति", "अतिश्योक्ती", "अतिशयोक्ती"],
+    "a": 1
   },
   {
-    "q": "शब्द ‘अत्यंत’ का सही पर्यायवाची कौन-सा है?",
-    "options": ["कम","बहुत","धीरे","लगभग"],
-    "a": 1,
-    "explanation": "‘अत्यंत’ का अर्थ ‘बहुत अधिक’ होता है।"
+    "q": "जो शब्द संज्ञा के स्थान पर प्रयुक्त होते हैं, उन्हें क्या कहते हैं?",
+    "options": ["विशेषण", "क्रिया", "सर्वनाम", "अव्यय"],
+    "a": 2
   },
   {
-    "q": "निम्न में से कौन-सा वाक्य शुद्ध है?",
-    "options": ["वह स्कूल जाता हैं","वह स्कूल जाती है","वह स्कूल जाती हूँ","वह स्कूल जाता हूँ"],
-    "a": 1,
-    "explanation": "कर्ता और क्रिया में लिंग व वचन की संगति सही है।"
+    "q": "'हिमालय से गंगा निकलती है' - इस वाक्य में कौन सा कारक है?",
+    "options": ["करण कारक", "अपादान कारक", "संप्रदान कारक", "अधिकरण कारक"],
+    "a": 1
   },
   {
-    "q": "‘मीठा’ शब्द का विलोम है:",
-    "options": ["कड़वा","खट्टा","नमकीन","तीखा"],
-    "a": 0,
-    "explanation": "‘मीठा’ का सामान्य विलोम ‘कड़वा’ माना जाता है।"
+    "q": "'प्रत्युत्पन्नमति' शब्द में कौन सा उपसर्ग है?",
+    "options": ["प्र", "प्रति", "प्रत्यु", "प्रत"],
+    "a": 1
   },
   {
-    "q": "कहानी शिक्षण विधि का मुख्य उद्देश्य है:",
-    "options": ["व्याकरण रटना","रुचि विकास","केवल मनोरंजन","लेखन अभ्यास"],
-    "a": 1,
-    "explanation": "कहानी बच्चों में रुचि और कल्पनाशक्ति का विकास करती है।"
+    "q": "भाषा कौशल का सही क्रम क्या है?",
+    "options": ["सुनना, बोलना, पढ़ना, लिखना", "बोलना, सुनना, पढ़ना, लिखना", "लिखना, पढ़ना, सुनना, बोलना", "सुनना, पढ़ना, बोलना, लिखना"],
+    "a": 0
   },
   {
-    "q": "निम्न में से कौन-सा शब्द तत्सम है?",
-    "options": ["आग","दूध","पुस्तक","पानी"],
-    "a": 2,
-    "explanation": "‘पुस्तक’ संस्कृत से लिया गया तत्सम शब्द है।"
+    "q": "Choose the synonym for the word 'Diligent'.",
+    "options": ["Lazy", "Hardworking", "Careless", "Wealthy"],
+    "a": 1
   },
   {
-    "q": "Language learning is best supported in classrooms through:",
-    "options": ["Silent reading only","Continuous drilling","Meaningful interaction","Grammar memorization"],
-    "a": 2,
-    "explanation": "Interaction helps learners use language in real contexts."
+    "q": "Select the correct passive voice for: 'The teacher corrected the mistakes.'",
+    "options": ["The mistakes are corrected by the teacher.", "The mistakes were corrected by the teacher.", "The teacher was corrected by the mistakes.", "The mistakes corrected by the teacher."],
+    "a": 1
   },
   {
-    "q": "Which of the following is a receptive language skill?",
-    "options": ["Speaking","Writing","Listening","Composing"],
-    "a": 2,
-    "explanation": "Listening involves receiving and understanding language."
+    "q": "Which of the following is an example of an 'Interrogative Pronoun'?",
+    "options": ["He", "Each", "Who", "Them"],
+    "a": 2
   },
   {
-    "q": "A good language teacher should mainly encourage:",
-    "options": ["Fear of mistakes","Passive listening","Creative expression","Rote answers"],
-    "a": 2,
-    "explanation": "Creative expression builds confidence and language competence."
+    "q": "Choose the correct article: 'He is ________ honest man.'",
+    "options": ["a", "an", "the", "No article"],
+    "a": 1
   },
   {
-    "q": "Which method focuses on learning language through use and context?",
-    "options": ["Grammar-Translation","Audio-Lingual","Communicative approach","Structural method"],
-    "a": 2,
-    "explanation": "Communicative approach emphasizes real-life communication."
+    "q": "Identify the 'Adjective' in the sentence: 'The blue umbrella belongs to me.'",
+    "options": ["Umbrella", "Belongs", "Me", "Blue"],
+    "a": 3
   },
   {
-    "q": "‘He has finished his work.’ The tense of the sentence is:",
-    "options": ["Simple present","Present continuous","Present perfect","Past perfect"],
-    "a": 2,
-    "explanation": "‘Has finished’ indicates present perfect tense."
+    "q": "Which of these is NOT a principle of Language Teaching?",
+    "options": ["Principle of Motivation", "Principle of Habit Formation", "Principle of Rote Memorization", "Principle of Oral Approach"],
+    "a": 2
   },
   {
-    "q": "Which activity best improves students’ speaking skills?",
-    "options": ["Dictation","Group discussion","Silent reading","Worksheet solving"],
-    "a": 1,
-    "explanation": "Group discussion encourages oral expression and interaction."
+    "q": "Find the error: 'Each of the students (A) have (B) submitted (C) the assignment (D).'",
+    "options": ["Each of the students", "have", "submitted", "the assignment"],
+    "a": 1
   },
   {
-    "q": "Vocabulary development is most effective when words are taught:",
-    "options": ["In isolation","Through translation","In meaningful context","By memorizing lists"],
-    "a": 2,
-    "explanation": "Context helps learners understand usage and meaning."
+    "q": "The main objective of Environmental Studies at the primary level is:",
+    "options": ["To help children score high marks", "To help children understand environmental issues", "To memorize scientific names", "To develop deep technical knowledge"],
+    "a": 1
   },
   {
-    "q": "Which assessment is most suitable for evaluating reading comprehension?",
-    "options": ["MCQs","Oral drilling","Copy writing","Grammar test"],
-    "a": 0,
-    "explanation": "MCQs based on passages check comprehension effectively."
+    "q": "Which of the following birds makes its nest in the hollow of a tree?",
+    "options": ["Sunbird", "Indian Robin", "Barbet", "Dove"],
+    "a": 2
   },
   {
-    "q": "What is the value of 6 × (5 + 2)?",
-    "options": ["42","36","30","48"],
-    "a": 0,
-    "explanation": "First solve bracket: 5+2=7, then 6×7=42."
+    "q": "The 'Bishnoi' community of Rajasthan is famous for:",
+    "options": ["Handicraft", "Conservation of flora and fauna", "Folk dance", "Painting"],
+    "a": 1
   },
   {
-    "q": "Which fraction is equivalent to 2/3?",
-    "options": ["4/5","6/9","3/5","5/6"],
-    "a": 1,
-    "explanation": "Multiplying numerator and denominator by 3 gives 6/9."
+    "q": "Which of the following is a renewable source of energy?",
+    "options": ["Coal", "Petroleum", "Solar Energy", "Natural Gas"],
+    "a": 2
   },
   {
-    "q": "The perimeter of a square with side 5 cm is:",
-    "options": ["10 cm","15 cm","20 cm","25 cm"],
-    "a": 2,
-    "explanation": "Perimeter of square = 4 × side = 20 cm."
+    "q": "In Environmental Studies, the 'Spiral Approach' is used to:",
+    "options": ["Increase rote learning", "Build upon previously learned concepts", "Separate subjects", "Assess teachers"],
+    "a": 1
   },
   {
-    "q": "Which of the following is an even number?",
-    "options": ["17","21","24","35"],
-    "a": 2,
-    "explanation": "Even numbers are divisible by 2; 24 is divisible by 2."
+    "q": "Which vitamin deficiency leads to a disease called 'Scurvy'?",
+    "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "a": 2
   },
   {
-    "q": "If 10 pencils cost ₹50, what is the cost of 1 pencil?",
-    "options": ["₹10","₹2","₹5","₹20"],
-    "a": 2,
-    "explanation": "50 ÷ 10 = 5, so one pencil costs ₹5."
+    "q": "Plants convert solar energy into chemical energy through the process of:",
+    "options": ["Transpiration", "Respiration", "Photosynthesis", "Germination"],
+    "a": 2
   },
   {
-    "q": "Which shape has exactly three sides?",
-    "options": ["Square","Triangle","Rectangle","Circle"],
-    "a": 1,
-    "explanation": "A triangle has three sides."
+    "q": "The primary cause of the 'Greenhouse Effect' is the increase in:",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+    "a": 2
   },
   {
-    "q": "Which of the following is a renewable resource?",
-    "options": ["Coal","Petroleum","Wind","Natural gas"],
-    "a": 2,
-    "explanation": "Wind energy can be naturally replenished."
+    "q": "Which of the following is a Kharif crop?",
+    "options": ["Wheat", "Mustard", "Maize", "Gram"],
+    "a": 2
   },
   {
-    "q": "The main function of roots is to:",
-    "options": ["Prepare food","Support and absorb water","Make seeds","Produce flowers"],
-    "a": 1,
-    "explanation": "Roots anchor the plant and absorb water and minerals."
+    "q": "The 'Chopasni' or 'Bawari' found in Rajasthan are used for:",
+    "options": ["Cattle rearing", "Water harvesting", "Agriculture", "Defence"],
+    "a": 1
   },
   {
-    "q": "Which organ is responsible for breathing in humans?",
-    "options": ["Heart","Lungs","Stomach","Brain"],
-    "a": 1,
-    "explanation": "Lungs help in respiration by exchanging gases."
+    "q": "Which of the following is a biodegradable waste?",
+    "options": ["Plastic bottle", "Glass piece", "Fruit peels", "Aluminum foil"],
+    "a": 2
   },
   {
-    "q": "Our national festival celebrated on 15 August is:",
-    "options": ["Republic Day","Gandhi Jayanti","Independence Day","Children’s Day"],
-    "a": 2,
-    "explanation": "India celebrates Independence Day on 15 August."
+    "q": "The 'World Environment Day' is celebrated on:",
+    "options": ["April 22", "June 5", "September 16", "October 2"],
+    "a": 1
   },
   {
-    "q": "Which of the following helps in keeping the environment clean?",
-    "options": ["Burning plastic","Using more vehicles","Planting trees","Throwing waste openly"],
-    "a": 2,
-    "explanation": "Planting trees improves air quality and environment."
+    "q": "A group of elephants is called a:",
+    "options": ["Pack", "Herd", "Swarm", "Pride"],
+    "a": 1
   },
   {
-    "q": "The day and night occur due to:",
-    "options": ["Revolution of Earth","Rotation of Earth","Phases of Moon","Clouds"],
-    "a": 1,
-    "explanation": "Rotation of Earth on its axis causes day and night."
+    "q": "Which of the following animals does not have external ears?",
+    "options": ["Rat", "Dog", "Snake", "Cat"],
+    "a": 2
+  },
+  {
+    "q": "The concept of 'Integrated EVS' means:",
+    "options": ["Combining Science and Social Studies", "Combining Math and Language", "Combining Art and Music", "Combining Games and Studies"],
+    "a": 0
   }
 ]
