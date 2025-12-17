@@ -1,0 +1,224 @@
+[
+  {
+    "q": "According to Piaget, conservation of quantity develops during which stage?",
+    "options": ["Pre-operational","Concrete operational","Formal operational","Sensorimotor"],
+    "a": 1,
+    "explanation": "In the concrete operational stage, children understand conservation concepts."
+  },
+  {
+    "q": "Which teaching practice respects individual differences among learners?",
+    "options": ["Uniform instruction","Flexible pacing","Same assessment for all","Strict comparison"],
+    "a": 1,
+    "explanation": "Flexible pacing allows learners to progress according to their abilities."
+  },
+  {
+    "q": "Learning by trial and error is associated with:",
+    "options": ["Pavlov","Skinner","Thorndike","Bandura"],
+    "a": 2,
+    "explanation": "Thorndike proposed learning through trial and error."
+  },
+  {
+    "q": "Which emotion helps children develop cooperation?",
+    "options": ["Anger","Fear","Empathy","Jealousy"],
+    "a": 2,
+    "explanation": "Empathy helps children understand others and cooperate."
+  },
+  {
+    "q": "The main objective of primary education is to develop:",
+    "options": ["Exam skills","Holistic development","Competition","Memorization"],
+    "a": 1,
+    "explanation": "Primary education focuses on overall development of the child."
+  },
+  {
+    "q": "Which type of play involves rules and teamwork?",
+    "options": ["Solitary play","Parallel play","Cooperative play","Imaginative play"],
+    "a": 2,
+    "explanation": "Cooperative play includes rules, roles, and teamwork."
+  },
+  {
+    "q": "Which evaluation uses grades and marks?",
+    "options": ["Formative","Continuous","Qualitative","Quantitative"],
+    "a": 3,
+    "explanation": "Quantitative evaluation uses numerical scores."
+  },
+  {
+    "q": "Which factor motivates learning most effectively in children?",
+    "options": ["Fear","Interest","Punishment","Pressure"],
+    "a": 1,
+    "explanation": "Interest naturally motivates children to learn."
+  },
+  {
+    "q": "Which classroom activity supports social development?",
+    "options": ["Silent reading","Group work","Individual test","Lecture"],
+    "a": 1,
+    "explanation": "Group work promotes interaction and cooperation."
+  },
+  {
+    "q": "Which ability is related to problem solving?",
+    "options": ["Memory","Reasoning","Imitation","Habit"],
+    "a": 1,
+    "explanation": "Reasoning helps in analyzing and solving problems."
+  },
+  {
+    "q": "Which quality helps a teacher manage classroom diversity?",
+    "options": ["Bias","Patience","Strictness","Indifference"],
+    "a": 1,
+    "explanation": "Patience helps in handling diverse learning needs."
+  },
+  {
+    "q": "Which principle says development is a lifelong process?",
+    "options": ["Continuity","Readiness","Maturity","Sequence"],
+    "a": 0,
+    "explanation": "Continuity states development occurs throughout life."
+  },
+  {
+    "q": "‘मोहन ने पत्र लिखा।’ इस वाक्य में क्रिया का भेद है:",
+    "options": ["अकर्मक","सकर्मक","संयुक्त","प्रेरणार्थक"],
+    "a": 1,
+    "explanation": "‘पत्र’ कर्म है, इसलिए क्रिया सकर्मक है।"
+  },
+  {
+    "q": "‘नीला’ शब्द का भाववाचक संज्ञा रूप है:",
+    "options": ["नीलापन","नील","नीलिमा","नीलता"],
+    "a": 0,
+    "explanation": "‘नीलापन’ गुण से बनी भाववाचक संज्ञा है।"
+  },
+  {
+    "q": "निम्न में से कौन-सा वाक्य शुद्ध है?",
+    "options": ["वह आम खाती है।","वह आम खाता हूँ।","वह आम खाती हूँ।","वह आम खाता हैं।"],
+    "a": 0,
+    "explanation": "कर्ता और क्रिया में सही लिंग-वचन है।"
+  },
+  {
+    "q": "‘लाभ’ शब्द का विलोम है:",
+    "options": ["हानि","घाटा","नुकसान","क्षति"],
+    "a": 0,
+    "explanation": "लाभ का सामान्य विलोम हानि है।"
+  },
+  {
+    "q": "निम्न में से कौन-सा शब्द तत्सम है?",
+    "options": ["आकाश","पानी","घर","हाथ"],
+    "a": 0,
+    "explanation": "‘आकाश’ संस्कृत से लिया गया तत्सम शब्द है।"
+  },
+  {
+    "q": "भाषा शिक्षण में संवाद विधि का उद्देश्य है:",
+    "options": ["रटना","सक्रिय संप्रेषण","अनुवाद","व्याकरण अभ्यास"],
+    "a": 1,
+    "explanation": "संवाद से भाषा का वास्तविक प्रयोग होता है।"
+  },
+  {
+    "q": "पठन कौशल के विकास में सबसे सहायक है:",
+    "options": ["बार-बार पढ़ना","लिखना","नकल","श्रुतलेख"],
+    "a": 0,
+    "explanation": "निरंतर अभ्यास से पठन कौशल सुधरता है।"
+  },
+  {
+    "q": "Which word is an adjective?",
+    "options": ["Honesty","Run","Beautiful","Slowly"],
+    "a": 2,
+    "explanation": "‘Beautiful’ describes a noun, so it is an adjective."
+  },
+  {
+    "q": "Which sentence is in present continuous tense?",
+    "options": ["He eats food.","He ate food.","He is eating food.","He will eat food."],
+    "a": 2,
+    "explanation": "‘Is eating’ shows present continuous tense."
+  },
+  {
+    "q": "Which skill helps students express ideas in written form?",
+    "options": ["Listening","Speaking","Reading","Writing"],
+    "a": 3,
+    "explanation": "Writing skill is used for written expression."
+  },
+  {
+    "q": "Which activity best improves reading fluency?",
+    "options": ["Silent reading","Reading aloud","Copying text","Dictation"],
+    "a": 1,
+    "explanation": "Reading aloud improves fluency and pronunciation."
+  },
+  {
+    "q": "Which punctuation mark shows excitement?",
+    "options": ["Comma","Full stop","Question mark","Exclamation mark"],
+    "a": 3,
+    "explanation": "Exclamation mark expresses excitement or emotion."
+  },
+  {
+    "q": "Which is the correct spelling?",
+    "options": ["Beautifull","Beautiful","Beutiful","Beautifal"],
+    "a": 1,
+    "explanation": "‘Beautiful’ is the correct spelling."
+  },
+  {
+    "q": "Which number is divisible by 5?",
+    "options": ["23","47","60","71"],
+    "a": 2,
+    "explanation": "Numbers ending in 0 or 5 are divisible by 5."
+  },
+  {
+    "q": "What is the sum of 125 and 75?",
+    "options": ["180","190","200","210"],
+    "a": 2,
+    "explanation": "125 + 75 = 200."
+  },
+  {
+    "q": "How many faces does a cube have?",
+    "options": ["4","5","6","8"],
+    "a": 2,
+    "explanation": "A cube has six faces."
+  },
+  {
+    "q": "Which is the standard unit of length?",
+    "options": ["Kilogram","Meter","Liter","Second"],
+    "a": 1,
+    "explanation": "Meter is the unit of length."
+  },
+  {
+    "q": "Which fraction represents half?",
+    "options": ["1/3","1/4","1/2","2/3"],
+    "a": 2,
+    "explanation": "One-half is written as 1/2."
+  },
+  {
+    "q": "Which operation is used to share equally?",
+    "options": ["Addition","Subtraction","Multiplication","Division"],
+    "a": 3,
+    "explanation": "Division is used for equal sharing."
+  },
+  {
+    "q": "Which organ pumps blood in the body?",
+    "options": ["Lungs","Brain","Heart","Kidney"],
+    "a": 2,
+    "explanation": "Heart pumps blood throughout the body."
+  },
+  {
+    "q": "Which material is used to make paper?",
+    "options": ["Plastic","Wood","Iron","Glass"],
+    "a": 1,
+    "explanation": "Paper is made from wood pulp."
+  },
+  {
+    "q": "Which festival marks the beginning of a new year in many Indian states?",
+    "options": ["Holi","Diwali","Baisakhi","Eid"],
+    "a": 2,
+    "explanation": "Baisakhi is celebrated as New Year in some regions."
+  },
+  {
+    "q": "Which sense organ helps us to see?",
+    "options": ["Ear","Eye","Nose","Skin"],
+    "a": 1,
+    "explanation": "Eyes help us see."
+  },
+  {
+    "q": "Which practice helps reduce air pollution?",
+    "options": ["Burning waste","Using bicycles","Cutting trees","Using plastic"],
+    "a": 1,
+    "explanation": "Using bicycles reduces pollution."
+  },
+  {
+    "q": "Which source of water is natural?",
+    "options": ["Tap","Well","Bottle","Tank"],
+    "a": 1,
+    "explanation": "Well is a natural source of water."
+  }
+]
