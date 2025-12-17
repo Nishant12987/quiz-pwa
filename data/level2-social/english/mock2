@@ -1,0 +1,218 @@
+[
+  {
+    "q": "Which stage of development is considered most sensitive for value formation?",
+    "options": ["Early childhood","Adolescence","Adulthood","Old age"],
+    "a": 1,
+    "explanation": "During adolescence, moral values and attitudes are strongly shaped."
+  },
+  {
+    "q": "According to Piaget, logical thinking develops mainly at which stage?",
+    "options": ["Sensorimotor","Pre-operational","Concrete operational","Formal operational"],
+    "a": 2,
+    "explanation": "Concrete operational stage develops logical thinking related to real objects."
+  },
+  {
+    "q": "What is the main purpose of diagnostic assessment?",
+    "options": ["Grading students","Identifying learning difficulties","Promoting competition","Final evaluation"],
+    "a": 1,
+    "explanation": "Diagnostic assessment identifies specific learning problems."
+  },
+  {
+    "q": "Inclusive education emphasizes:",
+    "options": ["Uniform teaching","Segregation","Respect for diversity","Competition"],
+    "a": 2,
+    "explanation": "Inclusive education values and respects learner diversity."
+  },
+  {
+    "q": "Which factor most influences learning at school level?",
+    "options": ["School building","Teacher","Textbook","Time-table"],
+    "a": 1,
+    "explanation": "Teacher plays a key role in facilitating learning."
+  },
+  {
+    "q": "Which learning theory focuses on stimulus–response?",
+    "options": ["Constructivism","Humanism","Behaviorism","Cognitivism"],
+    "a": 2,
+    "explanation": "Behaviorism emphasizes stimulus–response relationships."
+  },
+  {
+    "q": "What helps most in developing creativity among learners?",
+    "options": ["Rigid curriculum","Freedom of expression","Exams","Punishment"],
+    "a": 1,
+    "explanation": "Freedom of expression encourages creative thinking."
+  },
+  {
+    "q": "Formative assessment is useful because it:",
+    "options": ["Ends learning","Improves teaching-learning","Ranks students","Certifies achievement"],
+    "a": 1,
+    "explanation": "Formative assessment provides feedback for improvement."
+  },
+  {
+    "q": "Which principle states that development follows a definite order?",
+    "options": ["Continuity","Sequence","Readiness","Maturation"],
+    "a": 1,
+    "explanation": "Development occurs in a specific and predictable sequence."
+  },
+  {
+    "q": "Which teaching strategy promotes active learning?",
+    "options": ["Lecture","Project work","Dictation","Rote memorization"],
+    "a": 1,
+    "explanation": "Project work actively involves learners in learning."
+  },
+  {
+    "q": "Peer interaction mainly helps in developing:",
+    "options": ["Memory","Social skills","Handwriting","Listening"],
+    "a": 1,
+    "explanation": "Peers support social and emotional development."
+  },
+  {
+    "q": "Identify the correct tense: ‘She was cooking food.’",
+    "options": ["Simple past","Past continuous","Present perfect","Past perfect"],
+    "a": 1,
+    "explanation": "‘Was cooking’ indicates past continuous tense."
+  },
+  {
+    "q": "The antonym of ‘ancient’ is:",
+    "options": ["Old","Historic","Modern","Traditional"],
+    "a": 2,
+    "explanation": "Modern is opposite of ancient."
+  },
+  {
+    "q": "Which sentence is grammatically correct?",
+    "options": ["He have done the work.","He has done the work.","He is done the work.","He done the work."],
+    "a": 1,
+    "explanation": "‘Has done’ is the correct present perfect form."
+  },
+  {
+    "q": "The word ‘freedom’ is a/an:",
+    "options": ["Common noun","Proper noun","Abstract noun","Collective noun"],
+    "a": 2,
+    "explanation": "Freedom is an abstract idea."
+  },
+  {
+    "q": "The main aim of teaching grammar is to:",
+    "options": ["Promote memorization","Enable correct language use","Increase fear","Focus only on exams"],
+    "a": 1,
+    "explanation": "Grammar helps in correct and meaningful language use."
+  },
+  {
+    "q": "Which activity best improves speaking skills?",
+    "options": ["Silent reading","Group discussion","Copy writing","Dictation"],
+    "a": 1,
+    "explanation": "Group discussion enhances speaking ability."
+  },
+  {
+    "q": "Vocabulary is best developed through:",
+    "options": ["Word lists","Contextual usage","Rote learning","Translation"],
+    "a": 1,
+    "explanation": "Using words in context ensures better understanding."
+  },
+  {
+    "q": "Which word is an adverb?",
+    "options": ["Slow","Slowly","Slowness","Slower"],
+    "a": 1,
+    "explanation": "‘Slowly’ modifies a verb."
+  },
+  {
+    "q": "Choose the correct sentence:",
+    "options": ["They has finished.","They have finished.","They is finished.","They finishing."],
+    "a": 1,
+    "explanation": "Plural subject uses ‘have’."
+  },
+  {
+    "q": "Which tense is used in: ‘I will visit Jaipur tomorrow.’?",
+    "options": ["Present","Past","Future","Present perfect"],
+    "a": 2,
+    "explanation": "‘Will visit’ indicates future tense."
+  },
+  {
+    "q": "Which punctuation mark is used to separate clauses?",
+    "options": ["Comma","Colon","Apostrophe","Hyphen"],
+    "a": 0,
+    "explanation": "Comma separates clauses in a sentence."
+  },
+  {
+    "q": "Which skill helps in understanding spoken messages?",
+    "options": ["Speaking","Listening","Reading","Writing"],
+    "a": 1,
+    "explanation": "Listening helps understand spoken language."
+  },
+  {
+    "q": "Which sentence is in passive voice?",
+    "options": ["She paints a picture.","She painted a picture.","A picture is painted by her.","She is painting a picture."],
+    "a": 2,
+    "explanation": "Passive voice emphasizes the object."
+  },
+  {
+    "q": "Which was the capital of the Maurya Empire?",
+    "options": ["Ujjain","Taxila","Pataliputra","Vaishali"],
+    "a": 2,
+    "explanation": "Pataliputra was the Maurya capital."
+  },
+  {
+    "q": "Which river is known as the ‘Sorrow of Bihar’?",
+    "options": ["Ganga","Kosi","Yamuna","Son"],
+    "a": 1,
+    "explanation": "Kosi causes frequent floods in Bihar."
+  },
+  {
+    "q": "Which Fundamental Right ensures equality before law?",
+    "options": ["Right to Freedom","Right to Equality","Right to Religion","Right to Education"],
+    "a": 1,
+    "explanation": "Right to Equality ensures equality before law."
+  },
+  {
+    "q": "Who introduced the policy of ‘Dhamma’?",
+    "options": ["Chandragupta Maurya","Bindusara","Ashoka","Harsha"],
+    "a": 2,
+    "explanation": "Ashoka promoted moral values through Dhamma."
+  },
+  {
+    "q": "Which imaginary line divides the Earth into Northern and Southern Hemispheres?",
+    "options": ["Tropic of Cancer","Prime Meridian","Equator","Tropic of Capricorn"],
+    "a": 2,
+    "explanation": "The Equator divides Earth into two hemispheres."
+  },
+  {
+    "q": "Who elects the members of the Rajya Sabha?",
+    "options": ["People","President","Elected members of State Assemblies","Prime Minister"],
+    "a": 2,
+    "explanation": "Rajya Sabha members are elected by State Legislative Assemblies."
+  },
+  {
+    "q": "Who was the founder of the Gupta dynasty?",
+    "options": ["Samudragupta","Chandragupta I","Chandragupta Maurya","Skandagupta"],
+    "a": 1,
+    "explanation": "Chandragupta I founded the Gupta dynasty."
+  },
+  {
+    "q": "Which plateau is known as the ‘Roof of the World’?",
+    "options": ["Deccan Plateau","Chotanagpur Plateau","Tibetan Plateau","Iranian Plateau"],
+    "a": 2,
+    "explanation": "The Tibetan Plateau is called the Roof of the World."
+  },
+  {
+    "q": "Which body resolves disputes between the Centre and States?",
+    "options": ["Parliament","Supreme Court","High Court","Election Commission"],
+    "a": 1,
+    "explanation": "The Supreme Court settles Centre–State disputes."
+  },
+  {
+    "q": "Who wrote the book ‘Arthashastra’?",
+    "options": ["Kalidasa","Chanakya","Panini","Banabhatta"],
+    "a": 1,
+    "explanation": "Chanakya (Kautilya) authored Arthashastra."
+  },
+  {
+    "q": "Which state has the longest coastline in India?",
+    "options": ["Tamil Nadu","Andhra Pradesh","Gujarat","Kerala"],
+    "a": 2,
+    "explanation": "Gujarat has the longest coastline in India."
+  },
+  {
+    "q": "Which institution conducts elections in India?",
+    "options": ["Supreme Court","Parliament","Election Commission","President"],
+    "a": 2,
+    "explanation": "The Election Commission conducts free and fair elections."
+  }
+]
