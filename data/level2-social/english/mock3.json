@@ -1,224 +1,242 @@
 [
   {
-    "q": "What is the role of school in a child’s social development?",
-    "options": ["Only academic growth","Discipline only","Development of social behavior","Promoting competition"],
-    "a": 2,
-    "explanation": "Group activities and interactions in school help develop social behavior."
-  },
-  {
-    "q": "According to Piaget, moral development becomes clear at which stage?",
-    "options": ["Sensorimotor stage","Pre-operational stage","Concrete operational stage","Formal operational stage"],
-    "a": 2,
-    "explanation": "In the concrete operational stage, children understand rules and fairness."
-  },
-  {
-    "q": "Which type of assessment is conducted before teaching begins?",
-    "options": ["Summative","Formative","Diagnostic","Continuous"],
-    "a": 2,
-    "explanation": "Diagnostic assessment identifies prior knowledge and learning difficulties."
-  },
-  {
-    "q": "In inclusive education, diversity is viewed as:",
-    "options": ["A problem","A burden","A resource","To be ignored"],
-    "a": 2,
-    "explanation": "Diversity is considered a resource that enriches learning."
-  },
-  {
-    "q": "Which type of motivation is considered most effective for learning?",
-    "options": ["Negative","Extrinsic","Intrinsic","Social"],
-    "a": 2,
-    "explanation": "Intrinsic motivation leads to deeper and long-lasting learning."
-  },
-  {
-    "q": "What is the main role of the teacher in a constructivist classroom?",
-    "options": ["Lecturer","Controller","Facilitator","Examiner"],
-    "a": 2,
-    "explanation": "The teacher facilitates learners in constructing their own knowledge."
-  },
-  {
-    "q": "During adolescence, self-concept is most influenced by:",
-    "options": ["Textbooks","Teachers","Peer group","Examinations"],
-    "a": 2,
-    "explanation": "Peer acceptance strongly affects adolescents’ self-concept."
-  },
-  {
-    "q": "Which learning theory is based on imitation and observation?",
-    "options": ["Behaviorism","Cognitivism","Social learning theory","Gestalt theory"],
-    "a": 2,
-    "explanation": "Social learning theory emphasizes learning through observation."
-  },
-  {
-    "q": "Which principle of development states that growth proceeds from centre to outward parts?",
-    "options": ["Cephalocaudal","Proximodistal","Continuity","Sequence"],
+    "q": "What is the main characteristic of the 'Concrete Operational' stage?",
+    "options": ["Abstract reasoning", "Logical thinking about physical objects", "Symbolic play", "Egocentric thought"],
     "a": 1,
-    "explanation": "Proximodistal development occurs from the centre of the body outward."
+    "explanation": "Children can think logically but usually only about things they can see or touch."
   },
   {
-    "q": "What is the main feature of a democratic classroom?",
-    "options": ["Strict discipline","Teacher dominance","Student participation","Silence"],
+    "q": "In 'Trial and Error' theory, which factor is essential for learning according to Thorndike?",
+    "options": ["Imitation", "Insight", "Motivation/Drive", "Social pressure"],
     "a": 2,
-    "explanation": "Student participation is central to a democratic classroom."
+    "explanation": "A need or drive is necessary to initiate the trial and error process."
   },
   {
-    "q": "Which assessment helps in analysing learning errors?",
-    "options": ["Summative","Diagnostic","Formative","Norm-referenced"],
+    "q": "A teacher asks students to 'list all possible uses of a brick'. This is testing:",
+    "options": ["Convergent thinking", "Divergent thinking", "Memory", "Discipline"],
     "a": 1,
-    "explanation": "Diagnostic assessment identifies errors and learning gaps."
+    "explanation": "Divergent thinking involves generating multiple unique solutions to a problem."
   },
   {
-    "q": "Identify the tense of the sentence: ‘He reads the newspaper daily.’",
-    "options": ["Past tense","Present tense","Present perfect","Future tense"],
+    "q": "The process of adjusting existing schemas to fit new information is called:",
+    "options": ["Assimilation", "Accommodation", "Equilibration", "Organization"],
     "a": 1,
-    "explanation": "It shows a habitual action in the present tense."
+    "explanation": "Accommodation involves modifying internal structures to account for new data."
   },
   {
-    "q": "What is the antonym of ‘Darkness’?",
-    "options": ["Night","Light","Shadow","Sun"],
+    "q": "Which assessment is used to certify students at the end of a term?",
+    "options": ["Formative", "Summative", "Diagnostic", "Placement"],
     "a": 1,
-    "explanation": "Light is the opposite of darkness."
+    "explanation": "Summative assessment evaluates learning at the end of an instructional unit."
   },
   {
-    "q": "Which sentence is grammatically correct?",
-    "options": ["I has read the book.","I have read the book.","I readed the book.","I reading the book."],
-    "a": 1,
-    "explanation": "‘Have read’ is the correct present perfect form."
-  },
-  {
-    "q": "The word ‘impartiality’ is a/an:",
-    "options": ["Proper noun","Common noun","Abstract noun","Collective noun"],
-    "a": 2,
-    "explanation": "Impartiality represents a quality, hence an abstract noun."
-  },
-  {
-    "q": "The main objective of teaching reading is to develop:",
-    "options": ["Pronunciation only","Comprehension ability","Rote learning","Translation skill"],
-    "a": 1,
-    "explanation": "Reading develops understanding and comprehension."
-  },
-  {
-    "q": "One advantage of the story method in language teaching is that it is:",
-    "options": ["Boring","Interesting","Time-consuming","Passive"],
-    "a": 1,
-    "explanation": "Stories make learning interesting and engaging."
-  },
-  {
-    "q": "Which tool is most useful for vocabulary learning?",
-    "options": ["Dictionary","Translation","Rote learning","Copying"],
-    "a": 0,
-    "explanation": "A dictionary helps understand meaning and correct usage of words."
-  },
-  {
-    "q": "Which word is an adjective?",
-    "options": ["Happiness","Quick","Quickly","Quickness"],
-    "a": 1,
-    "explanation": "‘Quick’ describes a noun."
-  },
-  {
-    "q": "Choose the correct sentence:",
-    "options": ["They was going home.","They were going home.","They is going home.","They be going home."],
-    "a": 1,
-    "explanation": "Plural subject takes ‘were’ in past continuous tense."
-  },
-  {
-    "q": "Which tense is used in: ‘She had finished her work.’?",
-    "options": ["Past perfect","Present perfect","Past continuous","Simple past"],
-    "a": 0,
-    "explanation": "‘Had finished’ indicates past perfect tense."
-  },
-  {
-    "q": "Which punctuation mark shows possession?",
-    "options": ["Comma","Apostrophe","Colon","Hyphen"],
-    "a": 1,
-    "explanation": "An apostrophe is used to show possession."
-  },
-  {
-    "q": "Which skill helps in understanding spoken English?",
-    "options": ["Speaking","Reading","Listening","Writing"],
-    "a": 2,
-    "explanation": "Listening skill helps in understanding spoken language."
-  },
-  {
-    "q": "Choose the correct plural of ‘man’.",
-    "options": ["Mans","Manes","Men","Mens"],
-    "a": 2,
-    "explanation": "‘Men’ is the correct plural form of man."
-  },
-  {
-    "q": "Which sentence is in passive voice?",
-    "options": ["She opens the door.","She opened the door.","The door is opened by her.","She is opening the door."],
-    "a": 2,
-    "explanation": "Passive voice focuses on the object rather than the subject."
-  },
-  {
-    "q": "What was the main occupation during the Vedic period?",
-    "options": ["Trade","Agriculture","Hunting","Crafts"],
-    "a": 1,
-    "explanation": "Agriculture was the main occupation in the Vedic period."
-  },
-  {
-    "q": "Which is the most populous state of India?",
-    "options": ["Maharashtra","Bihar","Uttar Pradesh","West Bengal"],
-    "a": 2,
-    "explanation": "Uttar Pradesh has the highest population in India."
-  },
-  {
-    "q": "In which part of the Constitution are the Directive Principles of State Policy given?",
-    "options": ["Part II","Part III","Part IV","Part V"],
-    "a": 2,
-    "explanation": "Directive Principles are included in Part IV."
-  },
-  {
-    "q": "The Gupta period is called the Golden Age mainly because of progress in:",
-    "options": ["Agriculture","Science and arts","Trade","Wars"],
-    "a": 1,
-    "explanation": "The Gupta age saw great achievements in science, art and culture."
-  },
-  {
-    "q": "India’s eastern coast lies along which water body?",
-    "options": ["Arabian Sea","Bay of Bengal","Indian Ocean","Red Sea"],
-    "a": 1,
-    "explanation": "The eastern coast of India lies along the Bay of Bengal."
-  },
-  {
-    "q": "Who is the presiding officer of the Lok Sabha?",
-    "options": ["President","Prime Minister","Speaker","Vice-President"],
-    "a": 2,
-    "explanation": "The Speaker presides over the Lok Sabha."
-  },
-  {
-    "q": "Who is considered the most powerful ruler of the Delhi Sultanate?",
-    "options": ["Qutbuddin Aibak","Iltutmish","Alauddin Khalji","Balban"],
-    "a": 2,
-    "explanation": "Alauddin Khalji strengthened administration and economy."
-  },
-  {
-    "q": "The Tropic of Cancer passes through which Indian states?",
-    "options": ["Rajasthan and Gujarat","Madhya Pradesh and Chhattisgarh","West Bengal and Odisha","All of these"],
+    "q": "According to Maslow's hierarchy, which is the highest level of need?",
+    "options": ["Safety needs", "Esteem needs", "Social needs", "Self-actualization"],
     "a": 3,
-    "explanation": "The Tropic of Cancer passes through several Indian states."
+    "explanation": "Self-actualization is the peak of Maslow's pyramid of human needs."
   },
   {
-    "q": "What is the foundation of Indian democracy?",
-    "options": ["Parliament","Constitution","Judiciary","Executive"],
+    "q": "What does 'ZPD' stand for in Vygotsky's theory?",
+    "options": ["Zone of Personal Development", "Zone of Proximal Development", "Zero Proximity Distance", "Zone of Progressive Development"],
     "a": 1,
-    "explanation": "Indian democracy is based on the Constitution."
+    "explanation": "ZPD is the gap between what a learner can do alone and with help."
   },
   {
-    "q": "Who was Akbar’s revenue minister?",
-    "options": ["Birbal","Todar Mal","Man Singh","Abul Fazl"],
+    "q": "A child who has difficulty with mathematical calculations likely has:",
+    "options": ["Dyslexia", "Dysgraphia", "Dyscalculia", "Dysphasia"],
+    "a": 2,
+    "explanation": "Dyscalculia is a learning disability in mathematics."
+  },
+  {
+    "q": "The 'Micro-teaching' technique is primarily used for:",
+    "options": ["Teaching small children", "Developing teaching skills", "Reducing class time", "Testing intelligence"],
     "a": 1,
-    "explanation": "Raja Todar Mal introduced revenue reforms."
+    "explanation": "Micro-teaching is a teacher training technique for mastering specific skills."
   },
   {
-    "q": "Which is the southernmost point of mainland India?",
-    "options": ["Kanyakumari","Indira Point","Rameswaram","Kochi"],
+    "q": "A person's height and weight are primarily determined by:",
+    "options": ["Environment", "Heredity", "Diet only", "Exercise only"],
+    "a": 1,
+    "explanation": "Physical traits like height are largely influenced by genetic factors."
+  },
+  {
+    "q": "Which of the following is a 'Child-centered' education characteristic?",
+    "options": ["Focus on textbook", "Teacher is the center", "Respect for child's experiences", "Strict discipline"],
+    "a": 2,
+    "explanation": "Child-centered education prioritizes the learner's needs and experiences."
+  },
+  {
+    "q": "'पवन' का सही संधि-विच्छेद है:",
+    "options": ["प + वन", "पा + वन", "पो + अन", "पौ + अन"],
+    "a": 2,
+    "explanation": "पो + अन = पवन (अयादि संधि)।"
+  },
+  {
+    "q": "'लम्बोदर' में कौन सा समास है?",
+    "options": ["कर्मधारय", "बहुव्रीहि", "द्वंद्व", "तत्पुरुष"],
+    "a": 1,
+    "explanation": "तीसरे पद (गणेश जी) की प्रधानता के कारण यहाँ बहुव्रीहि समास है।"
+  },
+  {
+    "q": "'प्राचीन' शब्द का विलोम है:",
+    "options": ["पुराना", "नवीन", "अर्वाचीन", "आधुनिक"],
+    "a": 2,
+    "explanation": "प्राचीन का सबसे सटीक विलोम 'अर्वाचीन' होता है।"
+  },
+  {
+    "q": "'आँखें दिखाना' मुहावरे का अर्थ है:",
+    "options": ["स्वागत करना", "गुस्सा करना", "निरीक्षण करना", "सावधान करना"],
+    "a": 1,
+    "explanation": "इसका अर्थ है क्रोधित होकर देखना या डराना।"
+  },
+  {
+    "q": "'लेखक' शब्द में कौन सा प्रत्यय है?",
+    "options": ["क", "इक", "अक", "आक"],
+    "a": 2,
+    "explanation": "लिख् + अक = लेखक।"
+  },
+  {
+    "q": "हिंदी भाषा में कुल कितने 'स्वर' हैं?",
+    "options": ["10", "11", "13", "15"],
+    "a": 1,
+    "explanation": "हिंदी वर्णमाला में स्वरों की संख्या 11 मानी जाती है।"
+  },
+  {
+    "q": "कविता शिक्षण का मुख्य उद्देश्य है:",
+    "options": ["शब्दार्थ बोध", "रसानुभूति एवं आनंद", "व्याकरण ज्ञान", "लेखन सुधार"],
+    "a": 1,
+    "explanation": "कविता का मूल उद्देश्य आनंद और भावों की अनुभूति कराना है।"
+  },
+  {
+    "q": "Identify the 'Adverb' in: 'He ran very quickly.'",
+    "options": ["He", "Ran", "Very", "Quickly"],
+    "a": 3,
+    "explanation": "'Quickly' describes the verb 'ran'."
+  },
+  {
+    "q": "Select the correct plural of 'Mouse'.",
+    "options": ["Mouses", "Mice", "Mice's", "Mices"],
+    "a": 1,
+    "explanation": "The irregular plural of mouse is mice."
+  },
+  {
+    "q": "Choose the word with the correct prefix for 'Fortune'.",
+    "options": ["Unfortune", "Infortune", "Misfortune", "Disfortune"],
+    "a": 2,
+    "explanation": "The correct prefix to mean 'bad luck' is 'mis-'."
+  },
+  {
+    "q": "Which part of speech is 'Alas!'?",
+    "options": ["Conjunction", "Preposition", "Interjection", "Adverb"],
+    "a": 2,
+    "explanation": "Interjections express sudden emotions or feelings."
+  },
+  {
+    "q": "The primary objective of 'Remedial Teaching' is:",
+    "options": ["To teach new topics", "To fill learning gaps", "To punish slow learners", "To prepare for exams only"],
+    "a": 1,
+    "explanation": "Remedial teaching addresses specific learning weaknesses identified through diagnosis."
+  },
+  {
+    "q": "Choose the correct sentence in 'Present Perfect Tense':",
+    "options": ["He finished the work.", "He has finished the work.", "He had finished the work.", "He is finishing the work."],
+    "a": 1,
+    "explanation": "Has/Have + V3 is the structure for Present Perfect."
+  },
+  {
+    "q": "What is the feminine gender of 'Bachelor'?",
+    "options": ["Spinster", "Widow", "Nun", "Baroness"],
     "a": 0,
-    "explanation": "Kanyakumari is the southernmost point of mainland India."
+    "explanation": "Spinster is the traditional feminine counterpart of bachelor."
   },
   {
-    "q": "The procedure for amendment of the Constitution is given in which Article?",
-    "options": ["Article 356","Article 368","Article 370","Article 324"],
+    "q": "Which Ashokan inscription mentions the 'Kalinga War'?",
+    "options": ["Rock Edict X", "Rock Edict XII", "Rock Edict XIII", "Bhabru Edict"],
+    "a": 2,
+    "explanation": "Major Rock Edict XIII describes the victory and subsequent remorse of Ashoka after Kalinga."
+  },
+  {
+    "q": "The 'Doctrine of Lapse' was a policy introduced by:",
+    "options": ["Lord Curzon", "Lord Dalhousie", "Lord Wellesley", "Lord Canning"],
     "a": 1,
-    "explanation": "Article 368 deals with constitutional amendments."
+    "explanation": "Dalhousie used this policy to annex Indian states without a natural heir."
+  },
+  {
+    "q": "The 'Fundamental Duties' were added to the Indian Constitution by which amendment?",
+    "options": ["42nd Amendment", "44th Amendment", "52nd Amendment", "73rd Amendment"],
+    "a": 0,
+    "explanation": "The 42nd Amendment (1976) added Part IV-A (Article 51A) based on Swaran Singh Committee."
+  },
+  {
+    "q": "Which planet has the 'Great Red Spot'?",
+    "options": ["Mars", "Jupiter", "Saturn", "Neptune"],
+    "a": 1,
+    "explanation": "The Great Red Spot is a persistent high-pressure storm on Jupiter."
+  },
+  {
+    "q": "Which is the 'Smallest Continent' by land area?",
+    "options": ["Europe", "Antarctica", "Australia", "South America"],
+    "a": 2,
+    "explanation": "Australia is the smallest continent and also an island nation."
+  },
+  {
+    "q": "Who was the first female Governor of an Indian State?",
+    "options": ["Annie Besant", "Sarojini Naidu", "Sucheta Kripalani", "Vijayalakshmi Pandit"],
+    "a": 1,
+    "explanation": "Sarojini Naidu served as the Governor of Uttar Pradesh (United Provinces)."
+  },
+  {
+    "q": "The 'Bhakra Nangal Dam' is built on which river?",
+    "options": ["Jhelum", "Chenab", "Ravi", "Sutlej"],
+    "a": 3,
+    "explanation": "It is a major dam located on the Sutlej River in Himachal Pradesh and Punjab."
+  },
+  {
+    "q": "In which year did the 'First Battle of Tarain' take place?",
+    "options": ["1191", "1192", "1526", "1757"],
+    "a": 0,
+    "explanation": "Prithviraj Chauhan defeated Muhammad Ghori in 1191."
+  },
+  {
+    "q": "The 'Zero Hour' in the Indian Parliamentary system is a:",
+    "options": ["Time for lunch", "Time for voting", "Time for raising urgent matters without notice", "Time for adjournment"],
+    "a": 2,
+    "explanation": "Zero Hour starts immediately after Question Hour."
+  },
+  {
+    "q": "Which line separates India and China?",
+    "options": ["Radcliffe Line", "McMahon Line", "Durand Line", "Palk Strait"],
+    "a": 1,
+    "explanation": "The McMahon Line is the boundary between Northeast India and Tibet (China)."
+  },
+  {
+    "q": "The 'Indian National Congress' was founded in 1885 by:",
+    "options": ["W.C. Bonnerjee", "A.O. Hume", "Dadabhai Naoroji", "Bal Gangadhar Tilak"],
+    "a": 1,
+    "explanation": "Retired British officer Allan Octavian Hume was the primary organizer."
+  },
+  {
+    "q": "Which layer of Earth is in a liquid state?",
+    "options": ["Crust", "Mantle", "Outer Core", "Inner Core"],
+    "a": 2,
+    "explanation": "The Outer Core is composed of liquid iron and nickel."
+  },
+  {
+    "q": "Who is the ex-officio Chairman of the Rajya Sabha?",
+    "options": ["President", "Prime Minister", "Vice-President", "Speaker"],
+    "a": 2,
+    "explanation": "The Vice-President of India presides over the Rajya Sabha."
+  },
+  {
+    "q": "'Operation Flood' is related to:",
+    "options": ["Flood control", "Milk production", "Wheat production", "Fish production"],
+    "a": 1,
+    "explanation": "Known as the White Revolution, it aimed to make India self-sufficient in milk."
+  },
+  {
+    "q": "The 'Sun Temple' of Konark was built by:",
+    "options": ["Narasimhadeva I", "Rajendra Chola", "Chandragupta II", "Ashoka"],
+    "a": 0,
+    "explanation": "The 13th-century temple in Odisha was built by the Eastern Ganga Dynasty king."
   }
 ]
