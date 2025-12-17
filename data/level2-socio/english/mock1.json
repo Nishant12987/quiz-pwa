@@ -1,212 +1,202 @@
 [
   {
-    "q": "What is considered the main reason for emotional instability during adolescence?",
-    "options": ["Intellectual development","Hormonal changes","Social pressure","Academic load"],
-    "a": 1,
-    "explanation": "Rapid hormonal changes during adolescence cause emotional instability."
+    "q": "Which stage of Piaget's cognitive development theory is characterized by 'Object Permanence'?",
+    "options": ["Sensory-motor stage", "Pre-operational stage", "Concrete operational stage", "Formal operational stage"],
+    "a": 0
   },
   {
-    "q": "Which is the highest level in Bloom’s taxonomy of cognitive objectives?",
-    "options": ["Application","Analysis","Synthesis","Evaluation"],
-    "a": 3,
-    "explanation": "Evaluation involves judging based on criteria and is the highest level."
+    "q": "According to Kohlberg's theory of moral development, at which level does an individual follow rules to avoid punishment?",
+    "options": ["Post-conventional", "Pre-conventional", "Conventional", "Universal ethical"],
+    "a": 1
   },
   {
-    "q": "At which stage of learning is motivation most important?",
-    "options": ["Before learning","During learning","After learning","During evaluation"],
-    "a": 1,
-    "explanation": "Motivation sustains interest and effort during the learning process."
+    "q": "In an inclusive classroom, what should be the primary focus of a teacher regarding 'Individual Differences'?",
+    "options": ["Ignoring differences to treat all equally", "Labeling students based on their abilities", "Using diverse teaching strategies to cater to all needs", "Focusing only on gifted children"],
+    "a": 2
   },
   {
-    "q": "What is the core principle of inclusive education?",
-    "options": ["Separate classes for special children","Same curriculum for all","Respect for diversity","Competition"],
-    "a": 2,
-    "explanation": "Inclusive education respects and accommodates learner diversity."
+    "q": "Which of the following is an example of an 'Extrinsic' motivator?",
+    "options": ["Curiosity about a topic", "Joy of learning a new skill", "Receiving a gold medal for a task", "Personal satisfaction"],
+    "a": 2
   },
   {
-    "q": "Which principle of development states that growth proceeds from head to toe?",
-    "options": ["Proximodistal","General to specific","Cephalocaudal","Sequential"],
-    "a": 2,
-    "explanation": "Cephalocaudal development proceeds from head to lower parts of the body."
+    "q": "Gardner's theory of Multiple Intelligences suggests that a person with high 'Interpersonal Intelligence' is good at:",
+    "options": ["Understanding oneself", "Understanding others' emotions and intentions", "Solving mathematical puzzles", "Bodily coordination"],
+    "a": 1
   },
   {
-    "q": "The main focus of constructivist teaching is on:",
-    "options": ["Teacher","Textbook","Learner","Examination"],
-    "a": 2,
-    "explanation": "Constructivism considers learners as active constructors of knowledge."
+    "q": "Which learning principle emphasizes that 'Whole is greater than the sum of its parts'?",
+    "options": ["Behaviorism", "Gestalt Psychology", "Constructivism", "Cognitivism"],
+    "a": 1
   },
   {
-    "q": "Which type of assessment identifies learning difficulties?",
-    "options": ["Formative","Summative","Diagnostic","Norm-referenced"],
-    "a": 2,
-    "explanation": "Diagnostic assessment helps identify specific learning problems."
+    "q": "What is the primary purpose of 'Continuous and Comprehensive Evaluation' (CCE)?",
+    "options": ["To rank students", "To reduce the burden of board exams", "To assess all aspects of a child's development", "To conduct monthly tests"],
+    "a": 2
   },
   {
-    "q": "Which factor is most important in concept formation?",
-    "options": ["Rote practice","Previous knowledge","Punishment","Time limit"],
-    "a": 1,
-    "explanation": "New concepts are formed by linking them with prior knowledge."
+    "q": "A child who struggles with reading and decoding words likely has:",
+    "options": ["Dysgraphia", "Dyscalculia", "Dyslexia", "ADHD"],
+    "a": 2
   },
   {
-    "q": "To create a democratic classroom, a teacher should:",
-    "options": ["Maintain strict discipline","Take unilateral decisions","Encourage student participation","Only lecture"],
-    "a": 2,
-    "explanation": "Student participation promotes democratic classroom culture."
+    "q": "The concept of 'Scaffolding' in teaching is most closely associated with:",
+    "options": ["B.F. Skinner", "Jean Piaget", "Lev Vygotsky", "Lawrence Kohlberg"],
+    "a": 2
   },
   {
-    "q": "Who proposed the Social Learning Theory?",
-    "options": ["Skinner","Thorndike","Bandura","Piaget"],
-    "a": 2,
-    "explanation": "Bandura emphasized learning through observation and imitation."
+    "q": "Which domain of Bloom's Taxonomy deals with physical skills and coordination?",
+    "options": ["Cognitive domain", "Affective domain", "Psychomotor domain", "Reflective domain"],
+    "a": 2
   },
   {
-    "q": "What helps most in developing self-esteem among adolescents?",
-    "options": ["Punishment","Neglect","Acceptance","Competition"],
-    "a": 2,
-    "explanation": "Acceptance helps adolescents develop positive self-esteem."
+    "q": "Growth is a quantitative process, whereas Development is a:",
+    "options": ["Qualitative process", "Physical process", "Static process", "Temporary process"],
+    "a": 0
   },
   {
-    "q": "Identify the tense of the sentence: ‘He goes to school every day.’",
-    "options": ["Past tense","Present tense","Future tense","Present perfect"],
-    "a": 1,
-    "explanation": "It shows a habitual action in the present tense."
+    "q": "हिंदी भाषा शिक्षण में 'निदानात्मक परीक्षण' का मुख्य उद्देश्य क्या है?",
+    "options": ["छात्रों को अंक देना", "कमियों के कारणों को जानना", "अगली कक्षा में भेजना", "कठिन शब्दों को लिखवाना"],
+    "a": 1
   },
   {
-    "q": "What is the antonym of ‘Hard work’?",
-    "options": ["Labour","Laziness","Task","Effort"],
-    "a": 1,
-    "explanation": "Laziness is the opposite of hard work."
+    "q": "इनमें से कौन सा शब्द 'बादल' का पर्यायवाची नहीं है?",
+    "options": ["जलद", "नीरज", "वारिद", "पयोधर"],
+    "a": 1
   },
   {
-    "q": "Which sentence is grammatically correct?",
-    "options": ["I have read the book.","I readed the book.","I has read the book.","I reading the book."],
-    "a": 0,
-    "explanation": "‘Have read’ is the correct present perfect form."
+    "q": "'शुद्ध' वर्तनी वाले शब्द का चयन कीजिए:",
+    "options": ["अतिश्योक्ति", "अतिशयोक्ति", "अतिश्योक्ती", "अतिशयोक्ती"],
+    "a": 1
   },
   {
-    "q": "The word ‘knowledge’ is a:",
-    "options": ["Common noun","Proper noun","Abstract noun","Collective noun"],
-    "a": 2,
-    "explanation": "Knowledge refers to an abstract concept."
+    "q": "जो शब्द संज्ञा के स्थान पर प्रयुक्त होते हैं, उन्हें क्या कहते हैं?",
+    "options": ["विशेषण", "क्रिया", "सर्वनाम", "अव्यय"],
+    "a": 2
   },
   {
-    "q": "The main objective of teaching poetry is:",
-    "options": ["Grammar practice","Development of interest and sensitivity","Translation","Copying"],
-    "a": 1,
-    "explanation": "Poetry enhances emotional and aesthetic development."
+    "q": "'हिमालय से गंगा निकलती है' - इस वाक्य में कौन सा कारक है?",
+    "options": ["करण कारक", "अपादान कारक", "संप्रदान कारक", "अधिकरण कारक"],
+    "a": 1
   },
   {
-    "q": "One advantage of the dialogue method in language teaching is:",
-    "options": ["Rote learning","Active participation","Fear generation","Time saving"],
-    "a": 1,
-    "explanation": "Dialogue promotes interaction and active learning."
+    "q": "'प्रत्युत्पन्नमति' शब्द में कौन सा उपसर्ग है?",
+    "options": ["प्र", "प्रति", "प्रत्यु", "प्रत"],
+    "a": 1
   },
   {
-    "q": "The most effective way to develop vocabulary is:",
-    "options": ["Memorizing lists","Using words in context","Copying words","Only dictation"],
-    "a": 1,
-    "explanation": "Contextual usage helps long-term retention of words."
+    "q": "भाषा कौशल का सही क्रम क्या है?",
+    "options": ["सुनना, बोलना, पढ़ना, लिखना", "बोलना, सुनना, पढ़ना, लिखना", "लिखना, पढ़ना, सुनना, बोलना", "सुनना, पढ़ना, बोलना, लिखना"],
+    "a": 0
   },
   {
-    "q": "Which of the following is a correct sentence?",
-    "options": ["He go to school.","He goes to school.","He going to school.","He gone to school."],
-    "a": 1,
-    "explanation": "Third person singular in present tense uses ‘goes’."
+    "q": "Choose the synonym for the word 'Diligent'.",
+    "options": ["Lazy", "Hardworking", "Careless", "Wealthy"],
+    "a": 1
   },
   {
-    "q": "Which word is an adverb?",
-    "options": ["Quick","Quickly","Quickness","Quicken"],
-    "a": 1,
-    "explanation": "‘Quickly’ describes the manner of an action."
+    "q": "Select the correct passive voice for: 'The teacher corrected the mistakes.'",
+    "options": ["The mistakes are corrected by the teacher.", "The mistakes were corrected by the teacher.", "The teacher was corrected by the mistakes.", "The mistakes corrected by the teacher."],
+    "a": 1
   },
   {
-    "q": "Choose the correct plural form of ‘mouse’.",
-    "options": ["Mouses","Mouse","Mices","Mice"],
-    "a": 3,
-    "explanation": "‘Mice’ is the correct plural form."
+    "q": "Which of the following is an example of an 'Interrogative Pronoun'?",
+    "options": ["He", "Each", "Who", "Them"],
+    "a": 2
   },
   {
-    "q": "Which tense is used in the sentence: ‘They are playing.’?",
-    "options": ["Simple present","Present continuous","Present perfect","Past continuous"],
-    "a": 1,
-    "explanation": "‘Are playing’ indicates present continuous tense."
+    "q": "Choose the correct article: 'He is ________ honest man.'",
+    "options": ["a", "an", "the", "No article"],
+    "a": 1
   },
   {
-    "q": "Which punctuation mark shows possession?",
-    "options": ["Comma","Apostrophe","Colon","Semicolon"],
-    "a": 1,
-    "explanation": "An apostrophe is used to show possession."
+    "q": "Identify the 'Adjective' in the sentence: 'The blue umbrella belongs to me.'",
+    "options": ["Umbrella", "Belongs", "Me", "Blue"],
+    "a": 3
   },
   {
-    "q": "Reading skill mainly helps in:",
-    "options": ["Pronunciation","Comprehension","Handwriting","Listening"],
-    "a": 1,
-    "explanation": "Reading develops understanding of written text."
+    "q": "Which of these is NOT a principle of Language Teaching?",
+    "options": ["Principle of Motivation", "Principle of Habit Formation", "Principle of Rote Memorization", "Principle of Oral Approach"],
+    "a": 2
   },
   {
-    "q": "Which sentence is in future tense?",
-    "options": ["She writes a letter.","She wrote a letter.","She is writing a letter.","She will write a letter."],
-    "a": 3,
-    "explanation": "‘Will write’ expresses future action."
+    "q": "Find the error: 'Each of the students (A) have (B) submitted (C) the assignment (D).'",
+    "options": ["Each of the students", "have", "submitted", "the assignment"],
+    "a": 1
   },
   {
-    "q": "If 3x + 7 = 22, find the value of x.",
-    "options": ["3","4","5","6"],
-    "a": 2,
-    "explanation": "3x = 15, so x = 5."
+    "q": "The value of 256 raised to the power 0.16 multiplied by 256 raised to the power 0.09 is:",
+    "options": ["4", "16", "64", "256"],
+    "a": 0
   },
   {
-    "q": "What is the value of √144?",
-    "options": ["10","11","12","14"],
-    "a": 2,
-    "explanation": "12 × 12 = 144."
+    "q": "If the cost price of 10 articles is equal to the selling price of 8 articles, the gain percent is:",
+    "options": ["15%", "20%", "25%", "30%"],
+    "a": 2
   },
   {
-    "q": "What is the sum of angles of a triangle?",
-    "options": ["90°","180°","270°","360°"],
-    "a": 1,
-    "explanation": "The sum of interior angles of a triangle is 180°."
+    "q": "The sum of all internal angles of a regular hexagon is:",
+    "options": ["360 degrees", "540 degrees", "720 degrees", "1080 degrees"],
+    "a": 2
   },
   {
-    "q": "If 2 : 3 = 8 : x, find x.",
-    "options": ["10","12","14","16"],
-    "a": 1,
-    "explanation": "2x = 24, so x = 12."
+    "q": "Which of the following numbers is a perfect square as well as a perfect cube?",
+    "options": ["36", "64", "81", "125"],
+    "a": 1
   },
   {
-    "q": "Which component of blood transports oxygen?",
-    "options": ["Plasma","White blood cells","Red blood cells","Platelets"],
-    "a": 2,
-    "explanation": "Red blood cells contain hemoglobin which carries oxygen."
+    "q": "The probability of getting a prime number when a fair die is thrown once is:",
+    "options": ["1/6", "1/3", "1/2", "2/3"],
+    "a": 2
   },
   {
-    "q": "Photosynthesis takes place in which part of the plant?",
-    "options": ["Root","Stem","Leaf","Flower"],
-    "a": 2,
-    "explanation": "Leaves contain chlorophyll for photosynthesis."
+    "q": "A can do a piece of work in 10 days and B can do it in 15 days. How many days will they take to finish it together?",
+    "options": ["5 days", "6 days", "8 days", "12 days"],
+    "a": 1
   },
   {
-    "q": "In which medium does sound travel fastest?",
-    "options": ["Air","Water","Solid","Vacuum"],
-    "a": 2,
-    "explanation": "Sound travels fastest in solids due to closely packed particles."
+    "q": "Find the value of x if 3(x - 3) = 5(2x + 1):",
+    "options": ["-2", "-3", "2", "3"],
+    "a": 0
   },
   {
-    "q": "What is the SI unit of energy?",
-    "options": ["Watt","Joule","Newton","Ampere"],
-    "a": 1,
-    "explanation": "Joule is the SI unit of energy."
+    "q": "The ratio of the areas of two squares, one having its diagonal double that of the other, is:",
+    "options": ["2:1", "3:1", "4:1", "8:1"],
+    "a": 2
   },
   {
-    "q": "Which of the following is acidic in nature?",
-    "options": ["Soap","Lemon juice","Baking soda","Lime water"],
-    "a": 1,
-    "explanation": "Lemon juice contains citric acid."
+    "q": "Which of the following is a non-metal that remains liquid at room temperature?",
+    "options": ["Mercury", "Bromine", "Chlorine", "Helium"],
+    "a": 1
   },
   {
-    "q": "Which device is used to open or close an electric circuit?",
-    "options": ["Fuse","Switch","Bulb","Wire"],
-    "a": 1,
-    "explanation": "A switch controls the flow of current in a circuit."
+    "q": "The image formed by a plane mirror is always:",
+    "options": ["Virtual and erect", "Real and inverted", "Virtual and inverted", "Real and erect"],
+    "a": 0
+  },
+  {
+    "q": "The process of conversion of sugar into alcohol by yeast is called:",
+    "options": ["Nitrogen fixation", "Molding", "Fermentation", "Infection"],
+    "a": 2
+  },
+  {
+    "q": "Which cell organelle is known as the 'Powerhouse of the cell'?",
+    "options": ["Nucleus", "Ribosome", "Mitochondria", "Golgi apparatus"],
+    "a": 2
+  },
+  {
+    "q": "Sound can travel through:",
+    "options": ["Solids only", "Liquids only", "Gases only", "Solids, liquids, and gases"],
+    "a": 3
+  },
+  {
+    "q": "The deficiency of Vitamin C in the human diet causes a disease known as:",
+    "options": ["Beri-beri", "Scurvy", "Rickets", "Night blindness"],
+    "a": 1
+  },
+  {
+    "q": "Which of the following is a chemical change?",
+    "options": ["Melting of ice", "Cutting of wood", "Rusting of iron", "Dissolving salt in water"],
+    "a": 2
   }
 ]
