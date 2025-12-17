@@ -2,201 +2,241 @@
   {
     "q": "Which psychologist described the 'Identity Crisis' during adolescence?",
     "options": ["Erik Erikson", "Jean Piaget", "Sigmund Freud", "Carl Rogers"],
-    "a": 0
+    "a": 0,
+    "explanation": "Erikson identified 'Identity vs. Role Confusion' as the core psychosocial conflict during the adolescent years."
   },
   {
     "q": "In 'Project Method' of teaching, the role of the teacher is that of a:",
     "options": ["Director", "Dictator", "Guide and Facilitator", "Passive Spectator"],
-    "a": 2
+    "a": 2,
+    "explanation": "The project method is student-centered; the teacher acts as a facilitator who provides resources and guidance."
   },
   {
-    "q": "Which intelligence type is high in a successful 'Sculptor' or 'Architect' according to Gardner?",
-    "options": ["Logical-Mathematical", "Spatial", "Kinesthetic", "Linguistic"],
-    "a": 1
+    "q": "High 'Spatial Intelligence' is found in which profession?",
+    "options": ["Mathematician", "Sculptor", "Athlete", "Writer"],
+    "a": 1,
+    "explanation": "Spatial intelligence is the ability to visualize and manipulate mental images of three-dimensional objects."
   },
   {
     "q": "What does 'IQ' stand for in psychology?",
     "options": ["Internal Quotient", "Intellectual Quantity", "Intelligence Quotient", "Integrated Quality"],
-    "a": 2
+    "a": 2,
+    "explanation": "Intelligence Quotient (IQ) is a total score derived from several standardized tests designed to assess human intelligence."
   },
   {
-    "q": "Which law of Thorndike states that 'Learning is stronger when followed by satisfaction'?",
-    "options": ["Law of Readiness", "Law of Exercise", "Law of Effect", "Law of Use"],
-    "a": 2
+    "q": "Thorndike's 'Law of Effect' states that:",
+    "options": ["Readiness is key", "Practice is necessary", "Pleasant outcomes strengthen learning", "Repetition is bad"],
+    "a": 2,
+    "explanation": "The Law of Effect suggests that behaviors followed by favorable consequences are likely to be repeated."
   },
   {
     "q": "The 'Individualized Education Program' (IEP) is designed for:",
-    "options": ["Gifted students only", "Children with special needs", "Average students", "Teachers' training"],
-    "a": 1
+    "options": ["Gifted students", "Children with special needs", "Average students", "Teachers"],
+    "a": 1,
+    "explanation": "IEPs are legally mandated documents that outline specific educational goals and services for students with disabilities."
   },
   {
-    "q": "Which type of reinforcement is most effective for long-term behavior maintenance?",
-    "options": ["Continuous reinforcement", "Variable ratio reinforcement", "Fixed interval reinforcement", "Negative reinforcement"],
-    "a": 1
+    "q": "Which reinforcement is most resistant to extinction?",
+    "options": ["Continuous", "Variable ratio", "Fixed interval", "Negative"],
+    "a": 1,
+    "explanation": "Variable ratio schedules (unpredictable rewards) produce the most persistent behavior change."
   },
   {
     "q": "What is 'Metacognition'?",
-    "options": ["Learning by rote", "Thinking about one's own thinking", "Social interaction", "Physical growth"],
-    "a": 1
+    "options": ["Rote learning", "Thinking about one's own thinking", "Social interaction", "Growth"],
+    "a": 1,
+    "explanation": "Metacognition is the awareness and understanding of one's own cognitive processes (thinking about thinking)."
   },
   {
-    "q": "Which stage of development is known as the 'Golden Age' or 'Toy Age'?",
+    "q": "Which stage is known as the 'Golden Age' or 'Toy Age'?",
     "options": ["Infancy", "Early Childhood", "Later Childhood", "Adolescence"],
-    "a": 1
+    "a": 1,
+    "explanation": "Early childhood (2-6 years) is characterized by high play activity and curiosity with toys."
   },
   {
-    "q": "Who is the father of the 'Behaviorism' school of psychology?",
-    "options": ["J.B. Watson", "William James", "Wilhelm Wundt", "Abraham Maslow"],
-    "a": 0
+    "q": "Who is the father of Behaviorism?",
+    "options": ["J.B. Watson", "William James", "Wilhelm Wundt", "Maslow"],
+    "a": 0,
+    "explanation": "John B. Watson established behaviorism, focusing on observable behavior rather than internal mental states."
   },
   {
     "q": "The 'Discovery Learning' model was proposed by:",
-    "options": ["David Ausubel", "Jerome Bruner", "Robert Gagne", "Albert Bandura"],
-    "a": 1
+    "options": ["Ausubel", "Jerome Bruner", "Gagne", "Bandura"],
+    "a": 1,
+    "explanation": "Bruner advocated for students to discover principles for themselves rather than being told them by a teacher."
   },
   {
-    "q": "'नायक' शब्द में कौन सी संधि है?",
-    "options": ["गुण संधि", "वृद्धि संधि", "अयादि संधि", "यण संधि"],
-    "a": 2
+    "q": "Which sandhi is present in the word 'Nayak'?",
+    "options": ["Gun", "Vriddhi", "Ayadi", "Yan"],
+    "a": 2,
+    "explanation": "Nai + Ak = Nayak. This is Ayadi Swar Sandhi."
   },
   {
-    "q": "'यथाशक्ति' में कौन सा समास है?",
-    "options": ["तत्पुरुष", "द्विगु", "अव्ययीभाव", "बहुव्रीहि"],
-    "a": 2
+    "q": "Identify the samas in 'Yathashakti':",
+    "options": ["Tatpurush", "Dvigu", "Avyayibhav", "Bahuvrihi"],
+    "a": 2,
+    "explanation": "Since the first word 'Yatha' is an indeclinable (avyaya), it is Avyayibhav samas."
   },
   {
-    "q": "निम्न में से 'तद्भव' शब्द छाँटिए:",
-    "options": ["अग्नि", "पुष्प", "हाथ", "सूर्य"],
-    "a": 2
+    "q": "Which of these is a 'Tadbhav' word?",
+    "options": ["Agni", "Pushp", "Haath", "Surya"],
+    "a": 2,
+    "explanation": "'Haath' is derived from Sanskrit 'Hasta', making it a Tadbhav word."
   },
   {
-    "q": "'अंधे की लाठी' मुहावरे का सही अर्थ है:",
-    "options": ["बहुत कमजोर होना", "एकमात्र सहारा", "मूर्ख व्यक्ति", "अंधे व्यक्ति का सहायक"],
-    "a": 1
+    "q": "Meaning of Hindi idiom 'Andhe ki lathi':",
+    "options": ["Very weak", "The only support", "Foolish person", "Assistant"],
+    "a": 1,
+    "explanation": "This idiom refers to someone or something that serves as the sole support for a helpless person."
   },
   {
-    "q": "जो 'सब कुछ जानता हो' - वाक्यांश के लिए एक शब्द है:",
-    "options": ["अल्पज्ञ", "बहुज्ञ", "सर्वज्ञ", "अभिज्ञ"],
-    "a": 2
+    "q": "One word for 'One who knows everything':",
+    "options": ["Alpagya", "Bahugya", "Sarvagya", "Abhigya"],
+    "a": 2,
+    "explanation": "Sarva (All) + Gya (Knower) = Sarvagya (Omniscient)."
   },
   {
-    "q": "शिक्षण की 'आगमन विधि' (Inductive Method) चलती है:",
-    "options": ["नियम से उदाहरण की ओर", "उदाहरण से नियम की ओर", "सूक्ष्म से स्थूल की ओर", "अमूर्त से मूर्त की ओर"],
-    "a": 1
+    "q": "Inductive method moves from:",
+    "options": ["Rules to examples", "Examples to rules", "Specific to general", "Abstract to concrete"],
+    "a": 1,
+    "explanation": "The Inductive approach (Aagaman) begins with specific observations/examples and leads to a generalized rule."
   },
   {
-    "q": "इनमें से कौन सा 'स्त्रीलिंग' शब्द है?",
-    "options": ["घी", "दही", "नदी", "पानी"],
-    "a": 2
+    "q": "Which of the following is a 'Feminine' word in Hindi?",
+    "options": ["Ghee", "Dahi", "Nadi", "Paani"],
+    "a": 2,
+    "explanation": "'Nadi' (River) is grammatically feminine, while the others are common exceptions that are masculine."
   },
   {
     "q": "Identify the 'Conjunction' in: 'I wanted to go, but I was tired.'",
     "options": ["Wanted", "Go", "But", "Tired"],
-    "a": 2
+    "a": 2,
+    "explanation": "'But' is a coordinating conjunction used to connect two contrasting independent clauses."
   },
   {
     "q": "Choose the correct spelling:",
     "options": ["Accomodation", "Accommodation", "Acomodation", "Accommadation"],
-    "a": 1
+    "a": 1,
+    "explanation": "Accommodation is spelled with a double 'c' and a double 'm'."
   },
   {
-    "q": "The antonym of 'Transparent' is:",
+    "q": "Antonym of 'Transparent':",
     "options": ["Clear", "Opaque", "Bright", "Fragile"],
-    "a": 1
+    "a": 1,
+    "explanation": "Opaque is the opposite of transparent as it does not allow light to pass through."
   },
   {
-    "q": "Convert to Direct Speech: 'She said that she was happy.'",
+    "q": "Direct speech for: 'She said that she was happy.'",
     "options": ["She said, 'I am happy.'", "She said, 'She is happy.'", "She says, 'I am happy.'", "She said, 'I was happy.'"],
-    "a": 0
+    "a": 0,
+    "explanation": "In indirect to direct, the past tense 'was' changes back to present 'am' relative to the speaker."
   },
   {
-    "q": "Which method of teaching English focuses on 'translation' and 'rules of grammar'?",
+    "q": "Traditional method of teaching language is:",
     "options": ["Direct Method", "Grammar-Translation Method", "Bilingual Method", "Audio-Lingual Method"],
-    "a": 1
+    "a": 1,
+    "explanation": "The Grammar-Translation Method is the oldest classical method focusing on rules and translation."
   },
   {
-    "q": "Select the correct collective noun: 'A ________ of wolves.'",
+    "q": "A ________ of wolves (Collective Noun):",
     "options": ["Flock", "Herd", "Pack", "Swarm"],
-    "a": 2
+    "a": 2,
+    "explanation": "A group of wolves or dogs is correctly termed a 'pack'."
   },
   {
-    "q": "Choose the correct preposition: 'The cat is sitting ________ the table.'",
+    "q": "The cat is sitting ________ the table (Preposition):",
     "options": ["in", "under", "between", "into"],
-    "a": 1
+    "a": 1,
+    "explanation": "'Under' specifies a lower physical position relative to the table surface."
   },
   {
-    "q": "If x + 1/x = 5, then the value of x^2 + 1/x^2 is:",
+    "q": "If x + 1/x = 5, then x^2 + 1/x^2 is:",
     "options": ["23", "25", "27", "21"],
-    "a": 0
+    "a": 0,
+    "explanation": "Square both sides: (x + 1/x)^2 = 25 -> x^2 + 2 + 1/x^2 = 25 -> x^2 + 1/x^2 = 23."
   },
   {
-    "q": "The mean of the first five prime numbers is:",
+    "q": "Mean of first five prime numbers:",
     "options": ["3.6", "5.6", "5.0", "5.4"],
-    "a": 1
+    "a": 1,
+    "explanation": "Primes: 2, 3, 5, 7, 11. Sum = 28. Mean = 28/5 = 5.6."
   },
   {
-    "q": "A shopkeeper marks his goods 20% above cost price and allows a discount of 10%. His profit percent is:",
+    "q": "Marked price 20% above CP and 10% discount. Profit % is:",
     "options": ["8%", "10%", "12%", "15%"],
-    "a": 0
+    "a": 0,
+    "explanation": "Assume CP=100. MP=120. SP=120 - 10% of 120 = 108. Profit = 8%."
   },
   {
-    "q": "In a circle, the angle subtended by an arc at the center is 80 degrees. The angle subtended by it at any point on the remaining part of the circle is:",
+    "q": "Angle at center is 80°. Angle at circumference is:",
     "options": ["40 degrees", "80 degrees", "160 degrees", "20 degrees"],
-    "a": 0
+    "a": 0,
+    "explanation": "The angle subtended by an arc at the center is double the angle subtended by it at any point on the remaining part of the circle."
   },
   {
-    "q": "The sum of the digits of a two-digit number is 9. If 27 is added to the number, digits are reversed. The number is:",
+    "q": "Sum of digits of 2-digit number is 9. Adding 27 reverses it. The number is:",
     "options": ["36", "63", "45", "54"],
-    "a": 0
+    "a": 0,
+    "explanation": "36 -> 3+6=9. 36+27 = 63 (reversed). Hence 36 is correct."
   },
   {
-    "q": "If the volume of a cube is 729 cubic cm, its total surface area is:",
+    "q": "Volume of cube is 729 cm³. Its total surface area is:",
     "options": ["486 sq cm", "324 sq cm", "243 sq cm", "162 sq cm"],
-    "a": 0
+    "a": 0,
+    "explanation": "Side = CubeRoot(729) = 9. TSA = 6 * a^2 = 6 * 81 = 486."
   },
   {
-    "q": "The base of a triangle is 12 cm and height is 8 cm. The area of the triangle is:",
+    "q": "Triangle with base 12 cm and height 8 cm. Area is:",
     "options": ["96 sq cm", "48 sq cm", "24 sq cm", "40 sq cm"],
-    "a": 1
+    "a": 1,
+    "explanation": "Area = 1/2 * base * height = 1/2 * 12 * 8 = 48."
   },
   {
-    "q": "The value of square root of (0.0009) is:",
+    "q": "Value of √0.0009:",
     "options": ["0.3", "0.03", "0.003", "3.0"],
-    "a": 1
+    "a": 1,
+    "explanation": "0.03 * 0.03 = 0.0009. Hence square root is 0.03."
   },
   {
-    "q": "Which of the following is an example of a scalar quantity?",
+    "q": "Which of these is a scalar quantity?",
     "options": ["Velocity", "Force", "Work", "Acceleration"],
-    "a": 2
+    "a": 2,
+    "explanation": "Work is energy transfer and has no direction, making it a scalar."
   },
   {
-    "q": "The pitch of sound depends on its:",
+    "q": "Pitch of sound depends on:",
     "options": ["Amplitude", "Frequency", "Loudness", "Velocity"],
-    "a": 1
+    "a": 1,
+    "explanation": "Frequency determines how high or low a sound feels (pitch)."
   },
   {
-    "q": "Which of the following acids is present in an ant's sting?",
+    "q": "Acid present in ant sting:",
     "options": ["Citric acid", "Lactic acid", "Formic acid", "Oxalic acid"],
-    "a": 2
+    "a": 2,
+    "explanation": "Ants inject Methanoic acid (formic acid), causing the stinging sensation."
   },
   {
-    "q": "The structural and functional unit of kidney is:",
+    "q": "Functional unit of Kidney:",
     "options": ["Neuron", "Nephron", "Alveoli", "Ureter"],
-    "a": 1
+    "a": 1,
+    "explanation": "Nephrons are the microscopic structures that filter blood and form urine."
   },
   {
-    "q": "Which gas is used in fire extinguishers?",
+    "q": "Gas used in fire extinguishers:",
     "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
-    "a": 2
+    "a": 2,
+    "explanation": "CO2 displaces oxygen and cools the fire, making it effective for extinguishing."
   },
   {
-    "q": "The process by which plants lose water in the form of vapor is:",
+    "q": "Process of plants losing water as vapor:",
     "options": ["Photosynthesis", "Transpiration", "Respiration", "Transportation"],
-    "a": 1
+    "a": 1,
+    "explanation": "Transpiration is the evaporation of water from plant leaves through stomata."
   },
   {
-    "q": "A concave lens always forms an image which is:",
+    "q": "Concave lens always forms images that are:",
     "options": ["Real and erect", "Virtual and erect", "Real and inverted", "Virtual and inverted"],
-    "a": 1
+    "a": 1,
+    "explanation": "Diverging (concave) lenses only produce virtual, upright, and diminished images."
   }
 ]
