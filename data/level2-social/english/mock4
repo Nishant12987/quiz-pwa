@@ -1,0 +1,224 @@
+[
+  {
+    "q": "Which factor plays the most important role in a child’s emotional development?",
+    "options": ["Textbook","Teacher attitude","Physical environment","Time-table"],
+    "a": 1,
+    "explanation": "A supportive and positive teacher attitude helps in emotional development."
+  },
+  {
+    "q": "According to Vygotsky, learning is primarily a:",
+    "options": ["Individual process","Mechanical process","Social process","Biological process"],
+    "a": 2,
+    "explanation": "Vygotsky emphasized social interaction in learning."
+  },
+  {
+    "q": "Which assessment is useful for improving teaching strategies?",
+    "options": ["Summative","Formative","Norm-referenced","Final"],
+    "a": 1,
+    "explanation": "Formative assessment provides feedback during teaching."
+  },
+  {
+    "q": "Inclusive education focuses on:",
+    "options": ["Uniformity","Segregation","Equity and participation","Competition"],
+    "a": 2,
+    "explanation": "Inclusive education promotes equity and participation of all learners."
+  },
+  {
+    "q": "Which stage is considered crucial for identity formation?",
+    "options": ["Early childhood","Adolescence","Adulthood","Old age"],
+    "a": 1,
+    "explanation": "Adolescence is vital for identity and self-concept formation."
+  },
+  {
+    "q": "The main role of a teacher in learner-centered education is to:",
+    "options": ["Deliver content","Control class","Facilitate learning","Conduct exams"],
+    "a": 2,
+    "explanation": "Learner-centered education emphasizes facilitation."
+  },
+  {
+    "q": "Which principle of development states that development proceeds from head to toe?",
+    "options": ["Proximodistal","Cephalocaudal","Continuity","Readiness"],
+    "a": 1,
+    "explanation": "Cephalocaudal development moves from head to toe."
+  },
+  {
+    "q": "Which method best encourages critical thinking?",
+    "options": ["Lecture method","Project method","Drill method","Dictation"],
+    "a": 1,
+    "explanation": "Project method encourages inquiry and analysis."
+  },
+  {
+    "q": "Which learning theory emphasizes insight and perception?",
+    "options": ["Behaviorism","Gestalt theory","Social learning","Humanism"],
+    "a": 1,
+    "explanation": "Gestalt theory focuses on insight learning."
+  },
+  {
+    "q": "Which factor most affects moral development in students?",
+    "options": ["Punishment","Role models","Textbooks","Examinations"],
+    "a": 1,
+    "explanation": "Role models strongly influence moral development."
+  },
+  {
+    "q": "Which assessment evaluates overall achievement at the end of a course?",
+    "options": ["Formative","Diagnostic","Summative","Continuous"],
+    "a": 2,
+    "explanation": "Summative assessment measures final achievement."
+  },
+  {
+    "q": "Identify the tense: ‘She writes letters regularly.’",
+    "options": ["Past tense","Present tense","Future tense","Present perfect"],
+    "a": 1,
+    "explanation": "It indicates habitual action in present tense."
+  },
+  {
+    "q": "The antonym of ‘victory’ is:",
+    "options": ["Success","Achievement","Defeat","Win"],
+    "a": 2,
+    "explanation": "Defeat is the opposite of victory."
+  },
+  {
+    "q": "Which sentence is grammatically correct?",
+    "options": ["He have completed the task.","He has completed the task.","He is complete the task.","He completing the task."],
+    "a": 1,
+    "explanation": "‘Has completed’ is the correct present perfect form."
+  },
+  {
+    "q": "The word ‘honesty’ is a/an:",
+    "options": ["Proper noun","Common noun","Abstract noun","Collective noun"],
+    "a": 2,
+    "explanation": "Honesty is an abstract quality."
+  },
+  {
+    "q": "The main aim of teaching history is to:",
+    "options": ["Memorize dates","Understand cause and effect","Learn biographies only","Prepare for exams"],
+    "a": 1,
+    "explanation": "History helps understand cause–effect relationships."
+  },
+  {
+    "q": "Which activity best develops speaking skills?",
+    "options": ["Silent reading","Role play","Copy writing","Translation"],
+    "a": 1,
+    "explanation": "Role play encourages verbal expression."
+  },
+  {
+    "q": "Vocabulary develops best when words are taught:",
+    "options": ["In isolation","Through translation","In context","By memorization"],
+    "a": 2,
+    "explanation": "Contextual learning improves understanding and retention."
+  },
+  {
+    "q": "Which word is an adverb?",
+    "options": ["Happy","Happiness","Happily","Happier"],
+    "a": 2,
+    "explanation": "‘Happily’ modifies a verb."
+  },
+  {
+    "q": "Choose the correct sentence:",
+    "options": ["They has arrived.","They have arrived.","They is arrived.","They arriving."],
+    "a": 1,
+    "explanation": "Plural subject takes ‘have’."
+  },
+  {
+    "q": "Which tense is used in: ‘We will start the work tomorrow.’?",
+    "options": ["Present","Past","Future","Present perfect"],
+    "a": 2,
+    "explanation": "‘Will start’ indicates future tense."
+  },
+  {
+    "q": "Which punctuation mark is used to show possession?",
+    "options": ["Comma","Apostrophe","Colon","Semicolon"],
+    "a": 1,
+    "explanation": "An apostrophe shows possession."
+  },
+  {
+    "q": "Which skill is essential for understanding lectures?",
+    "options": ["Speaking","Listening","Reading","Writing"],
+    "a": 1,
+    "explanation": "Listening skill is essential for understanding spoken content."
+  },
+  {
+    "q": "Choose the correct plural form of ‘tooth’.",
+    "options": ["Tooths","Teeth","Toothes","Tooth"],
+    "a": 1,
+    "explanation": "Teeth is the correct plural form."
+  },
+  {
+    "q": "Which sentence is in passive voice?",
+    "options": ["She completes the work.","She completed the work.","The work is completed by her.","She is completing the work."],
+    "a": 2,
+    "explanation": "Passive voice focuses on the object."
+  },
+  {
+    "q": "Which ancient civilization flourished along the Indus River?",
+    "options": ["Mesopotamian","Egyptian","Harappan","Chinese"],
+    "a": 2,
+    "explanation": "The Harappan civilization developed along the Indus River."
+  },
+  {
+    "q": "Which soil is most suitable for cotton cultivation?",
+    "options": ["Alluvial soil","Black soil","Red soil","Laterite soil"],
+    "a": 1,
+    "explanation": "Black soil retains moisture and suits cotton."
+  },
+  {
+    "q": "Which Fundamental Right protects freedom of speech?",
+    "options": ["Right to Equality","Right to Freedom","Right to Religion","Right to Education"],
+    "a": 1,
+    "explanation": "Freedom of speech is included in Right to Freedom."
+  },
+  {
+    "q": "Who was the first Mughal emperor of India?",
+    "options": ["Akbar","Babur","Humayun","Jahangir"],
+    "a": 1,
+    "explanation": "Babur founded the Mughal Empire in India."
+  },
+  {
+    "q": "Which line divides the Earth into Eastern and Western Hemispheres?",
+    "options": ["Equator","Prime Meridian","Tropic of Cancer","Arctic Circle"],
+    "a": 1,
+    "explanation": "The Prime Meridian divides Earth into east and west."
+  },
+  {
+    "q": "Who appoints the Governor of a state?",
+    "options": ["Chief Minister","President","Prime Minister","Chief Justice"],
+    "a": 1,
+    "explanation": "The President appoints the Governor."
+  },
+  {
+    "q": "Who was known as the ‘Napoleon of India’?",
+    "options": ["Ashoka","Chandragupta Maurya","Samudragupta","Harsha"],
+    "a": 2,
+    "explanation": "Samudragupta earned this title for military conquests."
+  },
+  {
+    "q": "Which plateau is rich in mineral resources in India?",
+    "options": ["Deccan Plateau","Chotanagpur Plateau","Malwa Plateau","Bundelkhand Plateau"],
+    "a": 1,
+    "explanation": "Chotanagpur Plateau is rich in minerals."
+  },
+  {
+    "q": "Which body interprets the Constitution of India?",
+    "options": ["Parliament","President","Supreme Court","Election Commission"],
+    "a": 2,
+    "explanation": "The Supreme Court interprets the Constitution."
+  },
+  {
+    "q": "Who introduced the Mansabdari system?",
+    "options": ["Babur","Akbar","Sher Shah Suri","Aurangzeb"],
+    "a": 1,
+    "explanation": "Akbar introduced the Mansabdari system."
+  },
+  {
+    "q": "Which state has the highest population density in India?",
+    "options": ["Uttar Pradesh","Bihar","West Bengal","Kerala"],
+    "a": 1,
+    "explanation": "Bihar has the highest population density."
+  },
+  {
+    "q": "Which institution resolves disputes related to elections?",
+    "options": ["Supreme Court","Election Commission","High Court","Parliament"],
+    "a": 0,
+    "explanation": "The Supreme Court handles election-related disputes."
+  }
+]
