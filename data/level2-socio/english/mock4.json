@@ -1,218 +1,202 @@
 [
   {
-    "q": "According to Piaget, which stage is most suitable for developing abstract reasoning in students?",
-    "options": ["Sensorimotor stage","Pre-operational stage","Concrete operational stage","Formal operational stage"],
-    "a": 3,
-    "explanation": "Abstract thinking develops during the formal operational stage."
+    "q": "Which type of development is most affected by 'Socio-cultural' factors according to Vygotsky?",
+    "options": ["Physical", "Cognitive", "Biological", "Reflexive"],
+    "a": 1
   },
   {
-    "q": "Which type of motivation comes from within the learner?",
-    "options": ["Extrinsic motivation","Social motivation","Intrinsic motivation","Negative motivation"],
-    "a": 2,
-    "explanation": "Intrinsic motivation originates from internal interest and satisfaction."
+    "q": "The concept of 'Mental Age' was first introduced by:",
+    "options": ["Lewis Terman", "Alfred Binet", "David Wechsler", "Robert Sternberg"],
+    "a": 1
   },
   {
-    "q": "The main aim of Continuous and Comprehensive Evaluation (CCE) is to:",
-    "options": ["Conduct final exams","Rank students","Ensure holistic development","Reduce syllabus"],
-    "a": 2,
-    "explanation": "CCE focuses on overall development of learners."
+    "q": "Which of the following is a 'Projective Technique' for personality assessment?",
+    "options": ["Observation", "Interview", "Rorschach Inkblot Test", "Rating Scale"],
+    "a": 2
   },
   {
-    "q": "Which learning theory emphasizes learning through reinforcement?",
-    "options": ["Cognitive theory","Behaviorist theory","Constructivist theory","Gestalt theory"],
-    "a": 1,
-    "explanation": "Behaviorist theory stresses reinforcement in learning."
+    "q": "A teacher notices a student is very good at identifying patterns in nature and plants. Which intelligence is this?",
+    "options": ["Spatial", "Naturalistic", "Mathematical", "Musical"],
+    "a": 1
   },
   {
-    "q": "Which factor plays the most important role in adolescent adjustment?",
-    "options": ["School rules","Peer group","Timetable","Homework"],
-    "a": 1,
-    "explanation": "Peer influence is strongest during adolescence."
+    "q": "'Learning by Doing' is the main principle of:",
+    "options": ["Idealism", "Pragmatism", "Naturalism", "Realism"],
+    "a": 1
   },
   {
-    "q": "In inclusive classrooms, teaching should be:",
-    "options": ["Uniform for all","Flexible","Strict","Exam-oriented"],
-    "a": 1,
-    "explanation": "Flexible teaching meets diverse learner needs."
+    "q": "Which of the following is NOT a stage of creative thinking?",
+    "options": ["Preparation", "Incubation", "Verification", "Rote repetition"],
+    "a": 3
   },
   {
-    "q": "Which assessment helps identify learning gaps?",
-    "options": ["Summative","Formative","Diagnostic","Norm-referenced"],
-    "a": 2,
-    "explanation": "Diagnostic assessment identifies learning difficulties."
+    "q": "The term 'Cephalocaudal' development means growth from:",
+    "options": ["Center to periphery", "Head to toe", "Toe to head", "Specific to general"],
+    "a": 1
   },
   {
-    "q": "Which principle of development states that development proceeds from near to far?",
-    "options": ["Cephalocaudal","Proximodistal","Continuity","Readiness"],
-    "a": 1,
-    "explanation": "Proximodistal development proceeds from near to far."
+    "q": "Which law of learning states that 'Practice makes perfect'?",
+    "options": ["Law of Readiness", "Law of Exercise", "Law of Effect", "Law of Recency"],
+    "a": 1
   },
   {
-    "q": "Which teaching method encourages independent learning?",
-    "options": ["Lecture method","Project method","Drill method","Demonstration method"],
-    "a": 1,
-    "explanation": "Project method promotes self-directed learning."
+    "q": "In a 'Democratic' style of leadership, the teacher:",
+    "options": ["Takes all decisions alone", "Allows students to do whatever they want", "Consults with students and encourages participation", "Does not participate at all"],
+    "a": 2
   },
   {
-    "q": "Which quality is essential for an effective science teacher?",
-    "options": ["Authoritarianism","Curiosity","Indifference","Strict discipline"],
-    "a": 1,
-    "explanation": "Curiosity encourages inquiry-based learning."
+    "q": "What is the I.Q. range of an 'Average' child?",
+    "options": ["70-80", "90-109", "120-140", "Above 140"],
+    "a": 1
   },
   {
-    "q": "Which factor most strongly influences concept formation?",
-    "options": ["Punishment","Prior knowledge","Time pressure","Repetition only"],
-    "a": 1,
-    "explanation": "Concepts are formed by linking new ideas with prior knowledge."
+    "q": "Which of these is a secondary agency of socialization?",
+    "options": ["Family", "School", "Peer group", "Parents"],
+    "a": 1
   },
   {
-    "q": "Identify the tense: ‘She was reading a book.’",
-    "options": ["Simple past","Past continuous","Past perfect","Present continuous"],
-    "a": 1,
-    "explanation": "‘Was reading’ indicates past continuous tense."
+    "q": "'दयानंद' में प्रयुक्त संधि का नाम है:",
+    "options": ["गुण संधि", "दीर्घ संधि", "व्यंजन संधि", "यण संधि"],
+    "a": 1
   },
   {
-    "q": "The antonym of ‘arrival’ is:",
-    "options": ["Departure","Journey","Travel","Entry"],
-    "a": 0,
-    "explanation": "Departure is the opposite of arrival."
+    "q": "'चौराहा' में कौन सा समास है?",
+    "options": ["द्विगु", "द्वंद्व", "तत्पुरुष", "अव्ययीभाव"],
+    "a": 0
   },
   {
-    "q": "Which sentence is grammatically correct?",
-    "options": ["He have finished the work.","He has finished the work.","He is finish the work.","He finishing the work."],
-    "a": 1,
-    "explanation": "‘Has finished’ is correct for third person singular."
+    "q": "'उपकार' का विलोम शब्द है:",
+    "options": ["विकार", "अनुपकार", "अपकार", "तिरस्कार"],
+    "a": 2
   },
   {
-    "q": "The word ‘bravery’ is a/an:",
-    "options": ["Proper noun","Common noun","Abstract noun","Collective noun"],
-    "a": 2,
-    "explanation": "Bravery is an abstract quality."
+    "q": "'नाक कटना' मुहावरे का अर्थ है:",
+    "options": ["चोट लगना", "इज्जत जाना", "बीमार होना", "झगड़ा करना"],
+    "a": 1
   },
   {
-    "q": "The main aim of teaching drama is to develop:",
-    "options": ["Grammar","Expression and confidence","Translation skills","Memorization"],
-    "a": 1,
-    "explanation": "Drama develops expression and confidence."
+    "q": "शुद्ध वाक्य का चयन कीजिए:",
+    "options": ["वह दंड देने योग्य है।", "वह दंड के योग्य है।", "वह दंड लेने योग्य है।", "वह दंड पाने योग्य है।"],
+    "a": 1
   },
   {
-    "q": "Which activity best develops listening skills?",
-    "options": ["Silent reading","Story narration","Copy writing","Essay writing"],
-    "a": 1,
-    "explanation": "Listening to stories improves listening skills."
+    "q": "'तरणि' शब्द का अर्थ है:",
+    "options": ["सूर्य", "नाव", "युवती", "नदी"],
+    "a": 0
   },
   {
-    "q": "Vocabulary learning is most effective when words are taught:",
-    "options": ["In isolation","Through translation","In context","By memorization"],
-    "a": 2,
-    "explanation": "Contextual learning improves retention."
+    "q": "भाषा शिक्षण की 'प्रत्यक्ष विधि' (Direct Method) में:",
+    "options": ["मातृभाषा का प्रयोग वर्जित है", "अनुवाद पर बल दिया जाता है", "व्याकरण के नियमों को रटाया जाता है", "चित्रों का प्रयोग नहीं होता"],
+    "a": 0
   },
   {
-    "q": "Which word is an adjective?",
-    "options": ["Quickly","Beauty","Beautiful","Beautify"],
-    "a": 2,
-    "explanation": "‘Beautiful’ describes a noun."
+    "q": "Choose the correctly punctuated sentence:",
+    "options": ["He said I am coming.", "He said, 'I am coming.'", "He said 'I am coming.'", "He said, I am coming."],
+    "a": 1
   },
   {
-    "q": "Choose the correct sentence:",
-    "options": ["They is playing.","They are playing.","They was playing.","They be playing."],
-    "a": 1,
-    "explanation": "‘They are playing’ is grammatically correct."
+    "q": "What is the superlative degree of 'Little'?",
+    "options": ["Littlest", "Less", "Least", "Lesser"],
+    "a": 2
   },
   {
-    "q": "Which tense is used in: ‘I will complete my work.’?",
-    "options": ["Present","Past","Future","Present perfect"],
-    "a": 2,
-    "explanation": "‘Will complete’ shows future tense."
+    "q": "Identify the 'Subject' in the sentence: 'On the top of the hill lives a hermit.'",
+    "options": ["The hill", "The top", "A hermit", "Lives"],
+    "a": 2
   },
   {
-    "q": "Which punctuation mark is used to show possession?",
-    "options": ["Comma","Apostrophe","Colon","Hyphen"],
-    "a": 1,
-    "explanation": "Apostrophe indicates possession."
+    "q": "Which of these is a 'Vowel Sound' symbol in Phonetics?",
+    "options": ["/p/", "/b/", "/e/", "/t/"],
+    "a": 2
   },
   {
-    "q": "Which skill helps in understanding written text?",
-    "options": ["Speaking","Listening","Reading","Writing"],
-    "a": 2,
-    "explanation": "Reading helps in comprehension."
+    "q": "The phrase 'Call it a day' means:",
+    "options": ["To start working", "To stop working on something", "To wake up early", "To celebrate"],
+    "a": 1
   },
   {
-    "q": "Which sentence is in passive voice?",
-    "options": ["She cleans the room.","She cleaned the room.","The room is cleaned by her.","She is cleaning the room."],
-    "a": 2,
-    "explanation": "Passive voice emphasizes the object."
+    "q": "Select the correct 'Question Tag': 'You are a student, ________?'",
+    "options": ["don't you", "aren't you", "are you", "isn't it"],
+    "a": 1
   },
   {
-    "q": "If x + 9 = 17, find x.",
-    "options": ["6","7","8","9"],
-    "a": 2,
-    "explanation": "x = 17 − 9 = 8."
+    "q": "Fill in the blank: 'I have been living here ________ 2010.'",
+    "options": ["for", "since", "from", "during"],
+    "a": 1
   },
   {
-    "q": "What is the square root of 196?",
-    "options": ["12","13","14","15"],
-    "a": 2,
-    "explanation": "14 × 14 = 196."
+    "q": "The value of 0.333... in p/q form is:",
+    "options": ["1/3", "3/10", "33/100", "1/33"],
+    "a": 0
   },
   {
-    "q": "What is the perimeter of a square of side 7 cm?",
-    "options": ["21 cm","28 cm","35 cm","49 cm"],
-    "a": 1,
-    "explanation": "Perimeter = 4 × side = 28 cm."
+    "q": "If the diameter of a sphere is 6 cm, its volume is:",
+    "options": ["36 pi cubic cm", "288 pi cubic cm", "12 pi cubic cm", "72 pi cubic cm"],
+    "a": 0
   },
   {
-    "q": "Which of the following is a rational number?",
-    "options": ["√5","π","2/3","√7"],
-    "a": 2,
-    "explanation": "2/3 is a rational number."
+    "q": "The probability of an impossible event is:",
+    "options": ["1", "0.5", "0", "0.1"],
+    "a": 2
   },
   {
-    "q": "The value of |−15| is:",
-    "options": ["−15","0","15","1"],
-    "a": 2,
-    "explanation": "Absolute value is always positive."
+    "q": "The square of an odd number is always:",
+    "options": ["Even", "Odd", "Prime", "Composite"],
+    "a": 1
   },
   {
-    "q": "Which mirror is used as a rear-view mirror?",
-    "options": ["Concave mirror","Convex mirror","Plane mirror","Spherical mirror"],
-    "a": 1,
-    "explanation": "Convex mirrors provide a wider field of view."
+    "q": "The product of (x + 2)(x - 2) is:",
+    "options": ["x^2 + 4", "x^2 - 4", "x^2 - 4x + 4", "x^2 + 4x + 4"],
+    "a": 1
   },
   {
-    "q": "Which organ helps in breathing?",
-    "options": ["Heart","Brain","Lungs","Kidneys"],
-    "a": 2,
-    "explanation": "Lungs help in respiration."
+    "q": "If a angle is its own complement, the angle is:",
+    "options": ["45 degrees", "90 degrees", "180 degrees", "0 degrees"],
+    "a": 0
   },
   {
-    "q": "Which gas is essential for respiration?",
-    "options": ["Nitrogen","Carbon dioxide","Oxygen","Hydrogen"],
-    "a": 2,
-    "explanation": "Oxygen is required for respiration."
+    "q": "The value of 5^0 + 2^0 is:",
+    "options": ["7", "1", "2", "0"],
+    "a": 2
   },
   {
-    "q": "What is the SI unit of power?",
-    "options": ["Joule","Watt","Newton","Ampere"],
-    "a": 1,
-    "explanation": "Watt is the SI unit of power."
+    "q": "The exterior angle of a triangle is equal to the sum of its:",
+    "options": ["Two interior opposite angles", "All three interior angles", "Adjacent interior angle", "None of these"],
+    "a": 0
   },
   {
-    "q": "Which nutrient helps in body building?",
-    "options": ["Carbohydrates","Proteins","Fats","Vitamins"],
-    "a": 1,
-    "explanation": "Proteins are body-building nutrients."
+    "q": "Which of the following is a primary color of light?",
+    "options": ["Yellow", "Magenta", "Cyan", "Green"],
+    "a": 3
   },
   {
-    "q": "Which component is necessary to complete an electric circuit?",
-    "options": ["Battery","Switch","Wire","All of these"],
-    "a": 3,
-    "explanation": "All components are required for a complete circuit."
+    "q": "The metal used in galvanizing iron to prevent rusting is:",
+    "options": ["Copper", "Zinc", "Aluminum", "Tin"],
+    "a": 1
   },
   {
-    "q": "Which process changes liquid into gas?",
-    "options": ["Condensation","Freezing","Evaporation","Melting"],
-    "a": 2,
-    "explanation": "Evaporation converts liquid into gas."
+    "q": "Which part of the plant is known as the 'Food Factory'?",
+    "options": ["Root", "Stem", "Leaf", "Flower"],
+    "a": 2
+  },
+  {
+    "q": "Which of the following is a renewable source of energy?",
+    "options": ["Coal", "Petroleum", "Solar energy", "Natural gas"],
+    "a": 2
+  },
+  {
+    "q": "The chromosome responsible for determining the male gender in humans is:",
+    "options": ["X chromosome", "Y chromosome", "Z chromosome", "O chromosome"],
+    "a": 1
+  },
+  {
+    "q": "Which instrument is used to measure atmospheric pressure?",
+    "options": ["Thermometer", "Barometer", "Hygrometer", "Anemometer"],
+    "a": 1
+  },
+  {
+    "q": "Penicillin, the first antibiotic, was discovered by:",
+    "options": ["Edward Jenner", "Louis Pasteur", "Alexander Fleming", "Robert Koch"],
+    "a": 2
   }
 ]
