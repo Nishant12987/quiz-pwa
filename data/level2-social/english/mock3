@@ -1,0 +1,224 @@
+[
+  {
+    "q": "What is the role of school in a child’s social development?",
+    "options": ["Only academic growth","Discipline only","Development of social behavior","Promoting competition"],
+    "a": 2,
+    "explanation": "Group activities and interactions in school help develop social behavior."
+  },
+  {
+    "q": "According to Piaget, moral development becomes clear at which stage?",
+    "options": ["Sensorimotor stage","Pre-operational stage","Concrete operational stage","Formal operational stage"],
+    "a": 2,
+    "explanation": "In the concrete operational stage, children understand rules and fairness."
+  },
+  {
+    "q": "Which type of assessment is conducted before teaching begins?",
+    "options": ["Summative","Formative","Diagnostic","Continuous"],
+    "a": 2,
+    "explanation": "Diagnostic assessment identifies prior knowledge and learning difficulties."
+  },
+  {
+    "q": "In inclusive education, diversity is viewed as:",
+    "options": ["A problem","A burden","A resource","To be ignored"],
+    "a": 2,
+    "explanation": "Diversity is considered a resource that enriches learning."
+  },
+  {
+    "q": "Which type of motivation is considered most effective for learning?",
+    "options": ["Negative","Extrinsic","Intrinsic","Social"],
+    "a": 2,
+    "explanation": "Intrinsic motivation leads to deeper and long-lasting learning."
+  },
+  {
+    "q": "What is the main role of the teacher in a constructivist classroom?",
+    "options": ["Lecturer","Controller","Facilitator","Examiner"],
+    "a": 2,
+    "explanation": "The teacher facilitates learners in constructing their own knowledge."
+  },
+  {
+    "q": "During adolescence, self-concept is most influenced by:",
+    "options": ["Textbooks","Teachers","Peer group","Examinations"],
+    "a": 2,
+    "explanation": "Peer acceptance strongly affects adolescents’ self-concept."
+  },
+  {
+    "q": "Which learning theory is based on imitation and observation?",
+    "options": ["Behaviorism","Cognitivism","Social learning theory","Gestalt theory"],
+    "a": 2,
+    "explanation": "Social learning theory emphasizes learning through observation."
+  },
+  {
+    "q": "Which principle of development states that growth proceeds from centre to outward parts?",
+    "options": ["Cephalocaudal","Proximodistal","Continuity","Sequence"],
+    "a": 1,
+    "explanation": "Proximodistal development occurs from the centre of the body outward."
+  },
+  {
+    "q": "What is the main feature of a democratic classroom?",
+    "options": ["Strict discipline","Teacher dominance","Student participation","Silence"],
+    "a": 2,
+    "explanation": "Student participation is central to a democratic classroom."
+  },
+  {
+    "q": "Which assessment helps in analysing learning errors?",
+    "options": ["Summative","Diagnostic","Formative","Norm-referenced"],
+    "a": 1,
+    "explanation": "Diagnostic assessment identifies errors and learning gaps."
+  },
+  {
+    "q": "Identify the tense of the sentence: ‘He reads the newspaper daily.’",
+    "options": ["Past tense","Present tense","Present perfect","Future tense"],
+    "a": 1,
+    "explanation": "It shows a habitual action in the present tense."
+  },
+  {
+    "q": "What is the antonym of ‘Darkness’?",
+    "options": ["Night","Light","Shadow","Sun"],
+    "a": 1,
+    "explanation": "Light is the opposite of darkness."
+  },
+  {
+    "q": "Which sentence is grammatically correct?",
+    "options": ["I has read the book.","I have read the book.","I readed the book.","I reading the book."],
+    "a": 1,
+    "explanation": "‘Have read’ is the correct present perfect form."
+  },
+  {
+    "q": "The word ‘impartiality’ is a/an:",
+    "options": ["Proper noun","Common noun","Abstract noun","Collective noun"],
+    "a": 2,
+    "explanation": "Impartiality represents a quality, hence an abstract noun."
+  },
+  {
+    "q": "The main objective of teaching reading is to develop:",
+    "options": ["Pronunciation only","Comprehension ability","Rote learning","Translation skill"],
+    "a": 1,
+    "explanation": "Reading develops understanding and comprehension."
+  },
+  {
+    "q": "One advantage of the story method in language teaching is that it is:",
+    "options": ["Boring","Interesting","Time-consuming","Passive"],
+    "a": 1,
+    "explanation": "Stories make learning interesting and engaging."
+  },
+  {
+    "q": "Which tool is most useful for vocabulary learning?",
+    "options": ["Dictionary","Translation","Rote learning","Copying"],
+    "a": 0,
+    "explanation": "A dictionary helps understand meaning and correct usage of words."
+  },
+  {
+    "q": "Which word is an adjective?",
+    "options": ["Happiness","Quick","Quickly","Quickness"],
+    "a": 1,
+    "explanation": "‘Quick’ describes a noun."
+  },
+  {
+    "q": "Choose the correct sentence:",
+    "options": ["They was going home.","They were going home.","They is going home.","They be going home."],
+    "a": 1,
+    "explanation": "Plural subject takes ‘were’ in past continuous tense."
+  },
+  {
+    "q": "Which tense is used in: ‘She had finished her work.’?",
+    "options": ["Past perfect","Present perfect","Past continuous","Simple past"],
+    "a": 0,
+    "explanation": "‘Had finished’ indicates past perfect tense."
+  },
+  {
+    "q": "Which punctuation mark shows possession?",
+    "options": ["Comma","Apostrophe","Colon","Hyphen"],
+    "a": 1,
+    "explanation": "An apostrophe is used to show possession."
+  },
+  {
+    "q": "Which skill helps in understanding spoken English?",
+    "options": ["Speaking","Reading","Listening","Writing"],
+    "a": 2,
+    "explanation": "Listening skill helps in understanding spoken language."
+  },
+  {
+    "q": "Choose the correct plural of ‘man’.",
+    "options": ["Mans","Manes","Men","Mens"],
+    "a": 2,
+    "explanation": "‘Men’ is the correct plural form of man."
+  },
+  {
+    "q": "Which sentence is in passive voice?",
+    "options": ["She opens the door.","She opened the door.","The door is opened by her.","She is opening the door."],
+    "a": 2,
+    "explanation": "Passive voice focuses on the object rather than the subject."
+  },
+  {
+    "q": "What was the main occupation during the Vedic period?",
+    "options": ["Trade","Agriculture","Hunting","Crafts"],
+    "a": 1,
+    "explanation": "Agriculture was the main occupation in the Vedic period."
+  },
+  {
+    "q": "Which is the most populous state of India?",
+    "options": ["Maharashtra","Bihar","Uttar Pradesh","West Bengal"],
+    "a": 2,
+    "explanation": "Uttar Pradesh has the highest population in India."
+  },
+  {
+    "q": "In which part of the Constitution are the Directive Principles of State Policy given?",
+    "options": ["Part II","Part III","Part IV","Part V"],
+    "a": 2,
+    "explanation": "Directive Principles are included in Part IV."
+  },
+  {
+    "q": "The Gupta period is called the Golden Age mainly because of progress in:",
+    "options": ["Agriculture","Science and arts","Trade","Wars"],
+    "a": 1,
+    "explanation": "The Gupta age saw great achievements in science, art and culture."
+  },
+  {
+    "q": "India’s eastern coast lies along which water body?",
+    "options": ["Arabian Sea","Bay of Bengal","Indian Ocean","Red Sea"],
+    "a": 1,
+    "explanation": "The eastern coast of India lies along the Bay of Bengal."
+  },
+  {
+    "q": "Who is the presiding officer of the Lok Sabha?",
+    "options": ["President","Prime Minister","Speaker","Vice-President"],
+    "a": 2,
+    "explanation": "The Speaker presides over the Lok Sabha."
+  },
+  {
+    "q": "Who is considered the most powerful ruler of the Delhi Sultanate?",
+    "options": ["Qutbuddin Aibak","Iltutmish","Alauddin Khalji","Balban"],
+    "a": 2,
+    "explanation": "Alauddin Khalji strengthened administration and economy."
+  },
+  {
+    "q": "The Tropic of Cancer passes through which Indian states?",
+    "options": ["Rajasthan and Gujarat","Madhya Pradesh and Chhattisgarh","West Bengal and Odisha","All of these"],
+    "a": 3,
+    "explanation": "The Tropic of Cancer passes through several Indian states."
+  },
+  {
+    "q": "What is the foundation of Indian democracy?",
+    "options": ["Parliament","Constitution","Judiciary","Executive"],
+    "a": 1,
+    "explanation": "Indian democracy is based on the Constitution."
+  },
+  {
+    "q": "Who was Akbar’s revenue minister?",
+    "options": ["Birbal","Todar Mal","Man Singh","Abul Fazl"],
+    "a": 1,
+    "explanation": "Raja Todar Mal introduced revenue reforms."
+  },
+  {
+    "q": "Which is the southernmost point of mainland India?",
+    "options": ["Kanyakumari","Indira Point","Rameswaram","Kochi"],
+    "a": 0,
+    "explanation": "Kanyakumari is the southernmost point of mainland India."
+  },
+  {
+    "q": "The procedure for amendment of the Constitution is given in which Article?",
+    "options": ["Article 356","Article 368","Article 370","Article 324"],
+    "a": 1,
+    "explanation": "Article 368 deals with constitutional amendments."
+  }
+]
