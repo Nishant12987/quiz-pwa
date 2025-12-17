@@ -4,15 +4,17 @@ let index = 0;
 let timer;
 let timeLeft = 2400;
 
-/* ---------------- LOGIN ---------------- */
+/* ================= LOGIN ================= */
 function login() {
   if (!agree.checked) return alert("Accept policies");
+
   const email = document.getElementById("email").value.trim();
   if (!email) return alert("Enter email");
 
+  // Save email
   localStorage.setItem("user_email", email);
 
-  // Create access record if first time
+  // Create access object ONLY once
   if (!localStorage.getItem("user_access")) {
     localStorage.setItem(
       "user_access",
@@ -29,35 +31,39 @@ function login() {
   showDashboard();
 }
 
-/* ---------------- DASHBOARD ---------------- */
+/* ================= DASHBOARD ================= */
 function showDashboard() {
   hideAll();
   show("dashboard");
 
+  const email = localStorage.getItem("user_email");
   const access = JSON.parse(localStorage.getItem("user_access"));
-  welcome.innerText = "Welcome " + localStorage.getItem("user_email");
 
-  // If already selected once → LOCK selection forever
+  welcome.innerText = "Welcome " + email;
+
+  // LOCK selection forever once chosen
   if (access.level) {
     document.getElementById("selectionBox").style.display = "none";
+
     limit.innerText = access.paid
       ? `Paid access: ${access.level.toUpperCase()} ${access.language.toUpperCase()}`
       : "1 free mock remaining";
   } else {
     document.getElementById("selectionBox").style.display = "block";
-    limit.innerText = "Choose your exam (one-time only)";
+    limit.innerText = "Choose your exam (one-time selection)";
   }
 
+  // Show stream only for level 2
   level.onchange = () => {
     stream.style.display = level.value === "level2" ? "block" : "none";
   };
 }
 
-/* ---------------- START FLOW ---------------- */
+/* ================= START FLOW ================= */
 function startFlow() {
   let access = JSON.parse(localStorage.getItem("user_access"));
 
-  // FIRST TIME SELECTION
+  /* FIRST TIME SELECTION ONLY */
   if (!access.level) {
     if (!level.value || !language.value)
       return alert("Select all options");
@@ -72,7 +78,7 @@ function startFlow() {
     localStorage.setItem("user_access", JSON.stringify(access));
   }
 
-  // ACCESS CONTROL
+  /* ACCESS CONTROL */
   if (!access.paid && access.testsDone >= 1) {
     alert("Free test over. Purchase required for this selection.");
     window.open("https://razorpay.me/@prepone", "_blank");
@@ -82,7 +88,7 @@ function startFlow() {
   loadMock();
 }
 
-/* ---------------- LOAD MOCK ---------------- */
+/* ================= LOAD MOCK ================= */
 async function loadMock() {
   const access = JSON.parse(localStorage.getItem("user_access"));
   const mockNo = access.testsDone + 1;
@@ -94,7 +100,7 @@ async function loadMock() {
   try {
     const res = await fetch(path);
     questions = await res.json();
-  } catch {
+  } catch (e) {
     alert("No more mocks available");
     return;
   }
@@ -109,7 +115,7 @@ async function loadMock() {
   render();
 }
 
-/* ---------------- RENDER ---------------- */
+/* ================= RENDER ================= */
 function render() {
   qCounter.innerText = `Q ${index + 1}/${questions.length}`;
   question.innerText = questions[index].q;
@@ -137,6 +143,7 @@ function nextQ() {
     render();
   }
 }
+
 function prevQ() {
   if (index > 0) {
     index--;
@@ -144,7 +151,7 @@ function prevQ() {
   }
 }
 
-/* ---------------- FINISH ---------------- */
+/* ================= FINISH ================= */
 function finishQuiz() {
   clearInterval(timer);
 
@@ -169,13 +176,16 @@ function finishQuiz() {
     access.language === "hindi" ? "परिणाम" : "Result";
 
   finalScore.innerText = `Score: ${score}/40`;
+
   finalMsg.innerText =
     score >= 30
       ? "Excellent! You are exam ready."
-      : "Keep practicing. You will improve.";
+      : score >= 20
+      ? "Good effort. Keep practicing."
+      : "Don’t give up. Improvement will come.";
 }
 
-/* ---------------- TIMER ---------------- */
+/* ================= TIMER ================= */
 function startTimer() {
   updateTime();
   timer = setInterval(() => {
@@ -192,14 +202,18 @@ function updateTime() {
     String(timeLeft % 60).padStart(2, "0");
 }
 
-/* ---------------- HELPERS ---------------- */
+/* ================= HELPERS ================= */
 function hideAll() {
-  ["login", "dashboard", "quiz", "result"].forEach(
-    (id) => (document.getElementById(id).style.display = "none")
-  );
+  ["login", "dashboard", "quiz", "result"].forEach(id => {
+    document.getElementById(id).style.display = "none";
+  });
 }
+
 function show(id) {
   document.getElementById(id).style.display = "block";
 }
 
-if (localStorage.getItem("user_email")) showDashboard();
+/* ================= AUTO LOGIN ================= */
+if (localStorage.getItem("user_email")) {
+  showDashboard();
+}
