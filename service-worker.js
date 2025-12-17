@@ -1,4 +1,4 @@
-const CACHE = "prepone-v1";
+const CACHE = "prepone-v2";
 const CACHE_FILES = [
   "/",
   "/index.html",
