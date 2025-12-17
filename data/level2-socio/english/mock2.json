@@ -1,212 +1,202 @@
 [
   {
-    "q": "Which stage of Piaget is most relevant for teaching abstract concepts to students of classes 6–8?",
-    "options": ["Sensorimotor","Pre-operational","Concrete operational","Formal operational"],
-    "a": 3,
-    "explanation": "Formal operational stage supports abstract and logical thinking."
+    "q": "Which psychologist described the 'Identity Crisis' during adolescence?",
+    "options": ["Erik Erikson", "Jean Piaget", "Sigmund Freud", "Carl Rogers"],
+    "a": 0
   },
   {
-    "q": "The main purpose of formative assessment is to:",
-    "options": ["Grade students","Improve teaching-learning","Promote competition","Certify learning"],
-    "a": 1,
-    "explanation": "Formative assessment provides feedback to improve learning."
+    "q": "In 'Project Method' of teaching, the role of the teacher is that of a:",
+    "options": ["Director", "Dictator", "Guide and Facilitator", "Passive Spectator"],
+    "a": 2
   },
   {
-    "q": "Which learning theory emphasizes reinforcement?",
-    "options": ["Cognitive theory","Behaviorism","Constructivism","Humanism"],
-    "a": 1,
-    "explanation": "Behaviorism focuses on stimulus–response and reinforcement."
+    "q": "Which intelligence type is high in a successful 'Sculptor' or 'Architect' according to Gardner?",
+    "options": ["Logical-Mathematical", "Spatial", "Kinesthetic", "Linguistic"],
+    "a": 1
   },
   {
-    "q": "Inclusive education means:",
-    "options": ["Separate schools for special children","Same method for all","Educating all children together","Ignoring diversity"],
-    "a": 2,
-    "explanation": "Inclusive education teaches all learners together respecting diversity."
+    "q": "What does 'IQ' stand for in psychology?",
+    "options": ["Internal Quotient", "Intellectual Quantity", "Intelligence Quotient", "Integrated Quality"],
+    "a": 2
   },
   {
-    "q": "Which factor most affects learning during adolescence?",
-    "options": ["Uniform","Peer group","Textbooks","Timetable"],
-    "a": 1,
-    "explanation": "Peer influence is very strong during adolescence."
+    "q": "Which law of Thorndike states that 'Learning is stronger when followed by satisfaction'?",
+    "options": ["Law of Readiness", "Law of Exercise", "Law of Effect", "Law of Use"],
+    "a": 2
   },
   {
-    "q": "Learning by observation was proposed by:",
-    "options": ["Piaget","Bandura","Thorndike","Skinner"],
-    "a": 1,
-    "explanation": "Bandura proposed observational (social) learning."
+    "q": "The 'Individualized Education Program' (IEP) is designed for:",
+    "options": ["Gifted students only", "Children with special needs", "Average students", "Teachers' training"],
+    "a": 1
   },
   {
-    "q": "Which evaluation is conducted during teaching?",
-    "options": ["Summative","Diagnostic","Formative","Norm-referenced"],
-    "a": 2,
-    "explanation": "Formative evaluation occurs during instruction."
+    "q": "Which type of reinforcement is most effective for long-term behavior maintenance?",
+    "options": ["Continuous reinforcement", "Variable ratio reinforcement", "Fixed interval reinforcement", "Negative reinforcement"],
+    "a": 1
   },
   {
-    "q": "The principle of development from simple to complex is called:",
-    "options": ["Continuity","Progression","Maturation","Readiness"],
-    "a": 1,
-    "explanation": "Progression moves learning from simple to complex."
+    "q": "What is 'Metacognition'?",
+    "options": ["Learning by rote", "Thinking about one's own thinking", "Social interaction", "Physical growth"],
+    "a": 1
   },
   {
-    "q": "Which teaching method best supports problem solving?",
-    "options": ["Lecture","Project","Drill","Recitation"],
-    "a": 1,
-    "explanation": "Project method involves real-life problem solving."
+    "q": "Which stage of development is known as the 'Golden Age' or 'Toy Age'?",
+    "options": ["Infancy", "Early Childhood", "Later Childhood", "Adolescence"],
+    "a": 1
   },
   {
-    "q": "Which quality is most important for a mathematics teacher?",
-    "options": ["Strictness","Patience","Speed","Authority"],
-    "a": 1,
-    "explanation": "Patience helps in addressing diverse learner needs."
+    "q": "Who is the father of the 'Behaviorism' school of psychology?",
+    "options": ["J.B. Watson", "William James", "Wilhelm Wundt", "Abraham Maslow"],
+    "a": 0
   },
   {
-    "q": "Adolescents develop moral reasoning mainly due to:",
-    "options": ["Punishment","Logical thinking","Fear","Imitation"],
-    "a": 1,
-    "explanation": "Improved logical thinking enhances moral reasoning."
+    "q": "The 'Discovery Learning' model was proposed by:",
+    "options": ["David Ausubel", "Jerome Bruner", "Robert Gagne", "Albert Bandura"],
+    "a": 1
   },
   {
-    "q": "Identify the correct tense: ‘They were solving the problem.’",
-    "options": ["Simple past","Past continuous","Present perfect","Past perfect"],
-    "a": 1,
-    "explanation": "‘Were solving’ shows past continuous tense."
+    "q": "'नायक' शब्द में कौन सी संधि है?",
+    "options": ["गुण संधि", "वृद्धि संधि", "अयादि संधि", "यण संधि"],
+    "a": 2
   },
   {
-    "q": "The antonym of ‘increase’ is:",
-    "options": ["Grow","Expand","Decrease","Improve"],
-    "a": 2,
-    "explanation": "Decrease is opposite of increase."
+    "q": "'यथाशक्ति' में कौन सा समास है?",
+    "options": ["तत्पुरुष", "द्विगु", "अव्ययीभाव", "बहुव्रीहि"],
+    "a": 2
   },
   {
-    "q": "Which sentence is grammatically correct?",
-    "options": ["She do not like maths.","She does not like maths.","She did not likes maths.","She do not likes maths."],
-    "a": 1,
-    "explanation": "‘Does not like’ is the correct present tense form."
+    "q": "निम्न में से 'तद्भव' शब्द छाँटिए:",
+    "options": ["अग्नि", "पुष्प", "हाथ", "सूर्य"],
+    "a": 2
   },
   {
-    "q": "The word ‘honesty’ is a:",
-    "options": ["Common noun","Abstract noun","Collective noun","Proper noun"],
-    "a": 1,
-    "explanation": "Honesty is an abstract quality."
+    "q": "'अंधे की लाठी' मुहावरे का सही अर्थ है:",
+    "options": ["बहुत कमजोर होना", "एकमात्र सहारा", "मूर्ख व्यक्ति", "अंधे व्यक्ति का सहायक"],
+    "a": 1
   },
   {
-    "q": "The main aim of teaching prose is to develop:",
-    "options": ["Grammar only","Comprehension and expression","Memorization","Translation"],
-    "a": 1,
-    "explanation": "Prose helps comprehension and language expression."
+    "q": "जो 'सब कुछ जानता हो' - वाक्यांश के लिए एक शब्द है:",
+    "options": ["अल्पज्ञ", "बहुज्ञ", "सर्वज्ञ", "अभिज्ञ"],
+    "a": 2
   },
   {
-    "q": "Which method improves speaking skills most?",
-    "options": ["Dictation","Role play","Silent reading","Copy writing"],
-    "a": 1,
-    "explanation": "Role play encourages spoken interaction."
+    "q": "शिक्षण की 'आगमन विधि' (Inductive Method) चलती है:",
+    "options": ["नियम से उदाहरण की ओर", "उदाहरण से नियम की ओर", "सूक्ष्म से स्थूल की ओर", "अमूर्त से मूर्त की ओर"],
+    "a": 1
   },
   {
-    "q": "Vocabulary is best taught through:",
-    "options": ["Word lists","Contextual usage","Translation","Rote learning"],
-    "a": 1,
-    "explanation": "Contextual usage ensures better retention."
+    "q": "इनमें से कौन सा 'स्त्रीलिंग' शब्द है?",
+    "options": ["घी", "दही", "नदी", "पानी"],
+    "a": 2
   },
   {
-    "q": "Which sentence uses an adverb correctly?",
-    "options": ["She sings beautiful.","She sings beautifully.","She beautiful sings.","She sings beauty."],
-    "a": 1,
-    "explanation": "‘Beautifully’ correctly modifies the verb."
+    "q": "Identify the 'Conjunction' in: 'I wanted to go, but I was tired.'",
+    "options": ["Wanted", "Go", "But", "Tired"],
+    "a": 2
   },
   {
-    "q": "Choose the correct passive voice: ‘He wrote a letter.’",
-    "options": ["A letter writes him.","A letter was written by him.","A letter is written by him.","A letter had wrote by him."],
-    "a": 1,
-    "explanation": "Past tense passive uses ‘was written’."
+    "q": "Choose the correct spelling:",
+    "options": ["Accomodation", "Accommodation", "Acomodation", "Accommadation"],
+    "a": 1
   },
   {
-    "q": "Which punctuation mark is used before a list?",
-    "options": ["Comma","Colon","Semicolon","Apostrophe"],
-    "a": 1,
-    "explanation": "Colon introduces a list."
+    "q": "The antonym of 'Transparent' is:",
+    "options": ["Clear", "Opaque", "Bright", "Fragile"],
+    "a": 1
   },
   {
-    "q": "Reading silently mainly improves:",
-    "options": ["Pronunciation","Speed and comprehension","Listening","Handwriting"],
-    "a": 1,
-    "explanation": "Silent reading improves speed and understanding."
+    "q": "Convert to Direct Speech: 'She said that she was happy.'",
+    "options": ["She said, 'I am happy.'", "She said, 'She is happy.'", "She says, 'I am happy.'", "She said, 'I was happy.'"],
+    "a": 0
   },
   {
-    "q": "Which sentence is in present perfect tense?",
-    "options": ["She writes.","She wrote.","She has written.","She is writing."],
-    "a": 2,
-    "explanation": "‘Has written’ indicates present perfect."
+    "q": "Which method of teaching English focuses on 'translation' and 'rules of grammar'?",
+    "options": ["Direct Method", "Grammar-Translation Method", "Bilingual Method", "Audio-Lingual Method"],
+    "a": 1
   },
   {
-    "q": "If 5x − 10 = 15, find x.",
-    "options": ["3","4","5","6"],
-    "a": 2,
-    "explanation": "5x = 25, so x = 5."
+    "q": "Select the correct collective noun: 'A ________ of wolves.'",
+    "options": ["Flock", "Herd", "Pack", "Swarm"],
+    "a": 2
   },
   {
-    "q": "What is the value of 7²?",
-    "options": ["14","21","49","64"],
-    "a": 2,
-    "explanation": "7 × 7 = 49."
+    "q": "Choose the correct preposition: 'The cat is sitting ________ the table.'",
+    "options": ["in", "under", "between", "into"],
+    "a": 1
   },
   {
-    "q": "The perimeter of a rectangle is 36 cm. If length is 10 cm, find breadth.",
-    "options": ["6 cm","8 cm","10 cm","12 cm"],
-    "a": 0,
-    "explanation": "2(l+b)=36 ⇒ l+b=18 ⇒ b=8 (correct option index should be 1, answer = 8)."
+    "q": "If x + 1/x = 5, then the value of x^2 + 1/x^2 is:",
+    "options": ["23", "25", "27", "21"],
+    "a": 0
   },
   {
-    "q": "Which of the following is a rational number?",
-    "options": ["√2","π","3/5","√7"],
-    "a": 2,
-    "explanation": "A rational number can be expressed as p/q."
+    "q": "The mean of the first five prime numbers is:",
+    "options": ["3.6", "5.6", "5.0", "5.4"],
+    "a": 1
   },
   {
-    "q": "The value of |−9| is:",
-    "options": ["−9","0","9","1"],
-    "a": 2,
-    "explanation": "Absolute value is always positive."
+    "q": "A shopkeeper marks his goods 20% above cost price and allows a discount of 10%. His profit percent is:",
+    "options": ["8%", "10%", "12%", "15%"],
+    "a": 0
   },
   {
-    "q": "Which law explains the reflection of light?",
-    "options": ["Ohm’s law","Newton’s law","Law of reflection","Snell’s law"],
-    "a": 2,
-    "explanation": "Law of reflection explains light reflection."
+    "q": "In a circle, the angle subtended by an arc at the center is 80 degrees. The angle subtended by it at any point on the remaining part of the circle is:",
+    "options": ["40 degrees", "80 degrees", "160 degrees", "20 degrees"],
+    "a": 0
   },
   {
-    "q": "Which organ controls body activities?",
-    "options": ["Heart","Brain","Lungs","Kidney"],
-    "a": 1,
-    "explanation": "Brain controls all body activities."
+    "q": "The sum of the digits of a two-digit number is 9. If 27 is added to the number, digits are reversed. The number is:",
+    "options": ["36", "63", "45", "54"],
+    "a": 0
   },
   {
-    "q": "Which gas is released during photosynthesis?",
-    "options": ["Carbon dioxide","Oxygen","Nitrogen","Hydrogen"],
-    "a": 1,
-    "explanation": "Photosynthesis releases oxygen."
+    "q": "If the volume of a cube is 729 cubic cm, its total surface area is:",
+    "options": ["486 sq cm", "324 sq cm", "243 sq cm", "162 sq cm"],
+    "a": 0
   },
   {
-    "q": "SI unit of force is:",
-    "options": ["Joule","Pascal","Newton","Watt"],
-    "a": 2,
-    "explanation": "Force is measured in Newton."
+    "q": "The base of a triangle is 12 cm and height is 8 cm. The area of the triangle is:",
+    "options": ["96 sq cm", "48 sq cm", "24 sq cm", "40 sq cm"],
+    "a": 1
   },
   {
-    "q": "Which vitamin is produced in the human body in sunlight?",
-    "options": ["Vitamin A","Vitamin B","Vitamin C","Vitamin D"],
-    "a": 3,
-    "explanation": "Sunlight helps produce Vitamin D."
+    "q": "The value of square root of (0.0009) is:",
+    "options": ["0.3", "0.03", "0.003", "3.0"],
+    "a": 1
   },
   {
-    "q": "Which substance turns blue litmus red?",
-    "options": ["Base","Salt","Acid","Neutral solution"],
-    "a": 2,
-    "explanation": "Acids turn blue litmus red."
+    "q": "Which of the following is an example of a scalar quantity?",
+    "options": ["Velocity", "Force", "Work", "Acceleration"],
+    "a": 2
   },
   {
-    "q": "Which device converts electrical energy into light?",
-    "options": ["Fan","Heater","Bulb","Switch"],
-    "a": 2,
-    "explanation": "A bulb converts electrical energy into light."
+    "q": "The pitch of sound depends on its:",
+    "options": ["Amplitude", "Frequency", "Loudness", "Velocity"],
+    "a": 1
+  },
+  {
+    "q": "Which of the following acids is present in an ant's sting?",
+    "options": ["Citric acid", "Lactic acid", "Formic acid", "Oxalic acid"],
+    "a": 2
+  },
+  {
+    "q": "The structural and functional unit of kidney is:",
+    "options": ["Neuron", "Nephron", "Alveoli", "Ureter"],
+    "a": 1
+  },
+  {
+    "q": "Which gas is used in fire extinguishers?",
+    "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+    "a": 2
+  },
+  {
+    "q": "The process by which plants lose water in the form of vapor is:",
+    "options": ["Photosynthesis", "Transpiration", "Respiration", "Transportation"],
+    "a": 1
+  },
+  {
+    "q": "A concave lens always forms an image which is:",
+    "options": ["Real and erect", "Virtual and erect", "Real and inverted", "Virtual and inverted"],
+    "a": 1
   }
 ]
