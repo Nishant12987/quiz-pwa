@@ -1,0 +1,224 @@
+[
+  {
+    "q": "What is the main reason for emotional imbalance during adolescence?",
+    "options": ["Intellectual development","Hormonal changes","School pressure","Family environment"],
+    "a": 1,
+    "explanation": "Rapid hormonal changes during adolescence lead to emotional imbalance."
+  },
+  {
+    "q": "According to Vygotsky, effective learning takes place in which area?",
+    "options": ["Zone of actual development","Zone of proximal development","Maturity zone","Intellectual zone"],
+    "a": 1,
+    "explanation": "The Zone of Proximal Development allows learning with guidance."
+  },
+  {
+    "q": "What is the main objective of inclusive education?",
+    "options": ["Separating special children","Providing equal opportunities to all children","Focusing only on normal children","Increasing competition"],
+    "a": 1,
+    "explanation": "Inclusive education ensures equal learning opportunities for all."
+  },
+  {
+    "q": "Which assessment is conducted during the learning process?",
+    "options": ["Summative","Diagnostic","Formative","Norm-based"],
+    "a": 2,
+    "explanation": "Formative assessment helps improve learning during instruction."
+  },
+  {
+    "q": "What is the role of a teacher in constructivist teaching?",
+    "options": ["Source of knowledge","Disciplinarian","Facilitator","Examiner"],
+    "a": 2,
+    "explanation": "The teacher guides learners in constructing their own knowledge."
+  },
+  {
+    "q": "Which principle of development states that development continues throughout life?",
+    "options": ["Sequence","Continuity","Maturation","Readiness"],
+    "a": 1,
+    "explanation": "The continuity principle views development as a lifelong process."
+  },
+  {
+    "q": "What is the role of motivation in learning?",
+    "options": ["Punishment","Maintaining interest","Evaluation","Control"],
+    "a": 1,
+    "explanation": "Motivation keeps learners interested and engaged."
+  },
+  {
+    "q": "How can a democratic classroom environment be created?",
+    "options": ["Through strict discipline","By lecturing only","Through student participation","By punishment"],
+    "a": 2,
+    "explanation": "Student participation encourages democratic values."
+  },
+  {
+    "q": "Who proposed the Social Learning Theory?",
+    "options": ["Piaget","Skinner","Bandura","Thorndike"],
+    "a": 2,
+    "explanation": "Bandura emphasized learning through observation and imitation."
+  },
+  {
+    "q": "What helps most in developing self-esteem among adolescents?",
+    "options": ["Neglect","Punishment","Acceptance","Competition"],
+    "a": 2,
+    "explanation": "Acceptance helps build positive self-esteem."
+  },
+  {
+    "q": "Which assessment helps identify learning difficulties?",
+    "options": ["Summative","Formative","Diagnostic","Continuous"],
+    "a": 2,
+    "explanation": "Diagnostic assessment identifies learning problems."
+  },
+  {
+    "q": "Identify the tense of the sentence: ‘He goes to school every day.’",
+    "options": ["Past tense","Present tense","Future tense","Present perfect"],
+    "a": 1,
+    "explanation": "It shows a habitual action in present tense."
+  },
+  {
+    "q": "What is the antonym of ‘Courage’?",
+    "options": ["Bravery","Fear","Strength","Patience"],
+    "a": 1,
+    "explanation": "Fear is the opposite of courage."
+  },
+  {
+    "q": "Which sentence is grammatically correct?",
+    "options": ["I have wrote the letter.","I has written the letter.","I have written the letter.","I writing the letter."],
+    "a": 2,
+    "explanation": "‘Have written’ is the correct present perfect form."
+  },
+  {
+    "q": "The word ‘childhood’ is a/an:",
+    "options": ["Proper noun","Common noun","Abstract noun","Collective noun"],
+    "a": 2,
+    "explanation": "Childhood refers to a stage of life."
+  },
+  {
+    "q": "The main objective of essay writing is to develop:",
+    "options": ["Rote learning","Expression of ideas","Only grammar","Translation"],
+    "a": 1,
+    "explanation": "Essay writing develops logical expression of ideas."
+  },
+  {
+    "q": "One advantage of the question–answer method is:",
+    "options": ["Passivity","Active participation","Fear","Loss of time"],
+    "a": 1,
+    "explanation": "It keeps learners actively involved."
+  },
+  {
+    "q": "The most effective way to develop vocabulary is:",
+    "options": ["Word lists","Using words in context","Copying","Only dictation"],
+    "a": 1,
+    "explanation": "Contextual use improves retention."
+  },
+  {
+    "q": "Which word is a noun?",
+    "options": ["Run","Honesty","Quickly","Beautiful"],
+    "a": 1,
+    "explanation": "Honesty is an abstract noun."
+  },
+  {
+    "q": "Choose the correct sentence:",
+    "options": ["She go to school.","She goes to school.","She going to school.","She gone to school."],
+    "a": 1,
+    "explanation": "Third person singular takes ‘goes’."
+  },
+  {
+    "q": "Which tense is used in: ‘They are watching TV.’?",
+    "options": ["Simple present","Present continuous","Present perfect","Past continuous"],
+    "a": 1,
+    "explanation": "‘Are watching’ shows present continuous tense."
+  },
+  {
+    "q": "Which punctuation mark is used to ask a question?",
+    "options": ["Full stop","Comma","Question mark","Exclamation mark"],
+    "a": 2,
+    "explanation": "A question mark is used in interrogative sentences."
+  },
+  {
+    "q": "Which skill helps in understanding written text?",
+    "options": ["Listening","Speaking","Reading","Writing"],
+    "a": 2,
+    "explanation": "Reading helps in comprehension."
+  },
+  {
+    "q": "Choose the correct plural of ‘child’.",
+    "options": ["Childs","Childes","Children","Childrens"],
+    "a": 2,
+    "explanation": "Children is the correct plural form."
+  },
+  {
+    "q": "Which sentence is in future tense?",
+    "options": ["He writes a letter.","He wrote a letter.","He is writing a letter.","He will write a letter."],
+    "a": 3,
+    "explanation": "‘Will write’ indicates future tense."
+  },
+  {
+    "q": "Which was a major city of the Harappan Civilization?",
+    "options": ["Pataliputra","Mohenjo-daro","Ujjain","Kannauj"],
+    "a": 1,
+    "explanation": "Mohenjo-daro was a prominent Harappan city."
+  },
+  {
+    "q": "Most of the rainfall in India is caused by which winds?",
+    "options": ["North-East Monsoon","South-West Monsoon","Western Disturbances","Local winds"],
+    "a": 1,
+    "explanation": "South-West Monsoon brings most rainfall to India."
+  },
+  {
+    "q": "In which part of the Indian Constitution are Fundamental Rights given?",
+    "options": ["Part II","Part III","Part IV","Part V"],
+    "a": 1,
+    "explanation": "Fundamental Rights are mentioned in Part III."
+  },
+  {
+    "q": "Who was the founder of the Maurya Dynasty?",
+    "options": ["Ashoka","Chandragupta Maurya","Bindusara","Samudragupta"],
+    "a": 1,
+    "explanation": "Chandragupta Maurya founded the Maurya Dynasty."
+  },
+  {
+    "q": "Which latitude lies at 0°?",
+    "options": ["Tropic of Cancer","Tropic of Capricorn","Equator","Prime Meridian"],
+    "a": 2,
+    "explanation": "The Equator lies at 0° latitude."
+  },
+  {
+    "q": "What is the smallest unit of local self-government?",
+    "options": ["Zila Parishad","Panchayat Samiti","Gram Sabha","Municipal Corporation"],
+    "a": 2,
+    "explanation": "Gram Sabha is the smallest unit of local governance."
+  },
+  {
+    "q": "Who was the first ruler of the Delhi Sultanate?",
+    "options": ["Iltutmish","Qutbuddin Aibak","Alauddin Khalji","Balban"],
+    "a": 1,
+    "explanation": "Qutbuddin Aibak was the first ruler of the Delhi Sultanate."
+  },
+  {
+    "q": "Which is the longest river in India?",
+    "options": ["Ganga","Yamuna","Brahmaputra","Godavari"],
+    "a": 0,
+    "explanation": "The Ganga is the longest river in India."
+  },
+  {
+    "q": "For how many years are the members of the Lok Sabha elected?",
+    "options": ["4 years","5 years","6 years","7 years"],
+    "a": 1,
+    "explanation": "The term of the Lok Sabha is 5 years."
+  },
+  {
+    "q": "In which language did Saint Kabir compose his works?",
+    "options": ["Sanskrit","Persian","Sadhukkadi","Awadhi"],
+    "a": 2,
+    "explanation": "Kabir composed his works in Sadhukkadi."
+  },
+  {
+    "q": "Which is the largest Indian state by area?",
+    "options": ["Uttar Pradesh","Maharashtra","Rajasthan","Madhya Pradesh"],
+    "a": 2,
+    "explanation": "Rajasthan is the largest state by area."
+  },
+  {
+    "q": "Who is known as the guardian of the Constitution?",
+    "options": ["President","Prime Minister","Parliament","Supreme Court"],
+    "a": 3,
+    "explanation": "The Supreme Court protects and interprets the Constitution."
+  }
+]
