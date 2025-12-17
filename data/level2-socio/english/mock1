@@ -1,0 +1,212 @@
+[
+  {
+    "q": "What is considered the main reason for emotional instability during adolescence?",
+    "options": ["Intellectual development","Hormonal changes","Social pressure","Academic load"],
+    "a": 1,
+    "explanation": "Rapid hormonal changes during adolescence cause emotional instability."
+  },
+  {
+    "q": "Which is the highest level in Bloom’s taxonomy of cognitive objectives?",
+    "options": ["Application","Analysis","Synthesis","Evaluation"],
+    "a": 3,
+    "explanation": "Evaluation involves judging based on criteria and is the highest level."
+  },
+  {
+    "q": "At which stage of learning is motivation most important?",
+    "options": ["Before learning","During learning","After learning","During evaluation"],
+    "a": 1,
+    "explanation": "Motivation sustains interest and effort during the learning process."
+  },
+  {
+    "q": "What is the core principle of inclusive education?",
+    "options": ["Separate classes for special children","Same curriculum for all","Respect for diversity","Competition"],
+    "a": 2,
+    "explanation": "Inclusive education respects and accommodates learner diversity."
+  },
+  {
+    "q": "Which principle of development states that growth proceeds from head to toe?",
+    "options": ["Proximodistal","General to specific","Cephalocaudal","Sequential"],
+    "a": 2,
+    "explanation": "Cephalocaudal development proceeds from head to lower parts of the body."
+  },
+  {
+    "q": "The main focus of constructivist teaching is on:",
+    "options": ["Teacher","Textbook","Learner","Examination"],
+    "a": 2,
+    "explanation": "Constructivism considers learners as active constructors of knowledge."
+  },
+  {
+    "q": "Which type of assessment identifies learning difficulties?",
+    "options": ["Formative","Summative","Diagnostic","Norm-referenced"],
+    "a": 2,
+    "explanation": "Diagnostic assessment helps identify specific learning problems."
+  },
+  {
+    "q": "Which factor is most important in concept formation?",
+    "options": ["Rote practice","Previous knowledge","Punishment","Time limit"],
+    "a": 1,
+    "explanation": "New concepts are formed by linking them with prior knowledge."
+  },
+  {
+    "q": "To create a democratic classroom, a teacher should:",
+    "options": ["Maintain strict discipline","Take unilateral decisions","Encourage student participation","Only lecture"],
+    "a": 2,
+    "explanation": "Student participation promotes democratic classroom culture."
+  },
+  {
+    "q": "Who proposed the Social Learning Theory?",
+    "options": ["Skinner","Thorndike","Bandura","Piaget"],
+    "a": 2,
+    "explanation": "Bandura emphasized learning through observation and imitation."
+  },
+  {
+    "q": "What helps most in developing self-esteem among adolescents?",
+    "options": ["Punishment","Neglect","Acceptance","Competition"],
+    "a": 2,
+    "explanation": "Acceptance helps adolescents develop positive self-esteem."
+  },
+  {
+    "q": "Identify the tense of the sentence: ‘He goes to school every day.’",
+    "options": ["Past tense","Present tense","Future tense","Present perfect"],
+    "a": 1,
+    "explanation": "It shows a habitual action in the present tense."
+  },
+  {
+    "q": "What is the antonym of ‘Hard work’?",
+    "options": ["Labour","Laziness","Task","Effort"],
+    "a": 1,
+    "explanation": "Laziness is the opposite of hard work."
+  },
+  {
+    "q": "Which sentence is grammatically correct?",
+    "options": ["I have read the book.","I readed the book.","I has read the book.","I reading the book."],
+    "a": 0,
+    "explanation": "‘Have read’ is the correct present perfect form."
+  },
+  {
+    "q": "The word ‘knowledge’ is a:",
+    "options": ["Common noun","Proper noun","Abstract noun","Collective noun"],
+    "a": 2,
+    "explanation": "Knowledge refers to an abstract concept."
+  },
+  {
+    "q": "The main objective of teaching poetry is:",
+    "options": ["Grammar practice","Development of interest and sensitivity","Translation","Copying"],
+    "a": 1,
+    "explanation": "Poetry enhances emotional and aesthetic development."
+  },
+  {
+    "q": "One advantage of the dialogue method in language teaching is:",
+    "options": ["Rote learning","Active participation","Fear generation","Time saving"],
+    "a": 1,
+    "explanation": "Dialogue promotes interaction and active learning."
+  },
+  {
+    "q": "The most effective way to develop vocabulary is:",
+    "options": ["Memorizing lists","Using words in context","Copying words","Only dictation"],
+    "a": 1,
+    "explanation": "Contextual usage helps long-term retention of words."
+  },
+  {
+    "q": "Which of the following is a correct sentence?",
+    "options": ["He go to school.","He goes to school.","He going to school.","He gone to school."],
+    "a": 1,
+    "explanation": "Third person singular in present tense uses ‘goes’."
+  },
+  {
+    "q": "Which word is an adverb?",
+    "options": ["Quick","Quickly","Quickness","Quicken"],
+    "a": 1,
+    "explanation": "‘Quickly’ describes the manner of an action."
+  },
+  {
+    "q": "Choose the correct plural form of ‘mouse’.",
+    "options": ["Mouses","Mouse","Mices","Mice"],
+    "a": 3,
+    "explanation": "‘Mice’ is the correct plural form."
+  },
+  {
+    "q": "Which tense is used in the sentence: ‘They are playing.’?",
+    "options": ["Simple present","Present continuous","Present perfect","Past continuous"],
+    "a": 1,
+    "explanation": "‘Are playing’ indicates present continuous tense."
+  },
+  {
+    "q": "Which punctuation mark shows possession?",
+    "options": ["Comma","Apostrophe","Colon","Semicolon"],
+    "a": 1,
+    "explanation": "An apostrophe is used to show possession."
+  },
+  {
+    "q": "Reading skill mainly helps in:",
+    "options": ["Pronunciation","Comprehension","Handwriting","Listening"],
+    "a": 1,
+    "explanation": "Reading develops understanding of written text."
+  },
+  {
+    "q": "Which sentence is in future tense?",
+    "options": ["She writes a letter.","She wrote a letter.","She is writing a letter.","She will write a letter."],
+    "a": 3,
+    "explanation": "‘Will write’ expresses future action."
+  },
+  {
+    "q": "If 3x + 7 = 22, find the value of x.",
+    "options": ["3","4","5","6"],
+    "a": 2,
+    "explanation": "3x = 15, so x = 5."
+  },
+  {
+    "q": "What is the value of √144?",
+    "options": ["10","11","12","14"],
+    "a": 2,
+    "explanation": "12 × 12 = 144."
+  },
+  {
+    "q": "What is the sum of angles of a triangle?",
+    "options": ["90°","180°","270°","360°"],
+    "a": 1,
+    "explanation": "The sum of interior angles of a triangle is 180°."
+  },
+  {
+    "q": "If 2 : 3 = 8 : x, find x.",
+    "options": ["10","12","14","16"],
+    "a": 1,
+    "explanation": "2x = 24, so x = 12."
+  },
+  {
+    "q": "Which component of blood transports oxygen?",
+    "options": ["Plasma","White blood cells","Red blood cells","Platelets"],
+    "a": 2,
+    "explanation": "Red blood cells contain hemoglobin which carries oxygen."
+  },
+  {
+    "q": "Photosynthesis takes place in which part of the plant?",
+    "options": ["Root","Stem","Leaf","Flower"],
+    "a": 2,
+    "explanation": "Leaves contain chlorophyll for photosynthesis."
+  },
+  {
+    "q": "In which medium does sound travel fastest?",
+    "options": ["Air","Water","Solid","Vacuum"],
+    "a": 2,
+    "explanation": "Sound travels fastest in solids due to closely packed particles."
+  },
+  {
+    "q": "What is the SI unit of energy?",
+    "options": ["Watt","Joule","Newton","Ampere"],
+    "a": 1,
+    "explanation": "Joule is the SI unit of energy."
+  },
+  {
+    "q": "Which of the following is acidic in nature?",
+    "options": ["Soap","Lemon juice","Baking soda","Lime water"],
+    "a": 1,
+    "explanation": "Lemon juice contains citric acid."
+  },
+  {
+    "q": "Which device is used to open or close an electric circuit?",
+    "options": ["Fuse","Switch","Bulb","Wire"],
+    "a": 1,
+    "explanation": "A switch controls the flow of current in a circuit."
+  }
+]
