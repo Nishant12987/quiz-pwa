@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>REET Test Series</title>
+  <title>REET Mock Test Series</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="css/style.css">
 </head>
@@ -10,32 +10,48 @@
 
 <div class="app">
 
-  <h2 class="center">REET Test Series</h2>
+  <h2 class="center">REET Mock Test Series</h2>
 
   <!-- LOGIN -->
   <div id="login" class="card">
     <input id="email" placeholder="Enter Email">
     <select id="language">
-      <option value="en">English</option>
-      <option value="hi">हिंदी</option>
+      <option value="english">English</option>
+      <option value="hindi">हिंदी</option>
     </select>
     <p class="note">Your progress is saved on this device.</p>
     <button class="primary" onclick="login()">Continue</button>
   </div>
 
+  <!-- CATEGORY -->
+  <div id="category" class="card" style="display:none">
+    <h3>Select REET Category</h3>
+
+    <select id="level" onchange="toggleStream()">
+      <option value="level1">REET Level 1</option>
+      <option value="level2">REET Level 2</option>
+    </select>
+
+    <select id="stream" style="display:none">
+      <option value="science">Mathematics & Science</option>
+      <option value="sst">Social Studies</option>
+    </select>
+
+    <button class="primary" onclick="saveCategory()">Continue</button>
+  </div>
+
   <!-- DASHBOARD -->
   <div id="dashboard" class="card" style="display:none">
     <h3 id="welcome"></h3>
-    <p id="limit"></p>
+    <p id="info"></p>
+    <button class="primary" onclick="prepareTest()">Start Test</button>
+  </div>
 
-    <div class="price-box">
-      <p><b>₹149 for full REET series</b></p>
-      <p>Only ₹3–4 per test</p>
-    </div>
-
-    <button class="primary" onclick="startTest(0)">Start Free Test</button>
-    <button class="secondary" onclick="locked()">Start Test 2+</button>
-    <button class="secondary" onclick="showHistory()">Test History</button>
+  <!-- AD -->
+  <div id="adScreen" class="card" style="display:none">
+    <h3>Advertisement</h3>
+    <div class="ad-box">[Ad Placeholder]</div>
+    <button class="primary" onclick="startTest()">Continue to Test</button>
   </div>
 
   <!-- QUIZ -->
@@ -44,32 +60,22 @@
       <span id="qCounter"></span>
       <span id="time"></span>
     </div>
-
     <h3 id="question"></h3>
     <div id="options"></div>
-
-    <button class="danger" onclick="finishQuiz()">Finish Test</button>
+    <div class="nav">
+      <button onclick="prevQ()">Previous</button>
+      <button onclick="nextQ()">Next</button>
+      <button class="danger" onclick="finishQuiz()">Finish</button>
+    </div>
   </div>
 
   <!-- RESULT -->
   <div id="result" class="card" style="display:none">
     <h3 id="resultTitle"></h3>
-    <p id="finalScore"></p>
+    <p id="scoreText"></p>
     <p id="motivation"></p>
-
-    <div class="price-box">
-      <p><b>Unlock full series @ ₹149</b></p>
-      <p>40 tests • ₹3.7 per test</p>
-    </div>
-
+    <p id="paymentMsg"></p>
     <button class="primary" onclick="showDashboard()">Back</button>
-  </div>
-
-  <!-- HISTORY -->
-  <div id="history" class="card" style="display:none">
-    <h3>Test History</h3>
-    <div id="historyList"></div>
-    <button class="secondary" onclick="showDashboard()">Back</button>
   </div>
 
 </div>
@@ -77,4 +83,5 @@
 <script src="js/app.js"></script>
 </body>
 </html>
+
 
