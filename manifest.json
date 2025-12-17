@@ -1,13 +1,29 @@
 {
-  "name": "PrepOne",
+  "id": "/quiz-pwa/",
+  "name": "PrepOne – REET Exam Preparation",
   "short_name": "PrepOne",
-  "start_url": ".",
+  "description": "PrepOne is a REET exam preparation app with full-length mock tests, timer-based practice, and exam-like experience for REET Level 1 and Level 2.",
+  "start_url": "/quiz-pwa/",
+  "scope": "/quiz-pwa/",
   "display": "standalone",
+  "orientation": "portrait",
   "theme_color": "#2563eb",
   "background_color": "#ffffff",
   "icons": [
-    { "src": "icon-144.png", "sizes": "144x144", "type": "image/png" },
-    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
-    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+    {
+      "src": "icon-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
   ]
 }
