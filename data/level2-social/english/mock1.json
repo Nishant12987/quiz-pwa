@@ -1,224 +1,242 @@
 [
   {
-    "q": "What is the main reason for emotional imbalance during adolescence?",
-    "options": ["Intellectual development","Hormonal changes","School pressure","Family environment"],
-    "a": 1,
-    "explanation": "Rapid hormonal changes during adolescence lead to emotional imbalance."
-  },
-  {
-    "q": "According to Vygotsky, effective learning takes place in which area?",
-    "options": ["Zone of actual development","Zone of proximal development","Maturity zone","Intellectual zone"],
-    "a": 1,
-    "explanation": "The Zone of Proximal Development allows learning with guidance."
-  },
-  {
-    "q": "What is the main objective of inclusive education?",
-    "options": ["Separating special children","Providing equal opportunities to all children","Focusing only on normal children","Increasing competition"],
-    "a": 1,
-    "explanation": "Inclusive education ensures equal learning opportunities for all."
-  },
-  {
-    "q": "Which assessment is conducted during the learning process?",
-    "options": ["Summative","Diagnostic","Formative","Norm-based"],
-    "a": 2,
-    "explanation": "Formative assessment helps improve learning during instruction."
-  },
-  {
-    "q": "What is the role of a teacher in constructivist teaching?",
-    "options": ["Source of knowledge","Disciplinarian","Facilitator","Examiner"],
-    "a": 2,
-    "explanation": "The teacher guides learners in constructing their own knowledge."
-  },
-  {
-    "q": "Which principle of development states that development continues throughout life?",
-    "options": ["Sequence","Continuity","Maturation","Readiness"],
-    "a": 1,
-    "explanation": "The continuity principle views development as a lifelong process."
-  },
-  {
-    "q": "What is the role of motivation in learning?",
-    "options": ["Punishment","Maintaining interest","Evaluation","Control"],
-    "a": 1,
-    "explanation": "Motivation keeps learners interested and engaged."
-  },
-  {
-    "q": "How can a democratic classroom environment be created?",
-    "options": ["Through strict discipline","By lecturing only","Through student participation","By punishment"],
-    "a": 2,
-    "explanation": "Student participation encourages democratic values."
-  },
-  {
-    "q": "Who proposed the Social Learning Theory?",
-    "options": ["Piaget","Skinner","Bandura","Thorndike"],
-    "a": 2,
-    "explanation": "Bandura emphasized learning through observation and imitation."
-  },
-  {
-    "q": "What helps most in developing self-esteem among adolescents?",
-    "options": ["Neglect","Punishment","Acceptance","Competition"],
-    "a": 2,
-    "explanation": "Acceptance helps build positive self-esteem."
-  },
-  {
-    "q": "Which assessment helps identify learning difficulties?",
-    "options": ["Summative","Formative","Diagnostic","Continuous"],
-    "a": 2,
-    "explanation": "Diagnostic assessment identifies learning problems."
-  },
-  {
-    "q": "Identify the tense of the sentence: ‘He goes to school every day.’",
-    "options": ["Past tense","Present tense","Future tense","Present perfect"],
-    "a": 1,
-    "explanation": "It shows a habitual action in present tense."
-  },
-  {
-    "q": "What is the antonym of ‘Courage’?",
-    "options": ["Bravery","Fear","Strength","Patience"],
-    "a": 1,
-    "explanation": "Fear is the opposite of courage."
-  },
-  {
-    "q": "Which sentence is grammatically correct?",
-    "options": ["I have wrote the letter.","I has written the letter.","I have written the letter.","I writing the letter."],
-    "a": 2,
-    "explanation": "‘Have written’ is the correct present perfect form."
-  },
-  {
-    "q": "The word ‘childhood’ is a/an:",
-    "options": ["Proper noun","Common noun","Abstract noun","Collective noun"],
-    "a": 2,
-    "explanation": "Childhood refers to a stage of life."
-  },
-  {
-    "q": "The main objective of essay writing is to develop:",
-    "options": ["Rote learning","Expression of ideas","Only grammar","Translation"],
-    "a": 1,
-    "explanation": "Essay writing develops logical expression of ideas."
-  },
-  {
-    "q": "One advantage of the question–answer method is:",
-    "options": ["Passivity","Active participation","Fear","Loss of time"],
-    "a": 1,
-    "explanation": "It keeps learners actively involved."
-  },
-  {
-    "q": "The most effective way to develop vocabulary is:",
-    "options": ["Word lists","Using words in context","Copying","Only dictation"],
-    "a": 1,
-    "explanation": "Contextual use improves retention."
-  },
-  {
-    "q": "Which word is a noun?",
-    "options": ["Run","Honesty","Quickly","Beautiful"],
-    "a": 1,
-    "explanation": "Honesty is an abstract noun."
-  },
-  {
-    "q": "Choose the correct sentence:",
-    "options": ["She go to school.","She goes to school.","She going to school.","She gone to school."],
-    "a": 1,
-    "explanation": "Third person singular takes ‘goes’."
-  },
-  {
-    "q": "Which tense is used in: ‘They are watching TV.’?",
-    "options": ["Simple present","Present continuous","Present perfect","Past continuous"],
-    "a": 1,
-    "explanation": "‘Are watching’ shows present continuous tense."
-  },
-  {
-    "q": "Which punctuation mark is used to ask a question?",
-    "options": ["Full stop","Comma","Question mark","Exclamation mark"],
-    "a": 2,
-    "explanation": "A question mark is used in interrogative sentences."
-  },
-  {
-    "q": "Which skill helps in understanding written text?",
-    "options": ["Listening","Speaking","Reading","Writing"],
-    "a": 2,
-    "explanation": "Reading helps in comprehension."
-  },
-  {
-    "q": "Choose the correct plural of ‘child’.",
-    "options": ["Childs","Childes","Children","Childrens"],
-    "a": 2,
-    "explanation": "Children is the correct plural form."
-  },
-  {
-    "q": "Which sentence is in future tense?",
-    "options": ["He writes a letter.","He wrote a letter.","He is writing a letter.","He will write a letter."],
-    "a": 3,
-    "explanation": "‘Will write’ indicates future tense."
-  },
-  {
-    "q": "Which was a major city of the Harappan Civilization?",
-    "options": ["Pataliputra","Mohenjo-daro","Ujjain","Kannauj"],
-    "a": 1,
-    "explanation": "Mohenjo-daro was a prominent Harappan city."
-  },
-  {
-    "q": "Most of the rainfall in India is caused by which winds?",
-    "options": ["North-East Monsoon","South-West Monsoon","Western Disturbances","Local winds"],
-    "a": 1,
-    "explanation": "South-West Monsoon brings most rainfall to India."
-  },
-  {
-    "q": "In which part of the Indian Constitution are Fundamental Rights given?",
-    "options": ["Part II","Part III","Part IV","Part V"],
-    "a": 1,
-    "explanation": "Fundamental Rights are mentioned in Part III."
-  },
-  {
-    "q": "Who was the founder of the Maurya Dynasty?",
-    "options": ["Ashoka","Chandragupta Maurya","Bindusara","Samudragupta"],
-    "a": 1,
-    "explanation": "Chandragupta Maurya founded the Maurya Dynasty."
-  },
-  {
-    "q": "Which latitude lies at 0°?",
-    "options": ["Tropic of Cancer","Tropic of Capricorn","Equator","Prime Meridian"],
-    "a": 2,
-    "explanation": "The Equator lies at 0° latitude."
-  },
-  {
-    "q": "What is the smallest unit of local self-government?",
-    "options": ["Zila Parishad","Panchayat Samiti","Gram Sabha","Municipal Corporation"],
-    "a": 2,
-    "explanation": "Gram Sabha is the smallest unit of local governance."
-  },
-  {
-    "q": "Who was the first ruler of the Delhi Sultanate?",
-    "options": ["Iltutmish","Qutbuddin Aibak","Alauddin Khalji","Balban"],
-    "a": 1,
-    "explanation": "Qutbuddin Aibak was the first ruler of the Delhi Sultanate."
-  },
-  {
-    "q": "Which is the longest river in India?",
-    "options": ["Ganga","Yamuna","Brahmaputra","Godavari"],
+    "q": "Which stage of Piaget's cognitive development theory is characterized by 'Object Permanence'?",
+    "options": ["Sensory-motor stage", "Pre-operational stage", "Concrete operational stage", "Formal operational stage"],
     "a": 0,
-    "explanation": "The Ganga is the longest river in India."
+    "explanation": "During the sensory-motor stage (0-2 years), children develop the understanding that objects continue to exist even when they cannot be seen."
   },
   {
-    "q": "For how many years are the members of the Lok Sabha elected?",
-    "options": ["4 years","5 years","6 years","7 years"],
+    "q": "According to Kohlberg's theory of moral development, at which level does an individual follow rules to avoid punishment?",
+    "options": ["Post-conventional", "Pre-conventional", "Conventional", "Universal ethical"],
     "a": 1,
-    "explanation": "The term of the Lok Sabha is 5 years."
+    "explanation": "The pre-conventional level focuses on external rewards and punishments to guide behavior."
   },
   {
-    "q": "In which language did Saint Kabir compose his works?",
-    "options": ["Sanskrit","Persian","Sadhukkadi","Awadhi"],
+    "q": "In an inclusive classroom, what should be the primary focus of a teacher regarding 'Individual Differences'?",
+    "options": ["Ignoring differences to treat all equally", "Labeling students based on their abilities", "Using diverse teaching strategies to cater to all needs", "Focusing only on gifted children"],
     "a": 2,
-    "explanation": "Kabir composed his works in Sadhukkadi."
+    "explanation": "Inclusion requires adapting pedagogy to meet the unique learning requirements of every student."
   },
   {
-    "q": "Which is the largest Indian state by area?",
-    "options": ["Uttar Pradesh","Maharashtra","Rajasthan","Madhya Pradesh"],
+    "q": "Which of the following is an example of an 'Extrinsic' motivator?",
+    "options": ["Curiosity about a topic", "Joy of learning a new skill", "Receiving a gold medal for a task", "Personal satisfaction"],
     "a": 2,
-    "explanation": "Rajasthan is the largest state by area."
+    "explanation": "Extrinsic motivation comes from external rewards like prizes, grades, or recognition."
   },
   {
-    "q": "Who is known as the guardian of the Constitution?",
-    "options": ["President","Prime Minister","Parliament","Supreme Court"],
+    "q": "Gardner's theory of Multiple Intelligences suggests that a person with high 'Interpersonal Intelligence' is good at:",
+    "options": ["Understanding oneself", "Understanding others' emotions and intentions", "Solving mathematical puzzles", "Bodily coordination"],
+    "a": 1,
+    "explanation": "Interpersonal intelligence involves effectively interacting and understanding other people."
+  },
+  {
+    "q": "Which learning principle emphasizes that 'Whole is greater than the sum of its parts'?",
+    "options": ["Behaviorism", "Gestalt Psychology", "Constructivism", "Cognitivism"],
+    "a": 1,
+    "explanation": "Gestalt theory emphasizes that the brain perceives integrated wholes rather than isolated parts."
+  },
+  {
+    "q": "What is the primary purpose of 'Continuous and Comprehensive Evaluation' (CCE)?",
+    "options": ["To rank students", "To reduce the burden of board exams", "To assess all aspects of a child's development", "To conduct monthly tests"],
+    "a": 2,
+    "explanation": "CCE aims to evaluate both scholastic and co-scholastic domains of a student's growth."
+  },
+  {
+    "q": "A child who struggles with reading and decoding words likely has:",
+    "options": ["Dysgraphia", "Dyscalculia", "Dyslexia", "ADHD"],
+    "a": 2,
+    "explanation": "Dyslexia is a learning disability specifically related to reading and language processing."
+  },
+  {
+    "q": "The concept of 'Scaffolding' in teaching is most closely associated with:",
+    "options": ["B.F. Skinner", "Jean Piaget", "Lev Vygotsky", "Lawrence Kohlberg"],
+    "a": 2,
+    "explanation": "Vygotsky's scaffolding refers to the support provided to a learner to help them reach the next level of understanding."
+  },
+  {
+    "q": "Which domain of Bloom's Taxonomy deals with physical skills and coordination?",
+    "options": ["Cognitive domain", "Affective domain", "Psychomotor domain", "Reflective domain"],
+    "a": 2,
+    "explanation": "The psychomotor domain involves manual or physical skills."
+  },
+  {
+    "q": "Growth is a ________ process, whereas Development is a ________ process.",
+    "options": ["Qualitative, Quantitative", "Quantitative, Qualitative", "Static, Dynamic", "Mental, Physical"],
+    "a": 1,
+    "explanation": "Growth is measurable (quantitative), while development involves overall changes (qualitative)."
+  },
+  {
+    "q": "हिंदी भाषा शिक्षण में 'निदानात्मक परीक्षण' का मुख्य उद्देश्य क्या है?",
+    "options": ["छात्रों को अंक देना", "कमियों के कारणों को जानना", "अगली कक्षा में भेजना", "कठिन शब्दों को लिखवाना"],
+    "a": 1,
+    "explanation": "निदानात्मक परीक्षण का उद्देश्य छात्र की अधिगम संबंधी कठिनाइयों और उनके कारणों का पता लगाना है।"
+  },
+  {
+    "q": "इनमें से कौन सा शब्द 'बादल' का पर्यायवाची नहीं है?",
+    "options": ["जलद", "नीरज", "वारिद", "पयोधर"],
+    "a": 1,
+    "explanation": "'नीरज' कमल का पर्यायवाची है, जबकि अन्य बादल के हैं।"
+  },
+  {
+    "q": "'शुद्ध' वर्तनी वाले शब्द का चयन कीजिए:",
+    "options": ["अतिश्योक्ति", "अतिशयोक्ति", "अतिश्योक्ती", "अतिशयोक्ती"],
+    "a": 1,
+    "explanation": "सही वर्तनी 'अतिशयोक्ति' है।"
+  },
+  {
+    "q": "जो शब्द संज्ञा के स्थान पर प्रयुक्त होते हैं, उन्हें क्या कहते हैं?",
+    "options": ["विशेषण", "क्रिया", "सर्वनाम", "अव्यय"],
+    "a": 2,
+    "explanation": "संज्ञा के स्थान पर आने वाले शब्दों को सर्वनाम कहा जाता है।"
+  },
+  {
+    "q": "'हिमालय से गंगा निकलती है' - इस वाक्य में कौन सा कारक है?",
+    "options": ["करण कारक", "अपादान कारक", "संप्रदान कारक", "अधिकरण कारक"],
+    "a": 1,
+    "explanation": "अलग होने के अर्थ में 'से' विभक्ति अपादान कारक की होती है।"
+  },
+  {
+    "q": "'प्रत्युत्पन्नमति' शब्द में कौन सा उपसर्ग है?",
+    "options": ["प्र", "प्रति", "प्रत्यु", "प्रत"],
+    "a": 1,
+    "explanation": "प्रति + उत्पन्न + मति = प्रत्युत्पन्नमति।"
+  },
+  {
+    "q": "भाषा कौशल का सही क्रम क्या है?",
+    "options": ["सुनना, बोलना, पढ़ना, लिखना", "बोलना, सुनना, पढ़ना, लिखना", "लिखना, पढ़ना, सुनना, बोलना", "सुनना, पढ़ना, बोलना, लिखना"],
+    "a": 0,
+    "explanation": "भाषा विकास का प्राकृतिक क्रम LSRW (सुनना-बोलना-पढ़ना-लिखना) है।"
+  },
+  {
+    "q": "Choose the synonym for the word 'Diligent'.",
+    "options": ["Lazy", "Hardworking", "Careless", "Wealthy"],
+    "a": 1,
+    "explanation": "Diligent means showing care and conscientiousness in one's work; hardworking."
+  },
+  {
+    "q": "Select the correct passive voice for: 'The teacher corrected the mistakes.'",
+    "options": ["The mistakes are corrected by the teacher.", "The mistakes were corrected by the teacher.", "The teacher was corrected by the mistakes.", "The mistakes corrected by the teacher."],
+    "a": 1,
+    "explanation": "The past simple 'corrected' changes to 'were corrected' in passive voice."
+  },
+  {
+    "q": "Which of the following is an example of an 'Interrogative Pronoun'?",
+    "options": ["He", "Each", "Who", "Them"],
+    "a": 2,
+    "explanation": "'Who' is used to ask questions about people."
+  },
+  {
+    "q": "Choose the correct article: 'He is ________ honest man.'",
+    "options": ["a", "an", "the", "No article"],
+    "a": 1,
+    "explanation": "'Honest' starts with a vowel sound (silent 'h'), so 'an' is used."
+  },
+  {
+    "q": "Identify the 'Adjective' in the sentence: 'The blue umbrella belongs to me.'",
+    "options": ["Umbrella", "Belongs", "Me", "Blue"],
     "a": 3,
-    "explanation": "The Supreme Court protects and interprets the Constitution."
+    "explanation": "'Blue' describes the noun 'umbrella'."
+  },
+  {
+    "q": "Which of these is NOT a principle of Language Teaching?",
+    "options": ["Principle of Motivation", "Principle of Habit Formation", "Principle of Rote Memorization", "Principle of Oral Approach"],
+    "a": 2,
+    "explanation": "Rote memorization is discouraged in modern pedagogical principles."
+  },
+  {
+    "q": "Find the error: 'Each of the students (A) have (B) submitted (C) the assignment (D).'",
+    "options": ["A", "B", "C", "D"],
+    "a": 1,
+    "explanation": "'Each' is singular and takes a singular verb 'has'."
+  },
+  {
+    "q": "Which Indian ruler is known as the 'Napoleon of India' due to his military conquests?",
+    "options": ["Chandragupta I", "Skandagupta", "Samudragupta", "Kumargupta"],
+    "a": 2,
+    "explanation": "Historian V.A. Smith called Samudragupta the Napoleon of India."
+  },
+  {
+    "q": "The 'Preamble' of the Indian Constitution was inspired by the constitution of which country?",
+    "options": ["UK", "USA", "France", "USSR"],
+    "a": 1,
+    "explanation": "The concept of a Preamble was borrowed from the US Constitution."
+  },
+  {
+    "q": "The 'Ryotwari System' of land revenue was primarily introduced in which parts of British India?",
+    "options": ["Bengal and Bihar", "Madras and Bombay", "Punjab", "United Provinces"],
+    "a": 1,
+    "explanation": "The Ryotwari system was introduced by Thomas Munro in Southern and Western India."
+  },
+  {
+    "q": "Which layers of the atmosphere contains the Ozone layer?",
+    "options": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+    "a": 1,
+    "explanation": "The stratosphere houses the ozone layer which protects Earth from UV rays."
+  },
+  {
+    "q": "What is the maximum gap allowed between two sessions of the Indian Parliament?",
+    "options": ["3 months", "4 months", "6 months", "1 year"],
+    "a": 2,
+    "explanation": "Per the Constitution, the gap between two sessions cannot exceed six months."
+  },
+  {
+    "q": "Which of the following is a 'Fold Mountain'?",
+    "options": ["Himalayas", "Vindhyas", "Black Forest", "Mount Kilimanjaro"],
+    "a": 0,
+    "explanation": "The Himalayas are young fold mountains formed by plate tectonics."
+  },
+  {
+    "q": "Under which Article of the Indian Constitution can the President impose 'Financial Emergency'?",
+    "options": ["Article 352", "Article 356", "Article 360", "Article 368"],
+    "a": 2,
+    "explanation": "Article 360 deals with Financial Emergency (never imposed in India yet)."
+  },
+  {
+    "q": "The 'Third Battle of Panipat' (1761) was fought between:",
+    "options": ["Mughals and British", "Marathas and Ahmad Shah Abdali", "Babur and Ibrahim Lodi", "Akbar and Hemu"],
+    "a": 1,
+    "explanation": "The Marathas were defeated by the Afghan ruler Ahmad Shah Abdali in 1761."
+  },
+  {
+    "q": "Which celestial body is known as 'Earth's Twin'?",
+    "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+    "a": 1,
+    "explanation": "Venus is called Earth's twin because of its similar size and shape."
+  },
+  {
+    "q": "The 'Right to Education' (RTE) Act came into force in India in which year?",
+    "options": ["2005", "2009", "2010", "2012"],
+    "a": 2,
+    "explanation": "The RTE Act was passed in 2009 but came into effect on April 1, 2010."
+  },
+  {
+    "q": "Which movement was started by Mahatma Gandhi after the Chauri Chaura incident was called off?",
+    "options": ["Civil Disobedience Movement", "Non-Cooperation Movement", "Quit India Movement", "Khilafat Movement"],
+    "a": 1,
+    "explanation": "Gandhi withdrew the Non-Cooperation Movement in 1922 after the Chauri Chaura violence."
+  },
+  {
+    "q": "Which is the largest ocean in the world?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "a": 3,
+    "explanation": "The Pacific Ocean is the largest and deepest of Earth's oceanic divisions."
+  },
+  {
+    "q": "Who appoints the Chief Justice of India?",
+    "options": ["Prime Minister", "Parliament", "President", "Law Minister"],
+    "a": 2,
+    "explanation": "The President of India appoints the CJI."
+  },
+  {
+    "q": "The 'Red Data Book' contains information about:",
+    "options": ["Red colored plants", "Endangered species", "Mineral wealth", "Red Sea biodiversity"],
+    "a": 1,
+    "explanation": "It tracks endangered and threatened species of flora and fauna."
+  },
+  {
+    "q": "Which session of the Indian National Congress passed the 'Purna Swaraj' resolution?",
+    "options": ["Belgaum 1924", "Lahore 1929", "Karachi 1931", "Tripuri 1939"],
+    "a": 1,
+    "explanation": "The Lahore session presided by Nehru demanded complete independence (Purna Swaraj)."
   }
 ]
