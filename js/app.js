@@ -1,155 +1,136 @@
-const questions = [
-  { q: "Sample Question 1", options:["A","B","C","D"], a:0 }
-];
-
+let questions = [];
 let answers = [];
 let index = 0;
 let timeLeft = 2400;
 let timer;
-let violations = 0;
 
 /* ---------- LOGIN ---------- */
 function login() {
-  const email = emailInput();
-  const lang = document.getElementById("language").value;
-  if (!email) return alert("Enter email");
+  localStorage.setItem("email", email.value);
+  localStorage.setItem("lang", language.value);
+  hideAll(); show("category");
+}
 
-  localStorage.setItem("user", email);
-  localStorage.setItem("lang", lang);
+/* ---------- CATEGORY ---------- */
+function toggleStream() {
+  stream.style.display = level.value === "level2" ? "block" : "none";
+}
 
-  if (!localStorage.getItem("history"))
-    localStorage.setItem("history", JSON.stringify([]));
-
+function saveCategory() {
+  localStorage.setItem("level", level.value);
+  localStorage.setItem("stream", stream.value);
+  if (!localStorage.getItem("attempts")) localStorage.setItem("attempts", 0);
   showDashboard();
 }
 
 /* ---------- DASHBOARD ---------- */
 function showDashboard() {
-  hideAll();
-  show("dashboard");
-
-  welcome.innerText = "Welcome " + localStorage.getItem("user");
-  limit.innerText = "1 Free Test Available";
+  hideAll(); show("dashboard");
+  welcome.innerText = "Welcome";
+  info.innerText = "1 Free Test | ₹149 for 40 Full Tests";
 }
 
-/* ---------- LOCKED ---------- */
-function locked() {
-  alert("Please unlock full course to continue.\n₹149 only");
+/* ---------- TEST PREP ---------- */
+function prepareTest() {
+  let attempts = +localStorage.getItem("attempts");
+  if (attempts === 0) {
+    hideAll(); show("adScreen");
+  } else {
+    hideAll(); show("result");
+    paymentMsg.innerText = "Please unlock full access to continue.";
+  }
+}
+
+/* ---------- START TEST ---------- */
+function startTest() {
+  document.documentElement.requestFullscreen();
+  document.addEventListener("visibilitychange", warnSwitch);
+
+  fetchQuestions().then(qs => {
+    questions = qs;
+    answers = Array(40).fill(null);
+    index = 0;
+    timeLeft = 2400;
+    hideAll(); show("quiz");
+    startTimer();
+    render();
+  });
+}
+
+/* ---------- FETCH QUESTIONS ---------- */
+async function fetchQuestions() {
+  const level = localStorage.getItem("level");
+  const stream = localStorage.getItem("stream");
+  const lang = localStorage.getItem("lang");
+  const path =
+    level === "level1"
+      ? `papers/level1/${lang}/mock1.json`
+      : `papers/level2/${stream}/${lang}/mock1.json`;
+
+  const res = await fetch(path);
+  return await res.json();
 }
 
 /* ---------- QUIZ ---------- */
-function startTest(id) {
-  answers = Array(questions.length).fill(null);
-  index = 0;
-  violations = 0;
-
-  hideAll();
-  show("quiz");
-  startTimer();
-  render();
-}
-
-/* ---------- RENDER ---------- */
 function render() {
-  qCounter.innerText = `Question ${index+1}`;
+  qCounter.innerText = `Q ${index + 1}/40`;
   question.innerText = questions[index].q;
   options.innerHTML = "";
-
-  questions[index].options.forEach((o,i)=>{
+  questions[index].options.forEach((o, i) => {
     const b = document.createElement("button");
     b.innerText = o;
-    b.onclick = ()=>{ answers[index]=i; };
+    b.onclick = () => { answers[index] = i; };
     options.appendChild(b);
   });
 }
 
-/* ---------- TIMER ---------- */
-function startTimer() {
-  timer = setInterval(()=>{
-    timeLeft--;
-    time.innerText = `${Math.floor(timeLeft/60)}:${timeLeft%60}`;
-    if(timeLeft<=0) finishQuiz();
-  },1000);
-}
-
-/* ---------- SECURITY ---------- */
-document.addEventListener("visibilitychange", ()=>{
-  if(document.hidden){
-    violations++;
-    alert("Warning: Do not switch apps during test.");
-    if(violations>=3){
-      alert("Test auto-submitted due to violations.");
-      finishQuiz();
-    }
-  }
-});
+function nextQ(){ if(index<39){index++;render();}}
+function prevQ(){ if(index>0){index--;render();}}
 
 /* ---------- FINISH ---------- */
 function finishQuiz() {
   clearInterval(timer);
+  document.exitFullscreen();
+  document.removeEventListener("visibilitychange", warnSwitch);
 
   let correct=0, wrong=0;
   answers.forEach((a,i)=>{
-    if(a===null) return;
-    if(a===questions[i].a) correct++;
-    else wrong++;
+    if(a===null)return;
+    a===questions[i].a ? correct++ : wrong++;
   });
 
   let score = +(correct - wrong/3).toFixed(2);
-  let percent = +(score/questions.length*100).toFixed(1);
+  let lang = localStorage.getItem("lang");
 
-  saveHistory(score, percent);
-  showResult(score, percent);
+  hideAll(); show("result");
+  scoreText.innerText = `Score: ${score}/40`;
+  motivation.innerText = lang==="hindi"
+    ? score>=20 ? "बहुत बढ़िया प्रयास!" : "अभ्यास जारी रखें"
+    : score>=20 ? "Good effort! Keep improving." : "Keep practicing!";
+
+  let attempts = +localStorage.getItem("attempts");
+  localStorage.setItem("attempts", attempts+1);
 }
 
-/* ---------- RESULT ---------- */
-function showResult(score, percent){
-  hideAll();
-  show("result");
-
-  const lang = localStorage.getItem("lang");
-
-  resultTitle.innerText = lang==="hi" ? "परिणाम" : "Result";
-  finalScore.innerText = `${score} marks (${percent}%)`;
-
-  motivation.innerText = getMotivation(percent, lang);
+/* ---------- TIMER ---------- */
+function startTimer(){
+  timer=setInterval(()=>{
+    timeLeft--;
+    time.innerText=`${Math.floor(timeLeft/60)}:${String(timeLeft%60).padStart(2,"0")}`;
+    if(timeLeft<=0) finishQuiz();
+  },1000);
 }
 
-/* ---------- HISTORY ---------- */
-function saveHistory(score, percent){
-  let h = JSON.parse(localStorage.getItem("history"));
-  h.push({date:new Date(),score,percent});
-  localStorage.setItem("history", JSON.stringify(h));
+/* ---------- SECURITY (BEST POSSIBLE) ---------- */
+function warnSwitch(){
+  alert("Please stay on the test screen for best experience.");
 }
 
-function showHistory(){
-  hideAll();
-  show("history");
-  const list = document.getElementById("historyList");
-  list.innerHTML = "";
-  JSON.parse(localStorage.getItem("history")).forEach(h=>{
-    list.innerHTML += `<p>${new Date(h.date).toLocaleString()} - ${h.score}</p>`;
-  });
-}
-
-/* ---------- UTIL ---------- */
+/* ---------- UTILS ---------- */
 function hideAll(){
-  ["login","dashboard","quiz","result","history"].forEach(id=>{
-    document.getElementById(id).style.display="none";
-  });
+  ["login","category","dashboard","quiz","result","adScreen"]
+    .forEach(id=>document.getElementById(id).style.display="none");
 }
-function show(id){ document.getElementById(id).style.display="block"; }
-function emailInput(){ return document.getElementById("email").value; }
+function show(id){document.getElementById(id).style.display="block";}
 
-function getMotivation(p, lang){
-  if(lang==="hi"){
-    if(p>=80) return "बहुत बढ़िया! आप सही दिशा में हैं।";
-    if(p>=50) return "अच्छा प्रयास, और अभ्यास करें।";
-    return "मेहनत जारी रखें, सफलता मिलेगी।";
-  } else {
-    if(p>=80) return "Excellent! You're exam ready.";
-    if(p>=50) return "Good effort. Keep practicing.";
-    return "Don't give up. Improvement is coming.";
-  }
-}
 
