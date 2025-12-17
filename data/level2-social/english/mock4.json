@@ -1,224 +1,242 @@
 [
   {
-    "q": "Which factor plays the most important role in a child’s emotional development?",
-    "options": ["Textbook","Teacher attitude","Physical environment","Time-table"],
+    "q": "Which type of development is most affected by 'Socio-cultural' factors according to Vygotsky?",
+    "options": ["Physical", "Cognitive", "Biological", "Reflexive"],
     "a": 1,
-    "explanation": "A supportive and positive teacher attitude helps in emotional development."
+    "explanation": "Vygotsky believed social interaction is fundamental to cognitive development."
   },
   {
-    "q": "According to Vygotsky, learning is primarily a:",
-    "options": ["Individual process","Mechanical process","Social process","Biological process"],
+    "q": "The concept of 'Mental Age' was first introduced by:",
+    "options": ["Lewis Terman", "Alfred Binet", "David Wechsler", "Robert Sternberg"],
+    "a": 1,
+    "explanation": "Alfred Binet developed the first intelligence test and the concept of mental age."
+  },
+  {
+    "q": "Which of the following is a 'Projective Technique' for personality assessment?",
+    "options": ["Observation", "Interview", "Rorschach Inkblot Test", "Rating Scale"],
     "a": 2,
-    "explanation": "Vygotsky emphasized social interaction in learning."
+    "explanation": "Projective tests like Rorschach use ambiguous stimuli to reveal personality traits."
   },
   {
-    "q": "Which assessment is useful for improving teaching strategies?",
-    "options": ["Summative","Formative","Norm-referenced","Final"],
+    "q": "A teacher notices a student is very good at identifying patterns in nature and plants. Which intelligence is this?",
+    "options": ["Spatial", "Naturalistic", "Mathematical", "Musical"],
     "a": 1,
-    "explanation": "Formative assessment provides feedback during teaching."
+    "explanation": "Naturalistic intelligence involves sensitivity to the natural world."
   },
   {
-    "q": "Inclusive education focuses on:",
-    "options": ["Uniformity","Segregation","Equity and participation","Competition"],
+    "q": "'Learning by Doing' is the main principle of:",
+    "options": ["Idealism", "Pragmatism", "Naturalism", "Realism"],
+    "a": 1,
+    "explanation": "Pragmatism (John Dewey) emphasizes practical experience and learning by doing."
+  },
+  {
+    "q": "Which of the following is NOT a stage of creative thinking?",
+    "options": ["Preparation", "Incubation", "Verification", "Rote repetition"],
+    "a": 3,
+    "explanation": "Creativity involves stages like preparation, incubation, illumination, and verification."
+  },
+  {
+    "q": "The term 'Cephalocaudal' development means growth from:",
+    "options": ["Center to periphery", "Head to toe", "Toe to head", "Specific to general"],
+    "a": 1,
+    "explanation": "Cephalocaudal development follows a head-to-tail direction."
+  },
+  {
+    "q": "Which law of learning states that 'Practice makes perfect'?",
+    "options": ["Law of Readiness", "Law of Exercise", "Law of Effect", "Law of Recency"],
+    "a": 1,
+    "explanation": "The Law of Exercise emphasizes the role of repetition and practice."
+  },
+  {
+    "q": "In a 'Democratic' style of leadership, the teacher:",
+    "options": ["Takes all decisions alone", "Allows students to do whatever they want", "Consults with students and encourages participation", "Does not participate at all"],
     "a": 2,
-    "explanation": "Inclusive education promotes equity and participation of all learners."
+    "explanation": "Democratic leadership involves collaboration and shared decision-making."
   },
   {
-    "q": "Which stage is considered crucial for identity formation?",
-    "options": ["Early childhood","Adolescence","Adulthood","Old age"],
+    "q": "What is the I.Q. range of an 'Average' child?",
+    "options": ["70-80", "90-109", "120-140", "Above 140"],
     "a": 1,
-    "explanation": "Adolescence is vital for identity and self-concept formation."
+    "explanation": "Scores between 90 and 109 are generally considered average."
   },
   {
-    "q": "The main role of a teacher in learner-centered education is to:",
-    "options": ["Deliver content","Control class","Facilitate learning","Conduct exams"],
-    "a": 2,
-    "explanation": "Learner-centered education emphasizes facilitation."
-  },
-  {
-    "q": "Which principle of development states that development proceeds from head to toe?",
-    "options": ["Proximodistal","Cephalocaudal","Continuity","Readiness"],
+    "q": "Which of these is a secondary agency of socialization?",
+    "options": ["Family", "School", "Peer group", "Parents"],
     "a": 1,
-    "explanation": "Cephalocaudal development moves from head to toe."
+    "explanation": "While family is the primary agency, schools and media are secondary agencies."
   },
   {
-    "q": "Which method best encourages critical thinking?",
-    "options": ["Lecture method","Project method","Drill method","Dictation"],
+    "q": "'दयानंद' में प्रयुक्त संधि का नाम है:",
+    "options": ["गुण संधि", "दीर्घ संधि", "व्यंजन संधि", "यण संधि"],
     "a": 1,
-    "explanation": "Project method encourages inquiry and analysis."
+    "explanation": "दया + आनंद = दयानंद (आ + आ = आ, दीर्घ संधि)।"
   },
   {
-    "q": "Which learning theory emphasizes insight and perception?",
-    "options": ["Behaviorism","Gestalt theory","Social learning","Humanism"],
-    "a": 1,
-    "explanation": "Gestalt theory focuses on insight learning."
-  },
-  {
-    "q": "Which factor most affects moral development in students?",
-    "options": ["Punishment","Role models","Textbooks","Examinations"],
-    "a": 1,
-    "explanation": "Role models strongly influence moral development."
-  },
-  {
-    "q": "Which assessment evaluates overall achievement at the end of a course?",
-    "options": ["Formative","Diagnostic","Summative","Continuous"],
-    "a": 2,
-    "explanation": "Summative assessment measures final achievement."
-  },
-  {
-    "q": "Identify the tense: ‘She writes letters regularly.’",
-    "options": ["Past tense","Present tense","Future tense","Present perfect"],
-    "a": 1,
-    "explanation": "It indicates habitual action in present tense."
-  },
-  {
-    "q": "The antonym of ‘victory’ is:",
-    "options": ["Success","Achievement","Defeat","Win"],
-    "a": 2,
-    "explanation": "Defeat is the opposite of victory."
-  },
-  {
-    "q": "Which sentence is grammatically correct?",
-    "options": ["He have completed the task.","He has completed the task.","He is complete the task.","He completing the task."],
-    "a": 1,
-    "explanation": "‘Has completed’ is the correct present perfect form."
-  },
-  {
-    "q": "The word ‘honesty’ is a/an:",
-    "options": ["Proper noun","Common noun","Abstract noun","Collective noun"],
-    "a": 2,
-    "explanation": "Honesty is an abstract quality."
-  },
-  {
-    "q": "The main aim of teaching history is to:",
-    "options": ["Memorize dates","Understand cause and effect","Learn biographies only","Prepare for exams"],
-    "a": 1,
-    "explanation": "History helps understand cause–effect relationships."
-  },
-  {
-    "q": "Which activity best develops speaking skills?",
-    "options": ["Silent reading","Role play","Copy writing","Translation"],
-    "a": 1,
-    "explanation": "Role play encourages verbal expression."
-  },
-  {
-    "q": "Vocabulary develops best when words are taught:",
-    "options": ["In isolation","Through translation","In context","By memorization"],
-    "a": 2,
-    "explanation": "Contextual learning improves understanding and retention."
-  },
-  {
-    "q": "Which word is an adverb?",
-    "options": ["Happy","Happiness","Happily","Happier"],
-    "a": 2,
-    "explanation": "‘Happily’ modifies a verb."
-  },
-  {
-    "q": "Choose the correct sentence:",
-    "options": ["They has arrived.","They have arrived.","They is arrived.","They arriving."],
-    "a": 1,
-    "explanation": "Plural subject takes ‘have’."
-  },
-  {
-    "q": "Which tense is used in: ‘We will start the work tomorrow.’?",
-    "options": ["Present","Past","Future","Present perfect"],
-    "a": 2,
-    "explanation": "‘Will start’ indicates future tense."
-  },
-  {
-    "q": "Which punctuation mark is used to show possession?",
-    "options": ["Comma","Apostrophe","Colon","Semicolon"],
-    "a": 1,
-    "explanation": "An apostrophe shows possession."
-  },
-  {
-    "q": "Which skill is essential for understanding lectures?",
-    "options": ["Speaking","Listening","Reading","Writing"],
-    "a": 1,
-    "explanation": "Listening skill is essential for understanding spoken content."
-  },
-  {
-    "q": "Choose the correct plural form of ‘tooth’.",
-    "options": ["Tooths","Teeth","Toothes","Tooth"],
-    "a": 1,
-    "explanation": "Teeth is the correct plural form."
-  },
-  {
-    "q": "Which sentence is in passive voice?",
-    "options": ["She completes the work.","She completed the work.","The work is completed by her.","She is completing the work."],
-    "a": 2,
-    "explanation": "Passive voice focuses on the object."
-  },
-  {
-    "q": "Which ancient civilization flourished along the Indus River?",
-    "options": ["Mesopotamian","Egyptian","Harappan","Chinese"],
-    "a": 2,
-    "explanation": "The Harappan civilization developed along the Indus River."
-  },
-  {
-    "q": "Which soil is most suitable for cotton cultivation?",
-    "options": ["Alluvial soil","Black soil","Red soil","Laterite soil"],
-    "a": 1,
-    "explanation": "Black soil retains moisture and suits cotton."
-  },
-  {
-    "q": "Which Fundamental Right protects freedom of speech?",
-    "options": ["Right to Equality","Right to Freedom","Right to Religion","Right to Education"],
-    "a": 1,
-    "explanation": "Freedom of speech is included in Right to Freedom."
-  },
-  {
-    "q": "Who was the first Mughal emperor of India?",
-    "options": ["Akbar","Babur","Humayun","Jahangir"],
-    "a": 1,
-    "explanation": "Babur founded the Mughal Empire in India."
-  },
-  {
-    "q": "Which line divides the Earth into Eastern and Western Hemispheres?",
-    "options": ["Equator","Prime Meridian","Tropic of Cancer","Arctic Circle"],
-    "a": 1,
-    "explanation": "The Prime Meridian divides Earth into east and west."
-  },
-  {
-    "q": "Who appoints the Governor of a state?",
-    "options": ["Chief Minister","President","Prime Minister","Chief Justice"],
-    "a": 1,
-    "explanation": "The President appoints the Governor."
-  },
-  {
-    "q": "Who was known as the ‘Napoleon of India’?",
-    "options": ["Ashoka","Chandragupta Maurya","Samudragupta","Harsha"],
-    "a": 2,
-    "explanation": "Samudragupta earned this title for military conquests."
-  },
-  {
-    "q": "Which plateau is rich in mineral resources in India?",
-    "options": ["Deccan Plateau","Chotanagpur Plateau","Malwa Plateau","Bundelkhand Plateau"],
-    "a": 1,
-    "explanation": "Chotanagpur Plateau is rich in minerals."
-  },
-  {
-    "q": "Which body interprets the Constitution of India?",
-    "options": ["Parliament","President","Supreme Court","Election Commission"],
-    "a": 2,
-    "explanation": "The Supreme Court interprets the Constitution."
-  },
-  {
-    "q": "Who introduced the Mansabdari system?",
-    "options": ["Babur","Akbar","Sher Shah Suri","Aurangzeb"],
-    "a": 1,
-    "explanation": "Akbar introduced the Mansabdari system."
-  },
-  {
-    "q": "Which state has the highest population density in India?",
-    "options": ["Uttar Pradesh","Bihar","West Bengal","Kerala"],
-    "a": 1,
-    "explanation": "Bihar has the highest population density."
-  },
-  {
-    "q": "Which institution resolves disputes related to elections?",
-    "options": ["Supreme Court","Election Commission","High Court","Parliament"],
+    "q": "'चौराहा' में कौन सा समास है?",
+    "options": ["द्विगु", "द्वंद्व", "तत्पुरुष", "अव्ययीभाव"],
     "a": 0,
-    "explanation": "The Supreme Court handles election-related disputes."
+    "explanation": "प्रथम पद संख्यावाचक होने के कारण यहाँ द्विगु समास है।"
+  },
+  {
+    "q": "'उपकार' का विलोम शब्द है:",
+    "options": ["विकार", "अनुपकार", "अपकार", "तिरस्कार"],
+    "a": 2,
+    "explanation": "उपकार का विलोम अपकार होता है।"
+  },
+  {
+    "q": "'नाक कटना' मुहावरे का अर्थ है:",
+    "options": ["चोट लगना", "इज्जत जाना", "बीमार होना", "झगड़ा करना"],
+    "a": 1,
+    "explanation": "इसका अर्थ मान-प्रतिष्ठा की हानि होना है।"
+  },
+  {
+    "q": "शुद्ध वाक्य का चयन कीजिए:",
+    "options": ["वह दंड देने योग्य है।", "वह दंड के योग्य है।", "वह दंड लेने योग्य है।", "वह दंड पाने योग्य है।"],
+    "a": 1,
+    "explanation": "सही व्याकरणिक रूप 'वह दंड के योग्य है' होगा।"
+  },
+  {
+    "q": "'तरणि' शब्द का अर्थ है:",
+    "options": ["सूर्य", "नाव", "युवती", "नदी"],
+    "a": 0,
+    "explanation": "'तरणि' (छोटी इ) का अर्थ सूर्य होता है, जबकि 'तरणी' (बड़ी ई) का अर्थ नाव होता है।"
+  },
+  {
+    "q": "भाषा शिक्षण की 'प्रत्यक्ष विधि' (Direct Method) में:",
+    "options": ["मातृभाषा का प्रयोग वर्जित है", "अनुवाद पर बल दिया जाता है", "व्याकरण के नियमों को रटाया जाता है", "चित्रों का प्रयोग नहीं होता"],
+    "a": 0,
+    "explanation": "प्रत्यक्ष विधि में सीधे लक्ष्य भाषा में बात की जाती है, मातृभाषा का उपयोग नहीं होता।"
+  },
+  {
+    "q": "Choose the correctly punctuated sentence:",
+    "options": ["He said I am coming.", "He said, \"I am coming.\"", "He said \"I am coming.\"", "He said, I am coming."],
+    "a": 1,
+    "explanation": "Direct speech requires a comma before the quotation marks."
+  },
+  {
+    "q": "What is the superlative degree of 'Little'?",
+    "options": ["Littlest", "Less", "Least", "Lesser"],
+    "a": 2,
+    "explanation": "Little (Positive), Less (Comparative), Least (Superlative)."
+  },
+  {
+    "q": "Identify the 'Subject' in the sentence: 'On the top of the hill lives a hermit.'",
+    "options": ["The hill", "The top", "A hermit", "Lives"],
+    "a": 2,
+    "explanation": "The hermit is the one performing the action (living)."
+  },
+  {
+    "q": "Which of these is a 'Vowel Sound' symbol in Phonetics?",
+    "options": ["/p/", "/b/", "/e/", "/t/"],
+    "a": 2,
+    "explanation": "/e/ represents a vowel sound, while others are consonants."
+  },
+  {
+    "q": "The phrase 'Call it a day' means:",
+    "options": ["To start working", "To stop working on something", "To wake up early", "To celebrate"],
+    "a": 1,
+    "explanation": "It means to decide to stop doing something for the rest of the day."
+  },
+  {
+    "q": "Select the correct 'Question Tag': 'You are a student, ________?'",
+    "options": ["don't you", "aren't you", "are you", "isn't it"],
+    "a": 1,
+    "explanation": "A positive statement takes a negative tag using the same auxiliary verb."
+  },
+  {
+    "q": "Fill in the blank: 'I have been living here ________ 2010.'",
+    "options": ["for", "since", "from", "during"],
+    "a": 1,
+    "explanation": "'Since' is used for a specific point in time in perfect continuous tenses."
+  },
+  {
+    "q": "The 'Dandi March' (1930) was primarily against which British policy?",
+    "options": ["Land Tax", "Salt Tax", "Forest Laws", "Indigo Farming"],
+    "a": 1,
+    "explanation": "Gandhi marched to the coast to break the salt law as a symbolic protest."
+  },
+  {
+    "q": "Which Indian state has the longest 'Coastline'?",
+    "options": ["Tamil Nadu", "Maharashtra", "Gujarat", "Andhra Pradesh"],
+    "a": 2,
+    "explanation": "Gujarat has the longest coastline in India due to its many indentations."
+  },
+  {
+    "q": "Who was the first woman President of the 'Indian National Congress'?",
+    "options": ["Sarojini Naidu", "Annie Besant", "Nellie Sengupta", "Indira Gandhi"],
+    "a": 1,
+    "explanation": "Annie Besant presided over the Calcutta session in 1917."
+  },
+  {
+    "q": "Which planet is closest to the Sun?",
+    "options": ["Venus", "Earth", "Mars", "Mercury"],
+    "a": 3,
+    "explanation": "Mercury is the first planet in the solar system."
+  },
+  {
+    "q": "The 'Election Commission' of India is a/an:",
+    "options": ["Non-constitutional body", "Statutory body", "Constitutional body", "Private body"],
+    "a": 2,
+    "explanation": "Established under Article 324, it is a permanent constitutional body."
+  },
+  {
+    "q": "Where did 'Buddha' deliver his first sermon?",
+    "options": ["Lumbini", "Bodh Gaya", "Sarnath", "Kushinagar"],
+    "a": 2,
+    "explanation": "Known as 'Dharma Chakra Pravartana', it took place in Sarnath."
+  },
+  {
+    "q": "The 'Kaziranga National Park' is famous for:",
+    "options": ["Tigers", "One-horned Rhinoceros", "Elephants", "Lions"],
+    "a": 1,
+    "explanation": "Located in Assam, it houses the world's largest population of one-horned rhinos."
+  },
+  {
+    "q": "Who wrote the 'Arthashastra'?",
+    "options": ["Megasthenes", "Chanakya", "Kalidasa", "Banabhatta"],
+    "a": 1,
+    "explanation": "Chanakya (Kautilya) wrote this ancient Indian treatise on statecraft."
+  },
+  {
+    "q": "The '73rd Constitutional Amendment Act' is related to:",
+    "options": ["Municipalities", "Panchayati Raj", "Defection Laws", "Fundamental Rights"],
+    "a": 1,
+    "explanation": "The 1992 amendment gave constitutional status to Panchayati Raj Institutions."
+  },
+  {
+    "q": "Which is the highest peak in India?",
+    "options": ["Mount Everest", "K2 (Godwin Austen)", "Kanchenjunga", "Anamudi"],
+    "a": 1,
+    "explanation": "K2 is the highest peak in India (located in PoK). Kanchenjunga is the highest in undisputed territory."
+  },
+  {
+    "q": "The 'Swadeshi Movement' was a reaction to the:",
+    "options": ["Partition of Bengal", "Jallianwala Bagh Massacre", "Rowlatt Act", "Simon Commission"],
+    "a": 0,
+    "explanation": "Lord Curzon's partition of Bengal in 1905 triggered the Swadeshi and Boycott movement."
+  },
+  {
+    "q": "What is the 'Full Moon' day called in the Indian calendar?",
+    "options": ["Amavasya", "Purnima", "Ekadashi", "Chaturthi"],
+    "a": 1,
+    "explanation": "Purnima occurs when the Moon is fully illuminated from Earth's perspective."
+  },
+  {
+    "q": "Which gas is most abundant in Earth's atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"],
+    "a": 2,
+    "explanation": "Nitrogen makes up approximately 78% of the atmosphere."
+  },
+  {
+    "q": "Who was the first Mughal Emperor of India?",
+    "options": ["Akbar", "Humayun", "Babur", "Sher Shah Suri"],
+    "a": 2,
+    "explanation": "Babur founded the Mughal Empire after the First Battle of Panipat in 1526."
+  },
+  {
+    "q": "The 'Aravalli Range' in Rajasthan is an example of:",
+    "options": ["Fold Mountains", "Residual/Old Mountains", "Block Mountains", "Volcanic Mountains"],
+    "a": 1,
+    "explanation": "The Aravallis are one of the oldest mountain ranges in the world, now highly eroded."
   }
 ]
