@@ -1,29 +1,27 @@
 body {
-  font-family: Arial;
+  font-family: Arial, sans-serif;
   background: #eef2ff;
   margin: 0;
 }
 
 .app {
-  max-width: 800px;
+  max-width: 700px;
   margin: auto;
   padding: 20px;
 }
 
+.center { text-align: center; }
+
 .card {
   background: white;
   padding: 20px;
-  border-radius: 10px;
+  border-radius: 12px;
   margin-bottom: 20px;
 }
 
-.center {
-  text-align: center;
-}
-
-button {
+input, button, a.btn {
   width: 100%;
-  padding: 10px;
+  padding: 12px;
   margin-top: 10px;
 }
 
@@ -31,13 +29,28 @@ button {
   background: #0a5cff;
   color: white;
   border: none;
+  text-align: center;
+  text-decoration: none;
 }
 
 .secondary {
-  background: #ddd;
+  background: #dde3ff;
+  border: none;
+}
+
+.danger {
+  background: #ff4d4f;
+  color: white;
+  border: none;
 }
 
 .note {
   font-size: 12px;
-  color: gray;
+  color: #555;
 }
+
+.topbar {
+  display: flex;
+  justify-content: space-between;
+}
+
