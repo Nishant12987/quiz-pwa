@@ -1,37 +1,97 @@
-body{
-  margin:0;
-  font-family:Arial,sans-serif;
-  background:#eef2ff;
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #eef2ff;
 }
-.app{
-  max-width:800px;
-  margin:auto;
-  padding:20px;
-}
-.center{text-align:center}
-.card{
-  background:white;
-  padding:20px;
-  margin-bottom:20px;
-  border-radius:12px;
-  box-shadow:0 10px 30px rgba(0,0,0,.1);
-}
-input,select,button{
-  width:100%;
-  padding:10px;
-  margin-top:10px;
-}
-.primary{background:#2563eb;color:white;border:none}
-.secondary{background:#e5e7eb;border:none}
-.danger{background:#dc2626;color:white;border:none}
-.topbar{
-  display:flex;
-  justify-content:space-between;
-  font-weight:bold;
-}
-#options button{background:#f1f5ff}
-.note{font-size:12px;color:#555}
-.checkbox{font-size:13px}
 
+/* App container */
+.app {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+}
 
+/* Common helpers */
+.center {
+  text-align: center;
+}
 
+/* Card UI */
+.card {
+  background: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+/* Inputs & buttons */
+input,
+select,
+button {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  font-size: 16px;
+}
+
+/* Buttons */
+.primary {
+  background: #2563eb;
+  color: white;
+  border: none;
+}
+
+.secondary {
+  background: #e5e7eb;
+  border: none;
+}
+
+.danger {
+  background: #dc2626;
+  color: white;
+  border: none;
+}
+
+/* Top bar in quiz */
+.topbar {
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+/* ===== IMPORTANT FIX FOR ANSWER CLICK ISSUE ===== */
+#options {
+  margin-top: 15px;
+}
+
+#options button {
+  background: #f1f5ff;
+  border: none;
+  margin-bottom: 10px;
+  text-align: left;
+
+  /* 🔥 CLICK FIX */
+  pointer-events: auto;
+  cursor: pointer;
+  position: relative;
+  z-index: 10;
+}
+
+/* Selected answer */
+#options button.selected {
+  background: #2563eb;
+  color: white;
+}
+
+/* Checkbox text */
+.checkbox {
+  font-size: 13px;
+}
+
+/* Small notes */
+.note {
+  font-size: 12px;
+  color: #555;
+}
