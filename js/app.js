@@ -1,132 +1,91 @@
-let currentQ = 0;
-let answers = [];
-let paid = localStorage.getItem("paid") === "true";
-let testCount = Number(localStorage.getItem("testsGiven") || 0);
-let timeLeft = 2400;
-let timer;
-let switchCount = 0;
-
-const questions = [
-  { q: "Sample Question?", options: ["A","B","C","D"], a: 0 }
-];
+let freeUsed = localStorage.getItem("freeUsed") === "true";
+let isPaid = localStorage.getItem("isPaid") === "true";
+let timer, timeLeft = 2400;
 
 function login() {
-  localStorage.setItem("user", email.value);
+  const email = emailInput();
+  if (!email) return alert("Enter email");
+  localStorage.setItem("user", email);
   showDashboard();
 }
 
 function showDashboard() {
   hideAll();
-  dashboard.style.display = "block";
-  welcome.innerText = "Welcome " + localStorage.getItem("user");
-
-  accessInfo.innerText = paid
+  show("dashboard");
+  welcome.innerText = "Welcome to PrepOne";
+  accessMsg.innerText = isPaid
     ? "Full access unlocked"
-    : "1 free test available";
+    : freeUsed
+      ? "Free test used. Unlock full tests."
+      : "You have 1 free test available";
 }
 
-function startFlow() {
-  if (!paid && testCount >= 1) {
-    hideAll();
-    paywall.style.display = "block";
-  } else {
-    startQuiz();
+function startTest() {
+  if (!isPaid && freeUsed) {
+    alert("Please unlock full tests");
+    showUnlock();
+    return;
   }
-}
-
-function startQuiz() {
   hideAll();
-  quiz.style.display = "block";
-  currentQ = 0;
-  answers = [];
+  show("quiz");
+  timeLeft = 2400;
   startTimer();
-  render();
+  loadQuestion();
 }
 
-function render() {
-  qCounter.innerText = `Q ${currentQ + 1}`;
-  question.innerText = questions[currentQ].q;
+function loadQuestion() {
+  qCounter.innerText = "Sample Question";
+  question.innerText = "PrepOne sample REET question";
   options.innerHTML = "";
-  questions[currentQ].options.forEach((o, i) => {
-    const b = document.createElement("button");
+  ["A","B","C","D"].forEach(o => {
+    let b = document.createElement("button");
     b.innerText = o;
-    b.onclick = () => {
-      answers[currentQ] = i;
-      nextQ();
-    };
+    b.onclick = finish;
     options.appendChild(b);
   });
 }
 
-function nextQ() {
-  if (currentQ < questions.length - 1) {
-    currentQ++;
-    render();
-  } else {
-    finish();
-  }
-}
-
 function finish() {
   clearInterval(timer);
-  testCount++;
-  localStorage.setItem("testsGiven", testCount);
   hideAll();
-  result.style.display = "block";
+  show("result");
 
-  let score = answers.filter((a,i)=>a===questions[i].a).length;
+  if (!isPaid) localStorage.setItem("freeUsed","true");
 
-  scoreText.innerText = `Score: ${score}/${questions.length}`;
+  resultTitle.innerText = "Test Completed";
+  scoreText.innerText = "Score calculated";
+  motivation.innerText = isHindi()
+    ? "अच्छा प्रयास! अभ्यास जारी रखें।"
+    : "Good effort! Keep practicing.";
+}
 
-  motivation.innerText =
-    score >= 30 ? "Excellent! Keep it up 💪" :
-    score >= 20 ? "Good effort! Improve more 👍" :
-    "Keep practicing! You can do better 🔥";
+function showUnlock() {
+  hideAll();
+  show("unlock");
+}
+
+function confirmPayment() {
+  localStorage.setItem("isPaid","true");
+  isPaid = true;
+  alert("Access unlocked on this device");
+  showDashboard();
 }
 
 function startTimer() {
-  timeLeft = 2400;
   timer = setInterval(() => {
     timeLeft--;
-    time.innerText = `${Math.floor(timeLeft/60)}:${timeLeft%60}`;
+    time.innerText = Math.floor(timeLeft/60)+":"+String(timeLeft%60).padStart(2,"0");
     if (timeLeft <= 0) finish();
   },1000);
 }
 
-/* SECURITY: TAB SWITCH */
-document.addEventListener("visibilitychange", () => {
-  if (document.hidden) {
-    switchCount++;
-    alert("Do not switch tabs during test");
-    if (switchCount >= 3) {
-      alert("Test auto-submitted");
-      finish();
-    }
-  }
-});
-
-/* PAYMENT */
-function payNow() {
-  const options = {
-    key: "RAZORPAY_KEY_HERE",
-    amount: 14900,
-    currency: "INR",
-    name: "REET Test Series",
-    description: "Full Access",
-    handler: function () {
-      localStorage.setItem("paid", "true");
-      paid = true;
-      alert("Payment successful");
-      showDashboard();
-    }
-  };
-  new Razorpay(options).open();
-}
-
 function hideAll() {
-  ["login","dashboard","quiz","result","paywall"].forEach(id=>{
-    document.getElementById(id).style.display="none";
+  ["login","dashboard","quiz","result","unlock"].forEach(id=>{
+    let e=document.getElementById(id);
+    if(e) e.style.display="none";
   });
 }
+function show(id){document.getElementById(id).style.display="block";}
+function emailInput(){return document.getElementById("email").value;}
+function isHindi(){return false;}
 
-if (localStorage.getItem("user")) showDashboard();
