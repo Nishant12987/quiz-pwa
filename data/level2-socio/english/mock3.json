@@ -1,218 +1,202 @@
 [
   {
-    "q": "According to Vygotsky, the most effective learning takes place in which zone?",
-    "options": ["Zone of actual development","Zone of proximal development","Maturity zone","Intellectual zone"],
-    "a": 1,
-    "explanation": "In the Zone of Proximal Development, a child learns best with guidance."
+    "q": "What is the main characteristic of the 'Concrete Operational' stage?",
+    "options": ["Abstract reasoning", "Logical thinking about physical objects", "Symbolic play", "Egocentric thought"],
+    "a": 1
   },
   {
-    "q": "Adolescence is considered as which type of stage?",
-    "options": ["Stable stage","Transitional stage","Mature stage","Final stage"],
-    "a": 1,
-    "explanation": "Adolescence is a transition between childhood and adulthood."
+    "q": "In 'Trial and Error' theory, which factor is essential for learning according to Thorndike?",
+    "options": ["Imitation", "Insight", "Motivation/Drive", "Social pressure"],
+    "a": 2
   },
   {
-    "q": "What is the main function of motivation in learning?",
-    "options": ["To punish","To control behavior","To maintain interest in learning","To evaluate"],
-    "a": 2,
-    "explanation": "Motivation sustains interest and continuity in learning."
+    "q": "A teacher asks students to 'list all possible uses of a brick'. This is testing:",
+    "options": ["Convergent thinking", "Divergent thinking", "Memory", "Discipline"],
+    "a": 1
   },
   {
-    "q": "Which method of learning is based on problem solving?",
-    "options": ["Lecture method","Project method","Story method","Repetition method"],
-    "a": 1,
-    "explanation": "Project method focuses on solving real-life problems."
+    "q": "The process of adjusting existing schemas to fit new information is called:",
+    "options": ["Assimilation", "Accommodation", "Equilibration", "Organization"],
+    "a": 1
   },
   {
-    "q": "What is the main medium of moral development in children?",
-    "options": ["Punishment","Imitation","Logical thinking","Fear"],
-    "a": 2,
-    "explanation": "Logical thinking helps children make moral judgments."
+    "q": "Which assessment is used to certify students at the end of a term?",
+    "options": ["Formative", "Summative", "Diagnostic", "Placement"],
+    "a": 1
   },
   {
-    "q": "In inclusive education, the role of the teacher is to:",
-    "options": ["Only teach","Discriminate","Act as facilitator and guide","Promote competition"],
-    "a": 2,
-    "explanation": "Teachers support and guide all learners in inclusive classrooms."
+    "q": "According to Maslow's hierarchy, which is the highest level of need?",
+    "options": ["Safety needs", "Esteem needs", "Social needs", "Self-actualization"],
+    "a": 3
   },
   {
-    "q": "Which assessment is conducted at the end of teaching?",
-    "options": ["Formative","Diagnostic","Summative","Informal"],
-    "a": 2,
-    "explanation": "Summative assessment is done after instruction."
+    "q": "What does 'ZPD' stand for in Vygotsky's theory?",
+    "options": ["Zone of Personal Development", "Zone of Proximal Development", "Zero Proximity Distance", "Zone of Progressive Development"],
+    "a": 1
   },
   {
-    "q": "Which principle of development states that development is continuous?",
-    "options": ["Sequence","Continuity","Maturation","Readiness"],
-    "a": 1,
-    "explanation": "Continuity principle says development continues throughout life."
+    "q": "A child who has difficulty with mathematical calculations likely has:",
+    "options": ["Dyslexia", "Dysgraphia", "Dyscalculia", "Dysphasia"],
+    "a": 2
   },
   {
-    "q": "Which social factor influences learning the most?",
-    "options": ["School building","Family","Peer group","Curriculum"],
-    "a": 2,
-    "explanation": "Peer group strongly influences learning, especially in adolescence."
+    "q": "The 'Micro-teaching' technique is primarily used for:",
+    "options": ["Teaching small children", "Developing teaching skills", "Reducing class time", "Testing intelligence"],
+    "a": 1
   },
   {
-    "q": "In constructivist teaching, who constructs knowledge?",
-    "options": ["Teacher","Textbook","Learner","School"],
-    "a": 2,
-    "explanation": "Learners actively construct their own knowledge."
+    "q": "A person's height and weight are primarily determined by:",
+    "options": ["Environment", "Heredity", "Diet only", "Exercise only"],
+    "a": 1
   },
   {
-    "q": "Which factor helps most in the development of self-concept?",
-    "options": ["Neglect","Negative remarks","Positive feedback","Punishment"],
-    "a": 2,
-    "explanation": "Positive feedback strengthens self-concept."
+    "q": "Which of the following is a 'Child-centered' education characteristic?",
+    "options": ["Focus on textbook", "Teacher is the center", "Respect for child's experiences", "Strict discipline"],
+    "a": 2
   },
   {
-    "q": "Identify the tense of the sentence: ‘He is preparing for the exam.’",
-    "options": ["Past tense","Present tense","Present continuous","Future tense"],
-    "a": 2,
-    "explanation": "‘Is preparing’ indicates present continuous tense."
+    "q": "'पवन' का सही संधि-विच्छेद है:",
+    "options": ["प + वन", "पा + वन", "पो + अन", "पौ + अन"],
+    "a": 2
   },
   {
-    "q": "What is the antonym of ‘Success’?",
-    "options": ["Progress","Failure","Profit","Growth"],
-    "a": 1,
-    "explanation": "Failure is the opposite of success."
+    "q": "'लम्बोदर' में कौन सा समास है?",
+    "options": ["कर्मधारय", "बहुव्रीहि", "द्वंद्व", "तत्पुरुष"],
+    "a": 1
   },
   {
-    "q": "Which sentence is grammatically correct?",
-    "options": ["I have written the letter.","I have wrote the letter.","I has written the letter.","I writing the letter."],
-    "a": 0,
-    "explanation": "‘Have written’ is the correct present perfect form."
+    "q": "'प्राचीन' शब्द का विलोम है:",
+    "options": ["पुराना", "नवीन", "अर्वाचीन", "आधुनिक"],
+    "a": 2
   },
   {
-    "q": "The word ‘childhood’ is a/an:",
-    "options": ["Proper noun","Common noun","Abstract noun","Collective noun"],
-    "a": 2,
-    "explanation": "Childhood refers to a state or phase, hence an abstract noun."
+    "q": "'आँखें दिखाना' मुहावरे का अर्थ है:",
+    "options": ["स्वागत करना", "गुस्सा करना", "निरीक्षण करना", "सावधान करना"],
+    "a": 1
   },
   {
-    "q": "The main objective of teaching essay is to develop:",
-    "options": ["Rote writing","Expression of ideas","Only grammar","Translation"],
-    "a": 1,
-    "explanation": "Essay writing helps in clear expression of ideas."
+    "q": "'लेखक' शब्द में कौन सा प्रत्यय है?",
+    "options": ["क", "इक", "अक", "आक"],
+    "a": 2
   },
   {
-    "q": "One advantage of question–answer method in teaching is:",
-    "options": ["Passivity","Active participation","Fear","Waste of time"],
-    "a": 1,
-    "explanation": "It keeps students actively engaged."
+    "q": "हिंदी भाषा में कुल कितने 'स्वर' हैं?",
+    "options": ["10", "11", "13", "15"],
+    "a": 1
   },
   {
-    "q": "Which helps in the development of reading skill?",
-    "options": ["Dictation","Regular practice","Copying","Translation"],
-    "a": 1,
-    "explanation": "Regular practice improves reading ability."
+    "q": "कविता शिक्षण का मुख्य उद्देश्य है:",
+    "options": ["शब्दार्थ बोध", "रसानुभूति एवं आनंद", "व्याकरण ज्ञान", "लेखन सुधार"],
+    "a": 1
   },
   {
-    "q": "Which word is a conjunction?",
-    "options": ["But","Very","Slow","Run"],
-    "a": 0,
-    "explanation": "‘But’ is used to join clauses."
+    "q": "Identify the 'Adverb' in: 'He ran very quickly.'",
+    "options": ["He", "Ran", "Very", "Quickly"],
+    "a": 3
   },
   {
-    "q": "Choose the correct sentence:",
-    "options": ["He don’t like science.","He doesn’t like science.","He didn’t likes science.","He don’t likes science."],
-    "a": 1,
-    "explanation": "Third person singular uses ‘doesn’t’."
+    "q": "Select the correct plural of 'Mouse'.",
+    "options": ["Mouses", "Mice", "Mice's", "Mices"],
+    "a": 1
   },
   {
-    "q": "Which tense is used in: ‘She has completed her work.’?",
-    "options": ["Simple present","Present continuous","Present perfect","Past perfect"],
-    "a": 2,
-    "explanation": "‘Has completed’ shows present perfect tense."
+    "q": "Choose the word with the correct prefix for 'Fortune'.",
+    "options": ["Unfortune", "Infortune", "Misfortune", "Disfortune"],
+    "a": 2
   },
   {
-    "q": "Which word is a preposition?",
-    "options": ["Under","Happy","Quick","Think"],
-    "a": 0,
-    "explanation": "‘Under’ shows position or relation."
+    "q": "Which part of speech is 'Alas!'?",
+    "options": ["Conjunction", "Preposition", "Interjection", "Adverb"],
+    "a": 2
   },
   {
-    "q": "Which punctuation mark is used at the end of an exclamatory sentence?",
-    "options": ["Full stop","Comma","Question mark","Exclamation mark"],
-    "a": 3,
-    "explanation": "Exclamation mark shows strong feeling."
+    "q": "The primary objective of 'Remedial Teaching' is:",
+    "options": ["To teach new topics", "To fill learning gaps", "To punish slow learners", "To prepare for exams only"],
+    "a": 1
   },
   {
-    "q": "Which skill helps in understanding spoken language?",
-    "options": ["Speaking","Reading","Listening","Writing"],
-    "a": 2,
-    "explanation": "Listening is needed to understand spoken language."
+    "q": "Choose the correct sentence in 'Present Perfect Tense':",
+    "options": ["He finished the work.", "He has finished the work.", "He had finished the work.", "He is finishing the work."],
+    "a": 1
   },
   {
-    "q": "Which sentence is in passive voice?",
-    "options": ["She writes a letter.","She wrote a letter.","A letter is written by her.","She is writing a letter."],
-    "a": 2,
-    "explanation": "Passive voice focuses on the object."
+    "q": "What is the feminine gender of 'Bachelor'?",
+    "options": ["Spinster", "Widow", "Nun", "Baroness"],
+    "a": 0
   },
   {
-    "q": "If 4x = 20, find the value of x.",
-    "options": ["4","5","6","8"],
-    "a": 1,
-    "explanation": "4x = 20, so x = 5."
+    "q": "The value of x for which the expressions 5x + 3 and 3x - 1 become equal is:",
+    "options": ["-2", "2", "1", "-1"],
+    "a": 0
   },
   {
-    "q": "What is the LCM of 15 and 25?",
-    "options": ["50","75","100","150"],
-    "a": 1,
-    "explanation": "LCM of 15 and 25 is 75."
+    "q": "A cylindrical tank has a radius of 7 m and a height of 10 m. Its curved surface area is:",
+    "options": ["440 sq m", "220 sq m", "154 sq m", "308 sq m"],
+    "a": 0
   },
   {
-    "q": "The area of a square is 64 sq cm. What is the length of its side?",
-    "options": ["6 cm","7 cm","8 cm","9 cm"],
-    "a": 2,
-    "explanation": "8 × 8 = 64."
+    "q": "Which of the following is a rational number?",
+    "options": ["pi", "Square root of 2", "Square root of 9", "Square root of 7"],
+    "a": 2
   },
   {
-    "q": "Which of the following is an irrational number?",
-    "options": ["1/2","0.25","√3","5"],
-    "a": 2,
-    "explanation": "√3 cannot be expressed as p/q."
+    "q": "If 15% of a number is 45, then the number is:",
+    "options": ["300", "200", "400", "150"],
+    "a": 0
   },
   {
-    "q": "Which angle measures 90°?",
-    "options": ["Acute angle","Right angle","Obtuse angle","Complete angle"],
-    "a": 1,
-    "explanation": "A right angle measures 90°."
+    "q": "The additive inverse of -7/12 is:",
+    "options": ["12/7", "-12/7", "7/12", "1"],
+    "a": 2
   },
   {
-    "q": "Where does digestion start in the human body?",
-    "options": ["Stomach","Mouth","Intestine","Liver"],
-    "a": 1,
-    "explanation": "Digestion starts in the mouth."
+    "q": "If the sum of two supplementary angles is 180 degrees and their difference is 40 degrees, the angles are:",
+    "options": ["110 and 70", "100 and 80", "120 and 60", "90 and 90"],
+    "a": 0
   },
   {
-    "q": "Which organ purifies blood in the human body?",
-    "options": ["Heart","Lungs","Kidneys","Liver"],
-    "a": 2,
-    "explanation": "Kidneys filter waste from blood."
+    "q": "The value of 10^3 multiplied by 10^-5 is:",
+    "options": ["100", "0.01", "0.001", "10"],
+    "a": 1
   },
   {
-    "q": "Energy possessed due to motion is called:",
-    "options": ["Potential energy","Kinetic energy","Heat energy","Chemical energy"],
-    "a": 1,
-    "explanation": "Kinetic energy is due to motion."
+    "q": "In a right-angled triangle, if the two smaller sides are 3 cm and 4 cm, the hypotenuse is:",
+    "options": ["5 cm", "7 cm", "6 cm", "8 cm"],
+    "a": 0
   },
   {
-    "q": "What is the SI unit of electric current?",
-    "options": ["Volt","Ohm","Ampere","Watt"],
-    "a": 2,
-    "explanation": "Ampere is the SI unit of electric current."
+    "q": "Which of the following mirrors is used by dentists to see a larger image of teeth?",
+    "options": ["Plane mirror", "Convex mirror", "Concave mirror", "Cylindrical mirror"],
+    "a": 2
   },
   {
-    "q": "Which substance is attracted by a magnet?",
-    "options": ["Wood","Plastic","Iron","Paper"],
-    "a": 2,
-    "explanation": "Iron is a magnetic material."
+    "q": "The process of iron rusting requires the presence of:",
+    "options": ["Only oxygen", "Only water", "Both oxygen and water", "Nitrogen"],
+    "a": 2
   },
   {
-    "q": "The reaction between an acid and a base is called:",
-    "options": ["Oxidation","Reduction","Neutralization","Combustion"],
-    "a": 2,
-    "explanation": "Acid and base react to form salt and water."
+    "q": "The human heart has how many chambers?",
+    "options": ["Two", "Three", "Four", "One"],
+    "a": 2
+  },
+  {
+    "q": "Which of the following is a physical change?",
+    "options": ["Burning of paper", "Souring of milk", "Melting of wax", "Digestion of food"],
+    "a": 2
+  },
+  {
+    "q": "The part of the eye which controls the amount of light entering is:",
+    "options": ["Retina", "Iris", "Cornea", "Lens"],
+    "a": 1
+  },
+  {
+    "q": "Which of the following is a greenhouse gas?",
+    "options": ["Oxygen", "Nitrogen", "Methane", "Argon"],
+    "a": 2
+  },
+  {
+    "q": "The SI unit of force is:",
+    "options": ["Watt", "Pascal", "Newton", "Joule"],
+    "a": 2
   }
 ]
