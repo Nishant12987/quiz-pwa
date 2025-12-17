@@ -2,201 +2,241 @@
   {
     "q": "Which stage of Piaget's cognitive development theory is characterized by 'Object Permanence'?",
     "options": ["Sensory-motor stage", "Pre-operational stage", "Concrete operational stage", "Formal operational stage"],
-    "a": 0
+    "a": 0,
+    "explanation": "Object permanence is the understanding that objects continue to exist even when they cannot be seen; it is the key milestone of the sensory-motor stage (0-2 years)."
   },
   {
     "q": "According to Kohlberg's theory of moral development, at which level does an individual follow rules to avoid punishment?",
     "options": ["Post-conventional", "Pre-conventional", "Conventional", "Universal ethical"],
-    "a": 1
+    "a": 1,
+    "explanation": "At the pre-conventional level, morality is externally controlled. Rules are obeyed primarily to avoid negative consequences (punishment)."
   },
   {
     "q": "In an inclusive classroom, what should be the primary focus of a teacher regarding 'Individual Differences'?",
     "options": ["Ignoring differences to treat all equally", "Labeling students based on their abilities", "Using diverse teaching strategies to cater to all needs", "Focusing only on gifted children"],
-    "a": 2
+    "a": 2,
+    "explanation": "Inclusive education requires adapting pedagogy (Differentiated Instruction) to meet the unique learning requirements of every student."
   },
   {
     "q": "Which of the following is an example of an 'Extrinsic' motivator?",
     "options": ["Curiosity about a topic", "Joy of learning a new skill", "Receiving a gold medal for a task", "Personal satisfaction"],
-    "a": 2
+    "a": 2,
+    "explanation": "Extrinsic motivation comes from external rewards like prizes, grades, or recognition, rather than internal fulfillment."
   },
   {
-    "q": "Gardner's theory of Multiple Intelligences suggests that a person with high 'Interpersonal Intelligence' is good at:",
+    "q": "Gardner's theory suggests that a person with high 'Interpersonal Intelligence' is good at:",
     "options": ["Understanding oneself", "Understanding others' emotions and intentions", "Solving mathematical puzzles", "Bodily coordination"],
-    "a": 1
+    "a": 1,
+    "explanation": "Interpersonal intelligence is the ability to effectively interact with, understand, and interpret the moods and intentions of others."
   },
   {
     "q": "Which learning principle emphasizes that 'Whole is greater than the sum of its parts'?",
     "options": ["Behaviorism", "Gestalt Psychology", "Constructivism", "Cognitivism"],
-    "a": 1
+    "a": 1,
+    "explanation": "Gestalt theory (Wertheimer, Kohler) focuses on holistic perception, suggesting that we perceive objects as an entire whole before recognizing individual parts."
   },
   {
     "q": "What is the primary purpose of 'Continuous and Comprehensive Evaluation' (CCE)?",
     "options": ["To rank students", "To reduce the burden of board exams", "To assess all aspects of a child's development", "To conduct monthly tests"],
-    "a": 2
+    "a": 2,
+    "explanation": "CCE aims to evaluate both scholastic (academic) and co-scholastic (life skills, values, attitudes) domains of a student's growth."
   },
   {
     "q": "A child who struggles with reading and decoding words likely has:",
     "options": ["Dysgraphia", "Dyscalculia", "Dyslexia", "ADHD"],
-    "a": 2
+    "a": 2,
+    "explanation": "Dyslexia is a specific learning disability that affects reading, spelling, and language processing."
   },
   {
     "q": "The concept of 'Scaffolding' in teaching is most closely associated with:",
     "options": ["B.F. Skinner", "Jean Piaget", "Lev Vygotsky", "Lawrence Kohlberg"],
-    "a": 2
+    "a": 2,
+    "explanation": "Vygotsky's scaffolding refers to the temporary support provided by a 'More Knowledgeable Other' to help a student reach a higher level of understanding."
   },
   {
     "q": "Which domain of Bloom's Taxonomy deals with physical skills and coordination?",
     "options": ["Cognitive domain", "Affective domain", "Psychomotor domain", "Reflective domain"],
-    "a": 2
+    "a": 2,
+    "explanation": "The psychomotor domain involves manual or physical skills, such as coordination, dexterity, and movement."
   },
   {
     "q": "Growth is a quantitative process, whereas Development is a:",
     "options": ["Qualitative process", "Physical process", "Static process", "Temporary process"],
-    "a": 0
+    "a": 0,
+    "explanation": "While growth is measurable (height, weight), development involves overall qualitative changes in functioning and behavior."
   },
   {
-    "q": "हिंदी भाषा शिक्षण में 'निदानात्मक परीक्षण' का मुख्य उद्देश्य क्या है?",
-    "options": ["छात्रों को अंक देना", "कमियों के कारणों को जानना", "अगली कक्षा में भेजना", "कठिन शब्दों को लिखवाना"],
-    "a": 1
+    "q": "In Hindi teaching, what is the main objective of a 'Diagnostic Test'?",
+    "options": ["To give marks", "To know the reasons for learning gaps", "To promote to the next class", "To make students write hard words"],
+    "a": 1,
+    "explanation": "Diagnostic tests are used to identify the specific nature of a student's learning difficulties and their underlying causes."
   },
   {
-    "q": "इनमें से कौन सा शब्द 'बादल' का पर्यायवाची नहीं है?",
-    "options": ["जलद", "नीरज", "वारिद", "पयोधर"],
-    "a": 1
+    "q": "Which of the following is NOT a synonym for 'Cloud' in Hindi (Badal)?",
+    "options": ["Jalad", "Neeraj", "Varid", "Payodhar"],
+    "a": 1,
+    "explanation": "'Neeraj' means Lotus (born in water), while the others are synonyms for cloud."
   },
   {
-    "q": "'शुद्ध' वर्तनी वाले शब्द का चयन कीजिए:",
-    "options": ["अतिश्योक्ति", "अतिशयोक्ति", "अतिश्योक्ती", "अतिशयोक्ती"],
-    "a": 1
+    "q": "Select the word with correct Hindi spelling for 'Exaggeration':",
+    "options": ["Atishyokti", "Atishayokti", "Atishyookti", "Atishayookti"],
+    "a": 1,
+    "explanation": "The correct Hindi spelling is 'अतिशयोक्ति' (Atishayokti)."
   },
   {
-    "q": "जो शब्द संज्ञा के स्थान पर प्रयुक्त होते हैं, उन्हें क्या कहते हैं?",
-    "options": ["विशेषण", "क्रिया", "सर्वनाम", "अव्यय"],
-    "a": 2
+    "q": "Words used in place of nouns are called:",
+    "options": ["Adjectives", "Verbs", "Pronouns", "Adverbs"],
+    "a": 2,
+    "explanation": "Pronouns (Sarvanam) are words like 'he', 'she', or 'it' used to avoid repeating nouns."
   },
   {
-    "q": "'हिमालय से गंगा निकलती है' - इस वाक्य में कौन सा कारक है?",
-    "options": ["करण कारक", "अपादान कारक", "संप्रदान कारक", "अधिकरण कारक"],
-    "a": 1
+    "q": "Identify the case in: 'Ganga flows from the Himalayas'.",
+    "options": ["Instrumental", "Ablative", "Dative", "Locative"],
+    "a": 1,
+    "explanation": "In Hindi (Apadan Karak), the 'se' vibhakti used for separation indicates the Ablative case."
   },
   {
-    "q": "'प्रत्युत्पन्नमति' शब्द में कौन सा उपसर्ग है?",
-    "options": ["प्र", "प्रति", "प्रत्यु", "प्रत"],
-    "a": 1
+    "q": "Which prefix is used in the word 'Pratyutpannamati'?",
+    "options": ["Pra", "Prati", "Pratyu", "Prat"],
+    "a": 1,
+    "explanation": "Prati + Utpanna + Mati. The prefix is 'Prati'."
   },
   {
-    "q": "भाषा कौशल का सही क्रम क्या है?",
-    "options": ["सुनना, बोलना, पढ़ना, लिखना", "बोलना, सुनना, पढ़ना, लिखना", "लिखना, पढ़ना, सुनना, बोलना", "सुनना, पढ़ना, बोलना, लिखना"],
-    "a": 0
+    "q": "What is the correct psychological sequence of language skills?",
+    "options": ["Listening, Speaking, Reading, Writing", "Speaking, Listening, Reading, Writing", "Writing, Reading, Listening, Speaking", "Listening, Reading, Speaking, Writing"],
+    "a": 0,
+    "explanation": "The natural sequence of language acquisition is LSRW: Listening, Speaking, Reading, and Writing."
   },
   {
-    "q": "Choose the synonym for the word 'Diligent'.",
+    "q": "Choose the synonym for 'Diligent':",
     "options": ["Lazy", "Hardworking", "Careless", "Wealthy"],
-    "a": 1
+    "a": 1,
+    "explanation": "Diligent means showing steady and earnest care and effort; it is synonymous with hardworking."
   },
   {
-    "q": "Select the correct passive voice for: 'The teacher corrected the mistakes.'",
+    "q": "Correct passive voice for: 'The teacher corrected the mistakes.'",
     "options": ["The mistakes are corrected by the teacher.", "The mistakes were corrected by the teacher.", "The teacher was corrected by the mistakes.", "The mistakes corrected by the teacher."],
-    "a": 1
+    "a": 1,
+    "explanation": "For Simple Past, the passive structure is 'Subject + were + V3'. Hence, 'The mistakes were corrected'."
   },
   {
-    "q": "Which of the following is an example of an 'Interrogative Pronoun'?",
+    "q": "Identify the 'Interrogative Pronoun' among the following:",
     "options": ["He", "Each", "Who", "Them"],
-    "a": 2
+    "a": 2,
+    "explanation": "'Who' is used as a pronoun to ask a question about a person."
   },
   {
     "q": "Choose the correct article: 'He is ________ honest man.'",
     "options": ["a", "an", "the", "No article"],
-    "a": 1
+    "a": 1,
+    "explanation": "'Honest' begins with a silent 'h', producing a vowel sound ('ah'), so 'an' is required."
   },
   {
-    "q": "Identify the 'Adjective' in the sentence: 'The blue umbrella belongs to me.'",
+    "q": "Identify the 'Adjective' in: 'The blue umbrella belongs to me.'",
     "options": ["Umbrella", "Belongs", "Me", "Blue"],
-    "a": 3
+    "a": 3,
+    "explanation": "Adjectives modify nouns; 'blue' describes the noun 'umbrella'."
   },
   {
-    "q": "Which of these is NOT a principle of Language Teaching?",
-    "options": ["Principle of Motivation", "Principle of Habit Formation", "Principle of Rote Memorization", "Principle of Oral Approach"],
-    "a": 2
+    "q": "Which of these is NOT a healthy principle of language teaching?",
+    "options": ["Motivation", "Habit formation", "Rote memorization", "Oral approach"],
+    "a": 2,
+    "explanation": "Modern pedagogy discourages rote learning, emphasizing understanding and natural usage instead."
   },
   {
     "q": "Find the error: 'Each of the students (A) have (B) submitted (C) the assignment (D).'",
     "options": ["Each of the students", "have", "submitted", "the assignment"],
-    "a": 1
+    "a": 1,
+    "explanation": "'Each' is a singular distributor and must take the singular verb 'has'."
   },
   {
-    "q": "The value of 256 raised to the power 0.16 multiplied by 256 raised to the power 0.09 is:",
+    "q": "The value of 256^0.16 x 256^0.09 is:",
     "options": ["4", "16", "64", "256"],
-    "a": 0
+    "a": 0,
+    "explanation": "Add exponents: 256^(0.16+0.09) = 256^0.25 = 256^(1/4). The 4th root of 256 is 4."
   },
   {
-    "q": "If the cost price of 10 articles is equal to the selling price of 8 articles, the gain percent is:",
+    "q": "If CP of 10 articles = SP of 8 articles, the gain percentage is:",
     "options": ["15%", "20%", "25%", "30%"],
-    "a": 2
+    "a": 2,
+    "explanation": "Profit = (10-8)/8 * 100 = 2/8 * 100 = 25%."
   },
   {
     "q": "The sum of all internal angles of a regular hexagon is:",
     "options": ["360 degrees", "540 degrees", "720 degrees", "1080 degrees"],
-    "a": 2
+    "a": 2,
+    "explanation": "Sum of angles = (n-2) * 180. For a hexagon (n=6), (6-2)*180 = 4*180 = 720."
   },
   {
-    "q": "Which of the following numbers is a perfect square as well as a perfect cube?",
+    "q": "Which number is both a perfect square and a perfect cube?",
     "options": ["36", "64", "81", "125"],
-    "a": 1
+    "a": 1,
+    "explanation": "64 = 8^2 (square) and 64 = 4^3 (cube)."
   },
   {
-    "q": "The probability of getting a prime number when a fair die is thrown once is:",
+    "q": "Probability of getting a prime number when a die is thrown once:",
     "options": ["1/6", "1/3", "1/2", "2/3"],
-    "a": 2
+    "a": 2,
+    "explanation": "Prime numbers on a die: {2, 3, 5} (Total 3). Total outcomes: 6. Probability = 3/6 = 1/2."
   },
   {
-    "q": "A can do a piece of work in 10 days and B can do it in 15 days. How many days will they take to finish it together?",
+    "q": "A can do work in 10 days, B in 15 days. Together they take:",
     "options": ["5 days", "6 days", "8 days", "12 days"],
-    "a": 1
+    "a": 1,
+    "explanation": "Combined rate = 1/10 + 1/15 = (3+2)/30 = 5/30 = 1/6. Days taken = 6."
   },
   {
-    "q": "Find the value of x if 3(x - 3) = 5(2x + 1):",
+    "q": "Solve for x: 3(x - 3) = 5(2x + 1):",
     "options": ["-2", "-3", "2", "3"],
-    "a": 0
+    "a": 0,
+    "explanation": "3x - 9 = 10x + 5 -> -7x = 14 -> x = -2."
   },
   {
-    "q": "The ratio of the areas of two squares, one having its diagonal double that of the other, is:",
+    "q": "Ratio of areas of two squares if one diagonal is double the other:",
     "options": ["2:1", "3:1", "4:1", "8:1"],
-    "a": 2
+    "a": 2,
+    "explanation": "Area is proportional to the square of the diagonal. (2)^2 : (1)^2 = 4:1."
   },
   {
-    "q": "Which of the following is a non-metal that remains liquid at room temperature?",
+    "q": "Which non-metal is liquid at room temperature?",
     "options": ["Mercury", "Bromine", "Chlorine", "Helium"],
-    "a": 1
+    "a": 1,
+    "explanation": "Bromine is the only non-metallic element that is liquid at standard room temperature."
   },
   {
     "q": "The image formed by a plane mirror is always:",
     "options": ["Virtual and erect", "Real and inverted", "Virtual and inverted", "Real and erect"],
-    "a": 0
+    "a": 0,
+    "explanation": "Plane mirrors always produce virtual, upright images that are the same size as the object."
   },
   {
-    "q": "The process of conversion of sugar into alcohol by yeast is called:",
+    "q": "Sugar conversion into alcohol by yeast is called:",
     "options": ["Nitrogen fixation", "Molding", "Fermentation", "Infection"],
-    "a": 2
+    "a": 2,
+    "explanation": "Fermentation is the biological process where yeast converts sugars into cellular energy, producing ethanol and CO2."
   },
   {
-    "q": "Which cell organelle is known as the 'Powerhouse of the cell'?",
+    "q": "Which cell organelle is the 'Powerhouse of the cell'?",
     "options": ["Nucleus", "Ribosome", "Mitochondria", "Golgi apparatus"],
-    "a": 2
+    "a": 2,
+    "explanation": "Mitochondria generate most of the cell's supply of adenosine triphosphate (ATP), used as chemical energy."
   },
   {
     "q": "Sound can travel through:",
     "options": ["Solids only", "Liquids only", "Gases only", "Solids, liquids, and gases"],
-    "a": 3
+    "a": 3,
+    "explanation": "Sound is a mechanical wave that requires a medium (solid, liquid, or gas) to propagate."
   },
   {
-    "q": "The deficiency of Vitamin C in the human diet causes a disease known as:",
+    "q": "Deficiency of Vitamin C causes:",
     "options": ["Beri-beri", "Scurvy", "Rickets", "Night blindness"],
-    "a": 1
+    "a": 1,
+    "explanation": "Scurvy results from a lack of vitamin C, leading to bleeding gums, weakness, and skin spots."
   },
   {
     "q": "Which of the following is a chemical change?",
-    "options": ["Melting of ice", "Cutting of wood", "Rusting of iron", "Dissolving salt in water"],
-    "a": 2
+    "options": ["Melting of ice", "Cutting of wood", "Rusting of iron", "Dissolving salt"],
+    "a": 2,
+    "explanation": "Rusting is a chemical reaction (oxidation) that forms a new substance (Iron Oxide)."
   }
 ]
