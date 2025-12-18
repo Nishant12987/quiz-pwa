@@ -73,16 +73,39 @@ function startFlow() {
     localStorage.setItem("user_access", JSON.stringify(access));
   }
 
+  /* ===== PURCHASE MESSAGE (FINAL FIX) ===== */
   if (!access.paid && access.testsDone >= 1) {
-    alert("Free test over. Purchase required for this selection.");
-    window.open("https://razorpay.me/@prepone", "_blank");
+    let msg = "";
+
+    if (access.language === "hindi") {
+      msg =
+        "आपका फ्री मॉक टेस्ट पूरा हो चुका है।\n\n" +
+        "पूरा टेस्ट पैक खरीदें:\n" +
+        "• ₹149 में 40 फुल मॉक टेस्ट\n" +
+        "• प्रति टेस्ट मात्र ₹3.7\n\n" +
+        "परीक्षा जैसी तैयारी के लिए अभी खरीदें।";
+    } else {
+      msg =
+        "Your free mock test is completed.\n\n" +
+        "Purchase the full test pack:\n" +
+        "• ₹149 for 40 full mock tests\n" +
+        "• Just ₹3.7 per test\n\n" +
+        "Buy now to continue exam-level preparation.";
+    }
+
+    const proceed = confirm(msg);
+
+    if (proceed) {
+      window.open("https://razorpay.me/@prepone", "_blank");
+    }
+
     return;
   }
 
   loadMock();
 }
 
-/* ================= LOAD MOCK (FIXED) ================= */
+/* ================= LOAD MOCK ================= */
 async function loadMock() {
   const access = JSON.parse(localStorage.getItem("user_access"));
   const mockNo = access.testsDone + 1;
@@ -159,7 +182,7 @@ function prevQ() {
   }
 }
 
-/* ================= FINISH (WARNINGS INCLUDED) ================= */
+/* ================= FINISH ================= */
 function finishQuiz() {
   const unattempted = answers.filter(a => a === null).length;
 
@@ -203,7 +226,7 @@ function finishQuiz() {
       : "Don’t give up. Improvement will come.";
 }
 
-/* ================= TIMER (5-MIN WARNING) ================= */
+/* ================= TIMER ================= */
 function startTimer() {
   updateTime();
   timer = setInterval(() => {
