@@ -105,7 +105,7 @@ function showPurchasePrompt(access) {
   }
 
   alert(msg);
-  window.open("https://razorpay.me/@prepone", "_blank");
+  window.open("https://rzp.io/rzp/RVonbpx", "_blank");
 }
 
 /* ================= START FLOW ================= */
