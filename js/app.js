@@ -70,10 +70,15 @@ function saveName() {
   showDashboard();
 }
 
-/* ================= DASHBOARD ================= */
-function showDashboard() {
+/* ================= DASHBOARD (FIXED) ================= */
+async function showDashboard() {
   hideAll();
   show("dashboard");
+
+  // ✅ WAIT for Firestore sync
+  if (typeof syncUserFromFirestore === "function") {
+    await syncUserFromFirestore();
+  }
 
   const access = JSON.parse(localStorage.getItem("user_access"));
   const name = localStorage.getItem("user_name");
@@ -82,18 +87,14 @@ function showDashboard() {
   quoteBox.innerText = getQuote();
 
   // Ask exam selection ONLY ONCE
-  if (access.level) {
-    selectionBox.style.display = "none";
-  } else {
-    selectionBox.style.display = "block";
-  }
+  selectionBox.style.display = access.level ? "none" : "block";
 
   level.onchange = () => {
     stream.style.display = level.value === "level2" ? "block" : "none";
   };
 }
 
-/* ================= PAYMENT PROMPT (RESTORED CLEANLY) ================= */
+/* ================= PAYMENT PROMPT (UNCHANGED) ================= */
 function showPaymentPrompt(access) {
   let msg = "";
 
@@ -251,7 +252,7 @@ function finishQuiz() {
       : `💪 Don’t give up, ${name}! Improvement will come.`;
 }
 
-/* ================= HISTORY (LOCKED) ================= */
+/* ================= HISTORY ================= */
 function showHistory() {
   const access = JSON.parse(localStorage.getItem("user_access"));
 
