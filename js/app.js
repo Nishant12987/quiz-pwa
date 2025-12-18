@@ -81,14 +81,14 @@ function startFlow() {
       msg =
         "आपका फ्री मॉक टेस्ट पूरा हो चुका है।\n\n" +
         "पूरा टेस्ट पैक खरीदें:\n" +
-        "• ₹149 में 40 फुल मॉक टेस्ट\n" +
+        "• ₹149 में 40 मॉक टेस्ट\n" +
         "• प्रति टेस्ट मात्र ₹3.7\n\n" +
         "परीक्षा जैसी तैयारी के लिए अभी खरीदें।";
     } else {
       msg =
         "Your free mock test is completed.\n\n" +
-        "Purchase the full test pack:\n" +
-        "• ₹149 for 40 full mock tests\n" +
+        "Purchase the test pack:\n" +
+        "• ₹149 for 40 mock tests\n" +
         "• Just ₹3.7 per test\n\n" +
         "Buy now to continue exam-level preparation.";
     }
