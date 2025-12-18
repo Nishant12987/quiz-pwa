@@ -8,7 +8,7 @@ let fiveMinWarned = false;
 /* ================= LOGIN ================= */
 function login() {
   if (!agree.checked) return alert("Accept policies");
-  const email = emailInput.value.trim();
+  const email = document.getElementById("email").value.trim();
   if (!email) return alert("Enter email");
 
   localStorage.setItem("user_email", email);
@@ -144,12 +144,23 @@ function finishQuiz() {
   finalScore.innerText = `Score: ${score}`;
 }
 
-/* ================= HISTORY ================= */
+/* ================= HISTORY (LOCKED) ================= */
 function showHistory() {
+  const access = JSON.parse(localStorage.getItem("user_access"));
+
+  // 🔒 LOCK HISTORY FOR FREE USERS
+  if (!access.paid) {
+    alert(
+      access.language === "hindi"
+        ? "टेस्ट हिस्ट्री देखने के लिए पूरा पैक खरीदें।"
+        : "Please purchase the full test pack to view test history."
+    );
+    return;
+  }
+
   hideAll();
   show("history");
 
-  const access = JSON.parse(localStorage.getItem("user_access"));
   historyTable.innerHTML =
     "<tr><th>Test</th><th>Score</th></tr>" +
     access.scores
