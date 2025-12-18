@@ -23,9 +23,20 @@
     <button class="primary" onclick="login()">Continue</button>
   </div>
 
+  <!-- NAME SETUP (ONE TIME) -->
+  <div id="nameSetup" class="card" style="display:none">
+    <h3>👋 Welcome!</h3>
+    <p>What should we call you?</p>
+    <input id="userNameInput" placeholder="Enter your name">
+    <button class="primary" onclick="saveName()">Continue</button>
+  </div>
+
   <!-- DASHBOARD -->
   <div id="dashboard" class="card" style="display:none">
     <h3 id="welcome"></h3>
+
+    <!-- MOTIVATION -->
+    <div class="goal-box" id="quoteBox"></div>
 
     <div id="selectionBox">
       <select id="level">
@@ -49,17 +60,8 @@
 
     <p id="limit"></p>
 
-    <button class="primary" onclick="startFlow()">Start Test</button>
-
-    <!-- ✅ ENTER CODE BUTTON (HIDDEN BY DEFAULT) -->
-    <button
-      id="enterCodeBtn"
-      onclick="enterUnlockCode()"
-      class="secondary"
-      style="display:none; margin-top:12px;"
-    >
-      Already Paid? Enter Code
-    </button>
+    <button class="primary" onclick="startFlow()">🚀 Start Test</button>
+    <button class="secondary" onclick="showHistory()">📊 Test History</button>
   </div>
 
   <!-- QUIZ -->
@@ -68,6 +70,7 @@
       <span id="qCounter"></span>
       <span id="time"></span>
     </div>
+
     <h3 id="question"></h3>
     <div id="options"></div>
 
@@ -80,8 +83,16 @@
 
   <!-- RESULT -->
   <div id="result" class="card" style="display:none">
-    <h3 id="resultTitle"></h3>
+    <h3 id="resultTitle">Result</h3>
     <p id="finalScore"></p>
+    <p id="finalMsg"></p>
+    <button class="primary" onclick="showDashboard()">Back</button>
+  </div>
+
+  <!-- HISTORY -->
+  <div id="history" class="card" style="display:none">
+    <h3>📘 Test History</h3>
+    <table id="historyTable"></table>
     <button class="primary" onclick="showDashboard()">Back</button>
   </div>
 
