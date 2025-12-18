@@ -1,3 +1,4 @@
+/* ================= BASE ================= */
 body {
   margin: 0;
   font-family: Arial, sans-serif;
@@ -46,26 +47,77 @@ button {
 
 /* ================= OPTIONS ================= */
 #options {
-  margin-bottom: 90px; /* ⬅️ prevents overlap with nav */
+  margin-bottom: 90px; /* prevents overlap with nav */
 }
 
 #options button {
   background: #f1f5ff;
-  border: none;
+  border: 1px solid #c7d2fe;
   margin-bottom: 10px;
   text-align: left;
-  pointer-events: auto;
+  cursor: pointer;
   position: relative;
   z-index: 5;
 }
 
-/* ================= NAVIGATION FIX ================= */
+/* Selected option – VERY IMPORTANT */
+#options button.selected {
+  background: #2563eb !important;
+  color: white !important;
+  font-weight: bold;
+}
+
+/* ================= NAVIGATION ================= */
 .nav {
-  position: sticky;     /* ⬅️ keeps buttons visible */
+  position: sticky;
   bottom: 0;
   background: white;
   padding-top: 10px;
-  z-index: 50;          /* ⬅️ always above options */
+  z-index: 50; /* always above options */
 }
 
-/* ================= SELECTED OPTION =*
+.nav button {
+  margin-bottom: 6px;
+}
+
+/* ================= TABLE ================= */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+td,
+th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+/* ================= TEXT HELPERS ================= */
+.center {
+  text-align: center;
+}
+
+/* ================= DASHBOARD BOXES ================= */
+.goal-box {
+  background: #f8fafc;
+  border-left: 4px solid #2563eb;
+  padding: 12px;
+  margin: 12px 0;
+  border-radius: 8px;
+  font-size: 14px;
+}
+
+/* ================= SMALL POLISH ================= */
+input,
+select {
+  width: 100%;
+  padding: 12px;
+  margin-top: 10px;
+  font-size: 15px;
+}
+
+.checkbox {
+  margin-top: 10px;
+  font-size: 14px;
+}
