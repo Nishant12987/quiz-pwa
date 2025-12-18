@@ -5,9 +5,38 @@ let timer;
 let timeLeft = 2400;
 let fiveMinWarned = false;
 
+/* ================= MOTIVATIONAL QUOTES ================= */
+const quotes = [
+  "🔥 Consistency beats talent every single time.",
+  "🎯 One test today is one step closer to success.",
+  "💪 Don’t stop now. You’re building momentum.",
+  "📘 Practice like it’s the real exam.",
+  "🏆 Discipline today, results tomorrow.",
+  "🚀 Small efforts daily create big results.",
+  "🧠 Accuracy improves with calm practice.",
+  "⏳ Give your best for the next 40 minutes.",
+  "🌟 You are closer than you think."
+];
+
+function getQuote() {
+  const now = Date.now();
+  const saved = JSON.parse(localStorage.getItem("daily_quote") || "{}");
+
+  if (!saved.time || now - saved.time > 4 * 60 * 60 * 1000) {
+    const q = quotes[Math.floor(Math.random() * quotes.length)];
+    localStorage.setItem(
+      "daily_quote",
+      JSON.stringify({ text: q, time: now })
+    );
+    return q;
+  }
+  return saved.text;
+}
+
 /* ================= LOGIN ================= */
 function login() {
   if (!agree.checked) return alert("Accept policies");
+
   const email = document.getElementById("email").value.trim();
   if (!email) return alert("Enter email");
 
@@ -26,6 +55,21 @@ function login() {
       })
     );
   }
+
+  if (!localStorage.getItem("user_name")) {
+    hideAll();
+    show("nameSetup");
+  } else {
+    showDashboard();
+  }
+}
+
+/* ================= SAVE NAME (ONE TIME) ================= */
+function saveName() {
+  const name = document.getElementById("userNameInput").value.trim();
+  if (!name) return alert("Please enter your name");
+
+  localStorage.setItem("user_name", name);
   showDashboard();
 }
 
@@ -34,8 +78,10 @@ function showDashboard() {
   hideAll();
   show("dashboard");
 
-  const access = JSON.parse(localStorage.getItem("user_access"));
-  welcome.innerText = "Welcome " + localStorage.getItem("user_email");
+  const name = localStorage.getItem("user_name");
+  welcome.innerText = "👋 Welcome, " + name;
+
+  document.getElementById("quoteBox").innerText = getQuote();
 
   level.onchange = () => {
     stream.style.display = level.value === "level2" ? "block" : "none";
@@ -47,8 +93,11 @@ function startFlow() {
   const access = JSON.parse(localStorage.getItem("user_access"));
 
   if (!access.level) {
-    if (!level.value || !language.value) return alert("Select all options");
-    if (level.value === "level2" && !stream.value) return alert("Select stream");
+    if (!level.value || !language.value)
+      return alert("Select all options");
+
+    if (level.value === "level2" && !stream.value)
+      return alert("Select stream");
 
     access.level = level.value;
     access.stream = level.value === "level2" ? stream.value : "";
@@ -133,6 +182,7 @@ function finishQuiz() {
   });
 
   const score = (correct - wrong / 3).toFixed(2);
+  const name = localStorage.getItem("user_name");
 
   const access = JSON.parse(localStorage.getItem("user_access"));
   access.testsDone++;
@@ -141,20 +191,23 @@ function finishQuiz() {
 
   hideAll();
   show("result");
-  finalScore.innerText = `Score: ${score}`;
+
+  finalScore.innerText = `Score: ${score}/40`;
+
+  finalMsg.innerText =
+    score >= 30
+      ? `🏆 Excellent, ${name}! You are exam ready.`
+      : score >= 20
+      ? `👍 Good effort, ${name}! Keep practicing.`
+      : `💪 Don’t give up, ${name}! Improvement will come.`;
 }
 
 /* ================= HISTORY (LOCKED) ================= */
 function showHistory() {
   const access = JSON.parse(localStorage.getItem("user_access"));
 
-  // 🔒 LOCK HISTORY FOR FREE USERS
   if (!access.paid) {
-    alert(
-      access.language === "hindi"
-        ? "टेस्ट हिस्ट्री देखने के लिए पूरा पैक खरीदें।"
-        : "Please purchase the full test pack to view test history."
-    );
+    alert("🔒 Please purchase full access to view test history.");
     return;
   }
 
@@ -187,9 +240,9 @@ function updateTime() {
 
 /* ================= HELPERS ================= */
 function hideAll() {
-  ["login", "dashboard", "quiz", "result", "history"].forEach(id => {
-    document.getElementById(id).style.display = "none";
-  });
+  ["login", "nameSetup", "dashboard", "quiz", "result", "history"].forEach(
+    id => (document.getElementById(id).style.display = "none")
+  );
 }
 
 function show(id) {
@@ -197,4 +250,11 @@ function show(id) {
 }
 
 /* ================= AUTO LOGIN ================= */
-if (localStorage.getItem("user_email")) showDashboard();
+if (localStorage.getItem("user_email")) {
+  if (!localStorage.getItem("user_name")) {
+    show("nameSetup");
+  } else {
+    showDashboard();
+  }
+}
+
