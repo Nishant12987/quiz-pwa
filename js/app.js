@@ -140,10 +140,10 @@ function showPurchasePrompt(access) {
 
   let msg =
     access.language === "hindi"
-      ? "पूरा टेस्ट पैक खरीदें:\n\n• ₹149 में 40 मॉक टेस्ट\n\nभुगतान के बाद आपके टेस्ट 2 घंटे के अंदर अनलॉक कर दिए जाएंगे।\n\nआपका अनलॉक कोड:\n" +
+      ? "पूरा टेस्ट पैक खरीदें:\n\n• ₹149 में 20 मॉक टेस्ट\n\nभुगतान के बाद आपके टेस्ट 2 घंटे के अंदर अनलॉक कर दिए जाएंगे।\n\nआपका अनलॉक कोड:\n" +
         code +
         "\n\nभुगतान के बाद यह कोड ईमेल करें:\nprepone.exam@gmail.com"
-      : "Purchase the test pack:\n\n• ₹149 for 40 mock tests\n\nYour tests will be unlocked within 2 hours.\n\nYour unlock code:\n" +
+      : "Purchase the test pack:\n\n• ₹149 for 20 mock tests\n\nYour tests will be unlocked within 2 hours.\n\nYour unlock code:\n" +
         code +
         "\n\nAfter payment, email this code to:\nprepone.exam@gmail.com";
 
