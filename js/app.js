@@ -56,6 +56,44 @@ function showDashboard() {
   };
 }
 
+/* ================= ENTER UNLOCK CODE (NEW) ================= */
+function enterUnlockCode() {
+  const access = JSON.parse(localStorage.getItem("user_access"));
+
+  if (!access.unlockCode) {
+    return alert(
+      access.language === "hindi"
+        ? "पहले खरीद प्रक्रिया शुरू करें, फिर अनलॉक कोड डालें।"
+        : "Please initiate purchase first to get an unlock code."
+    );
+  }
+
+  const entered = prompt(
+    access.language === "hindi"
+      ? "भुगतान के बाद मिला अनलॉक कोड डालें:"
+      : "Enter the unlock code you received after payment:"
+  );
+
+  if (!entered) return;
+
+  if (entered.trim() === access.unlockCode) {
+    access.paid = true;
+    localStorage.setItem("user_access", JSON.stringify(access));
+    alert(
+      access.language === "hindi"
+        ? "✅ भुगतान सत्यापित। आपका एक्सेस अनलॉक कर दिया गया है।"
+        : "✅ Payment verified. Full access unlocked."
+    );
+    showDashboard();
+  } else {
+    alert(
+      access.language === "hindi"
+        ? "❌ गलत अनलॉक कोड। कृपया सही कोड डालें।"
+        : "❌ Invalid unlock code. Please check and try again."
+    );
+  }
+}
+
 /* ================= UNLOCK CODE GENERATOR ================= */
 function generateUnlockCode() {
   return (
@@ -83,11 +121,8 @@ function showPurchasePrompt(access) {
       "आपका अनलॉक कोड:\n" +
       code +
       "\n\n" +
-      "कृपया भुगतान के बाद यह अनलॉक कोड इस ईमेल पर भेजें:\n" +
-      "prepone.exam@gmail.com\n\n" +
-      "ईमेल में यह जानकारी जरूर लिखें:\n" +
-      "• आपका रजिस्टर्ड ईमेल ID\n" +
-      "• अनलॉक कोड";
+      "भुगतान के बाद यह कोड ईमेल करें:\n" +
+      "prepone.exam@gmail.com";
   } else {
     msg =
       "Purchase the test pack:\n\n" +
@@ -97,11 +132,8 @@ function showPurchasePrompt(access) {
       "Your unlock code:\n" +
       code +
       "\n\n" +
-      "After payment, please email this unlock code to:\n" +
-      "prepone.exam@gmail.com\n\n" +
-      "Please mention in the email:\n" +
-      "• Your registered email ID\n" +
-      "• The unlock code";
+      "After payment, email this code to:\n" +
+      "prepone.exam@gmail.com";
   }
 
   alert(msg);
@@ -210,7 +242,7 @@ function finishQuiz() {
   finalScore.innerText = `Score: ${score}/40`;
 }
 
-/* ================= HISTORY / VIEW ANSWERS ================= */
+/* ================= HISTORY ================= */
 function viewHistory() {
   const access = JSON.parse(localStorage.getItem("user_access"));
 
