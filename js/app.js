@@ -63,7 +63,7 @@ function login() {
 
 /* ================= SAVE NAME (ONCE) ================= */
 function saveName() {
-  const name = userNameInput.value.trim();
+  const name = document.getElementById("userNameInput").value.trim();
   if (!name) return alert("Enter your name");
 
   localStorage.setItem("user_name", name);
@@ -81,7 +81,7 @@ function showDashboard() {
   welcome.innerText = "👋 Welcome, " + name;
   quoteBox.innerText = getQuote();
 
-  // 🔒 Hide selection forever after first choice
+  // Ask exam selection ONLY ONCE
   if (access.level) {
     selectionBox.style.display = "none";
   } else {
@@ -93,10 +93,24 @@ function showDashboard() {
   };
 }
 
+/* ================= PAYMENT PROMPT ================= */
+function showPaymentPrompt(access) {
+  const msg =
+    access.language === "hindi"
+      ? "🔒 आपका फ्री मॉक टेस्ट पूरा हो चुका है।\n\n₹149 में 20 मॉक टेस्ट अनलॉक करें।\n\nभुगतान करने के लिए OK दबाएं।"
+      : "🔒 Your free mock test is over.\n\nUnlock 20 mock tests for ₹149.\n\nPress OK to proceed to payment.";
+
+  const go = confirm(msg);
+  if (go) {
+    window.open("https://rzp.io/rzp/RVonbpx", "_blank");
+  }
+}
+
 /* ================= START FLOW ================= */
 function startFlow() {
   const access = JSON.parse(localStorage.getItem("user_access"));
 
+  // Save exam selection ONCE
   if (!access.level) {
     if (!level.value || !language.value)
       return alert("Select all options");
@@ -109,6 +123,12 @@ function startFlow() {
     access.language = language.value;
 
     localStorage.setItem("user_access", JSON.stringify(access));
+  }
+
+  // 🔒 PAYMENT GATE (FINAL FIX)
+  if (!access.paid && access.testsDone >= 1) {
+    showPaymentPrompt(access);
+    return;
   }
 
   loadMock();
@@ -130,6 +150,7 @@ async function loadMock() {
 
   try {
     const res = await fetch(path);
+    if (!res.ok) throw new Error();
     questions = await res.json();
   } catch {
     alert("No more mocks available");
@@ -213,8 +234,9 @@ function finishQuiz() {
 /* ================= HISTORY (LOCKED) ================= */
 function showHistory() {
   const access = JSON.parse(localStorage.getItem("user_access"));
+
   if (!access.paid) {
-    alert("🔒 Please purchase full access to view test history.");
+    showPaymentPrompt(access);
     return;
   }
 
