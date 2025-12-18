@@ -33,7 +33,7 @@ function getQuote() {
 function login() {
   if (!agree.checked) return alert("Accept policies");
 
-  const email = emailInput.value.trim();
+  const email = document.getElementById("email").value.trim();
   if (!email) return alert("Enter email");
 
   localStorage.setItem("user_email", email);
