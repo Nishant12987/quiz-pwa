@@ -23,7 +23,8 @@ function login() {
         language: "",
         paid: false,
         testsDone: 0,
-        unlockCode: ""
+        unlockCode: "",
+        paymentInitiatedAt: null
       })
     );
   }
@@ -54,13 +55,25 @@ function showDashboard() {
   level.onchange = () => {
     stream.style.display = level.value === "level2" ? "block" : "none";
   };
+
+  /* ==== SHOW / HIDE ENTER CODE BUTTON AFTER 30 MIN ==== */
+  const enterBtn = document.getElementById("enterCodeBtn");
+
+  if (
+    access.paymentInitiatedAt &&
+    !access.paid &&
+    Date.now() - access.paymentInitiatedAt >= 30 * 60 * 1000
+  ) {
+    enterBtn.style.display = "block";
+  } else {
+    enterBtn.style.display = "none";
+  }
 }
 
-/* ================= ENTER UNLOCK CODE (REPLACED) ================= */
+/* ================= ENTER UNLOCK CODE ================= */
 function enterUnlockCode() {
   const access = JSON.parse(localStorage.getItem("user_access"));
 
-  // Already unlocked
   if (access.paid) {
     return alert(
       access.language === "hindi"
@@ -69,7 +82,6 @@ function enterUnlockCode() {
     );
   }
 
-  // Purchase not initiated
   if (!access.unlockCode) {
     return alert(
       access.language === "hindi"
@@ -86,11 +98,8 @@ function enterUnlockCode() {
 
   if (!entered) return;
 
-  // Correct code
   if (entered.trim() === access.unlockCode) {
     access.paid = true;
-
-    // 🔒 Disable reuse permanently
     access.unlockCode = "USED";
 
     localStorage.setItem("user_access", JSON.stringify(access));
@@ -125,33 +134,18 @@ function generateUnlockCode() {
 function showPurchasePrompt(access) {
   const code = generateUnlockCode();
   access.unlockCode = code;
+  access.paymentInitiatedAt = Date.now(); // ⏱️ start 30 min timer
+
   localStorage.setItem("user_access", JSON.stringify(access));
 
-  let msg = "";
-
-  if (access.language === "hindi") {
-    msg =
-      "पूरा टेस्ट पैक खरीदें:\n\n" +
-      "• ₹149 में 40 मॉक टेस्ट\n" +
-      "• प्रति टेस्ट मात्र ₹3.7\n\n" +
-      "भुगतान के बाद आपके टेस्ट 2 घंटे के अंदर अनलॉक कर दिए जाएंगे।\n\n" +
-      "आपका अनलॉक कोड:\n" +
-      code +
-      "\n\n" +
-      "भुगतान के बाद यह कोड ईमेल करें:\n" +
-      "prepone.exam@gmail.com";
-  } else {
-    msg =
-      "Purchase the test pack:\n\n" +
-      "• ₹149 for 40 mock tests\n" +
-      "• Just ₹3.7 per test\n\n" +
-      "Your tests will be unlocked within 2 hours after payment verification.\n\n" +
-      "Your unlock code:\n" +
-      code +
-      "\n\n" +
-      "After payment, email this code to:\n" +
-      "prepone.exam@gmail.com";
-  }
+  let msg =
+    access.language === "hindi"
+      ? "पूरा टेस्ट पैक खरीदें:\n\n• ₹149 में 40 मॉक टेस्ट\n\nभुगतान के बाद आपके टेस्ट 2 घंटे के अंदर अनलॉक कर दिए जाएंगे।\n\nआपका अनलॉक कोड:\n" +
+        code +
+        "\n\nभुगतान के बाद यह कोड ईमेल करें:\nprepone.exam@gmail.com"
+      : "Purchase the test pack:\n\n• ₹149 for 40 mock tests\n\nYour tests will be unlocked within 2 hours.\n\nYour unlock code:\n" +
+        code +
+        "\n\nAfter payment, email this code to:\nprepone.exam@gmail.com";
 
   alert(msg);
   window.open("https://rzp.io/rzp/RVonbpx", "_blank");
@@ -238,7 +232,6 @@ function render() {
 /* ================= FINISH ================= */
 function finishQuiz() {
   clearInterval(timer);
-
   let correct = 0,
     wrong = 0;
 
@@ -255,20 +248,7 @@ function finishQuiz() {
 
   hideAll();
   show("result");
-
   finalScore.innerText = `Score: ${score}/40`;
-}
-
-/* ================= HISTORY ================= */
-function viewHistory() {
-  const access = JSON.parse(localStorage.getItem("user_access"));
-
-  if (!access.paid && access.testsDone >= 1) {
-    showPurchasePrompt(access);
-    return;
-  }
-
-  alert("History / answer explanations will appear here.");
 }
 
 /* ================= TIMER ================= */
@@ -280,7 +260,7 @@ function startTimer() {
 
     if (timeLeft === 300 && !fiveMinWarned) {
       fiveMinWarned = true;
-      alert("⚠️ Only 5 minutes left. Please review your answers.");
+      alert("⚠️ Only 5 minutes left.");
     }
 
     if (timeLeft <= 0) finishQuiz();
