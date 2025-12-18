@@ -1,6 +1,6 @@
 {
   "id": "/quiz-pwa/",
-  "name": "PrepOne – REET Exam Preparation",
+  "name": "PrepOne",
   "short_name": "PrepOne",
   "description": "PrepOne is a REET exam preparation app with full-length mock tests, timer-based practice, and exam-like experience for REET Level 1 and Level 2.",
   "start_url": "/quiz-pwa/",
