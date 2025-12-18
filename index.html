@@ -50,6 +50,16 @@
     <p id="limit"></p>
 
     <button class="primary" onclick="startFlow()">Start Test</button>
+
+    <!-- ✅ ENTER CODE BUTTON (HIDDEN BY DEFAULT) -->
+    <button
+      id="enterCodeBtn"
+      onclick="enterUnlockCode()"
+      class="secondary"
+      style="display:none; margin-top:12px;"
+    >
+      Already Paid? Enter Code
+    </button>
   </div>
 
   <!-- QUIZ -->
@@ -72,7 +82,6 @@
   <div id="result" class="card" style="display:none">
     <h3 id="resultTitle"></h3>
     <p id="finalScore"></p>
-    <p id="finalMsg"></p>
     <button class="primary" onclick="showDashboard()">Back</button>
   </div>
 
