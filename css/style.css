@@ -1,4 +1,3 @@
-/* ================= BASE ================= */
 body {
   margin: 0;
   font-family: Arial, sans-serif;
@@ -11,7 +10,6 @@ body {
   padding: 20px;
 }
 
-/* ================= CARDS ================= */
 .card {
   background: white;
   padding: 20px;
@@ -19,13 +17,15 @@ body {
   border-radius: 12px;
 }
 
-/* ================= BUTTONS ================= */
+.center {
+  text-align: center;
+}
+
 button {
   width: 100%;
   padding: 12px;
   margin-top: 10px;
   font-size: 16px;
-  cursor: pointer;
 }
 
 .primary {
@@ -45,79 +45,31 @@ button {
   border: none;
 }
 
-/* ================= OPTIONS ================= */
-#options {
-  margin-bottom: 90px; /* prevents overlap with nav */
-}
-
 #options button {
   background: #f1f5ff;
-  border: 1px solid #c7d2fe;
+  border: none;
   margin-bottom: 10px;
   text-align: left;
-  cursor: pointer;
-  position: relative;
-  z-index: 5;
 }
 
-/* Selected option – VERY IMPORTANT */
-#options button.selected {
+.selected {
   background: #2563eb !important;
-  color: white !important;
-  font-weight: bold;
+  color: white;
 }
 
-/* ================= NAVIGATION ================= */
-.nav {
-  position: sticky;
-  bottom: 0;
-  background: white;
-  padding-top: 10px;
-  z-index: 50; /* always above options */
+.topbar {
+  display: flex;
+  justify-content: space-between;
 }
 
-.nav button {
-  margin-bottom: 6px;
-}
-
-/* ================= TABLE ================= */
 table {
   width: 100%;
   border-collapse: collapse;
 }
 
-td,
-th {
+td, th {
   border: 1px solid #ddd;
   padding: 8px;
   text-align: center;
 }
 
-/* ================= TEXT HELPERS ================= */
-.center {
-  text-align: center;
-}
-
-/* ================= DASHBOARD BOXES ================= */
-.goal-box {
-  background: #f8fafc;
-  border-left: 4px solid #2563eb;
-  padding: 12px;
-  margin: 12px 0;
-  border-radius: 8px;
-  font-size: 14px;
-}
-
-/* ================= SMALL POLISH ================= */
-input,
-select {
-  width: 100%;
-  padding: 12px;
-  margin-top: 10px;
-  font-size: 15px;
-}
-
-.checkbox {
-  margin-top: 10px;
-  font-size: 14px;
-}
