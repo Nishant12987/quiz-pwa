@@ -56,10 +56,20 @@ function showDashboard() {
   };
 }
 
-/* ================= ENTER UNLOCK CODE (NEW) ================= */
+/* ================= ENTER UNLOCK CODE (REPLACED) ================= */
 function enterUnlockCode() {
   const access = JSON.parse(localStorage.getItem("user_access"));
 
+  // Already unlocked
+  if (access.paid) {
+    return alert(
+      access.language === "hindi"
+        ? "आपका अकाउंट पहले से अनलॉक है।"
+        : "Your account is already unlocked."
+    );
+  }
+
+  // Purchase not initiated
   if (!access.unlockCode) {
     return alert(
       access.language === "hindi"
@@ -76,20 +86,27 @@ function enterUnlockCode() {
 
   if (!entered) return;
 
+  // Correct code
   if (entered.trim() === access.unlockCode) {
     access.paid = true;
+
+    // 🔒 Disable reuse permanently
+    access.unlockCode = "USED";
+
     localStorage.setItem("user_access", JSON.stringify(access));
+
     alert(
       access.language === "hindi"
         ? "✅ भुगतान सत्यापित। आपका एक्सेस अनलॉक कर दिया गया है।"
         : "✅ Payment verified. Full access unlocked."
     );
+
     showDashboard();
   } else {
     alert(
       access.language === "hindi"
-        ? "❌ गलत अनलॉक कोड। कृपया सही कोड डालें।"
-        : "❌ Invalid unlock code. Please check and try again."
+        ? "❌ गलत या पहले से उपयोग किया गया अनलॉक कोड।"
+        : "❌ Invalid or already used unlock code."
     );
   }
 }
