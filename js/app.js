@@ -93,15 +93,36 @@ function showDashboard() {
   };
 }
 
-/* ================= PAYMENT PROMPT ================= */
+/* ================= PAYMENT PROMPT (RESTORED CLEANLY) ================= */
 function showPaymentPrompt(access) {
-  const msg =
-    access.language === "hindi"
-      ? "🔒 आपका फ्री मॉक टेस्ट पूरा हो चुका है।\n\n₹149 में 20 मॉक टेस्ट अनलॉक करें।\n\nभुगतान करने के लिए OK दबाएं।"
-      : "🔒 Your free mock test is over.\n\nUnlock 20 mock tests for ₹149.\n\nPress OK to proceed to payment.";
+  let msg = "";
 
-  const go = confirm(msg);
-  if (go) {
+  if (access.language === "hindi") {
+    msg =
+      "🔒 आपका फ्री मॉक टेस्ट पूरा हो चुका है।\n\n" +
+      "पूरा टेस्ट पैक खरीदें:\n" +
+      "• ₹149 में 20 मॉक टेस्ट\n" +
+      "• सिलेबस आधारित परीक्षा स्तर के प्रश्न\n\n" +
+      "भुगतान के बाद:\n" +
+      "1. भुगतान का स्क्रीनशॉट लें\n" +
+      "2. ईमेल करें: prepone.exam@gmail.com\n" +
+      "3. अपना रजिस्टर्ड ईमेल ID लिखें\n\n" +
+      "2 घंटे के अंदर आपका एक्सेस अनलॉक कर दिया जाएगा।";
+  } else {
+    msg =
+      "🔒 Your free mock test is completed.\n\n" +
+      "Purchase the full test pack:\n" +
+      "• ₹149 for 20 mock tests\n" +
+      "• Exam-level questions based on syllabus\n\n" +
+      "After completing payment:\n" +
+      "1. Take a screenshot of the payment\n" +
+      "2. Email us at: prepone.exam@gmail.com\n" +
+      "3. Mention your registered email ID\n\n" +
+      "Your tests will be unlocked within 2 hours after verification.";
+  }
+
+  const proceed = confirm(msg);
+  if (proceed) {
     window.open("https://rzp.io/rzp/RVonbpx", "_blank");
   }
 }
@@ -110,7 +131,6 @@ function showPaymentPrompt(access) {
 function startFlow() {
   const access = JSON.parse(localStorage.getItem("user_access"));
 
-  // Save exam selection ONCE
   if (!access.level) {
     if (!level.value || !language.value)
       return alert("Select all options");
@@ -125,7 +145,7 @@ function startFlow() {
     localStorage.setItem("user_access", JSON.stringify(access));
   }
 
-  // 🔒 PAYMENT GATE (FINAL FIX)
+  // 🔒 PAYMENT GATE
   if (!access.paid && access.testsDone >= 1) {
     showPaymentPrompt(access);
     return;
