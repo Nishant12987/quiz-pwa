@@ -3,7 +3,6 @@ let answers = [];
 let index = 0;
 let timer;
 let timeLeft = 2400;
-let fiveMinWarned = false;
 
 /* ================= MOTIVATIONAL QUOTES ================= */
 const quotes = [
@@ -24,10 +23,7 @@ function getQuote() {
 
   if (!saved.time || now - saved.time > 4 * 60 * 60 * 1000) {
     const q = quotes[Math.floor(Math.random() * quotes.length)];
-    localStorage.setItem(
-      "daily_quote",
-      JSON.stringify({ text: q, time: now })
-    );
+    localStorage.setItem("daily_quote", JSON.stringify({ text: q, time: now }));
     return q;
   }
   return saved.text;
@@ -37,7 +33,7 @@ function getQuote() {
 function login() {
   if (!agree.checked) return alert("Accept policies");
 
-  const email = document.getElementById("email").value.trim();
+  const email = emailInput.value.trim();
   if (!email) return alert("Enter email");
 
   localStorage.setItem("user_email", email);
@@ -56,18 +52,19 @@ function login() {
     );
   }
 
+  hideAll();
+
   if (!localStorage.getItem("user_name")) {
-    hideAll();
     show("nameSetup");
   } else {
     showDashboard();
   }
 }
 
-/* ================= SAVE NAME (ONE TIME) ================= */
+/* ================= SAVE NAME (ONCE) ================= */
 function saveName() {
-  const name = document.getElementById("userNameInput").value.trim();
-  if (!name) return alert("Please enter your name");
+  const name = userNameInput.value.trim();
+  if (!name) return alert("Enter your name");
 
   localStorage.setItem("user_name", name);
   showDashboard();
@@ -78,10 +75,18 @@ function showDashboard() {
   hideAll();
   show("dashboard");
 
+  const access = JSON.parse(localStorage.getItem("user_access"));
   const name = localStorage.getItem("user_name");
-  welcome.innerText = "👋 Welcome, " + name;
 
-  document.getElementById("quoteBox").innerText = getQuote();
+  welcome.innerText = "👋 Welcome, " + name;
+  quoteBox.innerText = getQuote();
+
+  // 🔒 Hide selection forever after first choice
+  if (access.level) {
+    selectionBox.style.display = "none";
+  } else {
+    selectionBox.style.display = "block";
+  }
 
   level.onchange = () => {
     stream.style.display = level.value === "level2" ? "block" : "none";
@@ -102,6 +107,7 @@ function startFlow() {
     access.level = level.value;
     access.stream = level.value === "level2" ? stream.value : "";
     access.language = language.value;
+
     localStorage.setItem("user_access", JSON.stringify(access));
   }
 
@@ -113,7 +119,7 @@ async function loadMock() {
   const access = JSON.parse(localStorage.getItem("user_access"));
   const mockNo = access.testsDone + 1;
 
-  let folder =
+  const folder =
     access.level === "level1"
       ? "level1"
       : access.stream === "social"
@@ -148,14 +154,17 @@ function render() {
   options.innerHTML = "";
 
   questions[index].options.forEach((opt, i) => {
-    const b = document.createElement("button");
-    b.innerText = opt;
-    if (answers[index] === i) b.classList.add("selected");
-    b.onclick = () => {
+    const btn = document.createElement("button");
+    btn.innerText = opt;
+
+    if (answers[index] === i) btn.classList.add("selected");
+
+    btn.onclick = () => {
       answers[index] = i;
       render();
     };
-    options.appendChild(b);
+
+    options.appendChild(btn);
   });
 }
 
@@ -193,7 +202,6 @@ function finishQuiz() {
   show("result");
 
   finalScore.innerText = `Score: ${score}/40`;
-
   finalMsg.innerText =
     score >= 30
       ? `🏆 Excellent, ${name}! You are exam ready.`
@@ -205,7 +213,6 @@ function finishQuiz() {
 /* ================= HISTORY (LOCKED) ================= */
 function showHistory() {
   const access = JSON.parse(localStorage.getItem("user_access"));
-
   if (!access.paid) {
     alert("🔒 Please purchase full access to view test history.");
     return;
@@ -251,10 +258,10 @@ function show(id) {
 
 /* ================= AUTO LOGIN ================= */
 if (localStorage.getItem("user_email")) {
+  hideAll();
   if (!localStorage.getItem("user_name")) {
     show("nameSetup");
   } else {
     showDashboard();
   }
 }
-
