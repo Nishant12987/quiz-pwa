@@ -10,6 +10,7 @@ body {
   padding: 20px;
 }
 
+/* ================= CARDS ================= */
 .card {
   background: white;
   padding: 20px;
@@ -17,11 +18,13 @@ body {
   border-radius: 12px;
 }
 
+/* ================= BUTTONS ================= */
 button {
   width: 100%;
   padding: 12px;
   margin-top: 10px;
   font-size: 16px;
+  cursor: pointer;
 }
 
 .primary {
@@ -41,6 +44,11 @@ button {
   border: none;
 }
 
+/* ================= OPTIONS ================= */
+#options {
+  margin-bottom: 90px; /* ⬅️ prevents overlap with nav */
+}
+
 #options button {
   background: #f1f5ff;
   border: none;
@@ -51,24 +59,13 @@ button {
   z-index: 5;
 }
 
+/* ================= NAVIGATION FIX ================= */
 .nav {
-  position: relative;
-  z-index: 10;
+  position: sticky;     /* ⬅️ keeps buttons visible */
+  bottom: 0;
+  background: white;
+  padding-top: 10px;
+  z-index: 50;          /* ⬅️ always above options */
 }
 
-.selected {
-  background: #2563eb !important;
-  color: white;
-}
-
-table {
-  width: 100%;
-  border-collapse: collapse;
-}
-
-td,
-th {
-  border: 1px solid #ddd;
-  padding: 8px;
-  text-align: center;
-}
+/* ================= SELECTED OPTION =*
