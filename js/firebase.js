@@ -12,8 +12,19 @@ const firebaseConfig = {
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
 
-// Firestore database reference
+// Firestore
 const db = firebase.firestore();
+
+// Analytics (DAU, sessions)
+const analytics = firebase.analytics();
+
+/* ================= ANALYTICS EVENTS ================= */
+
+// Fired once per app open (DAU)
+analytics.logEvent("app_open");
+
+// Fired per session
+analytics.logEvent("session_start");
 
 /* ================= FIRESTORE → APP SYNC ================= */
 async function syncUserFromFirestore() {
@@ -27,18 +38,17 @@ async function syncUserFromFirestore() {
     const cloud = doc.data();
     const access = JSON.parse(localStorage.getItem("user_access"));
 
-    // 🔐 Paid status comes from Firestore
     if (typeof cloud.paid === "boolean") {
       access.paid = cloud.paid;
     }
 
-    // ✅ Never reduce testsDone
     if (typeof cloud.testsDone === "number") {
       access.testsDone = Math.max(access.testsDone, cloud.testsDone);
     }
 
     localStorage.setItem("user_access", JSON.stringify(access));
-  } catch (error) {
-    console.error("❌ Firestore sync failed:", error);
+  } catch (e) {
+    console.error("Firestore sync failed:", e);
   }
 }
+
