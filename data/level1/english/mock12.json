@@ -1,242 +1,242 @@
 [
   {
-    "q": "Which of the following is NOT a stage of creative thinking?",
-    "options": ["Preparation", "Incubation", "Verification", "Rote repetition"],
-    "a": 3,
-    "explanation": "Creative stages include preparation, incubation, illumination, and verification; rote repetition is mechanical and non-creative."
-  },
-  {
-    "q": "The term 'Cephalocaudal' development means growth from:",
-    "options": ["Center to periphery", "Head to toe", "Toe to head", "Specific to general"],
+    "q": "Which of the following is a 'Social Learning' theory proponent who emphasized 'Observation and Imitation'?",
+    "options": ["B.F. Skinner", "Albert Bandura", "Ivan Pavlov", "Edward Thorndike"],
     "a": 1,
-    "explanation": "Growth proceeds from the head downward to the feet (Cephalo = Head, Caudal = Tail/Foot)."
+    "explanation": "Albert Bandura's Social Learning Theory posits that people learn from one another via observation, imitation, and modeling."
   },
   {
-    "q": "In Pavlov’s classical conditioning, the 'Bell' before conditioning is a:",
-    "options": ["Unconditioned Stimulus", "Conditioned Response", "Neutral Stimulus", "Unconditioned Response"],
-    "a": 2,
-    "explanation": "Before conditioning, the bell does not elicit the reflex and is considered a neutral stimulus."
-  },
-  {
-    "q": "Which teaching style is most effective for fostering 'Critical Thinking'?",
-    "options": ["Autocratic", "Laissez-faire", "Democratic", "Permissive"],
-    "a": 2,
-    "explanation": "A democratic teaching style encourages participation, discussion, and independent thinking."
-  },
-  {
-    "q": "The process of adjusting existing schemas to fit new information is called:",
-    "options": ["Assimilation", "Accommodation", "Equilibration", "Organization"],
-    "a": 1,
-    "explanation": "Accommodation involves modifying internal mental structures to account for new data."
-  },
-  {
-    "q": "What is the primary goal of 'Action Research' in education?",
-    "options": ["To develop new theories", "To solve immediate classroom problems", "To compare school systems", "To conduct national surveys"],
-    "a": 1,
-    "explanation": "Action research is conducted by practitioners to solve immediate classroom problems."
-  },
-  {
-    "q": "According to Kohlberg, 'Social Contract Orientation' belongs to which level?",
-    "options": ["Pre-conventional", "Conventional", "Post-conventional", "Non-conventional"],
-    "a": 2,
-    "explanation": "Social contract orientation is a stage within the post-conventional level of moral development."
-  },
-  {
-    "q": "A student with 'Dysgraphia' faces difficulty in:",
-    "options": ["Reading", "Writing", "Mathematical calculation", "Listening"],
-    "a": 1,
-    "explanation": "Dysgraphia is a specific learning disability that affects writing abilities."
-  },
-  {
-    "q": "Which of these is a 'Nature' factor in development?",
-    "options": ["Schooling", "Peer group", "Genetic makeup", "Nutritional intake"],
-    "a": 2,
-    "explanation": "Nature refers to biological and genetic influences that are inherited."
-  },
-  {
-    "q": "In 'Project Method' of teaching, the role of the teacher is that of a:",
-    "options": ["Director", "Dictator", "Guide and Facilitator", "Passive Spectator"],
-    "a": 2,
-    "explanation": "In the project method, the teacher supports students as they explore projects rather than just lecturing."
-  },
-  {
-    "q": "What is 'Metacognition'?",
-    "options": ["Learning by rote", "Thinking about one's own thinking", "Social interaction", "Physical growth"],
-    "a": 1,
-    "explanation": "Metacognition is the awareness and understanding of one's own thought processes."
-  },
-  {
-    "q": "'पवन' का सही संधि-विच्छेद है:",
-    "options": ["प + वन", "पा + वन", "पो + अन", "पौ + अन"],
-    "a": 2,
-    "explanation": "यह अयादि संधि का उदाहरण है, जहाँ 'पो + अन' मिलकर 'पवन' बनता है."
-  },
-  {
-    "q": "'लम्बोदर' में कौन सा समास है?",
-    "options": ["कर्मधारय", "बहुव्रीहि", "द्वंद्व", "तत्पुरुष"],
-    "a": 1,
-    "explanation": "जहाँ दोनों पद मिलकर किसी तीसरे (गणेश जी) की ओर संकेत करें, वहाँ बहुव्रीहि समास होता है."
-  },
-  {
-    "q": "'आँखें दिखाना' मुहावरे का अर्थ है:",
-    "options": ["स्वागत करना", "गुस्सा करना", "निरीक्षण करना", "सावधान करना"],
-    "a": 1,
-    "explanation": "आँखें दिखाना मुहावरे का अर्थ किसी पर क्रोधित होना या डराना होता है."
-  },
-  {
-    "q": "'लेखक' शब्द में कौन सा प्रत्यय है?",
-    "options": ["क", "इक", "अक", "आक"],
-    "a": 2,
-    "explanation": "लिख् (धातु) + अक (प्रत्यय) = लेखक."
-  },
-  {
-    "q": "'तरणि' (छोटी इ) शब्द का अर्थ है:",
-    "options": ["सूर्य", "नाव", "युवती", "नदी"],
+    "q": "The concept of 'Object Permanence' usually develops during which Piagetian stage?",
+    "options": ["Sensory-motor", "Pre-operational", "Concrete operational", "Formal operational"],
     "a": 0,
-    "explanation": "'तरणि' का अर्थ सूर्य होता है (तरणी का अर्थ नाव होता है)."
+    "explanation": "Object permanence is the understanding that objects continue to exist even when they cannot be perceived, typically mastered by age 2."
   },
   {
-    "q": "जो 'सब कुछ जानता हो' - वाक्यांश के लिए एक शब्द है:",
-    "options": ["अल्पज्ञ", "बहुज्ञ", "सर्वज्ञ", "अभिज्ञ"],
+    "q": "Which of the following describes 'Convergent Thinking'?",
+    "options": ["Finding multiple solutions to a problem", "Finding the single correct answer to a problem", "Thinking in a circular pattern", "Avoiding logical reasoning"],
+    "a": 1,
+    "explanation": "Convergent thinking is the ability to give the 'correct' answer to standard questions that do not require significant creativity."
+  },
+  {
+    "q": "According to Erikson, the primary conflict during 'Early Childhood' (2-3 years) is:",
+    "options": ["Trust vs. Mistrust", "Autonomy vs. Shame and Doubt", "Initiative vs. Guilt", "Industry vs. Inferiority"],
+    "a": 1,
+    "explanation": "At this stage, children focus on developing a sense of personal control over physical skills and a sense of independence."
+  },
+  {
+    "q": "Which type of 'Curriculum' is also known as the 'Hidden Curriculum'?",
+    "options": ["Official curriculum", "Explicit curriculum", "Unwritten rules and values taught in school", "The extracurricular activities"],
     "a": 2,
-    "explanation": "सर्वज्ञ का अर्थ है वह जो हर विषय की जानकारी रखता हो."
+    "explanation": "The hidden curriculum refers to the unwritten, unofficial, and often unintended lessons, values, and perspectives that students learn in school."
   },
   {
-    "q": "शिक्षण की 'आगमन विधि' (Inductive Method) चलती है:",
-    "options": ["नियम से उदाहरण की ओर", "उदाहरण से नियम की ओर", "सूक्ष्म से स्थूल की ओर", "अमूर्त से मूर्त की ओर"],
+    "q": "In the 'Trial and Error' theory, the 'Law of Effect' suggests that:",
+    "options": ["Practice makes perfect", "Pleasurable results lead to repeated behavior", "Learning happens through insight", "Ready to learn leads to success"],
     "a": 1,
-    "explanation": "आगमन विधि में पहले उदाहरण दिए जाते हैं, फिर नियम का सामान्यीकरण किया जाता है."
+    "explanation": "Thorndike's Law of Effect states that responses that produce a satisfying effect in a particular situation become more likely to occur again."
   },
   {
-    "q": "Choose the synonym for the word 'Diligent'.",
-    "options": ["Lazy", "Hardworking", "Careless", "Wealthy"],
+    "q": "Which psychologist is associated with the 'Triarchic Theory of Intelligence'?",
+    "options": ["Howard Gardner", "Robert Sternberg", "Charles Spearman", "Alfred Binet"],
     "a": 1,
-    "explanation": "Diligent means showing steady and earnest effort; hardworking."
+    "explanation": "Sternberg's theory proposes three types of intelligence: analytical, creative, and practical."
   },
   {
-    "q": "Select the correct passive voice for: 'The teacher corrected the mistakes.'",
-    "options": ["The mistakes are corrected by the teacher.", "The mistakes were corrected by the teacher.", "The teacher was corrected by the mistakes.", "The mistakes corrected by the teacher."],
-    "a": 1,
-    "explanation": "Simple Past (corrected) becomes 'were + past participle' in the passive voice."
-  },
-  {
-    "q": "Which of the following is an example of an 'Interrogative Pronoun'?",
-    "options": ["He", "Each", "Who", "Them"],
+    "q": "A child with 'Dyslexia' primarily has difficulty with:",
+    "options": ["Mathematical calculations", "Physical coordination", "Reading and spelling", "Socializing"],
     "a": 2,
-    "explanation": "'Who' is used to ask questions about people."
+    "explanation": "Dyslexia is a learning disorder that involves difficulty reading due to problems identifying speech sounds and learning how they relate to letters."
   },
   {
-    "q": "Choose the correct article: 'He is ________ honest man.'",
+    "q": "Inclusive education focuses on:",
+    "options": ["Special schools for special children", "Teaching children in their mother tongue only", "Providing equal opportunities to all learners in the same classroom", "Home-schooling"],
+    "a": 2,
+    "explanation": "Inclusion is an effort to make sure students with disabilities go to school with their friends and neighbors while also receiving the 'specially designed instruction'."
+  },
+  {
+    "q": "Which reinforcement schedule provides a reward after an 'unpredictable' number of responses?",
+    "options": ["Fixed-ratio", "Variable-ratio", "Fixed-interval", "Variable-interval"],
+    "a": 1,
+    "explanation": "Variable-ratio schedules occur when a response is reinforced after an unpredictable number of responses (e.g., gambling)."
+  },
+  {
+    "q": "According to Kohlberg, at the 'Conventional' level, morality is based on:",
+    "options": ["Fear of punishment", "Personal rewards", "Social rules and laws", "Individual conscience"],
+    "a": 2,
+    "explanation": "At the conventional level, people internalize the moral standards of adult role models and social rules."
+  },
+  {
+    "q": "'सूर्योदय' शब्द का सही संधि-विच्छेद क्या है?",
+    "options": ["सूर्यो + दय", "सूर्य + उदय", "सूरज + उदय", "सूर्या + उदय"],
+    "a": 1,
+    "explanation": "सूर्य + उदय = सूर्योदय। यहाँ 'अ + उ' मिलकर 'ओ' बन जाता है, जो गुण संधि का उदाहरण है।"
+  },
+  {
+    "q": "'रात-दिन' में कौन सा समास प्रयुक्त है?",
+    "options": ["तत्पुरुष", "द्विगु", "द्वंद्व", "बहुव्रीहि"],
+    "a": 2,
+    "explanation": "जहाँ दोनों पद प्रधान हों और उनके बीच 'और' का लोप हो, वहाँ द्वंद्व समास होता है।"
+  },
+  {
+    "q": "'अनुज' का सही विलोम शब्द है:",
+    "options": ["कनिष्ठ", "अग्रज", "वरिष्ठ", "बड़ा"],
+    "a": 1,
+    "explanation": "अनुज का अर्थ है छोटा भाई और अग्रज का अर्थ है बड़ा भाई।"
+  },
+  {
+    "q": "'हाथ मलना' मुहावरे का सही अर्थ है:",
+    "options": ["पछताना", "हाथ धोना", "मेहनत करना", "ठंड लगना"],
+    "a": 0,
+    "explanation": "'हाथ मलना' का अर्थ होता है अवसर निकल जाने पर पछतावा करना।"
+  },
+  {
+    "q": "शुद्ध वर्तनी वाले शब्द का चयन कीजिए:",
+    "options": ["उज्वल", "उज्जवल", "उज्ज्वल", "उजवल"],
+    "a": 2,
+    "explanation": "सही वर्तनी 'उज्ज्वल' है (दो आधे 'ज')।"
+  },
+  {
+    "q": "'कमल' का पर्यायवाची शब्द नहीं है:",
+    "options": ["जलज", "पंकज", "सरोज", "जलद"],
+    "a": 3,
+    "explanation": "जलद का अर्थ बादल होता है, जबकि अन्य तीनों कमल के पर्यायवाची हैं।"
+  },
+  {
+    "q": "संज्ञा के स्थान पर आने वाले शब्दों को क्या कहते हैं?",
+    "options": ["विशेषण", "क्रिया", "सर्वनाम", "अव्यय"],
+    "a": 2,
+    "explanation": "जैसे- वह, तुम, मैं आदि सर्वनाम कहलाते हैं।"
+  },
+  {
+    "q": "Identify the 'Proper Noun' in: 'New Delhi is a crowded city.'",
+    "options": ["New Delhi", "Crowded", "City", "Is"],
+    "a": 0,
+    "explanation": "New Delhi is a specific name of a place, hence it is a proper noun."
+  },
+  {
+    "q": "Choose the correct article: 'He is ________ M.A. in English.'",
     "options": ["a", "an", "the", "No article"],
     "a": 1,
-    "explanation": "'Honest' starts with a vowel sound (silent 'h'), so 'an' is required."
+    "explanation": "The abbreviation 'M.A.' starts with a vowel sound 'em', so we use 'an'."
   },
   {
-    "q": "Which of these is NOT a principle of Language Teaching?",
-    "options": ["Principle of Motivation", "Principle of Habit Formation", "Principle of Rote Memorization", "Principle of Oral Approach"],
+    "q": "What is the antonym of 'Modern'?",
+    "options": ["New", "Recent", "Ancient", "Fast"],
     "a": 2,
-    "explanation": "Rote memorization is an mechanical method, not a psychological principle of language learning."
+    "explanation": "Modern refers to present times; ancient refers to the distant past."
   },
   {
-    "q": "Choose the correctly punctuated sentence:",
-    "options": ["He said I am coming.", "He said, 'I am coming.'", "He said \"I am coming.\"", "He said, I am coming."],
+    "q": "Identify the 'Verb' in: 'The sun shines brightly.'",
+    "options": ["Sun", "Shines", "Brightly", "The"],
     "a": 1,
-    "explanation": "Direct speech requires a comma after the reporting verb and spoken words inside quotes."
+    "explanation": "'Shines' is the action being performed by the subject."
   },
   {
-    "q": "Identify the 'Subject' in the sentence: 'On the top of the hill lives a hermit.'",
-    "options": ["The hill", "The top", "A hermit", "Lives"],
-    "a": 2,
-    "explanation": "The subject is the person performing the action (living), which is 'a hermit'."
-  },
-  {
-    "q": "What is the value of 100 - 45 + 5?",
-    "options": ["50", "60", "70", "80"],
-    "a": 1,
-    "explanation": "Follow BODMAS (Addition before Subtraction): 100 + 5 = 105; 105 - 45 = 60."
-  },
-  {
-    "q": "How many millimeters are in 1 centimeter?",
-    "options": ["1", "10", "100", "1000"],
-    "a": 1,
-    "explanation": "The metric scale for length is based on tens; 10 mm = 1 cm."
-  },
-  {
-    "q": "The perimeter of a rectangle with length 5cm and width 3cm is:",
-    "options": ["8 cm", "15 cm", "16 cm", "20 cm"],
-    "a": 2,
-    "explanation": "Perimeter = 2 x (Length + Width) = 2 x (5 + 3) = 16 cm."
-  },
-  {
-    "q": "Which of the following is an even number?",
-    "options": ["21", "33", "42", "55"],
-    "a": 2,
-    "explanation": "An even number is divisible by 2; 42 ends in '2', making it even."
-  },
-  {
-    "q": "What is 1/2 of 50?",
-    "options": ["10", "20", "25", "30"],
-    "a": 2,
-    "explanation": "50 divided by 2 is 25."
-  },
-  {
-    "q": "A circle has how many sides?",
-    "options": ["1", "2", "4", "0"],
-    "a": 3,
-    "explanation": "A circle is a curved line with no straight lines (sides) or vertices."
-  },
-  {
-    "q": "The sum of 150 and 250 is:",
-    "options": ["300", "350", "400", "450"],
-    "a": 2,
-    "explanation": "150 + 250 = 400."
-  },
-  {
-    "q": "What is the value of 8 multiplied by 7?",
-    "options": ["48", "54", "56", "64"],
-    "a": 2,
-    "explanation": "8 x 7 = 56."
-  },
-  {
-    "q": "The house made of snow is called:",
-    "options": ["Tent", "Igloo", "Houseboat", "Caravan"],
-    "a": 1,
-    "explanation": "Igloos are built by Eskimos in polar regions using blocks of compressed snow."
-  },
-  {
-    "q": "Which part of the body helps us to taste food?",
-    "options": ["Teeth", "Lips", "Tongue", "Skin"],
-    "a": 2,
-    "explanation": "The tongue contains taste buds that detect flavors."
-  },
-  {
-    "q": "Which planet is the largest in our solar system?",
-    "options": ["Earth", "Mars", "Jupiter", "Venus"],
-    "a": 2,
-    "explanation": "Jupiter is the largest planet in our solar system."
-  },
-  {
-    "q": "The spinning movement of Earth on its axis is called:",
-    "options": ["Revolution", "Rotation", "Orbit", "Gravity"],
-    "a": 1,
-    "explanation": "Rotation causes day and night."
-  },
-  {
-    "q": "Which of the following is a source of protein?",
-    "options": ["Sugar", "Butter", "Pulses", "Potato"],
-    "a": 2,
-    "explanation": "Pulses (daals) are vital sources of plant-based protein."
-  },
-  {
-    "q": "Which gas is needed by humans to breathe?",
-    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"],
+    "q": "Which of these is a 'Silent Letter' in the word 'Write'?",
+    "options": ["w", "r", "i", "t"],
     "a": 0,
-    "explanation": "Humans inhale oxygen to facilitate cellular respiration."
+    "explanation": "In 'Write', the 'w' is not pronounced."
   },
   {
-    "q": "Rajasthan is known for which desert?",
-    "options": ["Sahara", "Gobi", "Thar", "Atacama"],
+    "q": "Choose the correctly spelled word:",
+    "options": ["Scedule", "Schedule", "Scheduale", "Skedule"],
+    "a": 1,
+    "explanation": "The standard English spelling is 'Schedule'."
+  },
+  {
+    "q": "A person who flies an aircraft is called a ________.",
+    "options": ["Driver", "Captain", "Pilot", "Engineer"],
     "a": 2,
-    "explanation": "The Thar Desert covers a significant portion of western Rajasthan."
+    "explanation": "A pilot is someone who operates the flying controls of an aircraft."
+  },
+  {
+    "q": "What is the place value of 0 in any number?",
+    "options": ["0", "1", "10", "Depend on its position"],
+    "a": 0,
+    "explanation": "The place value of zero is always zero, regardless of its position in the number."
+  },
+  {
+    "q": "How many degrees are in a 'Right Angle'?",
+    "options": ["45", "90", "180", "360"],
+    "a": 1,
+    "explanation": "A right angle is exactly 90 degrees."
+  },
+  {
+    "q": "Which of the following is a 'Leap Year'?",
+    "options": ["2018", "2019", "2020", "2021"],
+    "a": 2,
+    "explanation": "A year divisible by 4 (and not 100, unless divisible by 400) is a leap year."
+  },
+  {
+    "q": "Find the sum of the first four even numbers.",
+    "options": ["10", "12", "16", "20"],
+    "a": 3,
+    "explanation": "2 + 4 + 6 + 8 = 20."
+  },
+  {
+    "q": "What is the value of 1/2 + 1/4?",
+    "options": ["1/6", "2/6", "3/4", "1/4"],
+    "a": 2,
+    "explanation": "2/4 + 1/4 = 3/4."
+  },
+  {
+    "q": "If a rectangle has length 8 cm and width 4 cm, what is its perimeter?",
+    "options": ["12 cm", "24 cm", "32 cm", "16 cm"],
+    "a": 1,
+    "explanation": "Perimeter = 2 * (8 + 4) = 24 cm."
+  },
+  {
+    "q": "Which of these is a 'Polygon' with 5 sides?",
+    "options": ["Square", "Hexagon", "Pentagon", "Octagon"],
+    "a": 2,
+    "explanation": "A pentagon is a five-sided polygon."
+  },
+  {
+    "q": "How many minutes are in 2 hours and 15 minutes?",
+    "options": ["120", "130", "135", "145"],
+    "a": 2,
+    "explanation": "(2 * 60) + 15 = 135 minutes."
+  },
+  {
+    "q": "Simplify: 10 + 5 * 2 - 4",
+    "options": ["26", "16", "14", "10"],
+    "a": 1,
+    "explanation": "10 + (5 * 2) - 4 = 10 + 10 - 4 = 16."
+  },
+  {
+    "q": "What is 10% of 500?",
+    "options": ["5", "10", "50", "100"],
+    "a": 2,
+    "explanation": "(10/100) * 500 = 50."
+  },
+  {
+    "q": "Which part of our body pumps blood?",
+    "options": ["Lungs", "Brain", "Heart", "Liver"],
+    "a": 2,
+    "explanation": "The heart is a muscular organ that pumps blood through the circulatory system."
+  },
+  {
+    "q": "Plants make their food in the presence of sunlight using a green pigment called:",
+    "options": ["Chlorophyll", "Hemoglobin", "Xylem", "Phloem"],
+    "a": 0,
+    "explanation": "Chlorophyll is essential for photosynthesis."
+  },
+  {
+    "q": "Which of these is a 'Renewable' source of energy?",
+    "options": ["Coal", "Petroleum", "Wind", "Natural Gas"],
+    "a": 2,
+    "explanation": "Wind energy is inexhaustible and clean."
+  },
+  {
+    "q": "What is the 'National Animal' of India?",
+    "options": ["Lion", "Elephant", "Tiger", "Peacock"],
+    "a": 2,
+    "explanation": "The Royal Bengal Tiger is the national animal."
+  },
+  {
+    "q": "Which sense organ is used for 'Touch'?",
+    "options": ["Nose", "Tongue", "Skin", "Eyes"],
+    "a": 2,
+    "explanation": "The skin contains receptors for touch, pressure, and temperature."
   }
 ]
