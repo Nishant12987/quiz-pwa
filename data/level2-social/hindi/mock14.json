@@ -108,43 +108,43 @@
     "explanation": "पारायण विधि में पाठ को बार-बार दोहराकर कंठस्थ किया जाता है।"
   },
   {
-    "q": "वाक्य में विस्मयादिबोधक (Interjection) पहचानें: 'Alas! We lost the match.'",
+    "q": "Identify the 'Interjection' in the sentence: 'Alas! We lost the match.'",
     "options": ["Alas", "We", "Lost", "Match"],
     "a": 0,
-    "explanation": "विस्मयादिबोधक अचानक भावना व्यक्त करते हैं।"
+    "explanation": "Interjections express sudden bursts of emotion."
   },
   {
-    "q": "सही वर्तनी चुनें:",
+    "q": "Choose the correct spelling:",
     "options": ["Grammer", "Grammar", "Grammerr", "Grammarre"],
     "a": 1,
-    "explanation": "सही अंग्रेजी वर्तनी '-ar' पर समाप्त होती है।"
+    "explanation": "The correct spelling ends in '-ar'."
   },
   {
-    "q": "'Goose' का बहुवचन है:",
+    "q": "The plural of 'Goose' is:",
     "options": ["Gooses", "Goosess", "Geese", "Geeses"],
     "a": 2,
-    "explanation": "आंतरिक स्वर परिवर्तन के परिणामस्वरूप 'geese' बनता है।"
+    "explanation": "The internal vowel change results in 'geese'."
   },
   {
-    "q": "'Courageous' का पर्यायवाची क्या है?",
+    "q": "What is the synonym of 'Courageous'?",
     "options": ["Fearful", "Brave", "Timid", "Weak"],
     "a": 1,
-    "explanation": "Courageous और brave दोनों का अर्थ बिना डर के है।"
+    "explanation": "Courageous and brave both mean showing no fear."
   },
   {
-    "q": "वाक्य में 'Quickly' कौन सा शब्द भेद है: 'He runs quickly'?",
+    "q": "Which part of speech is 'Quickly' in 'He runs quickly'?",
     "options": ["Adjective", "Adverb", "Noun", "Verb"],
     "a": 1,
-    "explanation": "यह क्रिया 'runs' के ढंग का वर्णन करता है।"
+    "explanation": "It describes the manner of the verb 'runs'."
   },
   {
-    "q": "सही आर्टिकल चुनें: 'I have ________ umbrella.'",
+    "q": "Choose the correct article: 'I have ________ umbrella.'",
     "options": ["a", "an", "the", "No article"],
     "a": 1,
-    "explanation": "Umbrella स्वर ध्वनि 'u' से शुरू होता है, इसलिए 'an' का उपयोग होता है।"
+    "explanation": "Umbrella starts with a vowel sound 'u', so 'an' is used."
   },
   {
-    "q": "Passive Voice में बदलें: 'She writes a letter.'",
+    "q": "Change into passive voice: 'She writes a letter.'",
     "options": ["A letter is written by her.", "A letter was written by her.", "A letter is being written by her.", "She is writing a letter."],
     "a": 0,
     "explanation": "Simple present पैसिव में 'is/am/are + V3' में बदल जाता है।"
