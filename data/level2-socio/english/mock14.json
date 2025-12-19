@@ -1,0 +1,200 @@
+[
+  {
+    "q": "Which theory of development focuses on the 'Stages of Psychosocial Development'?",
+    "options": ["Jean Piaget", "Erik Erikson", "Sigmund Freud", "Lev Vygotsky"],
+    "a": 1,
+    "explanation": "Erikson proposed eight stages of development."
+  },
+  {
+    "q": "The 'Laws of Learning' (Readiness, Exercise, Effect) were developed by:",
+    "options": ["B.F. Skinner", "Ivan Pavlov", "E.L. Thorndike", "John Watson"],
+    "a": 2,
+    "explanation": "Thorndike's laws formed the basis of connectionism."
+  },
+  {
+    "q": "Which stage of Piaget's theory is marked by the 'Emergence of Logical Thought' about physical objects?",
+    "options": ["Sensory-motor", "Pre-operational", "Concrete operational", "Formal operational"],
+    "a": 2,
+    "explanation": "Logical thinking begins in the concrete operational stage."
+  },
+  {
+    "q": "What is the primary characteristic of an 'Inclusive' school?",
+    "options": ["Separating students by IQ", "Focusing on extra fees", "Accommodating all learners regardless of ability", "Exclusive focus on sports"],
+    "a": 2,
+    "explanation": "Inclusion means equal opportunities for all."
+  },
+  {
+    "q": "Which IQ range is considered 'Superior' in intelligence?",
+    "options": ["90-109", "110-119", "120-139", "70-79"],
+    "a": 2,
+    "explanation": "120-139 is classified as superior."
+  },
+  {
+    "q": "The 'Heuristic Method' of teaching was proposed by:",
+    "options": ["H.E. Armstrong", "John Dewey", "Froebel", "Maria Montessori"],
+    "a": 0,
+    "explanation": "It emphasizes learning through discovery."
+  },
+  {
+    "q": "Which of the following is a 'Socializing Agency' for a child?",
+    "options": ["Family", "School", "Media", "All of the above"],
+    "a": 3,
+    "explanation": "All these contribute to socialization."
+  },
+  {
+    "q": "'Learning by Insight' is most closely associated with:",
+    "options": ["Behaviorism", "Gestalt Psychology", "Constructivism", "Psychoanalysis"],
+    "a": 1,
+    "explanation": "Gestalt psychology emphasizes sudden perception of relations."
+  },
+  {
+    "q": "The 'Zone of Proximal Development' is the gap between:",
+    "options": ["Child's age and height", "What a child can do alone vs. with help", "Home and school environments", "Reading and writing skills"],
+    "a": 1,
+    "explanation": "Vygotsky defined ZPD as potential under guidance."
+  },
+  {
+    "q": "Which assessment is used to 'Screen' students for special programs?",
+    "options": ["Formative", "Placement", "Summative", "Diagnostic"],
+    "a": 1,
+    "explanation": "Placement assessment determines where a student belongs."
+  },
+  {
+    "q": "What is 'Metacognition'?",
+    "options": ["Fast learning", "Thinking about thinking", "Social skills", "Physical reflexes"],
+    "a": 1,
+    "explanation": "Awareness and regulation of own cognitive processes."
+  },
+  {
+    "q": "svaagat ka sahi sandhi-vichchhed hai:",
+    "options": ["svaa + gat", "su + aagat", "sv + aagat", "su + gat"],
+    "a": 1,
+    "explanation": "su + aagat = svaagat (yan sandhi)."
+  },
+  {
+    "q": "yathavidhi mein kaun sa samaas hai?",
+    "options": ["avyayibhaav", "tatpurush", "dvigu", "dvandv"],
+    "a": 0,
+    "explanation": "First word is an avyaya, so avyayibhaav."
+  },
+  {
+    "q": "mridul ka vilom shabd hai:",
+    "options": ["kathor", "mulaayam", "meetha", "taral"],
+    "a": 0,
+    "explanation": "Mridul (soft) opposite is Kathor (hard)."
+  },
+  {
+    "q": "haath paanv phoolana muhaavre ka arth hai:",
+    "options": ["beemaar hona", "ghabara jaana", "mehanat karana", "khush hona"],
+    "a": 1,
+    "explanation": "It means to be panicked or nervous."
+  },
+  {
+    "q": "shuddh vartanee vaale shabd ka chayan karen:",
+    "options": ["ujval", "ujjval", "ujjval", "oojjval"],
+    "a": 2,
+    "explanation": "Correct spelling is Ujjval."
+  },
+  {
+    "q": "sarasvatee ka paryayavaachi shabd nahin hai:",
+    "options": ["veenaapaani", "shaarada", "kamala", "vaani"],
+    "a": 2,
+    "explanation": "Kamala is synonym for Lakshmi."
+  },
+  {
+    "q": "bhaasha shikshan ki paraayan vidhi kisse sambandhit hai?",
+    "options": ["khel vidhi se", "ratane/punaraavritti se", "lekhan sudhaar se", "anuvaad se"],
+    "a": 1,
+    "explanation": "Parayan involves repetitive chanting/memorization."
+  },
+  {
+    "q": "If the simple interest on a sum is 1/9 of the principal and rate=time, the rate is:",
+    "options": ["3%", "3.33%", "10%", "9%"],
+    "a": 1,
+    "explanation": "P/9 = P*R^2/100 -> R^2 = 100/9 -> R = 10/3 = 3.33%."
+  },
+  {
+    "q": "The sum of interior angles of a pentagon is:",
+    "options": ["360", "540", "720", "180"],
+    "a": 1,
+    "explanation": "(5-2)*180 = 540."
+  },
+  {
+    "q": "The diagonals of which quadrilateral bisect each other at right angles?",
+    "options": ["Rectangle", "Parallelogram", "Rhombus", "Trapezium"],
+    "a": 2,
+    "explanation": "Property of Rhombus and Square."
+  },
+  {
+    "q": "The value of sqrt(176 + sqrt(2401)) is:",
+    "options": ["14", "15", "16", "25"],
+    "a": 1,
+    "explanation": "sqrt(2401)=49. sqrt(176+49)=sqrt(225)=15."
+  },
+  {
+    "q": "The probability of drawing a red king from a deck of cards is:",
+    "options": ["1/52", "1/26", "2/13", "1/13"],
+    "a": 1,
+    "explanation": "Two red kings (Heart and Diamond) out of 52. 2/52 = 1/26."
+  },
+  {
+    "q": "If 10 men can do a job in 20 days, 20 men can do it in:",
+    "options": ["10 days", "20 days", "40 days", "5 days"],
+    "a": 0,
+    "explanation": "M1D1 = M2D2. 10*20 = 20*x -> x = 10."
+  },
+  {
+    "q": "What is the value of (2^3)^2?",
+    "options": ["32", "64", "12", "16"],
+    "a": 1,
+    "explanation": "2^(3*2) = 2^6 = 64."
+  },
+  {
+    "q": "Which of the following is not a quadrilateral?",
+    "options": ["Rhombus", "Pentagon", "Trapezium", "Kite"],
+    "a": 1,
+    "explanation": "Pentagon has 5 sides."
+  },
+  {
+    "q": "Which acid is present in Tamarind?",
+    "options": ["Citric acid", "Oxalic acid", "Tartaric acid", "Acetic acid"],
+    "a": 2,
+    "explanation": "Tartaric acid gives the sour taste."
+  },
+  {
+    "q": "An object weight is 60N on Earth. Its weight on Moon will be:",
+    "options": ["60N", "360N", "10N", "6N"],
+    "a": 2,
+    "explanation": "Gravity is 1/6th on Moon."
+  },
+  {
+    "q": "Which part of the cell is called the 'Brain of the cell'?",
+    "options": ["Cytoplasm", "Nucleus", "Ribosome", "Mitochondria"],
+    "a": 1,
+    "explanation": "The nucleus controls all activities."
+  },
+  {
+    "q": "The SI unit of frequency is:",
+    "options": ["Joule", "Watt", "Hertz", "Newton"],
+    "a": 2,
+    "explanation": "Measured in cycles per second (Hz)."
+  },
+  {
+    "q": "Which gas is evolved when acid reacts with metal?",
+    "options": ["Oxygen", "Hydrogen", "Carbon dioxide", "Nitrogen"],
+    "a": 1,
+    "explanation": "Metal + Acid -> Salt + H2."
+  },
+  {
+    "q": "The property of metals by which they can be beaten into thin sheets is:",
+    "options": ["Ductility", "Malleability", "Sonorous", "Conductivity"],
+    "a": 1,
+    "explanation": "Malleability allows shaping into foils."
+  },
+  {
+    "q": "In which state of matter is the force of attraction strongest?",
+    "options": ["Solid", "Liquid", "Gas", "Plasma"],
+    "a": 0,
+    "explanation": "Particles are most closely packed in solids."
+  }
+]
