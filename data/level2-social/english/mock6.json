@@ -1,0 +1,242 @@
+[
+  {
+    "q": "Which of the following describes the 'Cephalocaudal' principle of development?",
+    "options": ["Development from center to extremities", "Development from head to toe", "Development from general to specific", "Development from concrete to abstract"],
+    "a": 1,
+    "explanation": "Cephalocaudal development follows a pattern starting from the head and moving down to the rest of the body."
+  },
+  {
+    "q": "According to Piaget, at which stage does a child develop 'Hypothetico-deductive reasoning'?",
+    "options": ["Sensory-motor", "Pre-operational", "Concrete operational", "Formal operational"],
+    "a": 3,
+    "explanation": "In the formal operational stage (11+ years), adolescents can think about abstract propositions and test hypotheses."
+  },
+  {
+    "q": "The 'Zone of Proximal Development' (ZPD) is a concept proposed by:",
+    "options": ["Jean Piaget", "Lev Vygotsky", "Jerome Bruner", "B.F. Skinner"],
+    "a": 1,
+    "explanation": "Vygotsky defined ZPD as the distance between what a learner can do without help and what they can do with support."
+  },
+  {
+    "q": "Which of the following is an 'Objective Type' test item?",
+    "options": ["Essay", "Short answer", "Multiple choice", "Oral presentation"],
+    "a": 2,
+    "explanation": "Multiple choice questions have one specific correct answer, reducing examiner bias."
+  },
+  {
+    "q": "What is the I.Q. of a child whose mental age is 12 and chronological age is 10?",
+    "options": ["100", "110", "120", "130"],
+    "a": 2,
+    "explanation": "IQ = (Mental Age / Chronological Age) x 100. So, (12/10) x 100 = 120."
+  },
+  {
+    "q": "In an inclusive classroom, a teacher should:",
+    "options": ["Focus only on gifted students", "Set the same standards for everyone", "Believe that every child has a potential to learn", "Ignore students with disabilities"],
+    "a": 2,
+    "explanation": "Inclusion involves accommodating diverse needs and believing in every child's capability."
+  },
+  {
+    "q": "'Learning disability' in motor skills is called:",
+    "options": ["Dyscalculia", "Dyslexia", "Dysphasia", "Dyspraxia"],
+    "a": 3,
+    "explanation": "Dyspraxia affects motor coordination and the ability to plan and process motor tasks."
+  },
+  {
+    "q": "Which of the following is a primary law of learning given by Thorndike?",
+    "options": ["Law of Multiple Response", "Law of Analogy", "Law of Readiness", "Law of Association"],
+    "a": 2,
+    "explanation": "Readiness, Exercise, and Effect are Thorndike's three primary laws of learning."
+  },
+  {
+    "q": "The concept of 'Discovery Learning' was given by:",
+    "options": ["David Ausubel", "Jerome Bruner", "Albert Bandura", "Robert Gagne"],
+    "a": 1,
+    "explanation": "Bruner advocated for students to interact with their environment to discover principles for themselves."
+  },
+  {
+    "q": "Which of the following is an example of 'Intrinsic Motivation'?",
+    "options": ["Studying to win a trophy", "Studying to avoid punishment", "Studying because the subject is interesting", "Studying to please parents"],
+    "a": 2,
+    "explanation": "Intrinsic motivation comes from internal satisfaction and personal interest."
+  },
+  {
+    "q": "What does 'CCE' stand for in the context of school education?",
+    "options": ["Continuous and Creative Evaluation", "Continuous and Comprehensive Evaluation", "Complete and Comprehensive Evaluation", "Continuous and Cognitive Evaluation"],
+    "a": 1,
+    "explanation": "CCE refers to a system of evaluation that covers all aspects of students' development."
+  },
+  {
+    "q": "'अत्यधिक' शब्द में कौन सी संधि है?",
+    "options": ["दीर्घ संधि", "गुण संधि", "वृद्धि संधि", "यण संधि"],
+    "a": 3,
+    "explanation": "अति + अधिक = अत्यधिक (इ + अ = य, यण संधि)।"
+  },
+  {
+    "q": "'त्रिलोचन' में कौन सा समास है?",
+    "options": ["अव्ययीभाव", "बहुव्रीहि", "द्विगु", "द्वंद्व"],
+    "a": 1,
+    "explanation": "तीन नेत्र हैं जिसके (शिव जी), तीसरा अर्थ प्रधान होने से बहुव्रीहि समास है।"
+  },
+  {
+    "q": "'अनुराग' का सही विलोम शब्द है:",
+    "options": ["विराग", "त्याग", "प्रेम", "घृणा"],
+    "a": 0,
+    "explanation": "अनुराग (प्रेम) का विलोम विराग (वैराग्य/अरुचि) होता है।"
+  },
+  {
+    "q": "'हाथ कंगन को आरसी क्या' लोकोक्ति का अर्थ है:",
+    "options": ["अहंकार करना", "प्रत्यक्ष को प्रमाण की आवश्यकता नहीं", "बहुत अमीर होना", "कठिन कार्य करना"],
+    "a": 1,
+    "explanation": "जो सामने दिख रहा हो, उसे साबित करने के लिए सबूत की जरूरत नहीं होती।"
+  },
+  {
+    "q": "निम्नलिखित में से 'अशुद्ध' वर्तनी वाला शब्द है:",
+    "options": ["कवयित्री", "उज्ज्वल", "श्रृंगार", "आशीर्वाद"],
+    "a": 2,
+    "explanation": "शुद्ध रूप 'शृंगार' होता है (नीचे ऋ की मात्रा)।"
+  },
+  {
+    "q": "'आकाश' का पर्यायवाची शब्द है:",
+    "options": ["व्योम", "अंबर", "गगन", "उपरोक्त सभी"],
+    "a": 3,
+    "explanation": "व्योम, अंबर और गगन तीनों ही आकाश के पर्यायवाची हैं।"
+  },
+  {
+    "q": "हिंदी भाषा में 'अयोगवाह' वर्ण कौन से हैं?",
+    "options": ["अ, आ", "इ, ई", "अं, अः", "उ, ऊ"],
+    "a": 2,
+    "explanation": "अं (अनुस्वार) और अः (विसर्ग) को अयोगवाह कहा जाता है।"
+  },
+  {
+    "q": "Identify the 'Adjective' in the sentence: 'The courageous soldier fought well.'",
+    "options": ["Soldier", "Courageous", "Fought", "Well"],
+    "a": 1,
+    "explanation": "'Courageous' describes the quality of the noun 'soldier'."
+  },
+  {
+    "q": "Choose the correct article: 'I saw ________ one-eyed man yesterday.'",
+    "options": ["a", "an", "the", "No article"],
+    "a": 0,
+    "explanation": "'One' starts with a consonant sound ('w' sound), so 'a' is used."
+  },
+  {
+    "q": "What is the feminine gender of 'Horse'?",
+    "options": ["Bitch", "Mare", "Doe", "Ewe"],
+    "a": 1,
+    "explanation": "A female horse is called a mare."
+  },
+  {
+    "q": "Change the voice: 'Who broke the glass?'",
+    "options": ["By whom was the glass broken?", "Who was broken the glass?", "By whom is the glass broken?", "The glass was broken by whom?"],
+    "a": 0,
+    "explanation": "Interrogative 'Who' changes to 'By whom' in passive voice."
+  },
+  {
+    "q": "Which of the following is a 'Lexical Word'?",
+    "options": ["Is", "And", "Love", "With"],
+    "a": 2,
+    "explanation": "Lexical words carry independent meaning (nouns, verbs, adjectives)."
+  },
+  {
+    "q": "The sound produced by 'ch' in 'Chair' is a:",
+    "options": ["Plosive", "Affricate", "Nasal", "Fricative"],
+    "a": 1,
+    "explanation": "Affricates are sounds that begin as a stop and release as a fricative."
+  },
+  {
+    "q": "The primary aim of teaching English in India is to enable students to:",
+    "options": ["Pass exams", "Become scholars", "Communicate effectively", "Recite poems"],
+    "a": 2,
+    "explanation": "The modern approach focuses on communicative competence."
+  },
+  {
+    "q": "Which Veda contains the 'Gayatri Mantra'?",
+    "options": ["Rigveda", "Samaveda", "Yajurveda", "Atharvaveda"],
+    "a": 0,
+    "explanation": "The Gayatri Mantra is found in the third Mandala of the Rigveda."
+  },
+  {
+    "q": "The 'Iqta system' was introduced in India by:",
+    "options": ["Balban", "Iltutmish", "Alauddin Khalji", "Razia Sultan"],
+    "a": 1,
+    "explanation": "Iltutmish institutionalized the Iqta system for land revenue and administration."
+  },
+  {
+    "q": "Which state in India receives 'Retreating Monsoon' rainfall in winter?",
+    "options": ["Kerala", "Tamil Nadu", "Punjab", "West Bengal"],
+    "a": 1,
+    "explanation": "The North-East (retreating) monsoon brings heavy rain to the Coromandel coast (Tamil Nadu)."
+  },
+  {
+    "q": "Which planet is known as the 'Red Planet'?",
+    "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+    "a": 2,
+    "explanation": "Mars appears red due to iron oxide (rust) on its surface."
+  },
+  {
+    "q": "Under which Article of the Constitution can 'State Emergency' be imposed?",
+    "options": ["Article 352", "Article 356", "Article 360", "Article 368"],
+    "a": 1,
+    "explanation": "Article 356 allows for President's Rule if a state's constitutional machinery fails."
+  },
+  {
+    "q": "Who was the founder of the 'Khilji Dynasty'?",
+    "options": ["Alauddin Khilji", "Jalaluddin Khilji", "Mubarak Khilji", "Bakhtiyar Khilji"],
+    "a": 1,
+    "explanation": "Jalaluddin Firuz Khilji founded the dynasty in 1290 AD."
+  },
+  {
+    "q": "The 'Bhabar' region is located at the foot of which mountains?",
+    "options": ["Aravallis", "Vindhyas", "Shiwaliks", "Western Ghats"],
+    "a": 2,
+    "explanation": "Bhabar is a narrow porous belt of pebbles at the foothills of the Shiwaliks."
+  },
+  {
+    "q": "Who presided over the first session of the Indian National Congress?",
+    "options": ["A.O. Hume", "W.C. Bonnerjee", "Dadabhai Naoroji", "George Yule"],
+    "a": 1,
+    "explanation": "Womesh Chandra Bonnerjee was the first president at the 1885 Bombay session."
+  },
+  {
+    "q": "How many 'Fundamental Duties' are currently mentioned in the Constitution?",
+    "options": ["10", "11", "12", "6"],
+    "a": 1,
+    "explanation": "Initially 10, the 11th duty was added by the 86th Amendment Act in 2002."
+  },
+  {
+    "q": "Which river is known as the 'Sorrow of Bihar'?",
+    "options": ["Ganga", "Kosi", "Gandak", "Son"],
+    "a": 1,
+    "explanation": "The Kosi river frequently changes its course and causes devastating floods in Bihar."
+  },
+  {
+    "q": "In which year was the 'Battle of Plassey' fought?",
+    "options": ["1526", "1757", "1764", "1857"],
+    "a": 1,
+    "explanation": "It was fought in 1757 between the British East India Company and the Nawab of Bengal."
+  },
+  {
+    "q": "The 'Tropic of Cancer' does NOT pass through which Indian state?",
+    "options": ["Rajasthan", "Chhattisgarh", "Odisha", "Tripura"],
+    "a": 2,
+    "explanation": "The Tropic of Cancer passes through 8 states; Odisha is not one of them."
+  },
+  {
+    "q": "Who is the 'Supreme Commander' of the Indian Armed Forces?",
+    "options": ["Prime Minister", "Defense Minister", "President", "Chief of Defense Staff"],
+    "a": 2,
+    "explanation": "The President of India holds the supreme command of the defense forces."
+  },
+  {
+    "q": "The 'Hirakud Dam' is built on which river?",
+    "options": ["Narmada", "Mahanadi", "Krishna", "Godavari"],
+    "a": 1,
+    "explanation": "The Hirakud Dam in Odisha is one of the longest dams in the world, built on the Mahanadi."
+  },
+  {
+    "q": "Who gave the slogan 'Do or Die' during the Quit India Movement?",
+    "options": ["Subhash Chandra Bose", "Jawaharlal Nehru", "Mahatma Gandhi", "Sardar Patel"],
+    "a": 2,
+    "explanation": "Gandhi gave this call to the nation in 1942."
+  }
+]
