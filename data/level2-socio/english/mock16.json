@@ -1,0 +1,200 @@
+[
+  {
+    "q": "Which stage of development is known as the 'Toy Age'?",
+    "options": ["Infancy", "Early Childhood", "Later Childhood", "Adolescence"],
+    "a": 1,
+    "explanation": "Early childhood (2-6 years) is characterized by intensive play with toys."
+  },
+  {
+    "q": "According to Kohlberg, at which level do individuals value 'Mutual Interpersonal Expectations'?",
+    "options": ["Pre-conventional", "Conventional", "Post-conventional", "Autonomous"],
+    "a": 1,
+    "explanation": "Stage 3 (Good Boy/Nice Girl) is part of the conventional level."
+  },
+  {
+    "q": "The 'Micro-teaching' technique is primarily used for:",
+    "options": ["Evaluating students", "Developing teaching skills", "Increasing class time", "Testing intelligence"],
+    "a": 1,
+    "explanation": "Micro-teaching is a master instructional behavior training technique."
+  },
+  {
+    "q": "Which learning theory emphasizes the role of 'Scaffolding'?",
+    "options": ["Piaget", "Vygotsky", "Skinner", "Bandura"],
+    "a": 1,
+    "explanation": "Vygotsky's socio-cultural theory focuses on support provided."
+  },
+  {
+    "q": "The concept of 'General Intelligence' (g-factor) was proposed by:",
+    "options": ["Charles Spearman", "Howard Gardner", "Raymond Cattell", "Robert Sternberg"],
+    "a": 0,
+    "explanation": "Spearman proposed intelligence consists of a general factor."
+  },
+  {
+    "q": "Which of the following is a 'Projective Technique' of personality assessment?",
+    "options": ["Interview", "Rating Scale", "Rorschach Inkblot Test", "Observation"],
+    "a": 2,
+    "explanation": "Projective tests use ambiguous stimuli to reveal traits."
+  },
+  {
+    "q": "What is 'Object Permanence'?",
+    "options": ["Thinking objects have life", "Realizing objects exist even when unseen", "Grouping objects by color", "Solving problems with objects"],
+    "a": 1,
+    "explanation": "A key milestone in the sensory-motor stage."
+  },
+  {
+    "q": "Which reinforcement schedule is most resistant to 'Extinction'?",
+    "options": ["Fixed-ratio", "Variable-ratio", "Fixed-interval", "Continuous"],
+    "a": 1,
+    "explanation": "Variable schedules are more durable as reward is unpredictable."
+  },
+  {
+    "q": "In a 'Democratic' leadership style, the teacher:",
+    "options": ["Makes all decisions", "Consults with students", "Does not participate", "Punishes frequently"],
+    "a": 1,
+    "explanation": "Democratic leaders encourage participation."
+  },
+  {
+    "q": "Which of these is a symptom of 'Dyslexia'?",
+    "options": ["Difficulty in writing", "Difficulty in reading and spelling", "Inability to calculate", "Poor handwriting"],
+    "a": 1,
+    "explanation": "Dyslexia primarily affects language processing."
+  },
+  {
+    "q": "The 'Project Method' was developed by:",
+    "options": ["William Kilpatrick", "John Dewey", "Maria Montessori", "Froebel"],
+    "a": 0,
+    "explanation": "Kilpatrick was a student of Dewey who formalized the method."
+  },
+  {
+    "q": "pavan ka sahi sandhi-vichchhed hai:",
+    "options": ["pa + van", "paa + van", "po + an", "pau + an"],
+    "a": 2,
+    "explanation": "po + an = pavan (ayaadi sandhi)."
+  },
+  {
+    "q": "lambodar mein kaun sa samaas hai?",
+    "options": ["karmadhaaraya", "bahuvrihi", "dvigu", "dvandv"],
+    "a": 1,
+    "explanation": "Lamba hai udar jiska (ganesh), bahuvrihi samas."
+  },
+  {
+    "q": "praacheen ka vilom shabd hai:",
+    "options": ["puraana", "naveen", "arvaacheen", "aadhunik"],
+    "a": 2,
+    "explanation": "Pracheen opposite is Arvacheen."
+  },
+  {
+    "q": "naak katana muhaavre ka arth hai:",
+    "options": ["chot lagana", "ijjat jaana", "beemaar hona", "jhagada karana"],
+    "a": 1,
+    "explanation": "It means loss of prestige."
+  },
+  {
+    "q": "shuddh vaaky ka chayan karen:",
+    "options": ["vah dand dene yogya hai.", "vah dand ke yogya hai.", "vah dand lene yogya hai.", "vah dand paane yogya hai."],
+    "a": 1,
+    "explanation": "Correct form: 'vah dand ke yogya hai'."
+  },
+  {
+    "q": "lekhak shabd mein kaun sa pratyay hai?",
+    "options": ["ka", "ik", "ak", "aak"],
+    "a": 2,
+    "explanation": "likh + ak = lekhak."
+  },
+  {
+    "q": "hindi bhaasha mein kitane svar hain?",
+    "options": ["10", "11", "13", "15"],
+    "a": 1,
+    "explanation": "There are 11 vowels."
+  },
+  {
+    "q": "The multiplicative identity for rational numbers is:",
+    "options": ["0", "1", "-1", "None"],
+    "a": 1,
+    "explanation": "Any number multiplied by 1 remains the same."
+  },
+  {
+    "q": "In a quadrilateral, if three angles are 100, 80, and 70, the fourth angle is:",
+    "options": ["100", "110", "120", "90"],
+    "a": 1,
+    "explanation": "360 - (100+80+70) = 110."
+  },
+  {
+    "q": "If the edge of a cube is 5 cm, its total surface area is:",
+    "options": ["150", "125", "100", "75"],
+    "a": 0,
+    "explanation": "6 * a^2 = 6 * 25 = 150."
+  },
+  {
+    "q": "Which number is its own square?",
+    "options": ["2", "1", "0", "Both 1 and 0"],
+    "a": 3,
+    "explanation": "0^2=0 and 1^2=1."
+  },
+  {
+    "q": "The simplified value of (1/2)^-2 is:",
+    "options": ["1/4", "4", "-4", "2"],
+    "a": 1,
+    "explanation": "(2/1)^2 = 4."
+  },
+  {
+    "q": "Find the mode of: 2, 3, 3, 4, 5, 3, 2.",
+    "options": ["2", "3", "4", "5"],
+    "a": 1,
+    "explanation": "3 occurs most frequently."
+  },
+  {
+    "q": "Which property is shown: a + b = b + a?",
+    "options": ["Associative", "Commutative", "Distributive", "Closure"],
+    "a": 1,
+    "explanation": "Commutative property of addition."
+  },
+  {
+    "q": "A circle is divided into 8 equal sectors. Angle of each sector is:",
+    "options": ["40", "45", "60", "90"],
+    "a": 1,
+    "explanation": "360 / 8 = 45."
+  },
+  {
+    "q": "Which planet is known as the 'Red Planet'?",
+    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "a": 1,
+    "explanation": "Mars has iron oxide on surface."
+  },
+  {
+    "q": "The voice of which of the following is likely to have minimum frequency?",
+    "options": ["Baby girl", "Baby boy", "A man", "A woman"],
+    "a": 2,
+    "explanation": "Adult males have longer, thicker vocal cords, producing deeper sound."
+  },
+  {
+    "q": "A device used to test whether an object is carrying charge is:",
+    "options": ["Electrometer", "Electroscope", "Voltmeter", "Ammeter"],
+    "a": 1,
+    "explanation": "Gold leaf electroscope is a classic example."
+  },
+  {
+    "q": "The process of conversion of sugar into alcohol is called:",
+    "options": ["Nitrogen fixation", "Molding", "Fermentation", "Infection"],
+    "a": 2,
+    "explanation": "Yeast carries out fermentation."
+  },
+  {
+    "q": "Which of the following is an antibiotic?",
+    "options": ["Sodium bicarbonate", "Streptomycin", "Alcohol", "Yeast"],
+    "a": 1,
+    "explanation": "It is used to treat bacterial infections."
+  },
+  {
+    "q": "The most ductile metal is:",
+    "options": ["Silver", "Gold", "Copper", "Aluminum"],
+    "a": 1,
+    "explanation": "Gold can be drawn into very thin wires."
+  },
+  {
+    "q": "Pressure is ________ proportional to area.",
+    "options": ["Directly", "Inversely", "Not", "Linearly"],
+    "a": 1,
+    "explanation": "P = F/A."
+  }
+]
