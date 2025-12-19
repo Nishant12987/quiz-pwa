@@ -1,0 +1,242 @@
+[
+  {
+    "q": "Which domain of development deals with 'Reasoning, Memory, and Problem Solving'?",
+    "options": ["Physical", "Cognitive", "Emotional", "Social"],
+    "a": 1,
+    "explanation": "Cognitive development involves the growth of mental processes and thinking."
+  },
+  {
+    "q": "Vygotsky's 'More Knowledgeable Other' (MKO) refers to:",
+    "options": ["Only the teacher", "Only parents", "Anyone with more skill than the learner", "Only older peers"],
+    "a": 2,
+    "explanation": "An MKO can be a teacher, peer, or even a computer program."
+  },
+  {
+    "q": "At which stage of moral development do children follow rules to 'Look Good' to others?",
+    "options": ["Pre-conventional", "Good boy/Nice girl orientation", "Social contract", "Punishment-avoidance"],
+    "a": 1,
+    "explanation": "This is part of the conventional level where social approval is the main motive."
+  },
+  {
+    "q": "The 'Intelligence' that involves sensitivity to the meaning and sounds of words is:",
+    "options": ["Spatial", "Linguistic", "Logical", "Interpersonal"],
+    "a": 1,
+    "explanation": "Poets and writers typically have high linguistic intelligence."
+  },
+  {
+    "q": "Which type of 'Reinforcement' increases a behavior by removing an unpleasant stimulus?",
+    "options": ["Positive reinforcement", "Negative reinforcement", "Punishment", "Extinction"],
+    "a": 1,
+    "explanation": "Negative reinforcement 'subtracts' something bad to encourage a good behavior (e.g., stopping an alarm)."
+  },
+  {
+    "q": "The main focus of the 'Right to Education' (RTE) Act 2009 is:",
+    "options": ["Free and compulsory education", "Higher education", "English medium only", "Vocational training only"],
+    "a": 0,
+    "explanation": "It guarantees education to children aged 6 to 14 years."
+  },
+  {
+    "q": "According to Piaget, 'Assimilation' means:",
+    "options": ["Changing existing schemas", "Creating new schemas", "Fitting new info into existing schemas", "Forgetting old info"],
+    "a": 2,
+    "explanation": "Assimilation is interpreting the world through what we already know."
+  },
+  {
+    "q": "The 'Multiple Intelligence Theory' was proposed by:",
+    "options": ["Daniel Goleman", "Howard Gardner", "Raymond Cattell", "Robert Sternberg"],
+    "a": 1,
+    "explanation": "Gardner proposed that intelligence is not a single unit but multiple distinct capacities."
+  },
+  {
+    "q": "Which stage of creative thinking involves 'Taking a break' from the problem?",
+    "options": ["Preparation", "Incubation", "Illumination", "Verification"],
+    "a": 1,
+    "explanation": "During incubation, the unconscious mind continues to work on the solution while the person does other things."
+  },
+  {
+    "q": "What is 'Inclusive' education's primary goal?",
+    "options": ["Teaching gifted and disabled separately", "Ignoring special needs", "Providing equal access for all in one setting", "Focusing on normal children"],
+    "a": 2,
+    "explanation": "It emphasizes that schools should accommodate all children regardless of physical/mental conditions."
+  },
+  {
+    "q": "The 'Heredity' of a child is fixed at the time of:",
+    "options": ["Birth", "Conception", "Early childhood", "Adolescence"],
+    "a": 1,
+    "explanation": "Genetic makeup is determined at the moment of fertilization."
+  },
+  {
+    "q": "'परोपकार' का संधि-विच्छेद है:",
+    "options": ["पर + उपकार", "परो + पकार", "परौ + पकार", "परो + उपकार"],
+    "a": 0,
+    "explanation": "पर + उपकार = परोपकार (अ + उ = ओ, गुण संधि)।"
+  },
+  {
+    "q": "'दशानन' में कौन सा समास है?",
+    "options": ["द्विगु", "द्वंद्व", "बहुव्रीहि", "कर्मधारय"],
+    "a": 2,
+    "explanation": "दस हैं आनन (मुख) जिसके अर्थात् रावण; यहाँ बहुव्रीहि समास है।"
+  },
+  {
+    "q": "'कृत्रिम' का विलोम शब्द है:",
+    "options": ["बनावटी", "प्राकृतिक", "नकली", "अकृत्रिम"],
+    "a": 1,
+    "explanation": "कृत्रिम (Artificial) का विलोम प्राकृतिक (Natural) होता है।"
+  },
+  {
+    "q": "'मुँह की खाना' मुहावरे का अर्थ है:",
+    "options": ["भोजन करना", "बुरी तरह हारना", "गाली देना", "नष्ट करना"],
+    "a": 1,
+    "explanation": "इसका अर्थ है पराजित होना या अपमानित होकर हारना।"
+  },
+  {
+    "q": "शुद्ध वाक्य का चयन करें:",
+    "options": ["बच्चे को काट कर फल खिलाओ।", "फल को बच्चे को काट कर खिलाओ।", "बच्चे को फल काट कर खिलाओ।", "काट कर फल बच्चे को खिलाओ।"],
+    "a": 2,
+    "explanation": "व्याकरण की दृष्टि से पदक्रम 'बच्चे को फल काट कर खिलाओ' सही है।"
+  },
+  {
+    "q": "'अमृत' का पर्यायवाची शब्द नहीं है:",
+    "options": ["पीयूष", "सुधा", "अमी", "रसाल"],
+    "a": 3,
+    "explanation": "'रसाल' आम का पर्यायवाची है।"
+  },
+  {
+    "q": "कविता शिक्षण का सर्वोपरि गुण क्या है?",
+    "options": ["शब्दार्थ बोध", "भावात्मक रसानुभूति", "व्याकरण ज्ञान", "लय और ताल"],
+    "a": 1,
+    "explanation": "कविता का मुख्य उद्देश्य पाठक के हृदय में भाव जाग्रत करना और आनंद प्रदान करना है।"
+  },
+  {
+    "q": "The comparative degree of 'Little' is:",
+    "options": ["Littler", "Less", "Least", "Lesser"],
+    "a": 1,
+    "explanation": "Little, Less (Comparative), Least (Superlative)."
+  },
+  {
+    "q": "Identify the 'Adjective' in: 'He is a brave boy.'",
+    "options": ["He", "Is", "Brave", "Boy"],
+    "a": 2,
+    "explanation": "'Brave' describes the noun 'boy'."
+  },
+  {
+    "q": "Choose the correct article: 'He is ________ honest man.'",
+    "options": ["a", "an", "the", "No article"],
+    "a": 1,
+    "explanation": "The 'h' is silent, so the vowel sound 'o' takes 'an'."
+  },
+  {
+    "q": "Change the following into 'Direct Speech': 'She said that she was happy.'",
+    "options": ["She said, \"She is happy.\"", "She said, \"I am happy.\"", "She says, \"I am happy.\"", "She said, \"I was happy.\""],
+    "a": 1,
+    "explanation": "In direct speech, 'she was' changes back to 'I am'."
+  },
+  {
+    "q": "Which of these is a 'Suffix'?",
+    "options": ["un-", "dis-", "-ness", "pre-"],
+    "a": 2,
+    "explanation": "Suffixes are added at the end of words."
+  },
+  {
+    "q": "Select the correct collective noun: 'A ________ of keys.'",
+    "options": ["Bunch", "Pack", "Fleet", "Herd"],
+    "a": 0,
+    "explanation": "A group of keys or grapes is called a bunch."
+  },
+  {
+    "q": "Fill in the blank: 'He has been sleeping ________ two hours.'",
+    "options": ["since", "for", "from", "at"],
+    "a": 1,
+    "explanation": "We use 'for' to show a duration of time."
+  },
+  {
+    "q": "Which traveler visited the court of Chandragupta II (Vikramaditya)?",
+    "options": ["Megasthenes", "Faxian (Fa-Hien)", "Xuanzang", "Ibn Battuta"],
+    "a": 1,
+    "explanation": "Faxian was a Chinese monk who visited during the Gupta period."
+  },
+  {
+    "q": "The 'Bhakra Nangal' project is built on which river?",
+    "options": ["Ganga", "Sutlej", "Brahmaputra", "Krishna"],
+    "a": 1,
+    "explanation": "It is a major hydroelectric project on the Sutlej river in Punjab/HP."
+  },
+  {
+    "q": "The 'Dandi March' was started by Gandhi to break which law?",
+    "options": ["Press Law", "Salt Law", "Land Tax", "Arms Act"],
+    "a": 1,
+    "explanation": "The Salt Satyagraha began in March 1930 to protest the British monopoly on salt."
+  },
+  {
+    "q": "Which planet is known as 'Earth's Twin' due to its size?",
+    "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+    "a": 1,
+    "explanation": "Venus is similar in size, mass, and composition to Earth."
+  },
+  {
+    "q": "The 'Fundamental Rights' were borrowed from the constitution of:",
+    "options": ["UK", "Canada", "USA", "Ireland"],
+    "a": 2,
+    "explanation": "The Bill of Rights in the US inspired India's Fundamental Rights."
+  },
+  {
+    "q": "Who wrote 'Panchatantra'?",
+    "options": ["Vishnu Sharma", "Kalidasa", "Varahamihira", "Aryabhata"],
+    "a": 0,
+    "explanation": "Vishnu Sharma wrote these fables to teach political science to princes."
+  },
+  {
+    "q": "Which is the highest peak in 'South India'?",
+    "options": ["Dodabetta", "Anamudi", "Kalsubai", "Mahendragiri"],
+    "a": 1,
+    "explanation": "Anamudi in Kerala is the highest point in the Western Ghats and South India."
+  },
+  {
+    "q": "The 'Rowlatt Act' (1919) was described as 'No appeal, no vakil, no dalil' by:",
+    "options": ["Lala Lajpat Rai", "Mahatma Gandhi", "J.L. Nehru", "Subhash Bose"],
+    "a": 1,
+    "explanation": "It allowed the government to imprison suspects without trial."
+  },
+  {
+    "q": "Who is the 'Ex-officio Chairman' of the Rajya Sabha?",
+    "options": ["President", "Prime Minister", "Vice-President", "Speaker"],
+    "a": 2,
+    "explanation": "The Vice-President of India automatically holds this position."
+  },
+  {
+    "q": "The 'Aravalli Range' is located mainly in which state?",
+    "options": ["Gujarat", "Haryana", "Rajasthan", "Delhi"],
+    "a": 2,
+    "explanation": "While it starts in Gujarat and ends in Delhi, the bulk of the range is in Rajasthan."
+  },
+  {
+    "q": "Which amendment is related to 'Panchayati Raj' in India?",
+    "options": ["42nd", "73rd", "74th", "86th"],
+    "a": 1,
+    "explanation": "The 73rd Amendment (1992) gave constitutional status to Panchayats."
+  },
+  {
+    "q": "Who was the founder of the 'Lodi Dynasty'?",
+    "options": ["Sikandar Lodi", "Ibrahim Lodi", "Bahlul Lodi", "Khizr Khan"],
+    "a": 2,
+    "explanation": "Bahlul Lodi founded the first Afghan dynasty in Delhi in 1451."
+  },
+  {
+    "q": "Which layer of the atmosphere contains the 'Ozone Layer'?",
+    "options": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+    "a": 1,
+    "explanation": "The ozone layer absorbs harmful UV radiation in the stratosphere."
+  },
+  {
+    "q": "The 'Sarkaria Commission' was set up to study:",
+    "options": ["Election reforms", "Center-State relations", "Bank reforms", "Tax reforms"],
+    "a": 1,
+    "explanation": "Set up in 1983 to review the balance of power between the Union and states."
+  },
+  {
+    "q": "The 'Red Sea' separates Africa from which continent?",
+    "options": ["Europe", "Asia", "Australia", "South America"],
+    "a": 1,
+    "explanation": "It lies between Northeast Africa and the Arabian Peninsula (Asia)."
+  }
+]
