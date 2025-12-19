@@ -1,0 +1,242 @@
+[
+  {
+    "q": "Which of the following is NOT a stage of creative thinking?",
+    "options": ["Preparation", "Incubation", "Verification", "Rote repetition"],
+    "a": 3,
+    "explanation": "Creative stages include preparation, incubation, illumination, and verification; rote repetition is mechanical and non-creative."
+  },
+  {
+    "q": "The term 'Cephalocaudal' development means growth from:",
+    "options": ["Center to periphery", "Head to toe", "Toe to head", "Specific to general"],
+    "a": 1,
+    "explanation": "Growth proceeds from the head downward to the feet (Cephalo = Head, Caudal = Tail/Foot)."
+  },
+  {
+    "q": "In Pavlov’s classical conditioning, the 'Bell' before conditioning is a:",
+    "options": ["Unconditioned Stimulus", "Conditioned Response", "Neutral Stimulus", "Unconditioned Response"],
+    "a": 2,
+    "explanation": "Before conditioning, the bell does not elicit the reflex and is considered a neutral stimulus."
+  },
+  {
+    "q": "Which teaching style is most effective for fostering 'Critical Thinking'?",
+    "options": ["Autocratic", "Laissez-faire", "Democratic", "Permissive"],
+    "a": 2,
+    "explanation": "A democratic teaching style encourages participation, discussion, and independent thinking."
+  },
+  {
+    "q": "The process of adjusting existing schemas to fit new information is called:",
+    "options": ["Assimilation", "Accommodation", "Equilibration", "Organization"],
+    "a": 1,
+    "explanation": "Accommodation involves modifying internal mental structures to account for new data."
+  },
+  {
+    "q": "What is the primary goal of 'Action Research' in education?",
+    "options": ["To develop new theories", "To solve immediate classroom problems", "To compare school systems", "To conduct national surveys"],
+    "a": 1,
+    "explanation": "Action research is conducted by practitioners to solve immediate classroom problems."
+  },
+  {
+    "q": "According to Kohlberg, 'Social Contract Orientation' belongs to which level?",
+    "options": ["Pre-conventional", "Conventional", "Post-conventional", "Non-conventional"],
+    "a": 2,
+    "explanation": "Social contract orientation is a stage within the post-conventional level of moral development."
+  },
+  {
+    "q": "A student with 'Dysgraphia' faces difficulty in:",
+    "options": ["Reading", "Writing", "Mathematical calculation", "Listening"],
+    "a": 1,
+    "explanation": "Dysgraphia is a specific learning disability that affects writing abilities."
+  },
+  {
+    "q": "Which of these is a 'Nature' factor in development?",
+    "options": ["Schooling", "Peer group", "Genetic makeup", "Nutritional intake"],
+    "a": 2,
+    "explanation": "Nature refers to biological and genetic influences that are inherited."
+  },
+  {
+    "q": "In 'Project Method' of teaching, the role of the teacher is that of a:",
+    "options": ["Director", "Dictator", "Guide and Facilitator", "Passive Spectator"],
+    "a": 2,
+    "explanation": "In the project method, the teacher supports students as they explore projects rather than just lecturing."
+  },
+  {
+    "q": "What is 'Metacognition'?",
+    "options": ["Learning by rote", "Thinking about one's own thinking", "Social interaction", "Physical growth"],
+    "a": 1,
+    "explanation": "Metacognition is the awareness and understanding of one's own thought processes."
+  },
+  {
+    "q": "'पवन' का सही संधि-विच्छेद है:",
+    "options": ["प + वन", "पा + वन", "पो + अन", "पौ + अन"],
+    "a": 2,
+    "explanation": "यह अयादि संधि का उदाहरण है, जहाँ 'पो + अन' मिलकर 'पवन' बनता है."
+  },
+  {
+    "q": "'लम्बोदर' में कौन सा समास है?",
+    "options": ["कर्मधारय", "बहुव्रीहि", "द्वंद्व", "तत्पुरुष"],
+    "a": 1,
+    "explanation": "जहाँ दोनों पद मिलकर किसी तीसरे (गणेश जी) की ओर संकेत करें, वहाँ बहुव्रीहि समास होता है."
+  },
+  {
+    "q": "'आँखें दिखाना' मुहावरे का अर्थ है:",
+    "options": ["स्वागत करना", "गुस्सा करना", "निरीक्षण करना", "सावधान करना"],
+    "a": 1,
+    "explanation": "आँखें दिखाना मुहावरे का अर्थ किसी पर क्रोधित होना या डराना होता है."
+  },
+  {
+    "q": "'लेखक' शब्द में कौन सा प्रत्यय है?",
+    "options": ["क", "इक", "अक", "आक"],
+    "a": 2,
+    "explanation": "लिख् (धातु) + अक (प्रत्यय) = लेखक."
+  },
+  {
+    "q": "'तरणि' (छोटी इ) शब्द का अर्थ है:",
+    "options": ["सूर्य", "नाव", "युवती", "नदी"],
+    "a": 0,
+    "explanation": "'तरणि' का अर्थ सूर्य होता है (तरणी का अर्थ नाव होता है)."
+  },
+  {
+    "q": "जो 'सब कुछ जानता हो' - वाक्यांश के लिए एक शब्द है:",
+    "options": ["अल्पज्ञ", "बहुज्ञ", "सर्वज्ञ", "अभिज्ञ"],
+    "a": 2,
+    "explanation": "सर्वज्ञ का अर्थ है वह जो हर विषय की जानकारी रखता हो."
+  },
+  {
+    "q": "शिक्षण की 'आगमन विधि' (Inductive Method) चलती है:",
+    "options": ["नियम से उदाहरण की ओर", "उदाहरण से नियम की ओर", "सूक्ष्म से स्थूल की ओर", "अमूर्त से मूर्त की ओर"],
+    "a": 1,
+    "explanation": "आगमन विधि में पहले उदाहरण दिए जाते हैं, फिर नियम का सामान्यीकरण किया जाता है."
+  },
+  {
+    "q": "Choose the synonym for the word 'Diligent'.",
+    "options": ["Lazy", "Hardworking", "Careless", "Wealthy"],
+    "a": 1,
+    "explanation": "Diligent means showing steady and earnest effort; hardworking."
+  },
+  {
+    "q": "Select the correct passive voice for: 'The teacher corrected the mistakes.'",
+    "options": ["The mistakes are corrected by the teacher.", "The mistakes were corrected by the teacher.", "The teacher was corrected by the mistakes.", "The mistakes corrected by the teacher."],
+    "a": 1,
+    "explanation": "Simple Past (corrected) becomes 'were + past participle' in the passive voice."
+  },
+  {
+    "q": "Which of the following is an example of an 'Interrogative Pronoun'?",
+    "options": ["He", "Each", "Who", "Them"],
+    "a": 2,
+    "explanation": "'Who' is used to ask questions about people."
+  },
+  {
+    "q": "Choose the correct article: 'He is ________ honest man.'",
+    "options": ["a", "an", "the", "No article"],
+    "a": 1,
+    "explanation": "'Honest' starts with a vowel sound (silent 'h'), so 'an' is required."
+  },
+  {
+    "q": "Which of these is NOT a principle of Language Teaching?",
+    "options": ["Principle of Motivation", "Principle of Habit Formation", "Principle of Rote Memorization", "Principle of Oral Approach"],
+    "a": 2,
+    "explanation": "Rote memorization is an mechanical method, not a psychological principle of language learning."
+  },
+  {
+    "q": "Choose the correctly punctuated sentence:",
+    "options": ["He said I am coming.", "He said, 'I am coming.'", "He said \"I am coming.\"", "He said, I am coming."],
+    "a": 1,
+    "explanation": "Direct speech requires a comma after the reporting verb and spoken words inside quotes."
+  },
+  {
+    "q": "Identify the 'Subject' in the sentence: 'On the top of the hill lives a hermit.'",
+    "options": ["The hill", "The top", "A hermit", "Lives"],
+    "a": 2,
+    "explanation": "The subject is the person performing the action (living), which is 'a hermit'."
+  },
+  {
+    "q": "What is the value of 100 - 45 + 5?",
+    "options": ["50", "60", "70", "80"],
+    "a": 1,
+    "explanation": "Follow BODMAS (Addition before Subtraction): 100 + 5 = 105; 105 - 45 = 60."
+  },
+  {
+    "q": "How many millimeters are in 1 centimeter?",
+    "options": ["1", "10", "100", "1000"],
+    "a": 1,
+    "explanation": "The metric scale for length is based on tens; 10 mm = 1 cm."
+  },
+  {
+    "q": "The perimeter of a rectangle with length 5cm and width 3cm is:",
+    "options": ["8 cm", "15 cm", "16 cm", "20 cm"],
+    "a": 2,
+    "explanation": "Perimeter = 2 x (Length + Width) = 2 x (5 + 3) = 16 cm."
+  },
+  {
+    "q": "Which of the following is an even number?",
+    "options": ["21", "33", "42", "55"],
+    "a": 2,
+    "explanation": "An even number is divisible by 2; 42 ends in '2', making it even."
+  },
+  {
+    "q": "What is 1/2 of 50?",
+    "options": ["10", "20", "25", "30"],
+    "a": 2,
+    "explanation": "50 divided by 2 is 25."
+  },
+  {
+    "q": "A circle has how many sides?",
+    "options": ["1", "2", "4", "0"],
+    "a": 3,
+    "explanation": "A circle is a curved line with no straight lines (sides) or vertices."
+  },
+  {
+    "q": "The sum of 150 and 250 is:",
+    "options": ["300", "350", "400", "450"],
+    "a": 2,
+    "explanation": "150 + 250 = 400."
+  },
+  {
+    "q": "What is the value of 8 multiplied by 7?",
+    "options": ["48", "54", "56", "64"],
+    "a": 2,
+    "explanation": "8 x 7 = 56."
+  },
+  {
+    "q": "The house made of snow is called:",
+    "options": ["Tent", "Igloo", "Houseboat", "Caravan"],
+    "a": 1,
+    "explanation": "Igloos are built by Eskimos in polar regions using blocks of compressed snow."
+  },
+  {
+    "q": "Which part of the body helps us to taste food?",
+    "options": ["Teeth", "Lips", "Tongue", "Skin"],
+    "a": 2,
+    "explanation": "The tongue contains taste buds that detect flavors."
+  },
+  {
+    "q": "Which planet is the largest in our solar system?",
+    "options": ["Earth", "Mars", "Jupiter", "Venus"],
+    "a": 2,
+    "explanation": "Jupiter is the largest planet in our solar system."
+  },
+  {
+    "q": "The spinning movement of Earth on its axis is called:",
+    "options": ["Revolution", "Rotation", "Orbit", "Gravity"],
+    "a": 1,
+    "explanation": "Rotation causes day and night."
+  },
+  {
+    "q": "Which of the following is a source of protein?",
+    "options": ["Sugar", "Butter", "Pulses", "Potato"],
+    "a": 2,
+    "explanation": "Pulses (daals) are vital sources of plant-based protein."
+  },
+  {
+    "q": "Which gas is needed by humans to breathe?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"],
+    "a": 0,
+    "explanation": "Humans inhale oxygen to facilitate cellular respiration."
+  },
+  {
+    "q": "Rajasthan is known for which desert?",
+    "options": ["Sahara", "Gobi", "Thar", "Atacama"],
+    "a": 2,
+    "explanation": "The Thar Desert covers a significant portion of western Rajasthan."
+  }
+]
