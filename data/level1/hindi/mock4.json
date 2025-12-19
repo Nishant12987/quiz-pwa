@@ -96,58 +96,58 @@
     "explanation": "हिंदी व्याकरण में 'नदी' स्त्रीलिंग है, जबकि घी और दही अपवाद स्वरूप पुल्लिंग माने जाते हैं।"
   },
   {
-    "q": "'Diligent' शब्द का पर्यायवाची चुनिए।",
+    "q": "Select the synonym for the word 'Diligent':",
     "options": ["Lazy", "Hardworking", "Careless", "Wealthy"],
     "a": 1,
-    "explanation": "Diligent का अर्थ है निरंतर और गंभीर प्रयास करने वाला; परिश्रमी।"
+    "explanation": "Diligent means showing steady and earnest effort; industrious."
   },
   {
-    "q": "'The teacher corrected the mistakes' के लिए सही पैसिव वॉइस चुनें।",
+    "q": "Choose the correct Passive Voice for: 'The teacher corrected the mistakes.'",
     "options": ["The mistakes are corrected by the teacher.", "The mistakes were corrected by the teacher.", "The teacher was corrected by the mistakes.", "The mistakes corrected by the teacher."],
     "a": 1,
-    "explanation": "साधारण भूतकाल (Simple Past) पैसिव वॉइस में 'were + past participle' में बदल जाता है।"
+    "explanation": "Simple Past changes to 'were + past participle' in passive voice."
   },
   {
-    "q": "निम्नलिखित में से कौन सा 'Interrogative Pronoun' का उदाहरण है?",
+    "q": "Which of the following is an example of an 'Interrogative Pronoun'?",
     "options": ["He", "Each", "Who", "Them"],
     "a": 2,
-    "explanation": "'Who' का उपयोग लोगों के बारे में प्रश्न पूछने के लिए किया जाता है।"
+    "explanation": "'Who' is used to ask questions about people."
   },
   {
-    "q": "सही आर्टिकल चुनें: 'He is ________ honest man.'",
+    "q": "Choose the correct article: 'He is ________ honest man.'",
     "options": ["a", "an", "the", "No article"],
     "a": 1,
-    "explanation": "'Honest' स्वर ध्वनि (मूक 'h') से शुरू होता है, इसलिए 'an' आवश्यक है।"
+    "explanation": "'Honest' begins with a vowel sound (silent 'h'), hence 'an' is required."
   },
   {
-    "q": "इनमें से कौन सा भाषा शिक्षण का सिद्धांत नहीं है?",
-    "options": ["अभिप्रेरणा का सिद्धांत", "आदत निर्माण का सिद्धांत", "रटकर याद करने का सिद्धांत", "मौखिक दृष्टिकोण का सिद्धांत"],
+    "q": "Which of the following is NOT a principle of language teaching?",
+    "options": ["Principle of motivation", "Principle of habit formation", "Principle of rote learning", "Principle of oral approach"],
     "a": 2,
-    "explanation": "रटकर याद करना एक यांत्रिक तरीका है, सीखने का मनोवैज्ञानिक सिद्धांत नहीं।"
+    "explanation": "Rote learning is a mechanical method, not a psychological principle of learning."
   },
   {
-    "q": "सही विराम चिह्न वाला वाक्य चुनें:",
+    "q": "Choose the sentence with correct punctuation:",
     "options": ["He said I am coming.", "He said, 'I am coming.'", "He said \"I am coming.\"", "He said, I am coming."],
     "a": 1,
-    "explanation": "Direct speech में रिपोर्टिंग वर्ब के बाद कॉमा और बोले गए शब्दों के लिए उद्धरण चिह्नों की आवश्यकता होती है।"
+    "explanation": "Direct speech requires a comma after the reporting verb and quotation marks for the spoken words."
   },
   {
-    "q": "'They are watching TV' में कौन सा काल है?",
+    "q": "Which tense is used in 'They are watching TV'?",
     "options": ["Simple present", "Present continuous", "Present perfect", "Past continuous"],
     "a": 1,
-    "explanation": "सहायक क्रिया (are) + वर्तमान कृदंत (-ing) एक जारी कार्य को दर्शाता है।"
+    "explanation": "Auxiliary verb (are) + present participle (-ing) indicates an ongoing action."
   },
   {
-    "q": "वाक्य में 'Subject' पहचानें: 'On the top of the hill lives a hermit.'",
+    "q": "Identify the 'Subject' in the sentence: 'On the top of the hill lives a hermit.'",
     "options": ["The hill", "The top", "A hermit", "Lives"],
     "a": 2,
-    "explanation": "विषय वह है जो क्रिया (रहना) कर रहा है, जो कि 'a hermit' (संन्यासी) है।"
+    "explanation": "The subject is the one performing the action (living), which is 'a hermit'."
   },
   {
     "q": "100 - 45 + 5 का मान क्या है?",
     "options": ["50", "60", "70", "80"],
     "a": 1,
-    "explanation": "BODMAS का पालन करें (घटाने से पहले जोड़ें): 100 + 5 = 105; 105 - 45 = 60।"
+    "explanation": "BODMAS का पालन करें (घटाने से पहले जोड़ें): 100 + 5 = 105; 105 - 45 = 60।"
   },
   {
     "q": "1 सेंटीमीटर में कितने मिलीमीटर होते हैं?",
