@@ -10,7 +10,7 @@ let timeLeft = 2400;
 const ADMIN_EMAIL = "nishantameta1@gmail.com";
 
 /***********************
- * QUOTES
+ * MOTIVATIONAL QUOTES
  ***********************/
 const quotes = [
   "🔥 Consistency beats talent every single time.",
@@ -32,32 +32,18 @@ function getQuote() {
  * AUTH
  ***********************/
 function login() {
-  if (!document.getElementById("agree").checked) {
-    alert("Accept policies");
-    return;
-  }
+  if (!agree.checked) return alert("Accept policies");
 
-  const email = document.getElementById("email").value.trim();
-  const password = document.getElementById("password").value.trim();
+  const email = emailInput.value.trim();
+  const password = passwordInput.value.trim();
+  if (!email || !password) return alert("Enter email & password");
 
-  if (!email || !password) {
-    alert("Enter email and password");
-    return;
-  }
-
-  auth
-    .signInWithEmailAndPassword(email, password)
-    .then(res => {
-      handleLoginSuccess(res.user);
-    })
+  auth.signInWithEmailAndPassword(email, password)
+    .then(res => afterLogin(res.user))
     .catch(err => {
       if (err.code === "auth/user-not-found") {
-        auth
-          .createUserWithEmailAndPassword(email, password)
-          .then(res => {
-            handleLoginSuccess(res.user);
-          })
-          .catch(e => alert(e.message));
+        auth.createUserWithEmailAndPassword(email, password)
+          .then(res => afterLogin(res.user));
       } else if (err.code === "auth/wrong-password") {
         alert("Wrong password");
       } else {
@@ -67,69 +53,54 @@ function login() {
 }
 
 function resetPassword() {
-  const email = document.getElementById("email").value.trim();
-  if (!email) {
-    alert("Enter email first");
-    return;
-  }
-
-  auth
-    .sendPasswordResetEmail(email)
-    .then(() => alert("Password reset email sent"))
-    .catch(err => alert(err.message));
+  const email = emailInput.value.trim();
+  if (!email) return alert("Enter email");
+  auth.sendPasswordResetEmail(email)
+    .then(() => alert("Reset email sent"));
 }
 
 /***********************
- * LOGIN SUCCESS HANDLER
+ * AFTER LOGIN
  ***********************/
-function handleLoginSuccess(user) {
+function afterLogin(user) {
   const ref = db.collection("users").doc(user.uid);
 
-  ref
-    .get()
-    .then(doc => {
-      if (!doc.exists) {
-        return ref.set({
-          email: user.email,
-          name: "",
-          paid: user.email === ADMIN_EMAIL,
-          testsDone: 0,
-          scores: []
-        });
-      }
-    })
-    .then(() => {
-      ref.get().then(doc => {
-        const data = doc.data();
-        if (!data.name) {
-          hideAll();
-          show("nameSetup");
-        } else {
-          showDashboard();
+  ref.get().then(doc => {
+    if (!doc.exists) {
+      ref.set({
+        email: user.email,
+        name: "",
+        selection: null,
+        payments: {
+          level1: user.email === ADMIN_EMAIL,
+          level2_social: false,
+          level2_socio: false
+        },
+        history: {
+          level1: [],
+          level2_social: [],
+          level2_socio: []
         }
       });
-    })
-    .catch(err => {
-      alert("Login succeeded but data error: " + err.message);
-    });
+      hideAll();
+      show("nameSetup");
+    } else {
+      showDashboard();
+    }
+  });
 }
 
 /***********************
- * SAVE NAME
+ * SAVE NAME (ONLY ONCE)
  ***********************/
 function saveName() {
-  const name = document.getElementById("userNameInput").value.trim();
-  if (!name) {
-    alert("Enter name");
-    return;
-  }
+  const name = userNameInput.value.trim();
+  if (!name) return alert("Enter name");
 
   db.collection("users")
     .doc(auth.currentUser.uid)
     .update({ name })
-    .then(() => {
-      showDashboard();
-    });
+    .then(showDashboard);
 }
 
 /***********************
@@ -139,21 +110,22 @@ function showDashboard() {
   hideAll();
   show("dashboard");
 
-  db.collection("users")
-    .doc(auth.currentUser.uid)
-    .get()
-    .then(doc => {
-      const data = doc.data();
-      document.getElementById("welcome").innerText =
-        "👋 Welcome, " + (data.name || "User");
-      document.getElementById("quoteBox").innerText = getQuote();
-    });
+  const ref = db.collection("users").doc(auth.currentUser.uid);
+  ref.get().then(doc => {
+    const data = doc.data();
+    welcome.innerText = "👋 Welcome, " + data.name;
+    quoteBox.innerText = getQuote();
 
-  document.getElementById("level").onchange = () => {
-    document.getElementById("stream").style.display =
-      document.getElementById("level").value === "level2"
-        ? "block"
-        : "none";
+    // 🔒 Selection only once
+    if (data.selection) {
+      selectionBox.style.display = "none";
+    } else {
+      selectionBox.style.display = "block";
+    }
+  });
+
+  level.onchange = () => {
+    stream.style.display = level.value === "level2" ? "block" : "none";
   };
 }
 
@@ -161,22 +133,64 @@ function showDashboard() {
  * START TEST
  ***********************/
 function startFlow() {
-  loadMock();
+  const ref = db.collection("users").doc(auth.currentUser.uid);
+
+  ref.get().then(doc => {
+    const data = doc.data();
+
+    // First-time selection only
+    if (!data.selection) {
+      if (!level.value || !language.value)
+        return alert("Select all options");
+      if (level.value === "level2" && !stream.value)
+        return alert("Select stream");
+
+      data.selection = {
+        level: level.value,
+        stream: level.value === "level2" ? stream.value : "",
+        language: language.value
+      };
+
+      ref.update({ selection: data.selection });
+    }
+
+    loadMock(data);
+  });
 }
 
 /***********************
  * LOAD MOCK
  ***********************/
-async function loadMock() {
-  const path = "data/level1/english/mock1.json";
+async function loadMock(data) {
+  const sel = data.selection;
+
+  const key =
+    sel.level === "level1"
+      ? "level1"
+      : sel.stream === "social"
+      ? "level2_social"
+      : "level2_socio";
+
+  // 🔒 Payment gate (stream locked)
+  if (!data.payments[key] && data.history[key].length >= 1) {
+    alert("Payment required for this stream");
+    return;
+  }
+
+  const folder =
+    sel.level === "level1"
+      ? "level1"
+      : sel.stream === "social"
+      ? "level2-social"
+      : "level2-socio";
+
+  const path = `data/${folder}/${sel.language}/mock${data.history[key].length + 1}.json`;
 
   try {
     const res = await fetch(path);
-    if (!res.ok) throw new Error();
     questions = await res.json();
   } catch {
-    alert("Mock not found");
-    showDashboard();
+    alert("No more mocks available");
     return;
   }
 
@@ -191,45 +205,67 @@ async function loadMock() {
 }
 
 /***********************
- * QUIZ RENDER
+ * VIEW HISTORY
+ ***********************/
+function showHistory() {
+  const ref = db.collection("users").doc(auth.currentUser.uid);
+
+  ref.get().then(doc => {
+    const data = doc.data();
+    if (!data.selection) return alert("No history");
+
+    const sel = data.selection;
+    const key =
+      sel.level === "level1"
+        ? "level1"
+        : sel.stream === "social"
+        ? "level2_social"
+        : "level2_socio";
+
+    if (!data.payments[key]) {
+      alert("Payment required to view history");
+      return;
+    }
+
+    hideAll();
+    show("history");
+
+    historyTable.innerHTML =
+      "<tr><th>Test</th><th>Score</th></tr>" +
+      data.history[key]
+        .map((s, i) => `<tr><td>Mock ${i + 1}</td><td>${s}</td></tr>`)
+        .join("");
+  });
+}
+
+/***********************
+ * QUIZ LOGIC
  ***********************/
 function render() {
-  document.getElementById("qCounter").innerText =
-    `Q ${index + 1}/${questions.length}`;
-
-  document.getElementById("question").innerText =
-    questions[index].q;
-
-  const optionsDiv = document.getElementById("options");
-  optionsDiv.innerHTML = "";
+  qCounter.innerText = `Q ${index + 1}/${questions.length}`;
+  question.innerText = questions[index].q;
+  options.innerHTML = "";
 
   questions[index].options.forEach((opt, i) => {
     const btn = document.createElement("button");
     btn.innerText = opt;
-
     if (answers[index] === i) btn.classList.add("selected");
-
     btn.onclick = () => {
       answers[index] = i;
       render();
     };
-
-    optionsDiv.appendChild(btn);
+    options.appendChild(btn);
   });
 }
 
 function nextQ() {
-  if (index < questions.length - 1) {
-    index++;
-    render();
-  }
+  if (index < questions.length - 1) index++;
+  render();
 }
 
 function prevQ() {
-  if (index > 0) {
-    index--;
-    render();
-  }
+  if (index > 0) index--;
+  render();
 }
 
 /***********************
@@ -245,7 +281,7 @@ function startTimer() {
 }
 
 function updateTime() {
-  document.getElementById("time").innerText =
+  time.innerText =
     Math.floor(timeLeft / 60) +
     ":" +
     String(timeLeft % 60).padStart(2, "0");
@@ -257,9 +293,7 @@ function updateTime() {
 function finishQuiz() {
   clearInterval(timer);
 
-  let correct = 0;
-  let wrong = 0;
-
+  let correct = 0, wrong = 0;
   answers.forEach((a, i) => {
     if (a === questions[i].a) correct++;
     else if (a !== null) wrong++;
@@ -267,53 +301,44 @@ function finishQuiz() {
 
   const score = (correct - wrong / 3).toFixed(2);
 
+  const ref = db.collection("users").doc(auth.currentUser.uid);
+  ref.get().then(doc => {
+    const data = doc.data();
+    const sel = data.selection;
+
+    const key =
+      sel.level === "level1"
+        ? "level1"
+        : sel.stream === "social"
+        ? "level2_social"
+        : "level2_socio";
+
+    data.history[key].push(score);
+    ref.update({ history: data.history });
+  });
+
   hideAll();
   show("result");
 
-  document.getElementById("finalScore").innerText =
-    `Score: ${score}/40`;
-
-  document.getElementById("finalMsg").innerText =
-    score >= 30
-      ? "🏆 Excellent! You are exam ready."
-      : score >= 20
-      ? "👍 Good effort! Keep practicing."
-      : "💪 Don’t give up! Improvement will come.";
+  finalScore.innerText = `Score: ${score}/40`;
+  finalMsg.innerText = "Test submitted successfully";
 }
 
 /***********************
  * HELPERS
  ***********************/
 function hideAll() {
-  ["login", "nameSetup", "dashboard", "quiz", "result", "history"]
-    .forEach(id => {
-      const el = document.getElementById(id);
-      if (el) el.style.display = "none";
-    });
+  ["login","nameSetup","dashboard","quiz","result","history"]
+    .forEach(id => document.getElementById(id).style.display = "none");
 }
 
 function show(id) {
-  const el = document.getElementById(id);
-  if (el) el.style.display = "block";
+  document.getElementById(id).style.display = "block";
 }
 
 /***********************
- * AUTO LOGIN (SAFE)
+ * AUTO LOGIN
  ***********************/
 auth.onAuthStateChanged(user => {
-  if (!user) return;
-
-  const ref = db.collection("users").doc(user.uid);
-  ref.get().then(doc => {
-    if (!doc.exists) {
-      ref.set({
-        email: user.email,
-        name: "",
-        paid: user.email === ADMIN_EMAIL,
-        testsDone: 0,
-        scores: []
-      });
-    }
-    showDashboard();
-  });
+  if (user) showDashboard();
 });
