@@ -128,16 +128,13 @@ function showDashboard() {
     document.getElementById("selectionBox").style.display = data.selection ? "none" : "block";
   });
 
-  // Handle Level 2 stream visibility
   const levelSelect = document.getElementById("level");
   levelSelect.onchange = () => {
     document.getElementById("stream").style.display = (levelSelect.value === "level2") ? "block" : "none";
   };
 
-  // ✅ Explicitly bind buttons to ensure they work every time dashboard is shown
   document.getElementById("startTestBtn").onclick = startFlow;
   
-  // Find the history button in the HTML and bind it
   const histBtn = document.querySelector("button[onclick='showHistory()']");
   if (histBtn) histBtn.onclick = showHistory;
 }
@@ -179,7 +176,7 @@ function startFlow() {
 }
 
 /***********************
- * LOAD MOCK
+ * LOAD MOCK (WITH SAFETY FIX)
  ***********************/
 async function loadMock(data) {
   if (!data || !data.selection) return alert("Selection missing");
@@ -188,8 +185,12 @@ async function loadMock(data) {
   const key = sel.level === "level1" ? "level1" : 
               (sel.stream === "social" ? "level2_social" : "level2_socio");
 
-  // Allow first test for free, then check payment
-  if (!data.payments[key] && data.history[key] && data.history[key].length >= 1) {
+  // ✅ Fix: Check if payments and history objects exist before reading keys
+  const userPayments = data.payments || {};
+  const userHistory = data.history || {};
+  const currentHistory = userHistory[key] || [];
+
+  if (!userPayments[key] && currentHistory.length >= 1) {
     alert("Payment required for more mock tests in this stream.");
     return;
   }
@@ -197,7 +198,7 @@ async function loadMock(data) {
   const folder = sel.level === "level1" ? "level1" : 
                  (sel.stream === "social" ? "level2-social" : "level2-socio");
 
-  const mockNumber = (data.history[key] ? data.history[key].length : 0) + 1;
+  const mockNumber = currentHistory.length + 1;
   const path = `data/${folder}/${sel.language}/mock${mockNumber}.json`;
 
   try {
@@ -220,7 +221,7 @@ async function loadMock(data) {
 }
 
 /***********************
- * HISTORY
+ * HISTORY (WITH SAFETY FIX)
  ***********************/
 function showHistory() {
   const user = auth.currentUser;
@@ -235,9 +236,13 @@ function showHistory() {
     const key = sel.level === "level1" ? "level1" : 
                 (sel.stream === "social" ? "level2_social" : "level2_socio");
 
-    if (!data.payments[key]) return alert("Payment required to view history");
+    // ✅ Fix: Use local variables to avoid "undefined" crash
+    const userPayments = data.payments || {};
+    const userHistory = data.history || {};
 
-    if (!data.history[key] || data.history[key].length === 0) {
+    if (!userPayments[key]) return alert("Payment required to view history");
+
+    if (!userHistory[key] || userHistory[key].length === 0) {
       return alert("No test history found yet.");
     }
 
@@ -246,7 +251,7 @@ function showHistory() {
 
     document.getElementById("historyTable").innerHTML =
       "<tr><th>Test</th><th>Score</th></tr>" +
-      data.history[key]
+      userHistory[key]
         .map((s, i) => `<tr><td>Mock ${i + 1}</td><td>${s}</td></tr>`)
         .join("");
   });
@@ -324,9 +329,10 @@ function finishQuiz() {
     const key = sel.level === "level1" ? "level1" : 
                 (sel.stream === "social" ? "level2_social" : "level2_socio");
 
-    if (!data.history[key]) data.history[key] = [];
-    data.history[key].push(score);
-    ref.update({ history: data.history });
+    const history = data.history || {};
+    if (!history[key]) history[key] = [];
+    history[key].push(score);
+    ref.update({ history: history });
   });
 
   hideAll();
