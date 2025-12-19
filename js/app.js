@@ -2,7 +2,7 @@
  * GLOBAL STATE
  ***********************/
 let questions = [];
-let answers = []; // Stores indices of user-selected options
+let answers = [];
 let index = 0;
 let timer;
 let timeLeft = 2400;
@@ -46,230 +46,203 @@ function login() {
         auth.createUserWithEmailAndPassword(email, password)
           .then(res => afterLogin(res.user))
           .catch(e => alert(e.message));
-      } else if (err.code === "auth/wrong-password") {
-        alert("Wrong password");
-      } else {
-        alert(err.message);
-      }
+      } else { alert(err.message); }
     });
 }
 
-function resetPassword() {
-  const email = document.getElementById("email").value.trim();
-  if (!email) return alert("Enter email");
-
-  auth.sendPasswordResetEmail(email)
-    .then(() => alert("Reset email sent"))
-    .catch(err => alert(err.message));
-}
-
-/***********************
- * AFTER LOGIN
- ***********************/
 function afterLogin(user) {
   const ref = db.collection("users").doc(user.uid);
-
   ref.get().then(doc => {
     if (!doc.exists) {
       ref.set({
         email: user.email,
         name: "",
         selection: null,
-        paid: user.email === ADMIN_EMAIL, 
-        history: {
-          level1: [],
-          level2_social: [],
-          level2_socio: []
-        }
-      }).then(() => {
-        hideAll();
-        show("nameSetup");
-      });
-    } else {
-      showDashboard();
-    }
+        paid: user.email === ADMIN_EMAIL,
+        history: { level1: [], level2_social: [], level2_socio: [] }
+      }).then(() => { hideAll(); show("nameSetup"); });
+    } else { showDashboard(); }
   });
 }
 
-/***********************
- * SAVE NAME
- ***********************/
 function saveName() {
   const name = document.getElementById("userNameInput").value.trim();
   if (!name) return alert("Enter name");
-
-  db.collection("users")
-    .doc(auth.currentUser.uid)
-    .update({ name })
-    .then(showDashboard);
+  db.collection("users").doc(auth.currentUser.uid).update({ name }).then(showDashboard);
 }
 
 /***********************
- * DASHBOARD
+ * DASHBOARD & START FLOW
  ***********************/
 function showDashboard() {
   hideAll();
   show("dashboard");
-
   const user = auth.currentUser;
   if (!user) return;
 
   const ref = db.collection("users").doc(user.uid);
   ref.get().then(doc => {
-    if (!doc.exists) return;
     const data = doc.data();
-
     document.getElementById("welcome").innerText = "👋 Welcome, " + (data.name || "User");
     document.getElementById("quoteBox").innerText = getQuote();
     document.getElementById("selectionBox").style.display = data.selection ? "none" : "block";
   });
 
-  const levelSelect = document.getElementById("level");
-  levelSelect.onchange = () => {
-    document.getElementById("stream").style.display = (levelSelect.value === "level2") ? "block" : "none";
+  document.getElementById("level").onchange = () => {
+    document.getElementById("stream").style.display = (document.getElementById("level").value === "level2") ? "block" : "none";
   };
-
   document.getElementById("startTestBtn").onclick = startFlow;
-  
-  const histBtn = document.querySelector("button[onclick='showHistory()']");
-  if (histBtn) histBtn.onclick = showHistory;
 }
 
-/***********************
- * START TEST FLOW
- ***********************/
 function startFlow() {
-  const user = auth.currentUser;
-  if (!user) return alert("User not logged in");
-
-  const ref = db.collection("users").doc(user.uid);
-
+  const ref = db.collection("users").doc(auth.currentUser.uid);
   ref.get().then(doc => {
-    if (!doc.exists) return alert("User data missing");
     const data = doc.data();
-
     if (!data.selection) {
       const level = document.getElementById("level").value;
       const stream = document.getElementById("stream").value;
       const language = document.getElementById("language").value;
-
       if (!level || !language) return alert("Select all options");
-      if (level === "level2" && !stream) return alert("Select stream");
-
-      const selection = {
-        level,
-        stream: level === "level2" ? stream : "",
-        language
-      };
-
-      ref.update({ selection }).then(() => {
-        ref.get().then(updated => loadMock(updated.data()));
-      });
-    } else {
-      loadMock(data);
-    }
+      const selection = { level, stream: level === "level2" ? stream : "", language };
+      ref.update({ selection }).then(() => { loadMock({ ...data, selection }); });
+    } else { loadMock(data); }
   });
 }
 
 /***********************
- * LOAD MOCK
+ * LOAD MOCK (DETAILED ERRORS)
  ***********************/
 async function loadMock(data) {
-  if (!data || !data.selection) return alert("Selection missing");
-
   const sel = data.selection;
-  const key = sel.level === "level1" ? "level1" : 
-              (sel.stream === "social" ? "level2_social" : "level2_socio");
-
-  const isPaid = data.paid === true;
+  const key = sel.level === "level1" ? "level1" : (sel.stream === "social" ? "level2_social" : "level2_socio");
   const history = data.history || {};
-  const currentHistory = history[key] || [];
+  const pastTests = history[key] || [];
 
-  if (!isPaid && currentHistory.length >= 1) {
-    alert("Payment required for more mock tests in this stream.");
-    return;
-  }
+  if (data.paid !== true && pastTests.length >= 1) return alert("Payment required for more mock tests.");
 
-  const folder = sel.level === "level1" ? "level1" : 
-                 (sel.stream === "social" ? "level2-social" : "level2-socio");
-
-  const mockNumber = currentHistory.length + 1;
+  const folder = sel.level === "level1" ? "level1" : (sel.stream === "social" ? "level2-social" : "level2-socio");
+  const mockNumber = pastTests.length + 1;
   const path = `data/${folder}/${sel.language}/mock${mockNumber}.json`;
 
   try {
     const res = await fetch(path);
-    if (!res.ok) throw new Error();
+    if (!res.ok) throw new Error(`Path: ${path}`);
     questions = await res.json();
-  } catch {
-    alert("No more mocks available for this selection.");
-    return;
+    answers = Array(questions.length).fill(null);
+    index = 0; timeLeft = 2400;
+    hideAll(); show("quiz"); startTimer(); render();
+  } catch (err) {
+    alert(`No more mocks available.\nSection: ${folder}\nLanguage: ${sel.language}\nMock No: ${mockNumber}\nChecked: ${path}`);
   }
-
-  answers = Array(questions.length).fill(null);
-  index = 0;
-  timeLeft = 2400;
-
-  hideAll();
-  show("quiz");
-  startTimer();
-  render();
 }
 
 /***********************
- * HISTORY (UPDATED WITH REVIEW BUTTON)
+ * QUIZ & TIMER
  ***********************/
-function showHistory() {
-  const user = auth.currentUser;
-  if (!user) return;
+function render() {
+  document.getElementById("qCounter").innerText = `Q ${index + 1}/${questions.length}`;
+  document.getElementById("question").innerText = questions[index].q;
+  const opts = document.getElementById("options");
+  opts.innerHTML = "";
+  questions[index].options.forEach((opt, i) => {
+    const btn = document.createElement("button");
+    btn.innerText = opt;
+    if (answers[index] === i) btn.classList.add("selected");
+    btn.onclick = () => { answers[index] = i; render(); };
+    opts.appendChild(btn);
+  });
+}
 
-  const ref = db.collection("users").doc(user.uid);
+function nextQ() { if (index < questions.length - 1) { index++; render(); } }
+function prevQ() { if (index > 0) { index--; render(); } }
+
+function startTimer() {
+  updateTime();
+  timer = setInterval(() => {
+    timeLeft--; updateTime();
+    if (timeLeft <= 0) finishQuiz();
+  }, 1000);
+}
+
+function updateTime() {
+  document.getElementById("time").innerText = Math.floor(timeLeft / 60) + ":" + String(timeLeft % 60).padStart(2, "0");
+}
+
+/***********************
+ * FINISH & WAIT MESSAGE
+ ***********************/
+function finishQuiz() {
+  clearInterval(timer);
+  let correctCount = 0, wrongCount = 0;
+  answers.forEach((a, i) => {
+    if (a === questions[i].a) correctCount++;
+    else if (a !== null) wrongCount++;
+  });
+
+  const score = (correctCount - (wrongCount / 3)).toFixed(2);
+  const ref = db.collection("users").doc(auth.currentUser.uid);
+
   ref.get().then(doc => {
     const data = doc.data();
-    if (!data.selection) return alert("You must complete a test first to see history.");
-
     const sel = data.selection;
-    const key = sel.level === "level1" ? "level1" : 
-                (sel.stream === "social" ? "level2_social" : "level2_socio");
-
-    if (data.paid !== true) return alert("Payment required to view history");
-
+    const key = sel.level === "level1" ? "level1" : (sel.stream === "social" ? "level2_social" : "level2_socio");
     const history = data.history || {};
-    const tests = history[key] || [];
+    if (!history[key]) history[key] = [];
+    
+    history[key].push({
+      score: score,
+      date: new Date().toLocaleString(),
+      questions: questions,
+      userAnswers: [...answers]
+    });
 
-    if (tests.length === 0) return alert("No test history found yet.");
-
-    hideAll();
-    show("history");
-
-    document.getElementById("historyTable").innerHTML =
-      "<tr><th>Test</th><th>Score</th><th>Review</th></tr>" +
-      tests.map((test, i) => {
-        // Support both old string scores and new object history
-        const score = typeof test === 'object' ? test.score : test;
-        return `<tr>
-          <td>Mock ${i + 1}</td>
-          <td>${score}</td>
-          <td><button class="primary" onclick="viewReview('${key}', ${i})">Review</button></td>
-        </tr>`;
-      }).join("");
+    ref.update({ history: history }).then(() => {
+      hideAll(); show("result");
+      document.getElementById("finalScore").innerText = `Score: ${score}`;
+      
+      // ✅ SUCCESS MESSAGE WITH WAIT ADVISORY
+      setTimeout(() => {
+        alert("Success! Your test is submitted. Practice takes time; please attempt the next mock after 2-3 hours for better results.");
+      }, 500);
+    });
   });
 }
 
 /***********************
- * TEST REVIEW (NEW)
+ * HISTORY & REVIEW
  ***********************/
+function showHistory() {
+  const ref = db.collection("users").doc(auth.currentUser.uid);
+  ref.get().then(doc => {
+    const data = doc.data();
+    const sel = data.selection;
+    if (!sel) return alert("No selection found");
+    const key = sel.level === "level1" ? "level1" : (sel.stream === "social" ? "level2_social" : "level2_socio");
+    const tests = data.history ? data.history[key] : [];
+
+    hideAll(); show("history");
+    const table = document.getElementById("historyTable");
+    table.innerHTML = `<tr><th>Test</th><th>Score</th><th>Review</th></tr>`;
+    
+    tests.forEach((test, i) => {
+      const row = table.insertRow();
+      const displayScore = typeof test === 'object' ? test.score : test;
+      row.innerHTML = `
+        <td>Mock ${i+1}</td>
+        <td>${displayScore}</td>
+        <td><button class="primary" onclick="viewReview('${key}', ${i})">Review</button></td>
+      `;
+    });
+  });
+}
+
 function viewReview(key, testIndex) {
   const ref = db.collection("users").doc(auth.currentUser.uid);
   ref.get().then(doc => {
     const test = doc.data().history[key][testIndex];
+    if (!test.questions) return alert("Review not available for this record.");
     
-    if (!test.questions || !test.userAnswers) {
-      return alert("Review not available for this older test record.");
-    }
-
-    hideAll();
-    show("review");
-    
+    hideAll(); show("review");
     const container = document.getElementById("reviewContainer");
     container.innerHTML = "";
 
@@ -282,21 +255,18 @@ function viewReview(key, testIndex) {
       
       q.options.forEach((opt, optIdx) => {
         const p = document.createElement("p");
-        p.style.padding = "12px";
-        p.style.margin = "5px 0";
-        p.style.borderRadius = "8px";
+        p.style.padding = "10px";
+        p.style.borderRadius = "5px";
         p.innerText = opt;
 
         if (optIdx === q.a) {
-          // Correct Answer - Green
-          p.style.backgroundColor = "#dcfce7"; 
-          p.style.border = "2px solid #22c55e";
-          p.innerHTML += " ✅ (Correct Answer)";
+          p.style.backgroundColor = "#dcfce7"; // Green Correct
+          p.style.border = "1px solid green";
+          p.innerHTML += " ✅ (Correct)";
         } else if (optIdx === userAns) {
-          // User's Wrong Answer - Red
-          p.style.backgroundColor = "#fee2e2"; 
-          p.style.border = "2px solid #ef4444";
-          p.innerHTML += " ❌ (Your Choice)";
+          p.style.backgroundColor = "#fee2e2"; // Red Wrong
+          p.style.border = "1px solid red";
+          p.innerHTML += " ❌ (Your Answer)";
         } else {
           p.style.backgroundColor = "#f3f4f6";
         }
@@ -308,120 +278,13 @@ function viewReview(key, testIndex) {
 }
 
 /***********************
- * QUIZ LOGIC
- ***********************/
-function render() {
-  document.getElementById("qCounter").innerText = `Q ${index + 1}/${questions.length}`;
-  document.getElementById("question").innerText = questions[index].q;
-
-  const options = document.getElementById("options");
-  options.innerHTML = "";
-
-  questions[index].options.forEach((opt, i) => {
-    const btn = document.createElement("button");
-    btn.innerText = opt;
-    if (answers[index] === i) btn.classList.add("selected");
-    btn.onclick = () => {
-      answers[index] = i;
-      render();
-    };
-    options.appendChild(btn);
-  });
-}
-
-function nextQ() {
-  if (index < questions.length - 1) index++;
-  render();
-}
-
-function prevQ() {
-  if (index > 0) index--;
-  render();
-}
-
-/***********************
- * TIMER
- ***********************/
-function startTimer() {
-  if (timer) clearInterval(timer);
-  updateTime();
-  timer = setInterval(() => {
-    timeLeft--;
-    updateTime();
-    if (timeLeft <= 0) finishQuiz();
-  }, 1000);
-}
-
-function updateTime() {
-  const mins = Math.floor(timeLeft / 60);
-  const secs = String(timeLeft % 60).padStart(2, "0");
-  document.getElementById("time").innerText = `${mins}:${secs}`;
-}
-
-/***********************
- * FINISH QUIZ (UPDATED TO SAVE REVIEW DATA)
- ***********************/
-function finishQuiz() {
-  clearInterval(timer);
-
-  let correct = 0, wrong = 0;
-  answers.forEach((a, i) => {
-    if (a === questions[i].a) correct++;
-    else if (a !== null) wrong++;
-  });
-
-  const score = (correct - (wrong / 3)).toFixed(2);
-
-  const ref = db.collection("users").doc(auth.currentUser.uid);
-  ref.get().then(doc => {
-    const data = doc.data();
-    const sel = data.selection;
-    const key = sel.level === "level1" ? "level1" : 
-                (sel.stream === "social" ? "level2_social" : "level2_socio");
-
-    const history = data.history || {};
-    if (!history[key]) history[key] = [];
-    
-    // ✅ SAVE FULL TEST DETAILS FOR REVIEW
-    history[key].push({
-      score: score,
-      questions: questions, // Store questions used in this specific test
-      userAnswers: [...answers], // Store what user marked
-      date: new Date().toLocaleString()
-    });
-
-    ref.update({ history: history });
-  });
-
-  hideAll();
-  show("result");
-  document.getElementById("finalScore").innerText = `Score: ${score}/${questions.length}`;
-  document.getElementById("finalMsg").innerText = "Test submitted successfully";
-}
-
-/***********************
  * HELPERS
  ***********************/
 function hideAll() {
-  ["login","nameSetup","dashboard","quiz","result","history","review"]
-    .forEach(id => {
-      const el = document.getElementById(id);
-      if (el) el.style.display = "none";
-    });
+  ["login","nameSetup","dashboard","quiz","result","history","review"].forEach(id => {
+    const el = document.getElementById(id); if (el) el.style.display = "none";
+  });
 }
+function show(id) { const el = document.getElementById(id); if (el) el.style.display = "block"; }
 
-function show(id) {
-  const el = document.getElementById(id);
-  if (el) el.style.display = "block";
-}
-
-/***********************
- * AUTO LOGIN
- ***********************/
-auth.onAuthStateChanged(user => {
-  if (user) showDashboard();
-  else {
-    hideAll();
-    show("login");
-  }
-});
+auth.onAuthStateChanged(user => { if (user) showDashboard(); else { hideAll(); show("login"); } });
