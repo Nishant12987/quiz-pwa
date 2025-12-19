@@ -96,52 +96,52 @@
     "explanation": "प्राचीन का सबसे उपयुक्त विलोम 'अर्वाचीन' (Modern) होता है।"
   },
   {
-    "q": "वाक्य में 'Adjective' पहचानें: 'The blue umbrella belongs to me.'",
+    "q": "Identify the 'Adjective' in the sentence: 'The blue umbrella belongs to me.'",
     "options": ["Umbrella", "Belongs", "Me", "Blue"],
     "a": 3,
-    "explanation": "Adjective संज्ञा की विशेषता बताता है; 'blue' यहाँ 'umbrella' के बारे में बता रहा है।"
+    "explanation": "An adjective describes a noun; 'blue' tells us about the 'umbrella'."
   },
   {
-    "q": "इनमें से कौन सा भाषा शिक्षण का सिद्धांत नहीं है?",
-    "options": ["अभिप्रेरणा का सिद्धांत", "आदत निर्माण का सिद्धांत", "रटकर याद करने का सिद्धांत", "मौखिक दृष्टिकोण का सिद्धांत"],
+    "q": "Which of the following is NOT a principle of language teaching?",
+    "options": ["Principle of motivation", "Principle of habit formation", "Principle of rote learning", "Principle of oral approach"],
     "a": 2,
-    "explanation": "आधुनिक शिक्षण पद्धति रटकर याद करने को हतोत्साहित करती है और प्राकृतिक सीखने का पक्ष लेती है।"
+    "explanation": "Modern teaching methods discourage rote learning and favor natural, meaningful acquisition."
   },
   {
-    "q": "गलती पहचानें: 'Each of the students (A) have (B) submitted (C) the assignment (D).'",
+    "q": "Identify the error: 'Each of the students (A) have (B) submitted (C) the assignment (D).'",
     "options": ["A", "B", "C", "D"],
     "a": 1,
-    "explanation": "'Each' एकवचन है। क्रिया 'have' के स्थान पर 'has' होनी चाहिए।"
+    "explanation": "'Each' is singular. The verb should be 'has' instead of 'have'."
   },
   {
-    "q": "वाक्य में 'Subject' पहचानें: 'On the top of the hill lives a hermit.'",
+    "q": "Identify the 'Subject' in the sentence: 'On the top of the hill lives a hermit.'",
     "options": ["The hill", "The top", "A hermit", "Lives"],
     "a": 2,
-    "explanation": "वाक्य उल्टा लिखा गया है; 'a hermit' (संन्यासी) वह व्यक्ति है जो रह रहा है, इसलिए वही विषय (Subject) है।"
+    "explanation": "The sentence is inverted; 'a hermit' is the person who is performing the action of living, thus it is the subject."
   },
   {
-    "q": "ध्वन्यात्मकता (Phonetics) में इनमें से कौन सा 'Vowel Sound' प्रतीक है?",
+    "q": "In Phonetics, which of the following is a 'Vowel Sound' symbol?",
     "options": ["/p/", "/b/", "/e/", "/t/"],
     "a": 2,
-    "explanation": "/p/, /b/, और /t/ व्यंजन ध्वनियाँ हैं; /e/ स्वर ध्वनि का प्रतिनिधित्व करता है।"
+    "explanation": "/p/, /b/, and /t/ are consonant sounds; /e/ represents a vowel sound."
   },
   {
-    "q": "'Call it a day' मुहावरे का अर्थ है:",
-    "options": ["काम शुरू करना", "किसी काम को बंद कर देना", "जल्दी जागना", "जश्न मनाना"],
+    "q": "The idiom 'Call it a day' means:",
+    "options": ["To start working", "To stop doing something", "To wake up early", "To celebrate"],
     "a": 1,
-    "explanation": "यह मुहावरा तब उपयोग किया जाता है जब आप दिन भर के लिए काम रोकने का फैसला करते हैं।"
+    "explanation": "This idiom is used when you decide to stop working for the rest of the day."
   },
   {
-    "q": "सही 'Question Tag' चुनें: 'You are a student, ________?'",
+    "q": "Choose the correct 'Question Tag': 'You are a student, ________?'",
     "options": ["don't you", "aren't you", "are you", "isn't it"],
     "a": 1,
-    "explanation": "'Are' के साथ सकारात्मक वाक्य में नकारात्मक टैग 'aren't you?' लगता है।"
+    "explanation": "A positive statement with 'are' takes the negative tag 'aren't you?'."
   },
   {
-    "q": "रिक्त स्थान भरें: 'I have been living here ________ 2010.'",
+    "q": "Fill in the blank: 'I have been living here ________ 2010.'",
     "options": ["for", "since", "from", "during"],
     "a": 1,
-    "explanation": "Present Perfect Continuous में समय के एक निश्चित बिंदु के लिए 'since' का उपयोग किया जाता है।"
+    "explanation": "In Present Perfect Continuous, 'since' is used for a specific point in time."
   },
   {
     "q": "0.5 + 0.05 + 0.005 का मान क्या है?",
@@ -195,7 +195,7 @@
     "q": "निम्नलिखित में से कौन विटामिन A का स्रोत है?",
     "options": ["गाजर", "नींबू", "आंवला", "चावल"],
     "a": 0,
-    "explanation": "गाजर बीटा-कैरोटीन से भरपूर होती है, जिसे शरीर विटामिन A में बदल देता है (आंखों की रोशनी के लिए जरूरी)।"
+    "explanation": "गाजर बीटा-कैरोटीन से भरपूर होती है, जिसे शरीर विटामिन A में बदल देता है।"
   },
   {
     "q": "चींटियों के समूह को क्या कहा जाता है?",
@@ -219,7 +219,7 @@
     "q": "पौधे का कौन सा भाग मिट्टी से पानी सोखता है?",
     "options": ["तना", "पत्ती", "जड़", "फूल"],
     "a": 2,
-    "explanation": "जड़ों में मूल रोम (root hairs) होते हैं जो परासरण के माध्यम से पानी और खनिजों को सोखते हैं।"
+    "explanation": "जड़ों में मूल रोम (root hairs) होते हैं जो मिट्टी से पानी और खनिजों को सोखते हैं।"
   },
   {
     "q": "'चिपको आंदोलन' किसकी रक्षा के लिए शुरू किया गया था?",
