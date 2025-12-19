@@ -1,0 +1,242 @@
+[
+  {
+    "q": "Growth proceed from center to extremities—this is:",
+    "options": ["Cephalocaudal", "Proximodistal", "Continuity", "Spiral"],
+    "a": 1,
+    "explanation": "Proximodistal describes inner-to-outer growth."
+  },
+  {
+    "q": "What is 'Object Permanence'?",
+    "options": ["Understanding objects are physical", "Knowing objects exist even when hidden", "Believing objects have life", "Ignoring objects"],
+    "a": 1,
+    "explanation": "A milestone of sensory-motor stage."
+  },
+  {
+    "q": "Kohlberg's level where rules are followed for social approval:",
+    "options": ["Pre-conventional", "Conventional", "Post-conventional", "Pre-operational"],
+    "a": 1,
+    "explanation": "Conventional level focuses on pleasing others and following norms."
+  },
+  {
+    "q": "Spatial Intelligence is found in high levels in:",
+    "options": ["Poets", "Architects", "Singers", "Athletes"],
+    "a": 1,
+    "explanation": "It involves visualizing 3D space."
+  },
+  {
+    "q": "Vygotsky's ZPD is the distance between actual and ________ development.",
+    "options": ["Past", "Potential", "Future", "Zero"],
+    "a": 1,
+    "explanation": "Potential development is reached with help."
+  },
+  {
+    "q": "Operant conditioning uses ________ to change behavior.",
+    "options": ["Senses", "Consequences", "Logic", "Instincts"],
+    "a": 1,
+    "explanation": "Skinner used reinforcement and punishment."
+  },
+  {
+    "q": "Dyslexia affects which skill?",
+    "options": ["Math", "Running", "Reading", "Socializing"],
+    "a": 2,
+    "explanation": "It is a specific reading disability."
+  },
+  {
+    "q": "Continuous and Comprehensive Evaluation was introduced to:",
+    "options": ["Help teachers", "Rank students", "Assess all aspects", "Reduce school hours"],
+    "a": 2,
+    "explanation": "It looks at academic and non-academic growth."
+  },
+  {
+    "q": "What is 'Intrinsic Motivation'?",
+    "options": ["Doing for reward", "Doing for interest", "Doing because of fear", "Doing for grades"],
+    "a": 1,
+    "explanation": "Driven by internal satisfaction."
+  },
+  {
+    "q": "Constructivism suggests that learning is:",
+    "options": ["Passive", "Active", "Mechanical", "Automatic"],
+    "a": 1,
+    "explanation": "Learners actively build knowledge."
+  },
+  {
+    "q": "Punishment is used to ________ a behavior.",
+    "options": ["Increase", "Decrease", "Maintain", "Reward"],
+    "a": 1,
+    "explanation": "Punishment aims to stop undesirable behavior."
+  },
+  {
+    "q": "'परोपकार' का संधि-विच्छेद है:",
+    "options": ["पर + उपकार", "परो + पकार", "परौ + पकार", "परो + उपकार"],
+    "a": 0,
+    "explanation": "पर + उपकार गुण संधि है।"
+  },
+  {
+    "q": "'रात-दिन' में समास है:",
+    "options": ["तत्पुरुष", "द्विगु", "द्वंद्व", "बहुव्रीहि"],
+    "a": 2,
+    "explanation": "जहाँ विलोम या पूरक शब्द हों।"
+  },
+  {
+    "q": "'शुभ' का विलोम शब्द है:",
+    "options": ["अशुभ", "बुरा", "खराब", "गलत"],
+    "a": 0,
+    "explanation": "शुभ vs अशुभ।"
+  },
+  {
+    "q": "'हाथ पाँव फूलना' मुहावरे का अर्थ है:",
+    "options": ["बीमार होना", "घबरा जाना", "मोटा होना", "थक जाना"],
+    "a": 1,
+    "explanation": "अत्यधिक डर या घबराहट होना।"
+  },
+  {
+    "q": "शुद्ध वर्तनी है:",
+    "options": ["कवियित्री", "कवयित्री", "कवयत्री", "कवियत्री"],
+    "a": 1,
+    "explanation": "कवयित्री शुद्ध रूप है।"
+  },
+  {
+    "q": "'कमल' का पर्यायवाची नहीं है:",
+    "options": ["जलज", "पंकज", "नीरज", "जलद"],
+    "a": 3,
+    "explanation": "जलद बादल है।"
+  },
+  {
+    "q": "हिंदी भाषा की लिपि क्या है?",
+    "options": ["देवनागरी", "रोमन", "गुरुमुखी", "फारसी"],
+    "a": 0,
+    "explanation": "हिंदी देवनागरी लिपि में लिखी जाती है।"
+  },
+  {
+    "q": "Identify the 'Adjective' in: 'The red ball is big.'",
+    "options": ["The", "Ball", "Red", "Is"],
+    "a": 2,
+    "explanation": "Red describes the color of the ball."
+  },
+  {
+    "q": "Choose the correct article: 'He has ________ umbrella.'",
+    "options": ["a", "an", "the", "No article"],
+    "a": 1,
+    "explanation": "Umbrella starts with a vowel sound."
+  },
+  {
+    "q": "What is the plural of 'Life'?",
+    "options": ["Lifes", "Lifey", "Lives", "Life's"],
+    "a": 2,
+    "explanation": "-fe changes to -ves."
+  },
+  {
+    "q": "Identify the 'Verb' in: 'The fish swims.'",
+    "options": ["The", "Fish", "Swims", "Fish swims"],
+    "a": 2,
+    "explanation": "Swims is the action."
+  },
+  {
+    "q": "What is the synonym of 'Fast'?",
+    "options": ["Quick", "Slow", "Hard", "Soft"],
+    "a": 0,
+    "explanation": "Quick means fast."
+  },
+  {
+    "q": "Choose the correctly spelled word:",
+    "options": ["Receive", "Recieve", "Receve", "Receiv"],
+    "a": 0,
+    "explanation": "Receive is the correct spelling."
+  },
+  {
+    "q": "A person who teaches is a:",
+    "options": ["Doctor", "Engineer", "Teacher", "Nurse"],
+    "a": 2,
+    "explanation": "Teacher is the professional who educates."
+  },
+  {
+    "q": "What is the place value of 2 in 200?",
+    "options": ["2", "20", "200", "0"],
+    "a": 2,
+    "explanation": "2 is in the hundreds place."
+  },
+  {
+    "q": "How many centimeters are in 2 meters?",
+    "options": ["20", "200", "2000", "2"],
+    "a": 1,
+    "explanation": "2 * 100 = 200cm."
+  },
+  {
+    "q": "Sum of 50 + 50 is:",
+    "options": ["80", "100", "120", "140"],
+    "a": 1,
+    "explanation": "50 + 50 = 100."
+  },
+  {
+    "q": "Perimeter of a square with side 3cm:",
+    "options": ["6", "9", "12", "15"],
+    "a": 2,
+    "explanation": "4 * 3 = 12."
+  },
+  {
+    "q": "What is 1/2 of 20?",
+    "options": ["5", "10", "15", "20"],
+    "a": 1,
+    "explanation": "20 / 2 = 10."
+  },
+  {
+    "q": "How many sides does a circle have?",
+    "options": ["0", "1", "2", "3"],
+    "a": 0,
+    "explanation": "A circle has no straight sides."
+  },
+  {
+    "q": "50 - 25 is:",
+    "options": ["15", "20", "25", "30"],
+    "a": 2,
+    "explanation": "50 - 25 = 25."
+  },
+  {
+    "q": "How many months are in a year?",
+    "options": ["10", "11", "12", "13"],
+    "a": 2,
+    "explanation": "There are 12 months."
+  },
+  {
+    "q": "What is 3 x 3?",
+    "options": ["6", "9", "12", "15"],
+    "a": 1,
+    "explanation": "3 * 3 = 9."
+  },
+  {
+    "q": "Smallest whole number is:",
+    "options": ["0", "1", "2", "3"],
+    "a": 0,
+    "explanation": "Whole numbers start from 0."
+  },
+  {
+    "q": "Which part of the plant gives flowers?",
+    "options": ["Root", "Stem", "Leaf", "Bud"],
+    "a": 3,
+    "explanation": "Buds bloom into flowers."
+  },
+  {
+    "q": "The Earth moves around the:",
+    "options": ["Moon", "Sun", "Mars", "Stars"],
+    "a": 1,
+    "explanation": "Earth revolves around the Sun."
+  },
+  {
+    "q": "Which sense organ is for touch?",
+    "options": ["Skin", "Eye", "Ear", "Nose"],
+    "a": 0,
+    "explanation": "Skin feels touch."
+  },
+  {
+    "q": "We get milk from:",
+    "options": ["Hen", "Cow", "Dog", "Cat"],
+    "a": 1,
+    "explanation": "Cows give milk."
+  },
+  {
+    "q": "National Fruit of India is:",
+    "options": ["Apple", "Mango", "Banana", "Orange"],
+    "a": 1,
+    "explanation": "Mango is the national fruit."
+  }
+]
