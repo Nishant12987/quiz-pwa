@@ -32,18 +32,26 @@ function getQuote() {
  * AUTH
  ***********************/
 function login() {
+  const agree = document.getElementById("agree");
+  const emailEl = document.getElementById("email");
+  const passwordEl = document.getElementById("password");
+
   if (!agree.checked) return alert("Accept policies");
 
-  const email = emailInput.value.trim();
-  const password = passwordInput.value.trim();
+  const email = emailEl.value.trim();
+  const password = passwordEl.value.trim();
+
   if (!email || !password) return alert("Enter email & password");
 
-  auth.signInWithEmailAndPassword(email, password)
+  auth
+    .signInWithEmailAndPassword(email, password)
     .then(res => afterLogin(res.user))
     .catch(err => {
       if (err.code === "auth/user-not-found") {
-        auth.createUserWithEmailAndPassword(email, password)
-          .then(res => afterLogin(res.user));
+        auth
+          .createUserWithEmailAndPassword(email, password)
+          .then(res => afterLogin(res.user))
+          .catch(e => alert(e.message));
       } else if (err.code === "auth/wrong-password") {
         alert("Wrong password");
       } else {
@@ -53,10 +61,13 @@ function login() {
 }
 
 function resetPassword() {
-  const email = emailInput.value.trim();
+  const email = document.getElementById("email").value.trim();
   if (!email) return alert("Enter email");
-  auth.sendPasswordResetEmail(email)
-    .then(() => alert("Reset email sent"));
+
+  auth
+    .sendPasswordResetEmail(email)
+    .then(() => alert("Reset email sent"))
+    .catch(err => alert(err.message));
 }
 
 /***********************
@@ -91,10 +102,10 @@ function afterLogin(user) {
 }
 
 /***********************
- * SAVE NAME (ONLY ONCE)
+ * SAVE NAME
  ***********************/
 function saveName() {
-  const name = userNameInput.value.trim();
+  const name = document.getElementById("userNameInput").value.trim();
   if (!name) return alert("Enter name");
 
   db.collection("users")
@@ -113,19 +124,19 @@ function showDashboard() {
   const ref = db.collection("users").doc(auth.currentUser.uid);
   ref.get().then(doc => {
     const data = doc.data();
-    welcome.innerText = "👋 Welcome, " + data.name;
-    quoteBox.innerText = getQuote();
+    document.getElementById("welcome").innerText =
+      "👋 Welcome, " + data.name;
+    document.getElementById("quoteBox").innerText = getQuote();
 
-    // 🔒 Selection only once
-    if (data.selection) {
-      selectionBox.style.display = "none";
-    } else {
-      selectionBox.style.display = "block";
-    }
+    document.getElementById("selectionBox").style.display =
+      data.selection ? "none" : "block";
   });
 
-  level.onchange = () => {
-    stream.style.display = level.value === "level2" ? "block" : "none";
+  document.getElementById("level").onchange = () => {
+    document.getElementById("stream").style.display =
+      document.getElementById("level").value === "level2"
+        ? "block"
+        : "none";
   };
 }
 
@@ -138,17 +149,18 @@ function startFlow() {
   ref.get().then(doc => {
     const data = doc.data();
 
-    // First-time selection only
     if (!data.selection) {
-      if (!level.value || !language.value)
-        return alert("Select all options");
-      if (level.value === "level2" && !stream.value)
-        return alert("Select stream");
+      const level = document.getElementById("level").value;
+      const stream = document.getElementById("stream").value;
+      const language = document.getElementById("language").value;
+
+      if (!level || !language) return alert("Select all options");
+      if (level === "level2" && !stream) return alert("Select stream");
 
       data.selection = {
-        level: level.value,
-        stream: level.value === "level2" ? stream.value : "",
-        language: language.value
+        level,
+        stream: level === "level2" ? stream : "",
+        language
       };
 
       ref.update({ selection: data.selection });
@@ -171,7 +183,6 @@ async function loadMock(data) {
       ? "level2_social"
       : "level2_socio";
 
-  // 🔒 Payment gate (stream locked)
   if (!data.payments[key] && data.history[key].length >= 1) {
     alert("Payment required for this stream");
     return;
@@ -188,6 +199,7 @@ async function loadMock(data) {
 
   try {
     const res = await fetch(path);
+    if (!res.ok) throw new Error();
     questions = await res.json();
   } catch {
     alert("No more mocks available");
@@ -230,7 +242,7 @@ function showHistory() {
     hideAll();
     show("history");
 
-    historyTable.innerHTML =
+    document.getElementById("historyTable").innerHTML =
       "<tr><th>Test</th><th>Score</th></tr>" +
       data.history[key]
         .map((s, i) => `<tr><td>Mock ${i + 1}</td><td>${s}</td></tr>`)
@@ -242,8 +254,13 @@ function showHistory() {
  * QUIZ LOGIC
  ***********************/
 function render() {
-  qCounter.innerText = `Q ${index + 1}/${questions.length}`;
-  question.innerText = questions[index].q;
+  document.getElementById("qCounter").innerText =
+    `Q ${index + 1}/${questions.length}`;
+
+  document.getElementById("question").innerText =
+    questions[index].q;
+
+  const options = document.getElementById("options");
   options.innerHTML = "";
 
   questions[index].options.forEach((opt, i) => {
@@ -281,7 +298,7 @@ function startTimer() {
 }
 
 function updateTime() {
-  time.innerText =
+  document.getElementById("time").innerText =
     Math.floor(timeLeft / 60) +
     ":" +
     String(timeLeft % 60).padStart(2, "0");
@@ -320,8 +337,10 @@ function finishQuiz() {
   hideAll();
   show("result");
 
-  finalScore.innerText = `Score: ${score}/40`;
-  finalMsg.innerText = "Test submitted successfully";
+  document.getElementById("finalScore").innerText =
+    `Score: ${score}/40`;
+  document.getElementById("finalMsg").innerText =
+    "Test submitted successfully";
 }
 
 /***********************
@@ -329,11 +348,15 @@ function finishQuiz() {
  ***********************/
 function hideAll() {
   ["login","nameSetup","dashboard","quiz","result","history"]
-    .forEach(id => document.getElementById(id).style.display = "none");
+    .forEach(id => {
+      const el = document.getElementById(id);
+      if (el) el.style.display = "none";
+    });
 }
 
 function show(id) {
-  document.getElementById(id).style.display = "block";
+  const el = document.getElementById(id);
+  if (el) el.style.display = "block";
 }
 
 /***********************
