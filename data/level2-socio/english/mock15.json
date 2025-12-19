@@ -3,7 +3,7 @@
     "q": "Which psychologist developed the concept of 'Mental Age'?",
     "options": ["Alfred Binet", "Lewis Terman", "David Wechsler", "Robert Sternberg"],
     "a": 0,
-    "explanation": "Alfred Binet introduced the concept to identify special education needs."
+    "explanation": "Alfred Binet introduced the concept to identify children needing special education."
   },
   {
     "q": "The 'Trial and Error' theory of learning was experimented using a:",
@@ -15,13 +15,13 @@
     "q": "At which stage of Piaget's development do children exhibit 'Egocentrism'?",
     "options": ["Sensory-motor", "Pre-operational", "Concrete operational", "Formal operational"],
     "a": 1,
-    "explanation": "Children struggle to see things from others' perspectives."
+    "explanation": "In the pre-operational stage, children struggle to see things from others' perspectives."
   },
   {
     "q": "What is 'ZPD' in Vygotsky's theory?",
     "options": ["Zone of Personal Development", "Zone of Proximal Development", "Zero Proximity Distance", "Zone of Progressive Development"],
     "a": 1,
-    "explanation": "ZPD is the range of tasks a child can perform with help."
+    "explanation": "ZPD is the range of tasks that a child can perform with help."
   },
   {
     "q": "Which personality trait involves 'Outgoing and Social' behavior?",
@@ -33,11 +33,11 @@
     "q": "The 'Heuristic' method is also known as the:",
     "options": ["Lecture method", "Discovery method", "Demonstration method", "Storytelling method"],
     "a": 1,
-    "explanation": "Heuristic learning encourages students to find things out."
+    "explanation": "Heuristic learning encourages students to find out things for themselves."
   },
   {
     "q": "Which of the following is an example of 'Extrinsic Motivation'?",
-    "options": ["Curiosity", "Self-satisfaction", "Receiving a gold medal", "Love for a subject"],
+    "options": ["Curiosity", "Self-satisfaction", "Receiving a gold medal for a task", "Love for a subject"],
     "a": 2,
     "explanation": "Extrinsic motivation is driven by external rewards."
   },
@@ -45,67 +45,109 @@
     "q": "'Learning by Doing' is the main principle of:",
     "options": ["Naturalism", "Pragmatism", "Idealism", "Realism"],
     "a": 1,
-    "explanation": "Pragmatism emphasizes practical experience."
+    "explanation": "Pragmatism (John Dewey) emphasizes practical experience and utility."
   },
   {
     "q": "Which assessment is conducted to identify specific 'Learning Difficulties'?",
     "options": ["Summative", "Placement", "Diagnostic", "Aptitude"],
     "a": 2,
-    "explanation": "Diagnostic assessment pinpoint areas where student struggles."
+    "explanation": "Diagnostic assessment helps pinpoint specific areas where a student struggles."
   },
   {
     "q": "The concept of 'IQ' (Intelligence Quotient) was first introduced by:",
     "options": ["William Stern", "Lewis Terman", "Francis Galton", "Charles Spearman"],
     "a": 0,
-    "explanation": "William Stern proposed the formula; Terman popularized it."
+    "explanation": "William Stern proposed the IQ formula; Terman later popularized it."
   },
   {
     "q": "What is the primary role of a teacher in a 'Constructivist' classroom?",
     "options": ["Dictator", "Facilitator", "Passive observer", "Lecturer"],
     "a": 1,
-    "explanation": "The teacher guides as students build knowledge."
+    "explanation": "The teacher guides and supports students as they build their own knowledge."
   },
   {
-    "q": "sooryoday mein kaun si sandhi hai?",
-    "options": ["deergh sandhi", "gun sandhi", "vriddhi sandhi", "yan sandhi"],
+    "q": "'सूर्योदय' में कौन सी संधि है?",
+    "options": ["दीर्घ संधि", "गुण संधि", "वृद्धि संधि", "यण संधि"],
     "a": 1,
-    "explanation": "soory + uday = sooryoday (a + u = o, gun sandhi)."
+    "explanation": "सूर्य + उदय = सूर्योदय (अ + उ = ओ, गुण संधि)।"
   },
   {
-    "q": "dashaanan mein kaun sa samaas hai?",
-    "options": ["dvigu", "dvandv", "bahuvrihi", "tatpurush"],
+    "q": "'दशानन' में कौन सा समास है?",
+    "options": ["द्विगु", "द्वंद्व", "बहुव्रीहि", "तत्पुरुष"],
     "a": 2,
-    "explanation": "Das hain aanan jiske (ravana), bahuvrihi samas."
+    "explanation": "दस हैं आनन (मुख) जिसके (रावण), तीसरा अर्थ प्रधान होने से बहुव्रीहि समास है।"
   },
   {
-    "q": "aadi ka vilom shabd hai:",
-    "options": ["ant", "anaadi", "madhya", "shuruaat"],
+    "q": "'आदि' का विलोम शब्द है:",
+    "options": ["अंत", "अनादि", "मध्य", "शुरुआत"],
     "a": 0,
-    "explanation": "Aadi (start) opposite is Ant (end)."
+    "explanation": "आदि का अर्थ आरंभ होता है, जिसका विलोम अंत है।"
   },
   {
-    "q": "aasamaan par chadhaana muhaavre ka arth hai:",
-    "options": ["atyadhik prashansa karana", "kathin kaary karana", "bahut ooncha udana", "paagal ho jaana"],
+    "q": "'आसमान पर चढ़ाना' मुहावरे का अर्थ है:",
+    "options": ["अत्यधिक प्रशंसा करना", "कठिन कार्य करना", "बहुत ऊँचा उड़ना", "पागल हो जाना"],
     "a": 0,
-    "explanation": "It means to praise someone excessively."
+    "explanation": "इसका अर्थ है किसी की बहुत ज्यादा तारीफ करना।"
   },
   {
-    "q": "nimnalikhit mein se shuddh shabd hai:",
-    "options": ["aashirvaad", "aashirvaad", "ashirvaad", "aasirvaad"],
+    "q": "निम्नलिखित में से 'शुद्ध' शब्द है:",
+    "options": ["आशीर्वाद", "आशिर्वाद", "अशीर्वाद", "आसीर्वाद"],
     "a": 0,
-    "explanation": "Correct spelling is Aashirvaad."
+    "explanation": "सही वर्तनी 'आशीर्वाद' है।"
   },
   {
-    "q": "hava ka paryayavaachi shabd nahin hai:",
-    "options": ["sameer", "pavan", "anal", "vaayu"],
+    "q": "'हवा' का पर्यायवाची शब्द नहीं है:",
+    "options": ["समीर", "पवन", "अनल", "वायु"],
     "a": 2,
-    "explanation": "Anal means fire."
+    "explanation": "'अनल' आग का पर्यायवाची है।"
   },
   {
-    "q": "bhaasha shikshan ki pratyaksh vidhi (direct method) mein kis par bal diya jaata hai?",
-    "options": ["anuvaad par", "vyaakaran ke niyamom par", "maukshik abhyaas par", "maatribhaasha ke prayog par"],
+    "q": "भाषा शिक्षण की 'प्रत्यक्ष विधि' (Direct Method) में किस पर बल दिया जाता है?",
+    "options": ["अनुवाद पर", "व्याकरण के नियमों पर", "मौखिक अभ्यास पर", "मातृभाषा के प्रयोग पर"],
     "a": 2,
-    "explanation": "Direct Method focuses on speaking and oral practice."
+    "explanation": "प्रत्यक्ष विधि में सीधे लक्ष्य भाषा में वार्तालाप पर बल दिया जाता है।"
+  },
+  {
+    "q": "What is the 'Adjective' in the sentence: 'The brave soldier won.'?",
+    "options": ["The", "Brave", "Soldier", "Won"],
+    "a": 1,
+    "explanation": "'Brave' describes the noun 'soldier'."
+  },
+  {
+    "q": "Choose the correctly spelled word:",
+    "options": ["Maintenance", "Maintenence", "Maintanence", "Maintenanse"],
+    "a": 0,
+    "explanation": "The correct spelling is 'Maintenance'."
+  },
+  {
+    "q": "Identify the 'Pronoun' in: 'They are playing.'",
+    "options": ["They", "Are", "Playing", "None"],
+    "a": 0,
+    "explanation": "'They' is a personal pronoun."
+  },
+  {
+    "q": "What is the feminine gender of 'Bachelor'?",
+    "options": ["Spinster", "Nun", "Baroness", "Widow"],
+    "a": 0,
+    "explanation": "Spinster is the feminine equivalent of a bachelor."
+  },
+  {
+    "q": "Choose the correct preposition: 'The cat is ________ the table.'",
+    "options": ["in", "under", "between", "into"],
+    "a": 1,
+    "explanation": "'Under' indicates the position beneath the table."
+  },
+  {
+    "q": "Select the correct plural of 'Mouse':",
+    "options": ["Mouses", "Mice", "Mices", "Mousess"],
+    "a": 1,
+    "explanation": "Mice is an irregular plural form."
+  },
+  {
+    "q": "The phrase 'Call it a day' means:",
+    "options": ["To start working", "To stop working on something", "To wake up early", "To celebrate"],
+    "a": 1,
+    "explanation": "It means to decide to stop doing something for the rest of the day."
   },
   {
     "q": "What is the value of sqrt(0.0064)?",
