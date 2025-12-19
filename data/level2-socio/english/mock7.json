@@ -3,151 +3,151 @@
     "q": "Which of the following is an example of 'Proximo-distal' development?",
     "options": ["Growth from head to toe", "Control of arms before fingers", "General to specific response", "Mental to physical growth"],
     "a": 1,
-    "explanation": "Proximo-distal development means growth starts from the center of the body."
+    "explanation": "Proximo-distal development means growth starts from the center of the body and moves toward the extremities."
   },
   {
     "q": "The concept of 'Latent Learning' was introduced by:",
     "options": ["Edward Tolman", "B.F. Skinner", "Ivan Pavlov", "Albert Bandura"],
     "a": 0,
-    "explanation": "Tolman suggested that learning can occur without immediate reinforcement."
+    "explanation": "Tolman suggested that learning can occur without immediate reinforcement and may not be demonstrated until needed."
   },
   {
     "q": "At which stage of Piaget's theory does 'Transductive Reasoning' occur?",
     "options": ["Sensory-motor", "Pre-operational", "Concrete operational", "Formal operational"],
     "a": 1,
-    "explanation": "In the pre-operational stage, children link two specific events."
+    "explanation": "In the pre-operational stage, children often link two specific events that occur close together in time, even if not related."
   },
   {
     "q": "According to Kohlberg, 'Universal Ethical Principle' is which stage of morality?",
     "options": ["Stage 3", "Stage 4", "Stage 5", "Stage 6"],
     "a": 3,
-    "explanation": "Stage 6 is the highest level of morality."
+    "explanation": "Stage 6 is the highest level where individuals follow self-chosen ethical principles."
   },
   {
     "q": "Which of the following is a 'Social' motive?",
     "options": ["Hunger", "Thirst", "Achievement", "Sleep"],
     "a": 2,
-    "explanation": "Achievement is considered a secondary or social motive."
+    "explanation": "Achievement, affiliation, and power are considered secondary or social motives."
   },
   {
     "q": "The 'Alphabet Method' of teaching reading is also known as:",
     "options": ["Phonic method", "Word method", "Literal method", "Sentence method"],
     "a": 2,
-    "explanation": "The literal method involves teaching names and shapes of letters."
+    "explanation": "The literal method involves teaching the names and shapes of letters first."
   },
   {
     "q": "Who is the proponent of 'Functionalism' in psychology?",
     "options": ["William James", "Wilhelm Wundt", "Sigmund Freud", "Kurt Lewin"],
     "a": 0,
-    "explanation": "William James is considered the father of functionalism."
+    "explanation": "William James is considered the father of functionalism, focusing on how the mind functions to adapt to the environment."
   },
   {
     "q": "A teacher uses 'Scaffolding' to help a student solve a puzzle. This support is:",
     "options": ["Permanent", "Temporary", "Unnecessary", "Distracting"],
     "a": 1,
-    "explanation": "Scaffolding is temporary support until the learner can perform alone."
+    "explanation": "Scaffolding (Vygotsky) is temporary support provided until the learner can perform the task independently."
   },
   {
     "q": "Which IQ range represents 'Borderline' intelligence?",
     "options": ["110-119", "90-109", "70-79", "Below 70"],
     "a": 2,
-    "explanation": "70-79 is typically classified as borderline."
+    "explanation": "70-79 is typically classified as borderline, just above the range for intellectual disability."
   },
   {
     "q": "The 'Creative' child is usually characterized by:",
     "options": ["High Rote Memory", "Divergent Thinking", "Convergent Thinking", "Strict Obedience"],
     "a": 1,
-    "explanation": "Creativity is strongly linked to divergent thinking."
+    "explanation": "Creativity is strongly linked to divergent thinking—the ability to find multiple solutions."
   },
   {
     "q": "What is the role of 'Play' in childhood development?",
     "options": ["Waste of time", "Only for physical exercise", "Cognitive, social, and emotional growth", "Preparation for sports only"],
     "a": 2,
-    "explanation": "Play is essential for holistic development."
+    "explanation": "Play is essential for holistic development including social skills and problem-solving."
   },
   {
-    "q": "naayak shabd ka streeling roop kya hai?",
-    "options": ["naayakee", "naayika", "naayikee", "naayaka"],
+    "q": "'नायक' शब्द का स्त्रीलिंग रूप क्या है?",
+    "options": ["नायकी", "नायिका", "नायिकी", "नायका"],
     "a": 1,
-    "explanation": "Nayika is the correct feminine form."
+    "explanation": "नायक का स्त्रीलिंग नायिका होता है।"
   },
   {
-    "q": "tiranga mein kaun sa samaas hai?",
-    "options": ["dvigu", "dvandv", "tatpurush", "karmadhaaraya"],
+    "q": "'तिरंगा' में कौन सा समास है?",
+    "options": ["द्विगु", "द्वंद्व", "तत्पुरुष", "कर्मधारय"],
     "a": 0,
-    "explanation": "Teen rangon ka samooh, dvigu samas."
+    "explanation": "तीन रंगों का समूह, प्रथम पद संख्यावाचक होने से द्विगु समास है।"
   },
   {
-    "q": "harsh ka vilom shabd hai:",
-    "options": ["khushee", "vishaad", "dukh", "aprasannata"],
+    "q": "'हर्ष' का विलोम शब्द है:",
+    "options": ["खुशी", "विषाद", "दुख", "अप्रसन्नता"],
     "a": 1,
-    "explanation": "Harsh opposite is vishaad."
+    "explanation": "हर्ष का विलोम शब्द 'विषाद' होता है।"
   },
   {
-    "q": "aankh ka taara muhaavre ka arth hai:",
-    "options": ["kam dikhana", "bahut pyaara hona", "aankh ki beemaaree", "dhokha dena"],
+    "q": "'आँख का तारा' मुहावरे का अर्थ है:",
+    "options": ["कम दिखना", "बहुत प्यारा होना", "आँख की बीमारी", "धोखा देना"],
     "a": 1,
-    "explanation": "It means very dear or beloved."
+    "explanation": "इसका अर्थ अत्यंत प्रिय होना है।"
   },
   {
-    "q": "shuddh vartanee vaale shabd ka chayan karen:",
-    "options": ["kavitree", "kavayitri", "kaviyitri", "kavayatri"],
+    "q": "शुद्ध वर्तनी वाले शब्द का चयन करें:",
+    "options": ["कवित्री", "कवयित्री", "कवियित्री", "कवयत्री"],
     "a": 1,
-    "explanation": "The correct spelling is kavayitri."
+    "explanation": "सही वर्तनी 'कवयित्री' है।"
   },
   {
-    "q": "kamal ka paryayavaachi shabd nahin hai:",
-    "options": ["pankaj", "jalaj", "ambud", "saroj"],
+    "q": "'कमल' का पर्यायवाची शब्द नहीं है:",
+    "options": ["पंकज", "जलज", "अम्बुद", "सरोज"],
     "a": 2,
-    "explanation": "Ambud means cloud."
+    "explanation": "'अम्बुद' बादल का पर्यायवाची है।"
   },
   {
-    "q": "kriya ke mool roop ko kya kahate hain?",
-    "options": ["pad", "dhaatu", "shabd", "upasarg"],
+    "q": "क्रिया के मूल रूप को क्या कहते हैं?",
+    "options": ["पद", "धातु", "शब्द", "उपसर्ग"],
     "a": 1,
-    "explanation": "Dhatu is the root of the verb."
+    "explanation": "क्रिया के मूल रूप को 'धातु' कहा जाता है, जैसे 'पढ़' धातु से 'पढ़ना' बना।"
   },
   {
     "q": "Select the correct plural form of 'Knife':",
     "options": ["Knifes", "Knive", "Knives", "Knifess"],
     "a": 2,
-    "explanation": "Words ending in -fe change to -ves."
+    "explanation": "Words ending in -fe usually change to -ves in plural."
   },
   {
     "q": "Choose the synonym for 'Abundant':",
     "options": ["Scarce", "Plentiful", "Rare", "Minimal"],
     "a": 1,
-    "explanation": "Abundant means plentiful."
+    "explanation": "Abundant means existing in large quantities; plentiful."
   },
   {
     "q": "Identify the 'Preposition' in the sentence: 'The book is on the table.'",
     "options": ["The", "Book", "Is", "On"],
     "a": 3,
-    "explanation": "'On' shows the relationship between book and table."
+    "explanation": "'On' shows the relationship between the book and the table."
   },
   {
     "q": "Which of these is a 'Silent Letter' in the word 'Psychology'?",
     "options": ["s", "p", "y", "h"],
     "a": 1,
-    "explanation": "The 'p' is silent."
+    "explanation": "The 'p' at the beginning of Psychology is not pronounced."
   },
   {
     "q": "Choose the correct question tag: 'She can drive, ________?'",
     "options": ["can she", "can't she", "does she", "doesn't she"],
     "a": 1,
-    "explanation": "Positive sentence takes a negative tag."
+    "explanation": "A positive sentence with 'can' takes the negative tag 'can't she'."
   },
   {
     "q": "What is the 'Subject' in the sentence: 'Barking dogs seldom bite.'?",
     "options": ["Barking", "Dogs", "Barking dogs", "Seldom bite"],
     "a": 2,
-    "explanation": "The entire noun phrase is the subject."
+    "explanation": "The entire noun phrase 'Barking dogs' is the subject."
   },
   {
     "q": "Fill in the blank with correct article: 'Copper is ________ useful metal.'",
     "options": ["a", "an", "the", "No article"],
     "a": 0,
-    "explanation": "'Useful' starts with a consonant sound."
+    "explanation": "'Useful' starts with a 'y' consonant sound, so 'a' is used."
   },
   {
     "q": "Find the compound interest on 1000 for 2 years at 10% per annum.",
