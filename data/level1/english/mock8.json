@@ -1,0 +1,242 @@
+[
+  {
+    "q": "Which psychologist's theory focuses on the 'Zone of Proximal Development' (ZPD)?",
+    "options": ["Jean Piaget", "Lev Vygotsky", "B.F. Skinner", "Lawrence Kohlberg"],
+    "a": 1,
+    "explanation": "Lev Vygotsky introduced ZPD to describe the difference between what a learner can do without help and what they can do with guidance."
+  },
+  {
+    "q": "A child who believes that 'everyone sees the world exactly as I do' is demonstrating:",
+    "options": ["Conservation", "Egocentrism", "Object Permanence", "Reversibility"],
+    "a": 1,
+    "explanation": "Egocentrism is a feature of Piaget's pre-operational stage where children have difficulty taking another's perspective."
+  },
+  {
+    "q": "Which type of reinforcement schedule is the most resistant to extinction?",
+    "options": ["Continuous", "Fixed Ratio", "Variable Ratio", "Fixed Interval"],
+    "a": 2,
+    "explanation": "Variable ratio reinforcement (like gambling) produces high, steady rates of responding and is very resistant to extinction."
+  },
+  {
+    "q": "What is the primary characteristic of the 'Concrete Operational' stage?",
+    "options": ["Abstract reasoning", "Logical thinking about physical objects", "Symbolic play", "Sensory exploration"],
+    "a": 1,
+    "explanation": "In this stage (7-11 years), children begin to think logically but only about concrete, physical objects."
+  },
+  {
+    "q": "Which of the following is a specific learning disability in mathematics?",
+    "options": ["Dyslexia", "Dysgraphia", "Dyscalculia", "Dysphasia"],
+    "a": 2,
+    "explanation": "Dyscalculia is a condition that affects an individual's ability to understand numbers and learn math facts."
+  },
+  {
+    "q": "According to Maslow's hierarchy, which is the highest level of need?",
+    "options": ["Safety needs", "Esteem needs", "Social needs", "Self-actualization"],
+    "a": 3,
+    "explanation": "Self-actualization is the peak of Maslow's pyramid, representing the realization of one's full potential."
+  },
+  {
+    "q": "A teacher asks students to 'list all possible uses of a brick'. This is a test of:",
+    "options": ["Convergent thinking", "Divergent thinking", "Mechanical memory", "Logical deduction"],
+    "a": 1,
+    "explanation": "Divergent thinking involves generating multiple creative solutions to a single prompt."
+  },
+  {
+    "q": "Which factor is essential for learning in Thorndike's 'Trial and Error' theory?",
+    "options": ["Imitation", "Insight", "Motivation/Drive", "Social pressure"],
+    "a": 2,
+    "explanation": "Without a specific need or drive, an organism will not attempt to solve a problem or learn."
+  },
+  {
+    "q": "The process of modifying existing mental structures to fit new information is:",
+    "options": ["Assimilation", "Accommodation", "Equilibration", "Organization"],
+    "a": 1,
+    "explanation": "Accommodation involves changing internal mental schemas to account for new environmental data."
+  },
+  {
+    "q": "Which assessment is used to evaluate student learning at the end of an instructional unit?",
+    "options": ["Formative", "Summative", "Diagnostic", "Placement"],
+    "a": 1,
+    "explanation": "Summative assessments (like final exams) measure learning outcomes at the conclusion of a period."
+  },
+  {
+    "q": "In an inclusive classroom, 'Individual Differences' should be addressed by:",
+    "options": ["Ignoring them", "Standardizing the curriculum", "Using diverse teaching strategies", "Segregating students"],
+    "a": 2,
+    "explanation": "Inclusive education relies on differentiated instruction to cater to various learning styles and needs."
+  },
+  {
+    "q": "'नायक' शब्द का सही संधि-विच्छेद क्या है?",
+    "options": ["ना + अक", "ने + अक", "नै + अक", "नय + अक"],
+    "a": 2,
+    "explanation": "यह अयादि संधि का उदाहरण है, जहाँ 'नै + अक' मिलकर 'नायक' बनता है."
+  },
+  {
+    "q": "जिस समास का पहला पद संख्यावाचक हो, वह कहलाता है:",
+    "options": ["द्विगु", "द्वंद्व", "तत्पुरुष", "अव्ययीभाव"],
+    "a": 0,
+    "explanation": "जिस समास का पूर्व पद संख्यावाची विशेषण हो, उसे द्विगु समास कहते हैं (जैसे- चौराहा)."
+  },
+  {
+    "q": "'नाक कटना' मुहावरे का अर्थ है:",
+    "options": ["चोट लगना", "इज्जत जाना", "बीमार होना", "झगड़ा करना"],
+    "a": 1,
+    "explanation": "इसका प्रयोग मान-सम्मान या प्रतिष्ठा कम होने के संदर्भ में किया जाता है."
+  },
+  {
+    "q": "भाषा की सबसे छोटी इकाई क्या है?",
+    "options": ["शब्द", "व्यंजन", "स्वर", "वर्ण"],
+    "a": 3,
+    "explanation": "वर्ण भाषा की सबसे छोटी लिखित इकाई है जिसके और टुकड़े नहीं किए जा सकते."
+  },
+  {
+    "q": "शुद्ध वाक्य का चयन कीजिए:",
+    "options": ["वह दंड देने योग्य है।", "वह दंड के योग्य है।", "वह दंड लेने योग्य है।", "वह दंड पाने योग्य है।"],
+    "a": 1,
+    "explanation": "व्याकरण की दृष्टि से 'वह दंड के योग्य है' सबसे शुद्ध वाक्य संरचना है."
+  },
+  {
+    "q": "भाषा शिक्षण की 'प्रत्यक्ष विधि' (Direct Method) में क्या वर्जित है?",
+    "options": ["मातृभाषा का प्रयोग", "अनुवाद", "चित्रों का प्रयोग", "क और ख दोनों"],
+    "a": 3,
+    "explanation": "प्रत्यक्ष विधि में मातृभाषा का प्रयोग और अनुवाद दोनों ही वर्जित माने जाते हैं."
+  },
+  {
+    "q": "कविता शिक्षण का मुख्य उद्देश्य क्या है?",
+    "options": ["शब्दार्थ बोध", "रसानुभूति एवं आनंद", "व्याकरण ज्ञान", "लेखन सुधार"],
+    "a": 1,
+    "explanation": "कविता का मुख्य उद्देश्य साहित्यिक रसास्वादन और भावनात्मक आनंद प्राप्त करना है."
+  },
+  {
+    "q": "Select the correct plural of 'Child'.",
+    "options": ["Childs", "Childes", "Children", "Childrens"],
+    "a": 2,
+    "explanation": "'Child' has an irregular plural form, which is 'Children'."
+  },
+  {
+    "q": "Choose the correct sentence in 'Present Perfect Tense':",
+    "options": ["He finished the work.", "He has finished the work.", "He had finished the work.", "He is finishing the work."],
+    "a": 1,
+    "explanation": "Present perfect tense is formed using 'has/have + past participle (V3)'."
+  },
+  {
+    "q": "Which part of speech is 'Alas!'?",
+    "options": ["Conjunction", "Preposition", "Interjection", "Adverb"],
+    "a": 2,
+    "explanation": "Interjections are words used to express sudden emotions or feelings like grief or joy."
+  },
+  {
+    "q": "What is the primary objective of 'Remedial Teaching'?",
+    "options": ["To teach new topics", "To fill learning gaps", "To punish slow learners", "To prepare for sports"],
+    "a": 1,
+    "explanation": "Remedial teaching addresses specific learning weaknesses identified during diagnosis."
+  },
+  {
+    "q": "Choose the word with the correct prefix for 'Fortune'.",
+    "options": ["Unfortune", "Infortune", "Misfortune", "Disfortune"],
+    "a": 2,
+    "explanation": "The prefix 'mis-' combined with 'fortune' creates the word 'misfortune', meaning bad luck."
+  },
+  {
+    "q": "Which tense is used in: 'They are watching TV.'?",
+    "options": ["Simple present", "Present continuous", "Present perfect", "Past continuous"],
+    "a": 1,
+    "explanation": "The 'be' verb (are) + present participle (-ing) indicates an action currently in progress."
+  },
+  {
+    "q": "Select the correct collective noun: 'A ________ of wolves.'",
+    "options": ["Flock", "Herd", "Pack", "Swarm"],
+    "a": 2,
+    "explanation": "The specific group term for wolves is a 'pack'."
+  },
+  {
+    "q": "What is the place value of 5 in the number 4532?",
+    "options": ["5", "50", "500", "5000"],
+    "a": 2,
+    "explanation": "In 4532, 5 is in the hundreds place, so its value is 5 x 100 = 500."
+  },
+  {
+    "q": "What is 1/4 + 1/4?",
+    "options": ["1/8", "2/8", "1/2", "1/4"],
+    "a": 2,
+    "explanation": "1/4 + 1/4 = 2/4, which simplifies to 1/2."
+  },
+  {
+    "q": "The Roman numeral for 50 is:",
+    "options": ["X", "L", "C", "D"],
+    "a": 1,
+    "explanation": "In the Roman system, X=10, L=50, C=100, and D=500."
+  },
+  {
+    "q": "How many centimeters are in 5 meters?",
+    "options": ["50", "500", "5000", "5"],
+    "a": 1,
+    "explanation": "Since 1 meter = 100 cm, 5 meters = 5 x 100 = 500 cm."
+  },
+  {
+    "q": "The smallest 4-digit number is:",
+    "options": ["1111", "1001", "1000", "9999"],
+    "a": 2,
+    "explanation": "The sequence of 4-digit numbers starts at 1000."
+  },
+  {
+    "q": "If 3x = 12, then x is:",
+    "options": ["2", "4", "6", "9"],
+    "a": 1,
+    "explanation": "By dividing 12 by 3, we find that x = 4."
+  },
+  {
+    "q": "What is the product of 15 and 6?",
+    "options": ["80", "90", "100", "110"],
+    "a": 1,
+    "explanation": "Multiplying 15 by 6 results in 90."
+  },
+  {
+    "q": "How many minutes are in 3 hours and 20 minutes?",
+    "options": ["180", "200", "220", "240"],
+    "a": 1,
+    "explanation": "(3 hours x 60 mins) + 20 mins = 180 + 20 = 200 minutes."
+  },
+  {
+    "q": "If one dozen bananas cost 60 rupees, what is the cost of 5 bananas?",
+    "options": ["20 rupees", "25 rupees", "30 rupees", "15 rupees"],
+    "a": 1,
+    "explanation": "1 banana costs 60/12 = 5 rupees. Thus, 5 bananas cost 5 x 5 = 25 rupees."
+  },
+  {
+    "q": "Find the average of 10, 20, 30, 40, and 50.",
+    "options": ["20", "25", "30", "35"],
+    "a": 2,
+    "explanation": "Sum (150) divided by the count (5) equals 30."
+  },
+  {
+    "q": "Which animal is called the 'Ship of the Desert'?",
+    "options": ["Horse", "Donkey", "Camel", "Elephant"],
+    "a": 2,
+    "explanation": "Camels are adapted for desert travel with their ability to go long periods without water."
+  },
+  {
+    "q": "Which sense organ helps us to smell?",
+    "options": ["Eye", "Ear", "Nose", "Tongue"],
+    "a": 2,
+    "explanation": "The nose contains olfactory receptors that detect scents in the air."
+  },
+  {
+    "q": "The process of a seed growing into a plant is called:",
+    "options": ["Photosynthesis", "Germination", "Pollination", "Transpiration"],
+    "a": 1,
+    "explanation": "Germination is the biological process by which a seed develops into a seedling."
+  },
+  {
+    "q": "Our national flower is:",
+    "options": ["Rose", "Lily", "Lotus", "Sunflower"],
+    "a": 2,
+    "explanation": "The Lotus (Nelumbo nucifera) is the national flower of India."
+  },
+  {
+    "q": "Which of the following is an example of a pulse?",
+    "options": ["Rice", "Gram", "Maize", "Bajra"],
+    "a": 1,
+    "explanation": "Grams (Chana) are legumes, categorized as pulses, unlike cereal grains like rice or maize."
+  }
+]
