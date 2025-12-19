@@ -1,202 +1,243 @@
 [
   {
-    "q": "Which of the following is an example of 'Fine Motor Skill' development?",
-    "options": ["Running", "Hopping", "Writing", "Climbing"],
-    "a": 2
+    "q": "According to Piaget, at which stage does a child begin to think like a 'philosopher' and create hypotheses on abstract concepts?",
+    "options": ["Sensory-motor", "Pre-operational", "Concrete operational", "Formal operational"],
+    "a": 3,
+    "explanation": "In the Formal Operational stage (11 years and above), the child develops abstract reasoning and hypothetical-deductive thinking."
   },
   {
-    "q": "In Piaget's theory, 'Animism' (believing inanimate objects have feelings) is a feature of:",
-    "options": ["Sensory-motor stage", "Pre-operational stage", "Concrete operational stage", "Formal operational stage"],
-    "a": 1
+    "q": "The 'Humanistic Theory of Learning' primarily emphasizes:",
+    "options": ["Stimulus-Response", "Innate potential and self-esteem", "Rewards and punishments", "Observation and imitation"],
+    "a": 1,
+    "explanation": "Humanistic theories (Maslow and Rogers) focus on personal growth, freedom of choice, and self-actualization."
   },
   {
-    "q": "According to Kohlberg, 'Social Contract Orientation' belongs to which level?",
-    "options": ["Pre-conventional", "Conventional", "Post-conventional", "Non-conventional"],
-    "a": 2
+    "q": "According to Gardner, a person who effectively identifies the 'intentions, motivations, and desires of others' has:",
+    "options": ["Intrapersonal Intelligence", "Interpersonal Intelligence", "Spatial Intelligence", "Naturalistic Intelligence"],
+    "a": 1,
+    "explanation": "Interpersonal intelligence is the ability to understand and interact effectively with others."
   },
   {
-    "q": "The 'Two-Factor Theory' of intelligence (g-factor and s-factor) was proposed by:",
-    "options": ["Charles Spearman", "Howard Gardner", "L.L. Thurstone", "E.L. Thorndike"],
-    "a": 0
+    "q": "According to Vygotsky, why do children use 'Private Speech'?",
+    "options": ["To attract the attention of others", "To guide their own actions", "To show egocentrism", "To learn language faster"],
+    "a": 1,
+    "explanation": "Vygotsky believed that private speech is a tool used by children for self-regulation and to direct their own behavior."
   },
   {
-    "q": "Which of the following is a symptom of 'ADHD'?",
-    "options": ["Difficulty in reading", "Inability to perform math", "Persistent inattention and impulsivity", "Poor handwriting"],
-    "a": 2
+    "q": "Teaching children with special needs alongside normal children in the same classroom is called:",
+    "options": ["Segregation", "Special Education", "Inclusive Education", "Integrated Education"],
+    "a": 2,
+    "explanation": "Inclusive education provides the right for all children to learn in the same environment regardless of their differences."
   },
   {
-    "q": "What is the primary goal of 'Action Research' in education?",
-    "options": ["To develop new theories", "To solve immediate classroom problems", "To compare school systems", "To conduct national surveys"],
-    "a": 1
+    "q": "In which method of teaching do students discover the 'rules' themselves through examples?",
+    "options": ["Lecture Method", "Deductive Method", "Inductive Method", "Demonstration Method"],
+    "a": 2,
+    "explanation": "In the Inductive Method, students reach general rules or principles through specific examples."
   },
   {
-    "q": "Which of these is a 'Nature' factor in development?",
-    "options": ["Schooling", "Peer group", "Genetic makeup", "Nutritional intake"],
-    "a": 2
+    "q": "Which psychologist is most closely associated with the concept of 'Scaffolding'?",
+    "options": ["Jean Piaget", "B.F. Skinner", "Lev Vygotsky", "Albert Bandura"],
+    "a": 2,
+    "explanation": "Although the term 'Scaffolding' was popularized by Bruner, the concept is deeply rooted in Vygotsky's Social Development Theory (ZPD)."
   },
   {
-    "q": "In Pavlov’s classical conditioning, the 'Bell' before conditioning is a:",
-    "options": ["Unconditioned Stimulus", "Conditioned Response", "Neutral Stimulus", "Unconditioned Response"],
-    "a": 2
+    "q": "A child suffering from 'Dysgraphia' will face difficulty in:",
+    "options": ["Reading", "Mathematical calculations", "Writing and handwriting", "Listening"],
+    "a": 2,
+    "explanation": "Dysgraphia is a learning disability that affects writing abilities and fine motor coordination."
   },
   {
-    "q": "A student who learns best through charts, maps, and diagrams is a:",
-    "options": ["Auditory learner", "Kinesthetic learner", "Visual learner", "Social learner"],
-    "a": 2
+    "q": "Who conducted the experiment on a rat in 'Operant Conditioning'?",
+    "options": ["Pavlov", "Kohler", "Thorndike", "Skinner"],
+    "a": 3,
+    "explanation": "B.F. Skinner used the 'Skinner Box' to conduct experiments on rats and pigeons to study behavior modification."
   },
   {
-    "q": "Which teaching style is most effective for fostering 'Critical Thinking'?",
-    "options": ["Autocratic", "Laissez-faire", "Democratic", "Permissive"],
-    "a": 2
+    "q": "What is the importance of 'Democracy' in the context of Progressive Education?",
+    "options": ["The teacher makes the final decision", "Students get opportunities to participate in decision-making and problem-solving", "Discipline is very strict", "Only brilliant students are allowed to speak"],
+    "a": 1,
+    "explanation": "Progressive education is based on democratic values, active participation, and collaborative learning."
   },
   {
-    "q": "The concept of 'Mental Health' in a classroom primarily focuses on:",
-    "options": ["Academic grades", "Physical fitness", "Emotional and social well-being", "Discipline only"],
-    "a": 2
+    "q": "Who proposed the 'Multi-factor Theory' of intelligence?",
+    "options": ["Spearman", "Thorndike", "Binet", "Gardner"],
+    "a": 1,
+    "explanation": "Thorndike considered intelligence to be a combination of many independent factors rather than a single general ability."
   },
   {
-    "q": "'परोपकार' शब्द का संधि-विच्छेद होगा:",
-    "options": ["पर + उपकार", "परो + पकार", "परौ + पकार", "परो + उपकार"],
-    "a": 0
+    "q": "'सदैव' शब्द का सही संधि-विच्छेद है: (The correct sandhi-vicched of 'Sadaiv' is:)",
+    "options": ["सदा + एव", "सद + एव", "सदा + ऐव", "सदा + ईव"],
+    "a": 0,
+    "explanation": "Sada + Eva = Sadaiv. This is an example of Vriddhi Sandhi (a + e = ai)."
   },
   {
-    "q": "'पीताम्बर' में कौन सा समास है?",
+    "q": "'यशप्राप्त' में कौन सा समास है? (Which Samas is in 'Yashprapt'?)",
     "options": ["अव्ययीभाव", "तत्पुरुष", "द्वंद्व", "बहुव्रीहि"],
-    "a": 3
+    "a": 1,
+    "explanation": "Yash ko prapt (Attained fame). This is an example of Karma Tatpurush Samas."
   },
   {
-    "q": "'आगमन' का विलोम शब्द है:",
-    "options": ["प्रस्थान", "गमन", "निर्गम", "आयात"],
-    "a": 1
+    "q": "'कृत्रिम' का सही विलोम शब्द है: (The correct antonym of 'Kritrim' is:)",
+    "options": ["नकली", "प्राकृतिक", "बनावटी", "सहज"],
+    "a": 1,
+    "explanation": "Kritrim means man-made/artificial, and its antonym is Prakritik (natural)."
   },
   {
-    "q": "'घी के दिए जलाना' मुहावरे का अर्थ है:",
-    "options": ["रोशनी करना", "पूजा करना", "खुशियाँ मनाना", "धनवान होना"],
-    "a": 2
+    "q": "'आसमान से बातें करना' मुहावरे का अर्थ है: (The meaning of the idiom 'Aasman se baatein karna' is:)",
+    "options": ["हवा में उड़ना", "बहुत ऊँचा होना", "झूठ बोलना", "पागल होना"],
+    "a": 1,
+    "explanation": "This idiom is used to describe something very high or achieving great success/heights."
   },
   {
-    "q": "निम्नलिखित में से 'शुद्ध' शब्द है:",
-    "options": ["आशिर्वाद", "आशीर्वाद", "अशीर्वाद", "आसीर्वाद"],
-    "a": 1
+    "q": "शुद्ध वर्तनी वाला शब्द चुनिए: (Choose the word with correct spelling:)",
+    "options": ["कवियित्री", "कवयित्री", "कवयत्री", "कवियत्री"],
+    "a": 1,
+    "explanation": "According to Hindi grammar, 'Kavayitri' (Poetess) is the correct spelling."
   },
   {
-    "q": "'सूर्य' का पर्यायवाची शब्द नहीं है:",
-    "options": ["दिनकर", "दिवाकर", "निशाकर", "भास्कर"],
-    "a": 2
+    "q": "'हाथी' का पर्यायवाची शब्द नहीं है: (Which is NOT a synonym for 'Hathi' - Elephant?)",
+    "options": ["ग़ज", "कुंजर", "मतंग", "तरणि"],
+    "a": 3,
+    "explanation": "Tarani means sun or boat, while the other three are synonyms for elephant."
   },
   {
-    "q": "भाषा की सबसे छोटी इकाई क्या है?",
-    "options": ["शब्द", "व्यंजन", "स्वर", "वर्ण"],
-    "a": 3
+    "q": "भाषा के लिखित रूप में सबसे छोटी इकाई है: (The smallest written unit of a language is:)",
+    "options": ["वर्ण", "शब्द", "वाक्य", "पद"],
+    "a": 0,
+    "explanation": "Varn (Letter) is the basic written unit that cannot be broken down further."
   },
   {
-    "q": "Identify the 'Abstract Noun' in the following list:",
-    "options": ["Library", "Wisdom", "Teacher", "Gold"],
-    "a": 1
+    "q": "Choose the correctly spelled word:",
+    "options": ["Occurrence", "Occurence", "Ocurrence", "Ocurence"],
+    "a": 0,
+    "explanation": "The correct spelling is 'Occurrence' (double 'c' and double 'r')."
   },
   {
-    "q": "Fill in the blank: Neither of the two candidates ________ qualified.",
-    "options": ["are", "is", "were", "have"],
-    "a": 1
+    "q": "Identify the 'Adjective' in: 'The brave soldier won a medal.'",
+    "options": ["Soldier", "Won", "Brave", "Medal"],
+    "a": 2,
+    "explanation": "'Brave' describes the quality of the noun 'soldier'."
   },
   {
-    "q": "What is the synonym of 'Fragile'?",
-    "options": ["Strong", "Delicate", "Tough", "Heavy"],
-    "a": 1
+    "q": "What is the antonym of 'Generous'?",
+    "options": ["Kind", "Selfish", "Happy", "Polite"],
+    "a": 1,
+    "explanation": "Generous means giving freely; selfish means thinking only of oneself."
   },
   {
-    "q": "Which suffix can be added to the word 'Manage' to form a noun?",
-    "options": ["-tion", "-ment", "-ness", "-able"],
-    "a": 1
+    "q": "Choose the correct preposition: 'He jumped ________ the river.'",
+    "options": ["in", "into", "on", "at"],
+    "a": 1,
+    "explanation": "'Into' is used to show movement towards the interior or inside of something."
   },
   {
-    "q": "Choose the correct indirect speech: He said, \"I work hard.\"",
-    "options": ["He said that he works hard.", "He said that he worked hard.", "He says that he worked hard.", "He said that I worked hard."],
-    "a": 1
+    "q": "Which of these is an 'Irregular' plural?",
+    "options": ["Cats", "Boxes", "Teeth", "Dogs"],
+    "a": 2,
+    "explanation": "Teeth is the irregular plural of 'tooth' (vowel change instead of adding -s/-es)."
   },
   {
-    "q": "Which of these is a 'Diphthong' sound symbol?",
-    "options": ["/i:/", "/u/", "/aɪ/", "/æ/"],
-    "a": 2
+    "q": "Identify the 'Verb' in: 'Please write your name.'",
+    "options": ["Please", "Write", "Your", "Name"],
+    "a": 1,
+    "explanation": "'Write' is the action word (verb) in this sentence."
   },
   {
-    "q": "The primary purpose of 'Silent Reading' is to improve:",
-    "options": ["Pronunciation", "Reading speed and comprehension", "Audibility", "Spelling"],
-    "a": 1
+    "q": "Which article is used before the word 'Unique'?",
+    "options": ["a", "an", "the", "No article"],
+    "a": 0,
+    "explanation": "'Unique' starts with a 'Yu' (consonant) sound, so we use 'a'."
   },
   {
-    "q": "What is the place value of 9 in 7,89,450?",
-    "options": ["90", "900", "9,000", "90,000"],
-    "a": 2
+    "q": "Write the number 'Nine thousand ninety' in digits:",
+    "options": ["9009", "9090", "9900", "90090"],
+    "a": 1,
+    "explanation": "Nine thousand ninety = 9090."
   },
   {
-    "q": "What is the sum of the smallest 3-digit number and the largest 2-digit number?",
-    "options": ["100", "199", "109", "110"],
-    "a": 1
+    "q": "How many 'tens' (Dahai) are there in 1000?",
+    "options": ["10", "100", "1000", "0"],
+    "a": 1,
+    "explanation": "1000 divided by 10 equals 100."
   },
   {
-    "q": "Convert 3/4 into a percentage.",
-    "options": ["30%", "45%", "75%", "80%"],
-    "a": 2
+    "q": "What is the measure of each angle in an Equilateral Triangle?",
+    "options": ["45°", "60°", "90°", "180°"],
+    "a": 1,
+    "explanation": "In an equilateral triangle, all sides and angles are equal (180° / 3 = 60°)."
   },
   {
-    "q": "How many degrees are in a straight angle?",
-    "options": ["45", "90", "180", "360"],
-    "a": 2
+    "q": "How many grams are in 4.5 kilograms?",
+    "options": ["45", "450", "4500", "45000"],
+    "a": 2,
+    "explanation": "1 kg = 1000g. Therefore, 4.5 * 1000 = 4500 grams."
   },
   {
-    "q": "If a dozen eggs cost 48 rupees, what is the cost of 1 egg?",
-    "options": ["3 rupees", "4 rupees", "5 rupees", "6 rupees"],
-    "a": 1
+    "q": "What is 25% of 20?",
+    "options": ["4", "5", "10", "15"],
+    "a": 1,
+    "explanation": "(25/100) * 20 = 5."
   },
   {
-    "q": "A rectangle has a length of 10 cm and a width of 5 cm. What is its area?",
-    "options": ["15 sq cm", "30 sq cm", "50 sq cm", "100 sq cm"],
-    "a": 2
+    "q": "The area of a rectangle is 50 sq cm. If the length is 10 cm, what is the width?",
+    "options": ["5 cm", "10 cm", "15 cm", "20 cm"],
+    "a": 0,
+    "explanation": "Width = Area / Length = 50 / 10 = 5 cm."
   },
   {
-    "q": "Which of the following is a composite number?",
-    "options": ["2", "3", "7", "9"],
-    "a": 3
+    "q": "What is the 'square' (varg) of the number 13?",
+    "options": ["26", "130", "169", "196"],
+    "a": 2,
+    "explanation": "13 * 13 = 169."
   },
   {
-    "q": "What is 1000 divided by 25?",
-    "options": ["20", "40", "50", "60"],
-    "a": 1
+    "q": "What is 15:30 (Railway time) in standard 12-hour time?",
+    "options": ["3:30 AM", "3:30 PM", "5:30 PM", "12:30 PM"],
+    "a": 1,
+    "explanation": "15:30 - 12:00 = 3:30 PM."
   },
   {
-    "q": "What is the HCF of 8 and 12?",
-    "options": ["2", "4", "6", "8"],
-    "a": 1
+    "q": "Which is the smallest 'odd prime' number?",
+    "options": ["1", "2", "3", "5"],
+    "a": 2,
+    "explanation": "2 is the smallest prime (but even). 3 is the smallest prime that is also odd."
   },
   {
-    "q": "Simplify: 12 + 4 x 3",
-    "options": ["48", "36", "24", "19"],
-    "a": 2
+    "q": "The sum of 1/3 and 2/3 is:",
+    "options": ["1/3", "2/3", "1", "3/6"],
+    "a": 2,
+    "explanation": "(1+2)/3 = 3/3 = 1."
   },
   {
-    "q": "Which part of a plant is called its 'Kitchen'?",
-    "options": ["Root", "Stem", "Leaf", "Flower"],
-    "a": 2
+    "q": "What is the percentage of 'Oxygen' in our atmosphere?",
+    "options": ["0.03%", "21%", "78%", "1%"],
+    "a": 1,
+    "explanation": "The atmosphere consists of approximately 21% Oxygen and 78% Nitrogen."
   },
   {
-    "q": "Which bird is known for laying eggs in a crow's nest?",
-    "options": ["Sparrow", "Cuckoo (Koel)", "Pigeon", "Eagle"],
-    "a": 1
+    "q": "Which is the longest bone in the human body?",
+    "options": ["Stapes", "Femur", "Humerus", "Spine"],
+    "a": 1,
+    "explanation": "The thigh bone (Femur) is the longest and strongest bone in the human body."
   },
   {
-    "q": "Which among the following is a liquid at room temperature?",
-    "options": ["Iron", "Gold", "Mercury", "Copper"],
-    "a": 2
+    "q": "What is the best natural source of Vitamin 'D'?",
+    "options": ["Milk", "Egg", "Sunlight", "Green vegetables"],
+    "a": 2,
+    "explanation": "The skin synthesizes Vitamin D when exposed to ultraviolet rays from sunlight."
   },
   {
-    "q": "Which fiber is also known as 'Golden Fiber'?",
-    "options": ["Cotton", "Silk", "Jute", "Wool"],
-    "a": 2
+    "q": "What is the instrument used to measure the intensity of an earthquake?",
+    "options": ["Barometer", "Thermometer", "Seismograph", "Lactometer"],
+    "a": 2,
+    "explanation": "A seismograph records the intensity and duration of seismic waves."
   },
+  
   {
-    "q": "Which organ pumps blood throughout the human body?",
-    "options": ["Lungs", "Brain", "Heart", "Stomach"],
-    "a": 2
+    "q": "Which is the largest ocean in the world?",
+    "options": ["Atlantic", "Indian", "Pacific", "Arctic"],
+    "a": 2,
+    "explanation": "The Pacific Ocean is the largest and deepest of Earth's oceanic divisions."
   }
 ]
