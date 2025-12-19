@@ -3,109 +3,151 @@
     "q": "Which theory of development focuses on the 'Stages of Psychosocial Development'?",
     "options": ["Jean Piaget", "Erik Erikson", "Sigmund Freud", "Lev Vygotsky"],
     "a": 1,
-    "explanation": "Erikson proposed eight stages of development."
+    "explanation": "Erikson proposed eight stages of development, each centered on a social conflict."
   },
   {
     "q": "The 'Laws of Learning' (Readiness, Exercise, Effect) were developed by:",
     "options": ["B.F. Skinner", "Ivan Pavlov", "E.L. Thorndike", "John Watson"],
     "a": 2,
-    "explanation": "Thorndike's laws formed the basis of connectionism."
+    "explanation": "Edward Thorndike's laws formed the basis of connectionism in learning theory."
   },
   {
     "q": "Which stage of Piaget's theory is marked by the 'Emergence of Logical Thought' about physical objects?",
     "options": ["Sensory-motor", "Pre-operational", "Concrete operational", "Formal operational"],
     "a": 2,
-    "explanation": "Logical thinking begins in the concrete operational stage."
+    "explanation": "Logical thinking begins in the concrete operational stage (7-11 years)."
   },
   {
     "q": "What is the primary characteristic of an 'Inclusive' school?",
     "options": ["Separating students by IQ", "Focusing on extra fees", "Accommodating all learners regardless of ability", "Exclusive focus on sports"],
     "a": 2,
-    "explanation": "Inclusion means equal opportunities for all."
+    "explanation": "Inclusion means providing equal learning opportunities for all students in the same environment."
   },
   {
     "q": "Which IQ range is considered 'Superior' in intelligence?",
     "options": ["90-109", "110-119", "120-139", "70-79"],
     "a": 2,
-    "explanation": "120-139 is classified as superior."
+    "explanation": "Scores between 120-139 are typically classified as superior intelligence."
   },
   {
     "q": "The 'Heuristic Method' of teaching was proposed by:",
     "options": ["H.E. Armstrong", "John Dewey", "Froebel", "Maria Montessori"],
     "a": 0,
-    "explanation": "It emphasizes learning through discovery."
+    "explanation": "The Heuristic method emphasizes learning through discovery and self-inquiry."
   },
   {
     "q": "Which of the following is a 'Socializing Agency' for a child?",
     "options": ["Family", "School", "Media", "All of the above"],
     "a": 3,
-    "explanation": "All these contribute to socialization."
+    "explanation": "Family is primary, while schools and media are secondary socializing agencies."
   },
   {
     "q": "'Learning by Insight' is most closely associated with:",
     "options": ["Behaviorism", "Gestalt Psychology", "Constructivism", "Psychoanalysis"],
     "a": 1,
-    "explanation": "Gestalt psychology emphasizes sudden perception of relations."
+    "explanation": "Gestalt psychology emphasizes the sudden perception of relationships or the 'whole' as a solution."
   },
   {
     "q": "The 'Zone of Proximal Development' is the gap between:",
     "options": ["Child's age and height", "What a child can do alone vs. with help", "Home and school environments", "Reading and writing skills"],
     "a": 1,
-    "explanation": "Vygotsky defined ZPD as potential under guidance."
+    "explanation": "Vygotsky defined ZPD as the level of potential development under adult guidance."
   },
   {
     "q": "Which assessment is used to 'Screen' students for special programs?",
     "options": ["Formative", "Placement", "Summative", "Diagnostic"],
     "a": 1,
-    "explanation": "Placement assessment determines where a student belongs."
+    "explanation": "Placement assessment determines where a student belongs in a curriculum or program."
   },
   {
     "q": "What is 'Metacognition'?",
     "options": ["Fast learning", "Thinking about thinking", "Social skills", "Physical reflexes"],
     "a": 1,
-    "explanation": "Awareness and regulation of own cognitive processes."
+    "explanation": "Metacognition is the awareness and regulation of one's own cognitive processes."
   },
   {
-    "q": "svaagat ka sahi sandhi-vichchhed hai:",
-    "options": ["svaa + gat", "su + aagat", "sv + aagat", "su + gat"],
+    "q": "'स्वागत' का सही संधि-विच्छेद है:",
+    "options": ["स्वा + गत", "सु + आगत", "स्व + आगत", "सु + गत"],
     "a": 1,
-    "explanation": "su + aagat = svaagat (yan sandhi)."
+    "explanation": "सु + आगत = स्वागत (यण संधि)।"
   },
   {
-    "q": "yathavidhi mein kaun sa samaas hai?",
-    "options": ["avyayibhaav", "tatpurush", "dvigu", "dvandv"],
+    "q": "'यथाविधि' में कौन सा समास है?",
+    "options": ["अव्ययीभाव", "तत्पुरुष", "द्विगु", "द्वंद्व"],
     "a": 0,
-    "explanation": "First word is an avyaya, so avyayibhaav."
+    "explanation": "विधि के अनुसार; प्रथम पद अव्यय होने के कारण अव्ययीभाव समास है।"
   },
   {
-    "q": "mridul ka vilom shabd hai:",
-    "options": ["kathor", "mulaayam", "meetha", "taral"],
+    "q": "'मृदुल' का विलोम शब्द है:",
+    "options": ["कठोर", "मुलायम", "मीठा", "तरल"],
     "a": 0,
-    "explanation": "Mridul (soft) opposite is Kathor (hard)."
+    "explanation": "मृदुल का अर्थ कोमल होता है, जिसका विलोम कठोर है।"
   },
   {
-    "q": "haath paanv phoolana muhaavre ka arth hai:",
-    "options": ["beemaar hona", "ghabara jaana", "mehanat karana", "khush hona"],
+    "q": "'हाथ पाँव फूलना' मुहावरे का अर्थ है:",
+    "options": ["बीमार होना", "घबरा जाना", "मेहनत करना", "खुश होना"],
     "a": 1,
-    "explanation": "It means to be panicked or nervous."
+    "explanation": "इसका अर्थ है डर या परेशानी के कारण व्याकुल या भयभीत होना।"
   },
   {
-    "q": "shuddh vartanee vaale shabd ka chayan karen:",
-    "options": ["ujval", "ujjval", "ujjval", "oojjval"],
+    "q": "शुद्ध वर्तनी वाले शब्द का चयन करें:",
+    "options": ["उज्वल", "उज्जवल", "उज्ज्वल", "ऊज्जवल"],
     "a": 2,
-    "explanation": "Correct spelling is Ujjval."
+    "explanation": "सही वर्तनी 'उज्ज्वल' है।"
   },
   {
-    "q": "sarasvatee ka paryayavaachi shabd nahin hai:",
-    "options": ["veenaapaani", "shaarada", "kamala", "vaani"],
+    "q": "'सरस्वती' का पर्यायवाची शब्द नहीं है:",
+    "options": ["वीणापाणि", "शारदा", "कमला", "वाणी"],
     "a": 2,
-    "explanation": "Kamala is synonym for Lakshmi."
+    "explanation": "'कमला' लक्ष्मी जी का पर्यायवाची है।"
   },
   {
-    "q": "bhaasha shikshan ki paraayan vidhi kisse sambandhit hai?",
-    "options": ["khel vidhi se", "ratane/punaraavritti se", "lekhan sudhaar se", "anuvaad se"],
+    "q": "भाषा शिक्षण की 'पारायण विधि' किससे संबंधित है?",
+    "options": ["खेल विधि से", "रटने/पुनरावृत्ति से", "लेखन सुधार से", "अनुवाद से"],
     "a": 1,
-    "explanation": "Parayan involves repetitive chanting/memorization."
+    "explanation": "पारायण विधि में पाठ को बार-बार दोहराकर कंठस्थ किया जाता है।"
+  },
+  {
+    "q": "Identify the 'Interjection' in the sentence: 'Alas! We lost the match.'",
+    "options": ["Alas", "We", "Lost", "Match"],
+    "a": 0,
+    "explanation": "Interjections express sudden bursts of emotion."
+  },
+  {
+    "q": "Choose the correct spelling:",
+    "options": ["Grammer", "Grammar", "Grammerr", "Grammarre"],
+    "a": 1,
+    "explanation": "The correct spelling ends in '-ar'."
+  },
+  {
+    "q": "The plural of 'Goose' is:",
+    "options": ["Gooses", "Goosess", "Geese", "Geeses"],
+    "a": 2,
+    "explanation": "The internal vowel change results in 'geese'."
+  },
+  {
+    "q": "What is the synonym of 'Courageous'?",
+    "options": ["Fearful", "Brave", "Timid", "Weak"],
+    "a": 1,
+    "explanation": "Courageous and brave both mean showing no fear."
+  },
+  {
+    "q": "Which part of speech is 'Quickly' in 'He runs quickly'?",
+    "options": ["Adjective", "Adverb", "Noun", "Verb"],
+    "a": 1,
+    "explanation": "It describes the manner of the verb 'runs'."
+  },
+  {
+    "q": "Choose the correct article: 'I have ________ umbrella.'",
+    "options": ["a", "an", "the", "No article"],
+    "a": 1,
+    "explanation": "Umbrella starts with a vowel sound 'u', so 'an' is used."
+  },
+  {
+    "q": "Change into passive voice: 'She writes a letter.'",
+    "options": ["A letter is written by her.", "A letter was written by her.", "A letter is being written by her.", "She is writing a letter."],
+    "a": 0,
+    "explanation": "Simple present changes to 'is/am/are + V3'."
   },
   {
     "q": "If the simple interest on a sum is 1/9 of the principal and rate=time, the rate is:",
