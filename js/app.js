@@ -2,7 +2,7 @@
  * GLOBAL STATE
  ***********************/
 let questions = [];
-let answers = [];
+let answers = []; // Stores indices of user-selected options
 let index = 0;
 let timer;
 let timeLeft = 2400;
@@ -75,7 +75,7 @@ function afterLogin(user) {
         email: user.email,
         name: "",
         selection: null,
-        paid: user.email === ADMIN_EMAIL, // Set paid to true for admin, false for others
+        paid: user.email === ADMIN_EMAIL, 
         history: {
           level1: [],
           level2_social: [],
@@ -181,12 +181,10 @@ async function loadMock(data) {
   const key = sel.level === "level1" ? "level1" : 
               (sel.stream === "social" ? "level2_social" : "level2_socio");
 
-  // ✅ Check 'paid' directly to match your Firestore screenshot
   const isPaid = data.paid === true;
   const history = data.history || {};
   const currentHistory = history[key] || [];
 
-  // Allow first test free, check paid status for subsequent tests
   if (!isPaid && currentHistory.length >= 1) {
     alert("Payment required for more mock tests in this stream.");
     return;
@@ -218,7 +216,7 @@ async function loadMock(data) {
 }
 
 /***********************
- * HISTORY
+ * HISTORY (UPDATED WITH REVIEW BUTTON)
  ***********************/
 function showHistory() {
   const user = auth.currentUser;
@@ -233,22 +231,79 @@ function showHistory() {
     const key = sel.level === "level1" ? "level1" : 
                 (sel.stream === "social" ? "level2_social" : "level2_socio");
 
-    // ✅ Match 'paid' status from your database
     if (data.paid !== true) return alert("Payment required to view history");
 
     const history = data.history || {};
-    if (!history[key] || history[key].length === 0) {
-      return alert("No test history found yet.");
-    }
+    const tests = history[key] || [];
+
+    if (tests.length === 0) return alert("No test history found yet.");
 
     hideAll();
     show("history");
 
     document.getElementById("historyTable").innerHTML =
-      "<tr><th>Test</th><th>Score</th></tr>" +
-      history[key]
-        .map((s, i) => `<tr><td>Mock ${i + 1}</td><td>${s}</td></tr>`)
-        .join("");
+      "<tr><th>Test</th><th>Score</th><th>Review</th></tr>" +
+      tests.map((test, i) => {
+        // Support both old string scores and new object history
+        const score = typeof test === 'object' ? test.score : test;
+        return `<tr>
+          <td>Mock ${i + 1}</td>
+          <td>${score}</td>
+          <td><button class="primary" onclick="viewReview('${key}', ${i})">Review</button></td>
+        </tr>`;
+      }).join("");
+  });
+}
+
+/***********************
+ * TEST REVIEW (NEW)
+ ***********************/
+function viewReview(key, testIndex) {
+  const ref = db.collection("users").doc(auth.currentUser.uid);
+  ref.get().then(doc => {
+    const test = doc.data().history[key][testIndex];
+    
+    if (!test.questions || !test.userAnswers) {
+      return alert("Review not available for this older test record.");
+    }
+
+    hideAll();
+    show("review");
+    
+    const container = document.getElementById("reviewContainer");
+    container.innerHTML = "";
+
+    test.questions.forEach((q, i) => {
+      const userAns = test.userAnswers[i];
+      const div = document.createElement("div");
+      div.className = "card";
+      div.style.textAlign = "left";
+      div.innerHTML = `<h4>Q${i+1}: ${q.q}</h4>`;
+      
+      q.options.forEach((opt, optIdx) => {
+        const p = document.createElement("p");
+        p.style.padding = "12px";
+        p.style.margin = "5px 0";
+        p.style.borderRadius = "8px";
+        p.innerText = opt;
+
+        if (optIdx === q.a) {
+          // Correct Answer - Green
+          p.style.backgroundColor = "#dcfce7"; 
+          p.style.border = "2px solid #22c55e";
+          p.innerHTML += " ✅ (Correct Answer)";
+        } else if (optIdx === userAns) {
+          // User's Wrong Answer - Red
+          p.style.backgroundColor = "#fee2e2"; 
+          p.style.border = "2px solid #ef4444";
+          p.innerHTML += " ❌ (Your Choice)";
+        } else {
+          p.style.backgroundColor = "#f3f4f6";
+        }
+        div.appendChild(p);
+      });
+      container.appendChild(div);
+    });
   });
 }
 
@@ -304,7 +359,7 @@ function updateTime() {
 }
 
 /***********************
- * FINISH QUIZ
+ * FINISH QUIZ (UPDATED TO SAVE REVIEW DATA)
  ***********************/
 function finishQuiz() {
   clearInterval(timer);
@@ -326,7 +381,15 @@ function finishQuiz() {
 
     const history = data.history || {};
     if (!history[key]) history[key] = [];
-    history[key].push(score);
+    
+    // ✅ SAVE FULL TEST DETAILS FOR REVIEW
+    history[key].push({
+      score: score,
+      questions: questions, // Store questions used in this specific test
+      userAnswers: [...answers], // Store what user marked
+      date: new Date().toLocaleString()
+    });
+
     ref.update({ history: history });
   });
 
@@ -340,7 +403,7 @@ function finishQuiz() {
  * HELPERS
  ***********************/
 function hideAll() {
-  ["login","nameSetup","dashboard","quiz","result","history"]
+  ["login","nameSetup","dashboard","quiz","result","history","review"]
     .forEach(id => {
       const el = document.getElementById(id);
       if (el) el.style.display = "none";
