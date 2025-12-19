@@ -1,0 +1,242 @@
+[
+  {
+    "q": "Which of the following is an example of 'Fine Motor Skill' development?",
+    "options": ["Running", "Hopping", "Writing", "Climbing"],
+    "a": 2,
+    "explanation": "Fine motor skills involve the coordination of small muscles, such as those in the hands and fingers, used for activities like writing."
+  },
+  {
+    "q": "In Piaget's theory, 'Animism' (believing inanimate objects have feelings) is a feature of:",
+    "options": ["Sensory-motor stage", "Pre-operational stage", "Concrete operational stage", "Formal operational stage"],
+    "a": 1,
+    "explanation": "Animism is a characteristic of the pre-operational stage where children attribute human-like life and intentions to inanimate objects."
+  },
+  {
+    "q": "The 'Two-Factor Theory' of intelligence (g-factor and s-factor) was proposed by:",
+    "options": ["Charles Spearman", "Howard Gardner", "L.L. Thurstone", "E.L. Thorndike"],
+    "a": 0,
+    "explanation": "Charles Spearman proposed that intelligence consists of a general factor (g) and specific factors (s)."
+  },
+  {
+    "q": "Which of the following is a symptom of 'ADHD'?",
+    "options": ["Difficulty in reading", "Inability to perform math", "Persistent inattention and impulsivity", "Poor handwriting"],
+    "a": 2,
+    "explanation": "Attention-Deficit/Hyperactivity Disorder (ADHD) is marked by persistent patterns of inattention and/or hyperactivity-impulsivity."
+  },
+  {
+    "q": "What is the primary goal of 'Action Research' in education?",
+    "options": ["To develop new theories", "To solve immediate classroom problems", "To compare school systems", "To conduct national surveys"],
+    "a": 1,
+    "explanation": "Action research is conducted by practitioners to identify and solve practical problems in their own immediate work environment."
+  },
+  {
+    "q": "Which of these is a 'Nature' factor in development?",
+    "options": ["Schooling", "Peer group", "Genetic makeup", "Nutritional intake"],
+    "a": 2,
+    "explanation": "Nature refers to biological and genetic influences that are inherited."
+  },
+  {
+    "q": "In Pavlov’s classical conditioning, the 'Bell' before conditioning is a:",
+    "options": ["Unconditioned Stimulus", "Conditioned Response", "Neutral Stimulus", "Unconditioned Response"],
+    "a": 2,
+    "explanation": "Before conditioning, the bell does not elicit the reflex and is considered a neutral stimulus."
+  },
+  {
+    "q": "A student who learns best through charts, maps, and diagrams is a:",
+    "options": ["Auditory learner", "Kinesthetic learner", "Visual learner", "Social learner"],
+    "a": 2,
+    "explanation": "Visual learners process information best when it is presented in a graphic or illustrated format."
+  },
+  {
+    "q": "Which teaching style is most effective for fostering 'Critical Thinking'?",
+    "options": ["Autocratic", "Laissez-faire", "Democratic", "Permissive"],
+    "a": 2,
+    "explanation": "A democratic teaching style encourages participation, discussion, and independent thinking."
+  },
+  {
+    "q": "The concept of 'Mental Health' in a classroom primarily focuses on:",
+    "options": ["Academic grades", "Physical fitness", "Emotional and social well-being", "Discipline only"],
+    "a": 2,
+    "explanation": "Mental health in the classroom environment is about supporting students' overall emotional and social health."
+  },
+  {
+    "q": "According to Kohlberg, 'Social Contract Orientation' belongs to which level?",
+    "options": ["Pre-conventional", "Conventional", "Post-conventional", "Non-conventional"],
+    "a": 2,
+    "explanation": "Social contract orientation is a stage within the post-conventional level of moral development."
+  },
+  {
+    "q": "'परोपकार' शब्द का संधि-विच्छेद होगा:",
+    "options": ["पर + उपकार", "परो + पकार", "परौ + पकार", "परो + उपकार"],
+    "a": 0,
+    "explanation": "यह गुण संधि का उदाहरण है, जहाँ 'अ + उ' मिलकर 'ओ' बन जाता है."
+  },
+  {
+    "q": "'पीताम्बर' में कौन सा समास है?",
+    "options": ["अव्ययीभाव", "तत्पुरुष", "द्वंद्व", "बहुव्रीहि"],
+    "a": 3,
+    "explanation": "पीला है अंबर जिसका (कृष्ण); यहाँ बहुव्रीहि समास है क्योंकि यह किसी तीसरे पद की विशेषता बता रहा है."
+  },
+  {
+    "q": "'आगमन' का विलोम शब्द है:",
+    "options": ["प्रस्थान", "गमन", "निर्गम", "आयात"],
+    "a": 1,
+    "explanation": "आगमन (आना) का विपरीत शब्द गमन (जाना) होता है."
+  },
+  {
+    "q": "'घी के दिए जलाना' मुहावरे का अर्थ है:",
+    "options": ["रोशनी करना", "पूजा करना", "खुशियाँ मनाना", "धनवान होना"],
+    "a": 2,
+    "explanation": "यह मुहावरा बहुत खुश होने या खुशियाँ मनाने के लिए प्रयोग किया जाता है."
+  },
+  {
+    "q": "निम्नलिखित में से 'शुद्ध' शब्द है:",
+    "options": ["आशिर्वाद", "आशीर्वाद", "अशीर्वाद", "आसीर्वाद"],
+    "a": 1,
+    "explanation": "वर्तनी की दृष्टि से 'आशीर्वाद' शुद्ध शब्द है."
+  },
+  {
+    "q": "'सूर्य' का पर्यायवाची शब्द नहीं है:",
+    "options": ["दिनकर", "दिवाकर", "निशाकर", "भास्कर"],
+    "a": 2,
+    "explanation": "निशाकर चंद्रमा का पर्यायवाची है, जबकि अन्य तीनों सूर्य के हैं."
+  },
+  {
+    "q": "भाषा की सबसे छोटी इकाई क्या है?",
+    "options": ["शब्द", "व्यंजन", "स्वर", "वर्ण"],
+    "a": 3,
+    "explanation": "वर्ण भाषा की सबसे छोटी ध्वनि इकाई है जिसके खंड नहीं किए जा सकते."
+  },
+  {
+    "q": "Identify the 'Abstract Noun' in the following list:",
+    "options": ["Library", "Wisdom", "Teacher", "Gold"],
+    "a": 1,
+    "explanation": "Wisdom is an abstract noun as it refers to a quality or state of being that cannot be physically touched."
+  },
+  {
+    "q": "Fill in the blank: Neither of the two candidates ________ qualified.",
+    "options": ["are", "is", "were", "have"],
+    "a": 1,
+    "explanation": "'Neither' acts as a singular subject and therefore requires a singular verb ('is')."
+  },
+  {
+    "q": "What is the synonym of 'Fragile'?",
+    "options": ["Strong", "Delicate", "Tough", "Heavy"],
+    "a": 1,
+    "explanation": "Fragile means something that is easily broken; delicate is its synonym."
+  },
+  {
+    "q": "Which suffix can be added to the word 'Manage' to form a noun?",
+    "options": ["-tion", "-ment", "-ness", "-able"],
+    "a": 1,
+    "explanation": "Adding the suffix '-ment' to the verb 'Manage' forms the noun 'Management'."
+  },
+  {
+    "q": "Choose the correct indirect speech: He said, \"I work hard.\"",
+    "options": ["He said that he works hard.", "He said that he worked hard.", "He says that he worked hard.", "He said that I worked hard."],
+    "a": 1,
+    "explanation": "When the reporting verb is in the past tense, the present simple in direct speech changes to past simple in indirect speech."
+  },
+  {
+    "q": "Which of these is a 'Diphthong' sound symbol?",
+    "options": ["/i:/", "/u/", "/aɪ/", "/æ/"],
+    "a": 2,
+    "explanation": "/aɪ/ is a diphthong because it involves a glide from one vowel sound to another within one syllable."
+  },
+  {
+    "q": "The primary purpose of 'Silent Reading' is to improve:",
+    "options": ["Pronunciation", "Reading speed and comprehension", "Audibility", "Spelling"],
+    "a": 1,
+    "explanation": "Silent reading allows the reader to focus on the meaning and speed of reading without oral distractions."
+  },
+  {
+    "q": "What is the place value of 9 in 7,89,450?",
+    "options": ["90", "900", "9,000", "90,000"],
+    "a": 2,
+    "explanation": "In 7,89,450, the digit 9 is in the thousands place, so its value is 9,000."
+  },
+  {
+    "q": "What is the sum of the smallest 3-digit number and the largest 2-digit number?",
+    "options": ["100", "199", "109", "110"],
+    "a": 1,
+    "explanation": "Smallest 3-digit number (100) + Largest 2-digit number (99) = 199."
+  },
+  {
+    "q": "Convert 3/4 into a percentage.",
+    "options": ["30%", "45%", "75%", "80%"],
+    "a": 2,
+    "explanation": "(3/4) * 100 = 75%."
+  },
+  {
+    "q": "How many degrees are in a straight angle?",
+    "options": ["45", "90", "180", "360"],
+    "a": 2,
+    "explanation": "A straight angle is equal to 180 degrees."
+  },
+  {
+    "q": "If a dozen eggs cost 48 rupees, what is the cost of 1 egg?",
+    "options": ["3 rupees", "4 rupees", "5 rupees", "6 rupees"],
+    "a": 1,
+    "explanation": "Cost of 1 egg = 48 (total cost) / 12 (one dozen) = 4 rupees."
+  },
+  {
+    "q": "A rectangle has a length of 10 cm and a width of 5 cm. What is its area?",
+    "options": ["15 sq cm", "30 sq cm", "50 sq cm", "100 sq cm"],
+    "a": 2,
+    "explanation": "Area of rectangle = length * width = 10 cm * 5 cm = 50 sq cm."
+  },
+  {
+    "q": "Which of the following is a composite number?",
+    "options": ["2", "3", "7", "9"],
+    "a": 3,
+    "explanation": "A composite number has more than two factors. 9 has factors 1, 3, and 9."
+  },
+  {
+    "q": "What is 1000 divided by 25?",
+    "options": ["20", "40", "50", "60"],
+    "a": 1,
+    "explanation": "1000 / 25 = 40."
+  },
+  {
+    "q": "What is the HCF of 8 and 12?",
+    "options": ["2", "4", "6", "8"],
+    "a": 1,
+    "explanation": "The highest common factor of 8 and 12 is 4."
+  },
+  {
+    "q": "Simplify: 12 + 4 x 3",
+    "options": ["48", "36", "24", "19"],
+    "a": 2,
+    "explanation": "According to BODMAS, multiplication comes before addition: 12 + (4 x 3) = 12 + 12 = 24."
+  },
+  {
+    "q": "Which part of a plant is called its 'Kitchen'?",
+    "options": ["Root", "Stem", "Leaf", "Flower"],
+    "a": 2,
+    "explanation": "Leaves are called the kitchen of the plant because they prepare food through photosynthesis."
+  },
+  {
+    "q": "Which bird is known for laying eggs in a crow's nest?",
+    "options": ["Sparrow", "Cuckoo (Koel)", "Pigeon", "Eagle"],
+    "a": 1,
+    "explanation": "The Cuckoo (Koel) is a brood parasite that lays its eggs in the nests of other birds like crows."
+  },
+  {
+    "q": "Which among the following is a liquid at room temperature?",
+    "options": ["Iron", "Gold", "Mercury", "Copper"],
+    "a": 2,
+    "explanation": "Mercury is the only metal that is liquid at standard room temperature."
+  },
+  {
+    "q": "Which fiber is also known as 'Golden Fiber'?",
+    "options": ["Cotton", "Silk", "Jute", "Wool"],
+    "a": 2,
+    "explanation": "Jute is called the golden fiber due to its color and high cost-effectiveness."
+  },
+  {
+    "q": "Which organ pumps blood throughout the human body?",
+    "options": ["Lungs", "Brain", "Heart", "Stomach"],
+    "a": 2,
+    "explanation": "The heart is the muscular organ responsible for circulating blood through the body."
+  }
+]
