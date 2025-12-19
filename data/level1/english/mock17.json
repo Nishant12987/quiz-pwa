@@ -1,0 +1,242 @@
+[
+  {
+    "q": "What is 'Growth' in child development?",
+    "options": ["Qualitative change", "Quantitative change", "Mental change", "Emotional change"],
+    "a": 1,
+    "explanation": "Growth refers to physical changes in height and weight that can be measured."
+  },
+  {
+    "q": "The 'Concrete Operational' stage lasts from:",
+    "options": ["0-2 years", "2-7 years", "7-11 years", "11+ years"],
+    "a": 2,
+    "explanation": "This is Piaget’s third stage of development."
+  },
+  {
+    "q": "Who is the father of 'Behaviorism'?",
+    "options": ["Watson", "Piaget", "Freud", "Rogers"],
+    "a": 0,
+    "explanation": "John B. Watson established the school of behaviorism."
+  },
+  {
+    "q": "A child with high 'Musical' intelligence is likely to be a:",
+    "options": ["Writer", "Singer", "Mathematician", "Athlete"],
+    "a": 1,
+    "explanation": "They have sensitivity to rhythm and pitch."
+  },
+  {
+    "q": "What is 'ZPD' in Vygotsky's theory?",
+    "options": ["Zero Performance Depth", "Zone of Proximal Development", "Zone of Past Data", "Zero Point Development"],
+    "a": 1,
+    "explanation": "It is the difference between what a learner can do with and without help."
+  },
+  {
+    "q": "Which part of personality works on 'Pleasure Principle'?",
+    "options": ["Id", "Ego", "Superego", "Mind"],
+    "a": 0,
+    "explanation": "The Id seeks immediate gratification of needs."
+  },
+  {
+    "q": "Intelligence is a 'Global Capacity'—who said this?",
+    "options": ["Terman", "Wechsler", "Binet", "Spearman"],
+    "a": 1,
+    "explanation": "David Wechsler defined intelligence as the global capacity of the individual."
+  },
+  {
+    "q": "Dysgraphia is a difficulty in:",
+    "options": ["Reading", "Writing", "Math", "Walking"],
+    "a": 1,
+    "explanation": "It affects fine motor skills and handwriting."
+  },
+  {
+    "q": "Which is an 'Intrinsic' motivator?",
+    "options": ["Money", "Praise", "Self-satisfaction", "Grades"],
+    "a": 2,
+    "explanation": "It comes from within the person."
+  },
+  {
+    "q": "A 'Case Study' method is used for:",
+    "options": ["Large groups", "In-depth study of an individual", "Global surveys", "Statistics"],
+    "a": 1,
+    "explanation": "It provides detailed information about a single child."
+  },
+  {
+    "q": "The 'Laws of Exercise' were given by:",
+    "options": ["Thorndike", "Skinner", "Pavlov", "Piaget"],
+    "a": 0,
+    "explanation": "It suggests that practice strengthens learning."
+  },
+  {
+    "q": "'परोपकार' में कौन सी संधि है?",
+    "options": ["दीर्घ", "गुण", "वृद्धि", "यण"],
+    "a": 1,
+    "explanation": "पर + उपकार (अ+उ=ओ) गुण संधि है।"
+  },
+  {
+    "q": "'माता-पिता' में कौन सा समास है?",
+    "options": ["द्विगु", "द्वंद्व", "तत्पुरुष", "बहुव्रीहि"],
+    "a": 1,
+    "explanation": "जहाँ दोनों पद प्रधान हों, वहाँ द्वंद्व समास होता है।"
+  },
+  {
+    "q": "'आदान' का विलोम शब्द है:",
+    "options": ["ग्रहण", "प्रदान", "त्याग", "दान"],
+    "a": 1,
+    "explanation": "आदान का विलोम प्रदान होता है।"
+  },
+  {
+    "q": "'घी के दिए जलाना' मुहावरे का अर्थ है:",
+    "options": ["रोशनी करना", "खुशियाँ मनाना", "पूजा करना", "दीपावली मनाना"],
+    "a": 1,
+    "explanation": "अत्यधिक प्रसन्नता व्यक्त करना।"
+  },
+  {
+    "q": "शुद्ध वर्तनी है:",
+    "options": ["कवियित्री", "कवयित्री", "कवयत्री", "कवियत्री"],
+    "a": 1,
+    "explanation": "कवयित्री शुद्ध रूप है।"
+  },
+  {
+    "q": "'कमल' का पर्यायवाची है:",
+    "options": ["जलद", "नीरज", "वारिद", "अनल"],
+    "a": 1,
+    "explanation": "नीरज कमल का पर्यायवाची है।"
+  },
+  {
+    "q": "भाषा की सबसे छोटी इकाई है:",
+    "options": ["शब्द", "वाक्य", "वर्ण", "पद"],
+    "a": 2,
+    "explanation": "वर्ण भाषा की मूल इकाई है।"
+  },
+  {
+    "q": "Identify the 'Proper Noun' in: 'Jaipur is the Pink City.'",
+    "options": ["City", "Pink", "Jaipur", "The"],
+    "a": 2,
+    "explanation": "Jaipur is a specific name."
+  },
+  {
+    "q": "Choose the correct article: 'I saw ________ old man.'",
+    "options": ["a", "an", "the", "No article"],
+    "a": 1,
+    "explanation": "'Old' starts with a vowel sound."
+  },
+  {
+    "q": "What is the plural of 'Tooth'?",
+    "options": ["Tooths", "Teeth", "Toothes", "Teeths"],
+    "a": 1,
+    "explanation": "Irregular plural: Teeth."
+  },
+  {
+    "q": "Identify the 'Verb' in: 'They run fast.'",
+    "options": ["They", "Fast", "Run", "They run"],
+    "a": 2,
+    "explanation": "Run is the action."
+  },
+  {
+    "q": "What is the antonym of 'Victory'?",
+    "options": ["Success", "Defeat", "Win", "Goal"],
+    "a": 1,
+    "explanation": "Victory vs Defeat."
+  },
+  {
+    "q": "Choose the correctly spelled word:",
+    "options": ["Calendar", "Calender", "Calander", "Celendar"],
+    "a": 0,
+    "explanation": "Calendar is the correct spelling."
+  },
+  {
+    "q": "A group of keys is called a:",
+    "options": ["Bunch", "Pack", "Herd", "Flock"],
+    "a": 0,
+    "explanation": "A bunch of keys."
+  },
+  {
+    "q": "What is the place value of 5 in 543?",
+    "options": ["5", "50", "500", "5000"],
+    "a": 2,
+    "explanation": "5 is in the hundreds place."
+  },
+  {
+    "q": "How many millimeters are in 1 centimeter?",
+    "options": ["1", "10", "100", "1000"],
+    "a": 1,
+    "explanation": "1cm = 10mm."
+  },
+  {
+    "q": "Sum of the first three odd numbers:",
+    "options": ["3", "6", "9", "12"],
+    "a": 2,
+    "explanation": "1 + 3 + 5 = 9."
+  },
+  {
+    "q": "Area of a square with side 4cm:",
+    "options": ["8", "12", "16", "20"],
+    "a": 2,
+    "explanation": "4 * 4 = 16."
+  },
+  {
+    "q": "What is 1/2 of 10?",
+    "options": ["2", "5", "8", "1"],
+    "a": 1,
+    "explanation": "10 / 2 = 5."
+  },
+  {
+    "q": "A square has how many sides?",
+    "options": ["2", "3", "4", "5"],
+    "a": 2,
+    "explanation": "A square has 4 equal sides."
+  },
+  {
+    "q": "500 - 250 is:",
+    "options": ["200", "300", "250", "150"],
+    "a": 2,
+    "explanation": "500 - 250 = 250."
+  },
+  {
+    "q": "How many days are in a Leap Year?",
+    "options": ["364", "365", "366", "367"],
+    "a": 2,
+    "explanation": "February has 29 days in a leap year."
+  },
+  {
+    "q": "What is 10 x 10?",
+    "options": ["10", "100", "1000", "0"],
+    "a": 1,
+    "explanation": "10 * 10 = 100."
+  },
+  {
+    "q": "Smallest prime number is:",
+    "options": ["0", "1", "2", "3"],
+    "a": 2,
+    "explanation": "2 is the smallest prime number."
+  },
+  {
+    "q": "The sun rises in the:",
+    "options": ["West", "East", "North", "South"],
+    "a": 1,
+    "explanation": "The sun rises in the East."
+  },
+  {
+    "q": "Which part of the plant makes food?",
+    "options": ["Root", "Stem", "Leaf", "Flower"],
+    "a": 2,
+    "explanation": "Leaves are the food factories."
+  },
+  {
+    "q": "Which is a flightless bird?",
+    "options": ["Eagle", "Parrot", "Ostrich", "Crow"],
+    "a": 2,
+    "explanation": "Ostrich cannot fly."
+  },
+  {
+    "q": "Our National Anthem was written by:",
+    "options": ["Tagore", "Gandhi", "Nehru", "Azad"],
+    "a": 0,
+    "explanation": "Rabindranath Tagore."
+  },
+  {
+    "q": "The largest desert in India is:",
+    "options": ["Sahara", "Gobi", "Thar", "Atacama"],
+    "a": 2,
+    "explanation": "Thar Desert is in Rajasthan."
+  }
+]
