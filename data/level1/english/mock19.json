@@ -1,0 +1,242 @@
+[
+  {
+    "q": "Which of these is a 'Nature' factor in development?",
+    "options": ["School", "Heredity", "Nutrition", "Friends"],
+    "a": 1,
+    "explanation": "Heredity refers to genetic factors passed from parents."
+  },
+  {
+    "q": "The 'Sensory-motor' stage is about:",
+    "options": ["Thinking", "Senses and actions", "Logical reasoning", "Language"],
+    "a": 1,
+    "explanation": "Infants learn through sensory experiences and motor activities."
+  },
+  {
+    "q": "Who gave the theory of 'Multiple Intelligences'?",
+    "options": ["Spearman", "Binet", "Gardner", "Terman"],
+    "a": 2,
+    "explanation": "Howard Gardner proposed eight types of intelligence."
+  },
+  {
+    "q": "In an inclusive classroom, a teacher should:",
+    "options": ["Ignore weak students", "Focus only on gifted students", "Use diverse strategies", "Use only one method"],
+    "a": 2,
+    "explanation": "Inclusive teaching requires adapting to all learners' needs."
+  },
+  {
+    "q": "What is 'Scaffolding'?",
+    "options": ["A building", "Temporary support for learning", "A physical tool", "Punishment"],
+    "a": 1,
+    "explanation": "It helps a child bridge the gap in learning."
+  },
+  {
+    "q": "Operant conditioning was given by:",
+    "options": ["Pavlov", "Skinner", "Watson", "Piaget"],
+    "a": 1,
+    "explanation": "B.F. Skinner developed this theory of consequences."
+  },
+  {
+    "q": "Dysgraphia is a ________ disorder.",
+    "options": ["Reading", "Writing", "Math", "Speaking"],
+    "a": 1,
+    "explanation": "It affects writing and motor coordination."
+  },
+  {
+    "q": "What is the primary purpose of 'CCE'?",
+    "options": ["Testing", "Regular assessment", "Ranking", "Pass/Fail"],
+    "a": 1,
+    "explanation": "Continuous and Comprehensive Evaluation assesses all aspects."
+  },
+  {
+    "q": "An 'Extrinsic' motivator is:",
+    "options": ["Interest", "Joy", "Reward", "Curiosity"],
+    "a": 2,
+    "explanation": "External rewards like money or prizes."
+  },
+  {
+    "q": "Children are 'Active Builders' of knowledge—who said this?",
+    "options": ["Skinner", "Piaget", "Pavlov", "Watson"],
+    "a": 1,
+    "explanation": "Piaget believed children construct their own understanding."
+  },
+  {
+    "q": "Which stage is 'Post-conventional' morality?",
+    "options": ["Obeying laws", "Avoiding punishment", "Universal ethical principles", "Social approval"],
+    "a": 2,
+    "explanation": "Highest level where conscience and ethics matter."
+  },
+  {
+    "q": "'नायक' का सही संधि-विच्छेद है:",
+    "options": ["ना + अक", "ने + अक", "नै + अक", "नय + अक"],
+    "a": 2,
+    "explanation": "नै + अक अयादि संधि है।"
+  },
+  {
+    "q": "'पीतांबर' में कौन सा समास है?",
+    "options": ["अव्ययीभाव", "तत्पुरुष", "बहुव्रीहि", "द्वंद्व"],
+    "a": 2,
+    "explanation": "पीला है अंबर जिसका—विष्णु।"
+  },
+  {
+    "q": "'आयात' का विलोम शब्द है:",
+    "options": ["निर्यात", "आगत", "विदेशी", "प्रस्थान"],
+    "a": 0,
+    "explanation": "आयात (आना) vs निर्यात (भेजना)।"
+  },
+  {
+    "q": "'नाक कटना' मुहावरे का अर्थ है:",
+    "options": ["चोट लगना", "अपमान होना", "बीमार होना", "झगड़ा करना"],
+    "a": 1,
+    "explanation": "इज्जत जाना या अपमानित होना।"
+  },
+  {
+    "q": "शुद्ध वर्तनी वाला शब्द है:",
+    "options": ["उज्वल", "उज्जवल", "उज्ज्वल", "उजवल"],
+    "a": 2,
+    "explanation": "उज्ज्वल सही है।"
+  },
+  {
+    "q": "'बादल' का पर्यायवाची है:",
+    "options": ["नीरज", "वारिद", "पंकज", "अम्बुज"],
+    "a": 1,
+    "explanation": "वारिद बादल का पर्यायवाची है।"
+  },
+  {
+    "q": "भाषा की सबसे छोटी इकाई क्या है?",
+    "options": ["शब्द", "व्यंजन", "स्वर", "वर्ण"],
+    "a": 3,
+    "explanation": "वर्ण मूल ध्वनि है।"
+  },
+  {
+    "q": "Identify the 'Noun' in: 'The dog barked.'",
+    "options": ["The", "Dog", "Barked", "The dog"],
+    "a": 1,
+    "explanation": "Dog is a name of an animal."
+  },
+  {
+    "q": "Choose the correct article: 'He is ________ university student.'",
+    "options": ["a", "an", "the", "No article"],
+    "a": 0,
+    "explanation": "University starts with a 'Yu' consonant sound."
+  },
+  {
+    "q": "What is the plural of 'Box'?",
+    "options": ["Boxs", "Boxies", "Boxes", "Boxen"],
+    "a": 2,
+    "explanation": "Nouns ending in X add -es."
+  },
+  {
+    "q": "Identify the 'Verb' in: 'She sits there.'",
+    "options": ["She", "Sits", "There", "She sits"],
+    "a": 1,
+    "explanation": "Sits is the action."
+  },
+  {
+    "q": "What is the synonym of 'Big'?",
+    "options": ["Small", "Large", "Tiny", "Short"],
+    "a": 1,
+    "explanation": "Large means big."
+  },
+  {
+    "q": "Choose the correctly spelled word:",
+    "options": ["Believe", "Beleive", "Belive", "Bellieve"],
+    "a": 0,
+    "explanation": "Believe is the correct spelling."
+  },
+  {
+    "q": "A person who flies an airplane is a:",
+    "options": ["Driver", "Pilot", "Captain", "Engineer"],
+    "a": 1,
+    "explanation": "A pilot operates planes."
+  },
+  {
+    "q": "What is the place value of 7 in 74?",
+    "options": ["7", "70", "700", "0"],
+    "a": 1,
+    "explanation": "7 is in the tens place."
+  },
+  {
+    "q": "How many millimeters are in 5 centimeters?",
+    "options": ["5", "50", "500", "5000"],
+    "a": 1,
+    "explanation": "5 * 10 = 50mm."
+  },
+  {
+    "q": "Sum of 10 + 20 + 30 is:",
+    "options": ["50", "60", "70", "80"],
+    "a": 1,
+    "explanation": "10 + 20 + 30 = 60."
+  },
+  {
+    "q": "Area of a square with side 2cm:",
+    "options": ["4", "6", "8", "10"],
+    "a": 0,
+    "explanation": "2 * 2 = 4."
+  },
+  {
+    "q": "What is 1/2 of 100?",
+    "options": ["25", "40", "50", "75"],
+    "a": 2,
+    "explanation": "100 / 2 = 50."
+  },
+  {
+    "q": "A triangle has how many sides?",
+    "options": ["2", "3", "4", "5"],
+    "a": 1,
+    "explanation": "A triangle has 3 sides."
+  },
+  {
+    "q": "200 - 100 is:",
+    "options": ["50", "100", "150", "200"],
+    "a": 1,
+    "explanation": "200 - 100 = 100."
+  },
+  {
+    "q": "How many hours are in 1 day?",
+    "options": ["12", "24", "36", "48"],
+    "a": 1,
+    "explanation": "A day has 24 hours."
+  },
+  {
+    "q": "What is 2 x 10?",
+    "options": ["12", "20", "22", "30"],
+    "a": 1,
+    "explanation": "2 * 10 = 20."
+  },
+  {
+    "q": "Smallest natural number is:",
+    "options": ["0", "1", "2", "3"],
+    "a": 1,
+    "explanation": "Natural numbers start from 1."
+  },
+  {
+    "q": "Which part of the plant grows underground?",
+    "options": ["Stem", "Leaf", "Root", "Flower"],
+    "a": 2,
+    "explanation": "Roots grow in soil."
+  },
+  {
+    "q": "The moon is a natural ________ of Earth.",
+    "options": ["Planet", "Star", "Satellite", "Comet"],
+    "a": 2,
+    "explanation": "Moon orbits the Earth."
+  },
+  {
+    "q": "Which sense organ is for sight?",
+    "options": ["Nose", "Ear", "Eye", "Skin"],
+    "a": 2,
+    "explanation": "Eyes see things."
+  },
+  {
+    "q": "We get wool from:",
+    "options": ["Cow", "Hen", "Sheep", "Dog"],
+    "a": 2,
+    "explanation": "Sheep provide wool."
+  },
+  {
+    "q": "Capital of Rajasthan is:",
+    "options": ["Udaipur", "Jodhpur", "Jaipur", "Ajmer"],
+    "a": 2,
+    "explanation": "Jaipur."
+  }
+]
