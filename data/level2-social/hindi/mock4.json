@@ -24,7 +24,7 @@
     "explanation": "प्रकृतिवादी बुद्धि में प्राकृतिक दुनिया के प्रति संवेदनशीलता शामिल है।"
   },
   {
-    "q": "'करके सीखना' (Learning by Doing) किसका मुख्य सिद्धांत है?",
+    "q": "'कर करके सीखना' (Learning by Doing) किसका मुख्य सिद्धांत है?",
     "options": ["आदर्शवाद", "प्रयोजनवाद (Pragmatism)", "प्रकृतिवाद", "यथार्थवाद"],
     "a": 1,
     "explanation": "प्रयोजनवाद (जॉन डीवी) व्यावहारिक अनुभव और करके सीखने पर जोर देता है।"
@@ -39,7 +39,7 @@
     "q": "'सिफेलोकॉडल' (Cephalocaudal) विकास का अर्थ है वृद्धि:",
     "options": ["केंद्र से परिधि की ओर", "सिर से पैर की ओर", "पैर से सिर की ओर", "विशिष्ट से सामान्य की ओर"],
     "a": 1,
-    "explanation": "सिफेलोकॉडल विकास सिर-से-पूंछ की दिशा का अनुसरण करता है।"
+    "explanation": "सिफेलोकॉडल विकास सिर-से-पैर की दिशा का अनुसरण करता है।"
   },
   {
     "q": "सीखने का कौन सा नियम कहता है कि 'अभ्यास मनुष्य को पूर्ण बनाता है'?",
@@ -85,7 +85,7 @@
   },
   {
     "q": "'नाक कटना' मुहावरे का अर्थ है:",
-    "options": ["चोट लगना", "इज्जत जाना", "बीमार होना", "झगड़ा करना"],
+    "options": ["चोट लगना", "इज्जत जाना", "बीमार होना", "झगड़ा करना"],
     "a": 1,
     "explanation": "इसका अर्थ मान-प्रतिष्ठा की हानि होना है।"
   },
@@ -99,7 +99,7 @@
     "q": "'तरणि' शब्द का अर्थ है:",
     "options": ["सूर्य", "नाव", "युवती", "नदी"],
     "a": 0,
-    "explanation": "'तरणि' (छोटी इ) का अर्थ सूर्य होता है, जबकि 'तरणी' (बड़ी ई) का अर्थ नाव होता है।"
+    "explanation": "'तरणि' (छोटी इ) का अर्थ सूर्य होता है, जबकि 'तरणी' (बड़ी ई) का अर्थ नाव होता है।"
   },
   {
     "q": "भाषा शिक्षण की 'प्रत्यक्ष विधि' (Direct Method) में:",
@@ -108,46 +108,46 @@
     "explanation": "प्रत्यक्ष विधि में सीधे लक्ष्य भाषा में बात की जाती है, मातृभाषा का उपयोग नहीं होता।"
   },
   {
-    "q": "सही विराम चिह्न वाला वाक्य चुनें:",
+    "q": "Choose the sentence with correct punctuation:",
     "options": ["He said I am coming.", "He said, \"I am coming.\"", "He said \"I am coming.\"", "He said, I am coming."],
     "a": 1,
-    "explanation": "डायरेक्ट स्पीच में कोटेशन मार्क्स से पहले कॉमा की आवश्यकता होती है।"
+    "explanation": "Direct speech requires a comma before the quotation marks."
   },
   {
-    "q": "'Little' की सुपरलेटिव डिग्री क्या है?",
+    "q": "What is the superlative degree of 'Little'?",
     "options": ["Littlest", "Less", "Least", "Lesser"],
     "a": 2,
-    "explanation": "Little (Positive), Less (Comparative), Least (Superlative)."
+    "explanation": "The degrees are: Little (Positive), Less (Comparative), Least (Superlative)."
   },
   {
-    "q": "वाक्य में 'Subject' पहचानें: 'On the top of the hill lives a hermit.'",
+    "q": "Identify the 'Subject' in the sentence: 'On the top of the hill lives a hermit.'",
     "options": ["The hill", "The top", "A hermit", "Lives"],
     "a": 2,
-    "explanation": "संन्यासी (Hermit) वह है जो क्रिया (रहना) कर रहा है।"
+    "explanation": "The hermit is the one performing the action (living)."
   },
   {
-    "q": "ध्वन्यात्मकता (Phonetics) में इनमें से कौन सा 'Vowel Sound' प्रतीक है?",
+    "q": "In phonetics, which of these is a 'Vowel Sound' symbol?",
     "options": ["/p/", "/b/", "/e/", "/t/"],
     "a": 2,
-    "explanation": "/e/ एक स्वर ध्वनि का प्रतिनिधित्व करता है।"
+    "explanation": "/e/ represents a vowel sound, while others are consonants."
   },
   {
-    "q": "'Call it a day' मुहावरे का अर्थ है:",
-    "options": ["काम शुरू करना", "किसी काम को बंद कर देना", "जल्दी जागना", "जश्न मनाना"],
+    "q": "The idiom 'Call it a day' means:",
+    "options": ["To start working", "To stop doing something", "To wake up early", "To celebrate"],
     "a": 1,
-    "explanation": "इसका अर्थ है दिन के शेष समय के लिए कुछ करना बंद करने का निर्णय लेना।"
+    "explanation": "It means to decide to stop doing something for the rest of the day."
   },
   {
-    "q": "सही 'Question Tag' चुनें: 'You are a student, ________?'",
+    "q": "Select the correct 'Question Tag': 'You are a student, ________?'",
     "options": ["don't you", "aren't you", "are you", "isn't it"],
     "a": 1,
-    "explanation": "सकारात्मक कथन में उसी सहायक क्रिया का उपयोग करके नकारात्मक टैग लगता है।"
+    "explanation": "A positive statement takes a negative tag using the same auxiliary verb."
   },
   {
-    "q": "रिक्त स्थान भरें: 'I have been living here ________ 2010.'",
+    "q": "Fill in the blank: 'I have been living here ________ 2010.'",
     "options": ["for", "since", "from", "during"],
     "a": 1,
-    "explanation": "परफेक्ट कंटीन्यूअस टेंस में समय के एक निश्चित बिंदु के लिए 'since' का उपयोग किया जाता है।"
+    "explanation": "'Since' is used for a specific point in time in perfect continuous tenses."
   },
   {
     "q": "'दांडी मार्च' (1930) मुख्य रूप से किस ब्रिटिश नीति के खिलाफ था?",
