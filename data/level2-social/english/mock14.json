@@ -1,0 +1,242 @@
+[
+  {
+    "q": "Which theory of development focuses on the 'Stages of Psychosocial Development'?",
+    "options": ["Jean Piaget", "Erik Erikson", "Sigmund Freud", "Lev Vygotsky"],
+    "a": 1,
+    "explanation": "Erikson proposed eight stages of development, each centered on a social conflict."
+  },
+  {
+    "q": "The 'Laws of Learning' (Readiness, Exercise, Effect) were developed by:",
+    "options": ["B.F. Skinner", "Ivan Pavlov", "E.L. Thorndike", "John Watson"],
+    "a": 2,
+    "explanation": "Edward Thorndike's laws formed the basis of connectionism in learning theory."
+  },
+  {
+    "q": "Which stage of Piaget's theory is marked by the 'Emergence of Logical Thought' about physical objects?",
+    "options": ["Sensory-motor", "Pre-operational", "Concrete operational", "Formal operational"],
+    "a": 2,
+    "explanation": "Logical thinking begins in the concrete operational stage (7-11 years)."
+  },
+  {
+    "q": "What is the primary characteristic of an 'Inclusive' school?",
+    "options": ["Separating students by IQ", "Focusing on extra fees", "Accommodating all learners regardless of ability", "Exclusive focus on sports"],
+    "a": 2,
+    "explanation": "Inclusion means providing equal learning opportunities for all students in the same environment."
+  },
+  {
+    "q": "Which IQ range is considered 'Superior' in intelligence?",
+    "options": ["90-109", "110-119", "120-139", "70-79"],
+    "a": 2,
+    "explanation": "Scores between 120-139 are typically classified as superior intelligence."
+  },
+  {
+    "q": "The 'Heuristic Method' of teaching was proposed by:",
+    "options": ["H.E. Armstrong", "John Dewey", "Froebel", "Maria Montessori"],
+    "a": 0,
+    "explanation": "The Heuristic method emphasizes learning through discovery and self-inquiry."
+  },
+  {
+    "q": "Which of the following is a 'Socializing Agency' for a child?",
+    "options": ["Family", "School", "Media", "All of the above"],
+    "a": 3,
+    "explanation": "Family is primary, while schools and media are secondary socializing agencies."
+  },
+  {
+    "q": "'Learning by Insight' is most closely associated with:",
+    "options": ["Behaviorism", "Gestalt Psychology", "Constructivism", "Psychoanalysis"],
+    "a": 1,
+    "explanation": "Gestalt psychology emphasizes the sudden perception of relationships or the 'whole' as a solution."
+  },
+  {
+    "q": "The 'Zone of Proximal Development' is the gap between:",
+    "options": ["Child's age and height", "What a child can do alone vs. with help", "Home and school environments", "Reading and writing skills"],
+    "a": 1,
+    "explanation": "Vygotsky defined ZPD as the level of potential development under adult guidance."
+  },
+  {
+    "q": "Which assessment is used to 'Screen' students for special programs?",
+    "options": ["Formative", "Placement", "Summative", "Diagnostic"],
+    "a": 1,
+    "explanation": "Placement assessment determines where a student belongs in a curriculum or program."
+  },
+  {
+    "q": "What is 'Metacognition'?",
+    "options": ["Fast learning", "Thinking about thinking", "Social skills", "Physical reflexes"],
+    "a": 1,
+    "explanation": "Metacognition is the awareness and regulation of one's own cognitive processes."
+  },
+  {
+    "q": "'स्वागत' का सही संधि-विच्छेद है:",
+    "options": ["स्वा + गत", "सु + आगत", "स्व + आगत", "सु + गत"],
+    "a": 1,
+    "explanation": "सु + आगत = स्वागत (यण संधि)।"
+  },
+  {
+    "q": "'यथाविधि' में कौन सा समास है?",
+    "options": ["अव्ययीभाव", "तत्पुरुष", "द्विगु", "द्वंद्व"],
+    "a": 0,
+    "explanation": "विधि के अनुसार; प्रथम पद अव्यय होने के कारण अव्ययीभाव समास है।"
+  },
+  {
+    "q": "'मृदुल' का विलोम शब्द है:",
+    "options": ["कठोर", "मुलायम", "मीठा", "तरल"],
+    "a": 0,
+    "explanation": "मृदुल का अर्थ कोमल होता है, जिसका विलोम कठोर है।"
+  },
+  {
+    "q": "'हाथ पाँव फूलना' मुहावरे का अर्थ है:",
+    "options": ["बीमार होना", "घबरा जाना", "मेहनत करना", "खुश होना"],
+    "a": 1,
+    "explanation": "इसका अर्थ है डर या परेशानी के कारण व्याकुल या भयभीत होना।"
+  },
+  {
+    "q": "शुद्ध वर्तनी वाले शब्द का चयन करें:",
+    "options": ["उज्वल", "उज्जवल", "उज्ज्वल", "ऊज्जवल"],
+    "a": 2,
+    "explanation": "सही वर्तनी 'उज्ज्वल' है।"
+  },
+  {
+    "q": "'सरस्वती' का पर्यायवाची शब्द नहीं है:",
+    "options": ["वीणापाणि", "शारदा", "कमला", "वाणी"],
+    "a": 2,
+    "explanation": "'कमला' लक्ष्मी जी का पर्यायवाची है।"
+  },
+  {
+    "q": "भाषा शिक्षण की 'पारायण विधि' किससे संबंधित है?",
+    "options": ["खेल विधि से", "रटने/पुनरावृत्ति से", "लेखन सुधार से", "अनुवाद से"],
+    "a": 1,
+    "explanation": "पारायण विधि में पाठ को बार-बार दोहराकर कंठस्थ किया जाता है।"
+  },
+  {
+    "q": "Identify the 'Interjection' in the sentence: 'Alas! We lost the match.'",
+    "options": ["Alas", "We", "Lost", "Match"],
+    "a": 0,
+    "explanation": "Interjections express sudden bursts of emotion."
+  },
+  {
+    "q": "Choose the correct spelling:",
+    "options": ["Grammer", "Grammar", "Grammerr", "Grammarre"],
+    "a": 1,
+    "explanation": "The correct spelling ends in '-ar'."
+  },
+  {
+    "q": "The plural of 'Goose' is:",
+    "options": ["Gooses", "Goosess", "Geese", "Geeses"],
+    "a": 2,
+    "explanation": "The internal vowel change results in 'geese'."
+  },
+  {
+    "q": "What is the synonym of 'Courageous'?",
+    "options": ["Fearful", "Brave", "Timid", "Weak"],
+    "a": 1,
+    "explanation": "Courageous and brave both mean showing no fear."
+  },
+  {
+    "q": "Which part of speech is 'Quickly' in 'He runs quickly'?",
+    "options": ["Adjective", "Adverb", "Noun", "Verb"],
+    "a": 1,
+    "explanation": "It describes the manner of the verb 'runs'."
+  },
+  {
+    "q": "Choose the correct article: 'I have ________ umbrella.'",
+    "options": ["a", "an", "the", "No article"],
+    "a": 1,
+    "explanation": "Umbrella starts with a vowel sound 'u', so 'an' is used."
+  },
+  {
+    "q": "Change into passive voice: 'She writes a letter.'",
+    "options": ["A letter is written by her.", "A letter was written by her.", "A letter is being written by her.", "She is writing a letter."],
+    "a": 0,
+    "explanation": "Simple present changes to 'is/am/are + V3'."
+  },
+  {
+    "q": "The 'Panchatantra' was written by:",
+    "options": ["Kalidasa", "Vishnu Sharma", "Varahamihira", "Aryabhata"],
+    "a": 1,
+    "explanation": "It is a collection of interrelated animal fables in Sanskrit."
+  },
+  {
+    "q": "The 'Suez Canal' connects the Red Sea with the:",
+    "options": ["Arabian Sea", "Mediterranean Sea", "Caspian Sea", "Black Sea"],
+    "a": 1,
+    "explanation": "It is an artificial sea-level waterway in Egypt."
+  },
+  {
+    "q": "Which incident led to the suspension of the 'Non-Cooperation Movement'?",
+    "options": ["Jallianwala Bagh", "Chauri Chaura incident", "Kakori conspiracy", "Dandi March"],
+    "a": 1,
+    "explanation": "Gandhi stopped the movement in 1922 due to the violence at Chauri Chaura."
+  },
+  {
+    "q": "Which is the highest peak in the 'Western Ghats'?",
+    "options": ["Guru Shikhar", "Dodabetta", "Anamudi", "Kalsubai"],
+    "a": 2,
+    "explanation": "Anamudi (Kerala) is the highest peak in the Western Ghats."
+  },
+  {
+    "q": "How many members of 'Rajya Sabha' are nominated by the President?",
+    "options": ["2", "10", "12", "15"],
+    "a": 2,
+    "explanation": "12 members are nominated for their contributions to art, science, and social service."
+  },
+  {
+    "q": "Who was the founder of the 'Lodi Dynasty'?",
+    "options": ["Bahlul Lodi", "Sikandar Lodi", "Ibrahim Lodi", "Khizr Khan"],
+    "a": 0,
+    "explanation": "Bahlul Lodi founded the first Afghan dynasty in Delhi in 1451."
+  },
+  {
+    "q": "The 'Ring of Fire' is associated with which ocean?",
+    "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+    "a": 3,
+    "explanation": "The Pacific Ring of Fire is known for high volcanic and seismic activity."
+  },
+  {
+    "q": "The 'Cabinet Mission' came to India in which year?",
+    "options": ["1942", "1945", "1946", "1947"],
+    "a": 2,
+    "explanation": "The mission aimed to discuss the transfer of power from the British government to Indian leadership."
+  },
+  {
+    "q": "Which Article of the Constitution deals with the 'Right to Life'?",
+    "options": ["Article 14", "Article 19", "Article 21", "Article 32"],
+    "a": 2,
+    "explanation": "Article 21 guarantees protection of life and personal liberty."
+  },
+  {
+    "q": "Which Indian state is the largest producer of 'Cotton'?",
+    "options": ["Maharashtra", "Gujarat", "Punjab", "Tamil Nadu"],
+    "a": 1,
+    "explanation": "Gujarat is currently the leading producer of cotton in India."
+  },
+  {
+    "q": "Who was the 'Cousin' of Buddha who established the first Buddhist community?",
+    "options": ["Ananda", "Devadatta", "Upali", "Channa"],
+    "a": 0,
+    "explanation": "Ananda was one of the ten principal disciples and the primary attendant of Buddha."
+  },
+  {
+    "q": "The 'Standard Meridian' of India passes through which city?",
+    "options": ["Jaipur", "Mirzapur", "Patna", "Nagpur"],
+    "a": 1,
+    "explanation": "82°30' E passes through Mirzapur, Uttar Pradesh."
+  },
+  {
+    "q": "Which planet is known as 'Earth's Twin'?",
+    "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+    "a": 1,
+    "explanation": "Venus is called Earth's twin because of its similar size and density."
+  },
+  {
+    "q": "The 'Bhakti Movement' in South India was led by Alvars and Nayanars. Nayanars were devotees of:",
+    "options": ["Vishnu", "Shiva", "Shakti", "Ganesha"],
+    "a": 1,
+    "explanation": "Nayanars were devotees of Lord Shiva; Alvars were devotees of Lord Vishnu."
+  },
+  {
+    "q": "The 'Joint Session' of the Parliament is presided over by the:",
+    "options": ["President", "Vice-President", "Speaker of Lok Sabha", "Prime Minister"],
+    "a": 2,
+    "explanation": "While the President calls the joint session, the Speaker of the Lok Sabha presides over it."
+  }
+]
