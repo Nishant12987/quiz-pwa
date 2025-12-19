@@ -1,242 +1,242 @@
 [
   {
-    "q": "The primary cause of 'Individual Differences' in children is the interaction between:",
-    "options": ["School and Society", "Heredity and Environment", "Peer group and Teachers", "Nutrition and Physical exercise"],
-    "a": 1,
-    "explanation": "Individual differences result from the complex interplay between a child's genetic makeup (heredity) and the external world (environment) they grow up in."
-  },
-  {
-    "q": "According to Erikson's psychosocial theory, the stage of 'Autonomy vs. Shame and Doubt' occurs during:",
-    "options": ["Infancy", "Early Childhood", "Middle Childhood", "Adolescence"],
-    "a": 1,
-    "explanation": "This second stage occurs between ages 18 months to 3 years, where children begin to assert their independence."
-  },
-  {
-    "q": "The 'Primary Mental Abilities' (PMA) theory of intelligence was proposed by:",
-    "options": ["Charles Spearman", "L.L. Thurstone", "Howard Gardner", "Robert Sternberg"],
-    "a": 1,
-    "explanation": "Thurstone argued that intelligence is not a single general factor but consists of seven distinct primary mental abilities."
-  },
-  {
-    "q": "According to the RTE Act 2009, how many minimum working hours per week are prescribed for a teacher, including preparation hours?",
-    "options": ["40 hours", "45 hours", "50 hours", "55 hours"],
-    "a": 1,
-    "explanation": "The Right to Education Act specifies a minimum of 45 teaching hours per week, which includes the time spent on preparation."
-  },
-  {
-    "q": "In Maslow’s hierarchy of needs, the need for 'Love and Belongingness' is categorized as:",
-    "options": ["Physiological need", "Safety need", "Social need", "Self-actualization need"],
+    "q": "Which of the following is an example of 'Fine Motor Skill' development?",
+    "options": ["Running", "Hopping", "Writing", "Climbing"],
     "a": 2,
-    "explanation": "After physiological and safety needs are met, the third level involves social needs, which include friendship, intimacy, and family."
+    "explanation": "Fine motor skills involve the coordination of small muscle movements, usually involving the hands and fingers, such as writing."
   },
   {
-    "q": "Which principle of Operant Conditioning involves removing an unpleasant stimulus to increase the frequency of a behavior?",
-    "options": ["Positive Reinforcement", "Negative Reinforcement", "Positive Punishment", "Negative Punishment"],
+    "q": "In Piaget's theory, 'Animism' (believing inanimate objects have feelings) is a feature of:",
+    "options": ["Sensory-motor stage", "Pre-operational stage", "Concrete operational stage", "Formal operational stage"],
     "a": 1,
-    "explanation": "Negative reinforcement increases a behavior by taking away an aversive (unpleasant) stimulus when the behavior is performed."
+    "explanation": "Animism is a characteristic of the pre-operational stage where children attribute human-like life and intentions to inanimate objects."
   },
   {
-    "q": "The 'Kindergarten' method of education, focusing on 'Gifts' and 'Occupations', was developed by:",
-    "options": ["Maria Montessori", "Friedrich Froebel", "John Dewey", "Jean-Jacques Rousseau"],
-    "a": 1,
-    "explanation": "Froebel created the Kindergarten (garden of children) concept, utilizing specific play materials called 'Gifts' to stimulate learning."
-  },
-  {
-    "q": "Which of the following is considered a core component of 'Creativity'?",
-    "options": ["High IQ score", "Rote memorization", "Originality and Flexibility", "Conformity to rules"],
-    "a": 2,
-    "explanation": "Creativity is characterized by the ability to produce original ideas (originality) and think about problems in various ways (flexibility)."
-  },
-  {
-    "q": "A narrative description of a child’s behavior in a specific situation, recorded by a teacher, is called:",
-    "options": ["A Checklist", "A Rating Scale", "An Anecdotal Record", "A Portfolio"],
-    "a": 2,
-    "explanation": "An anecdotal record is a brief, objective account of a significant incident or behavior observed in a student."
-  },
-  {
-    "q": "According to Kohlberg, at which level of moral development do individuals follow 'Universal Ethical Principles'?",
+    "q": "According to Kohlberg, 'Social Contract Orientation' belongs to which level?",
     "options": ["Pre-conventional", "Conventional", "Post-conventional", "Non-conventional"],
     "a": 2,
-    "explanation": "At the highest level (Post-conventional), morality is defined by abstract principles and conscience that transcend specific laws."
+    "explanation": "Social contract orientation is a stage within the post-conventional level where laws are seen as social contracts rather than rigid edicts."
   },
   {
-    "q": "In Piaget's theory, the ability for 'Hypothetico-deductive reasoning' develops during the:",
-    "options": ["Sensory-motor stage", "Pre-operational stage", "Concrete operational stage", "Formal operational stage"],
-    "a": 3,
-    "explanation": "Formal operations (11+ years) allow adolescents to think abstractly, form hypotheses, and deduce logical conclusions."
-  },
-  {
-    "q": "'मनोरंजन' का सही संधि-विच्छेद है:",
-    "options": ["मनो + रंजन", "मन + ओरंजन", "मनः + रंजन", "मनः + रञ्जन"],
-    "a": 2,
-    "explanation": "यह विसर्ग संधि का उदाहरण है, जहाँ विसर्ग का 'ओ' हो जाता है (मनः + रंजन = मनोरंजन)।"
-  },
-  {
-    "q": "'नीलकमल' में कौन सा समास है?",
-    "options": ["अव्ययीभाव", "तत्पुरुष", "कर्मधारय", "बहुव्रीहि"],
-    "a": 2,
-    "explanation": "जहाँ एक पद विशेषण (नील) और दूसरा विशेष्य (कमल) हो, वहाँ कर्मधारय समास होता है।"
-  },
-  {
-    "q": "'आयात' शब्द का सही विलोम है:",
-    "options": ["निर्यात", "आगत", "विदेशी", "प्रस्थान"],
+    "q": "The 'Two-Factor Theory' of intelligence (g-factor and s-factor) was proposed by:",
+    "options": ["Charles Spearman", "Howard Gardner", "L.L. Thurstone", "E.L. Thorndike"],
     "a": 0,
-    "explanation": "आयात (Import) का विपरीतार्थक शब्द निर्यात (Export) होता है।"
+    "explanation": "Charles Spearman proposed that intelligence consists of a general factor (g) and specific factors (s)."
   },
   {
-    "q": "'मुँह की खाना' मुहावरे का अर्थ है:",
-    "options": ["भोजन करना", "पराजित होना", "गाली देना", "बहुत बोलना"],
+    "q": "Which of the following is a symptom of 'ADHD'?",
+    "options": ["Difficulty in reading", "Inability to perform math", "Persistent inattention and impulsivity", "Poor handwriting"],
+    "a": 2,
+    "explanation": "ADHD is characterized by persistent patterns of inattention and/or hyperactivity-impulsivity."
+  },
+  {
+    "q": "What is the primary goal of 'Action Research' in education?",
+    "options": ["To develop new theories", "To solve immediate classroom problems", "To compare school systems", "To conduct national surveys"],
     "a": 1,
-    "explanation": "मुँह की खाना मुहावरे का प्रयोग बुरी तरह हार जाने या पराजित होने के लिए किया जाता है।"
+    "explanation": "Action research is conducted by teachers to solve immediate, practical problems in the classroom."
+  },
+  {
+    "q": "Which of these is a 'Nature' factor in development?",
+    "options": ["Schooling", "Peer group", "Genetic makeup", "Nutritional intake"],
+    "a": 2,
+    "explanation": "Nature refers to biological and genetic influences that are inherited."
+  },
+  {
+    "q": "In Pavlov’s classical conditioning, the 'Bell' before conditioning is a:",
+    "options": ["Unconditioned Stimulus", "Conditioned Response", "Neutral Stimulus", "Unconditioned Response"],
+    "a": 2,
+    "explanation": "Before conditioning, the bell is a neutral stimulus because it does not yet trigger the response."
+  },
+  {
+    "q": "A student who learns best through charts, maps, and diagrams is a:",
+    "options": ["Auditory learner", "Kinesthetic learner", "Visual learner", "Social learner"],
+    "a": 2,
+    "explanation": "Visual learners process information best when it is presented in a graphic format."
+  },
+  {
+    "q": "Which teaching style is most effective for fostering 'Critical Thinking'?",
+    "options": ["Autocratic", "Laissez-faire", "Democratic", "Permissive"],
+    "a": 2,
+    "explanation": "A democratic teaching style encourages participation, discussion, and independent thought."
+  },
+  {
+    "q": "The concept of 'Mental Health' in a classroom primarily focuses on:",
+    "options": ["Academic grades", "Physical fitness", "Emotional and social well-being", "Discipline only"],
+    "a": 2,
+    "explanation": "Mental health in the classroom focuses on the emotional and social well-being of students."
+  },
+  {
+    "q": "'परोपकार' शब्द का संधि-विच्छेद होगा:",
+    "options": ["पर + उपकार", "परो + पकार", "परौ + पकार", "परो + उपकार"],
+    "a": 0,
+    "explanation": "यह गुण संधि का उदाहरण है, जहाँ 'अ + उ' मिलकर 'ओ' बन जाता है."
+  },
+  {
+    "q": "'पीताम्बर' में कौन सा समास है?",
+    "options": ["अव्ययीभाव", "तत्पुरुष", "द्वंद्व", "बहुव्रीहि"],
+    "a": 3,
+    "explanation": "पीला है अंबर (वस्त्र) जिसका (अर्थात कृष्ण); यहाँ बहुव्रीहि समास है."
+  },
+  {
+    "q": "'आगमन' का विलोम शब्द है:",
+    "options": ["प्रस्थान", "गमन", "निर्गम", "आयात"],
+    "a": 1,
+    "explanation": "आगमन का अर्थ है आना और गमन का अर्थ है जाना."
+  },
+  {
+    "q": "'घी के दिए जलाना' मुहावरे का अर्थ है:",
+    "options": ["रोशनी करना", "पूजा करना", "खुशियाँ मनाना", "धनवान होना"],
+    "a": 2,
+    "explanation": "यह मुहावरा बहुत अधिक प्रसन्न होने या खुशियाँ मनाने के लिए प्रयोग किया जाता है."
   },
   {
     "q": "निम्नलिखित में से 'शुद्ध' शब्द है:",
-    "options": ["उज्वल", "उज्जवल", "उज्ज्वल", "उजवल"],
-    "a": 2,
-    "explanation": "उज्ज्वल में दोनों 'ज' आधे होते हैं (उत + ज्वल)।"
-  },
-  {
-    "q": "'बिजली' का पर्यायवाची शब्द है:",
-    "options": ["दामिनी", "सरिता", "विभावरी", "तनया"],
-    "a": 0,
-    "explanation": "दामिनी बिजली का पर्यायवाची है। सरिता नदी को, विभावरी रात को और तनया पुत्री को कहते हैं।"
-  },
-  {
-    "q": "'घबराहट' शब्द में कौन सा प्रत्यय है?",
-    "options": ["हट", "आहट", "राहट", "घबरा"],
+    "options": ["आशिर्वाद", "आशीर्वाद", "अशीर्वाद", "आसीर्वाद"],
     "a": 1,
-    "explanation": "घबरा (मूल शब्द) + आहट (प्रत्यय) मिलकर घबराहट बनता है।"
+    "explanation": "वर्तनी की दृष्टि से 'आशीर्वाद' शुद्ध शब्द है."
   },
   {
-    "q": "Identify the 'Reflexive Pronoun' in the following sentence: 'He hurt himself while playing.'",
-    "options": ["He", "Hurt", "Himself", "Playing"],
+    "q": "'सूर्य' का पर्यायवाची शब्द नहीं है:",
+    "options": ["दिनकर", "दिवाकर", "निशाकर", "भास्कर"],
     "a": 2,
-    "explanation": "Reflexive pronouns (like himself, herself, myself) refer back to the subject of the sentence."
+    "explanation": "निशाकर चंद्रमा का पर्यायवाची है, जबकि अन्य तीनों सूर्य के हैं."
   },
   {
-    "q": "Fill in the blank: The sweets were distributed ________ the children of the class.",
-    "options": ["between", "among", "with", "into"],
-    "a": 1,
-    "explanation": "'Between' is used for two people/things; 'among' is used when there are more than two."
-  },
-  {
-    "q": "What is the synonym of 'Enormous'?",
-    "options": ["Tiny", "Huge", "Weak", "Bright"],
-    "a": 1,
-    "explanation": "Enormous and huge both mean extremely large in size or scale."
-  },
-  {
-    "q": "Choose the correct antonym of 'Humble'.",
-    "options": ["Modest", "Arrogant", "Simple", "Kind"],
-    "a": 1,
-    "explanation": "Humble means showing a modest estimate of one's importance; arrogant is the opposite."
-  },
-  {
-    "q": "Identify the correct indirect speech: He said, 'Where are you going?'",
-    "options": ["He asked where I am going.", "He asked where I was going.", "He said where I was going.", "He asked where was I going."],
-    "a": 1,
-    "explanation": "In indirect questions, the reporting verb changes to 'asked', and the tense shifts back (are going to was going)."
-  },
-  {
-    "q": "Change to Passive Voice: 'The boy is playing football.'",
-    "options": ["Football is played by the boy.", "Football was being played by the boy.", "Football is being played by the boy.", "Football is played boy."],
-    "a": 2,
-    "explanation": "Present continuous changes to 'is/am/are + being + V3' in the passive voice."
-  },
-  {
-    "q": "Reading a text quickly to find a 'specific' piece of information is called:",
-    "options": ["Scanning", "Skimming", "Extensive reading", "Intensive reading"],
-    "a": 0,
-    "explanation": "Scanning involves looking for a particular detail (like a date or name) without reading the entire text."
-  },
-  {
-    "q": "The Roman numeral 'D' represents the number:",
-    "options": ["50", "100", "500", "1000"],
-    "a": 2,
-    "explanation": "In the Roman numeral system: L=50, C=100, D=500, and M=1000."
-  },
-  {
-    "q": "Find the prime factors of 24.",
-    "options": ["2 x 2 x 6", "2 x 3 x 4", "2 x 2 x 2 x 3", "4 x 6"],
-    "a": 2,
-    "explanation": "24 = 2 x 12 = 2 x 2 x 6 = 2 x 2 x 2 x 3. Prime factors must be prime numbers."
-  },
-  {
-    "q": "What is the volume of a cuboid with length 6 cm, width 2 cm, and height 1 cm?",
-    "options": ["9 cubic cm", "12 cubic cm", "18 cubic cm", "24 cubic cm"],
-    "a": 1,
-    "explanation": "Volume of cuboid = Length x Width x Height = 6 x 2 x 1 = 12 cubic cm."
-  },
-  {
-    "q": "If 1 apple costs 10 rupees, how much will 12 apples (one dozen) cost?",
-    "options": ["100 rupees", "110 rupees", "120 rupees", "130 rupees"],
-    "a": 2,
-    "explanation": "Using the unitary method: 12 apples x 10 rupees/apple = 120 rupees."
-  },
-  {
-    "q": "How many milliliters (ml) are in 1 liter?",
-    "options": ["10", "100", "500", "1000"],
+    "q": "भाषा की सबसे छोटी इकाई क्या है?",
+    "options": ["शब्द", "व्यंजन", "स्वर", "वर्ण"],
     "a": 3,
-    "explanation": "The standard metric conversion is 1 liter = 1000 milliliters."
+    "explanation": "वर्ण भाषा की सबसे छोटी इकाई है जिसके और खंड नहीं किए जा सकते."
   },
   {
-    "q": "A part of a line that has one fixed endpoint and extends infinitely in the other direction is a:",
-    "options": ["Line segment", "Ray", "Angle", "Parallel line"],
+    "q": "Identify the 'Abstract Noun' in the following list:",
+    "options": ["Library", "Wisdom", "Teacher", "Gold"],
     "a": 1,
-    "explanation": "A ray starts at a point and goes on forever in one direction."
+    "explanation": "Wisdom is an abstract noun because it refers to a quality or state that cannot be touched physically."
   },
   {
-    "q": "What is the sum of 3/5 and 1/5?",
-    "options": ["2/5", "4/5", "4/10", "1"],
+    "q": "Fill in the blank: Neither of the two candidates ________ qualified.",
+    "options": ["are", "is", "were", "have"],
     "a": 1,
-    "explanation": "Since the denominators are the same, add the numerators: (3 + 1) / 5 = 4/5."
+    "explanation": "'Neither' is singular and requires a singular verb ('is')."
   },
   {
-    "q": "In the number 12.5, what is the value of the digit 5?",
-    "options": ["5 units", "5 tens", "5 tenths", "5 hundredths"],
-    "a": 2,
-    "explanation": "The first place to the right of the decimal point is the tenths place."
-  },
-  {
-    "q": "What is the perimeter of a regular hexagon with each side measuring 3 cm?",
-    "options": ["12 cm", "15 cm", "18 cm", "24 cm"],
-    "a": 2,
-    "explanation": "Perimeter of a regular hexagon = 6 x Side = 6 x 3 = 18 cm."
-  },
-  {
-    "q": "What is the successor of the number 9999?",
-    "options": ["9998", "1000", "10000", "99991"],
-    "a": 2,
-    "explanation": "The successor is found by adding 1: 9999 + 1 = 10000."
-  },
-  {
-    "q": "The process of heating milk to a high temperature and then cooling it quickly to kill germs is called:",
-    "options": ["Boiling", "Pasteurization", "Evaporation", "Fermentation"],
+    "q": "What is the synonym of 'Fragile'?",
+    "options": ["Strong", "Delicate", "Tough", "Heavy"],
     "a": 1,
-    "explanation": "Pasteurization (developed by Louis Pasteur) is a common method used to preserve milk."
+    "explanation": "Fragile means something that is easily broken; 'delicate' is its synonym."
   },
   {
-    "q": "A house built on wooden poles in areas with heavy rainfall (like Assam) is called a:",
-    "options": ["Houseboat", "Igloo", "Stilt house", "Tent"],
-    "a": 2,
-    "explanation": "Stilt houses are raised on platforms to protect them from floods and heavy rain."
-  },
-  {
-    "q": "Which of the following animals is 'Nocturnal' (active at night)?",
-    "options": ["Cow", "Elephant", "Owl", "Sparrow"],
-    "a": 2,
-    "explanation": "Nocturnal animals like owls and bats are adapted to hunt and move in the dark."
-  },
-  {
-    "q": "Which adaptation helps desert plants like cactus to survive with very little water?",
-    "options": ["Broad leaves", "Leaves modified into thorns", "Very small roots", "Fleshy flowers"],
+    "q": "Which suffix can be added to the word 'Manage' to form a noun?",
+    "options": ["-tion", "-ment", "-ness", "-able"],
     "a": 1,
-    "explanation": "Thorns reduce water loss through transpiration and protect the plant from being eaten by animals."
+    "explanation": "The suffix '-ment' is added to 'manage' to form the noun 'management'."
   },
   {
-    "q": "Which of the following is the 'State Tree' of Rajasthan?",
-    "options": ["Neem", "Peepal", "Khejri", "Banyan"],
+    "q": "Choose the correct indirect speech: He said, \"I work hard.\"",
+    "options": ["He said that he works hard.", "He said that he worked hard.", "He says that he worked hard.", "He said that I worked hard."],
+    "a": 1,
+    "explanation": "When the reporting verb is in the past tense, the present simple 'work' changes to past simple 'worked'."
+  },
+  {
+    "q": "Which of these is a 'Diphthong' sound symbol?",
+    "options": ["/i:/", "/u/", "/aɪ/", "/æ/"],
     "a": 2,
-    "explanation": "The Khejri (Prosopis cineraria) is vital for the desert ecosystem and is the official state tree of Rajasthan."
+    "explanation": "/aɪ/ is a diphthong because it involves a glide from one vowel sound to another."
+  },
+  {
+    "q": "The primary purpose of 'Silent Reading' is to improve:",
+    "options": ["Pronunciation", "Reading speed and comprehension", "Audibility", "Spelling"],
+    "a": 1,
+    "explanation": "Silent reading allows the reader to focus on the meaning and speed without verbal distraction."
+  },
+  {
+    "q": "What is the place value of 9 in 7,89,450?",
+    "options": ["90", "900", "9,000", "90,000"],
+    "a": 2,
+    "explanation": "In 7,89,450, the digit 9 is in the thousands place, so its value is 9,000."
+  },
+  {
+    "q": "What is the sum of the smallest 3-digit number and the largest 2-digit number?",
+    "options": ["100", "199", "109", "110"],
+    "a": 1,
+    "explanation": "Smallest 3-digit number (100) + Largest 2-digit number (99) = 199."
+  },
+  {
+    "q": "Convert 3/4 into a percentage.",
+    "options": ["30%", "45%", "75%", "80%"],
+    "a": 2,
+    "explanation": "(3/4) * 100 = 75%."
+  },
+  {
+    "q": "How many degrees are in a straight angle?",
+    "options": ["45", "90", "180", "360"],
+    "a": 2,
+    "explanation": "A straight angle is exactly 180 degrees."
+  },
+  {
+    "q": "If a dozen eggs cost 48 rupees, what is the cost of 1 egg?",
+    "options": ["3 rupees", "4 rupees", "5 rupees", "6 rupees"],
+    "a": 1,
+    "explanation": "Cost of 1 egg = 48 / 12 (a dozen) = 4 rupees."
+  },
+  {
+    "q": "A rectangle has a length of 10 cm and a width of 5 cm. What is its area?",
+    "options": ["15 sq cm", "30 sq cm", "50 sq cm", "100 sq cm"],
+    "a": 2,
+    "explanation": "Area of rectangle = length * width = 10 * 5 = 50 sq cm."
+  },
+  {
+    "q": "Which of the following is a composite number?",
+    "options": ["2", "3", "7", "9"],
+    "a": 3,
+    "explanation": "A composite number has more than two factors; 9 has factors 1, 3, and 9."
+  },
+  {
+    "q": "What is 1000 divided by 25?",
+    "options": ["20", "40", "50", "60"],
+    "a": 1,
+    "explanation": "1000 / 25 = 40."
+  },
+  {
+    "q": "What is the HCF of 8 and 12?",
+    "options": ["2", "4", "6", "8"],
+    "a": 1,
+    "explanation": "The highest common factor of 8 and 12 is 4."
+  },
+  {
+    "q": "Simplify: 12 + 4 x 3",
+    "options": ["48", "36", "24", "19"],
+    "a": 2,
+    "explanation": "Using BODMAS: 12 + (4 * 3) = 12 + 12 = 24."
+  },
+  {
+    "q": "Which part of a plant is called its 'Kitchen'?",
+    "options": ["Root", "Stem", "Leaf", "Flower"],
+    "a": 2,
+    "explanation": "Leaves are called the kitchen because they prepare food via photosynthesis."
+  },
+  {
+    "q": "Which bird is known for laying eggs in a crow's nest?",
+    "options": ["Sparrow", "Cuckoo (Koel)", "Pigeon", "Eagle"],
+    "a": 1,
+    "explanation": "The Cuckoo (Koel) is a brood parasite that lays its eggs in other birds' nests."
+  },
+  {
+    "q": "Which among the following is a liquid at room temperature?",
+    "options": ["Iron", "Gold", "Mercury", "Copper"],
+    "a": 2,
+    "explanation": "Mercury is a metal that exists in liquid state at room temperature."
+  },
+  {
+    "q": "Which fiber is also known as 'Golden Fiber'?",
+    "options": ["Cotton", "Silk", "Jute", "Wool"],
+    "a": 2,
+    "explanation": "Jute is known as the golden fiber due to its color and high value."
+  },
+  {
+    "q": "Which organ pumps blood throughout the human body?",
+    "options": ["Lungs", "Brain", "Heart", "Stomach"],
+    "a": 2,
+    "explanation": "The heart is the organ responsible for pumping blood to all parts of the body."
   }
 ]
