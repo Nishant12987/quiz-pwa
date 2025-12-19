@@ -1,0 +1,200 @@
+[
+  {
+    "q": "Which psychologist developed the concept of 'Mental Age'?",
+    "options": ["Alfred Binet", "Lewis Terman", "David Wechsler", "Robert Sternberg"],
+    "a": 0,
+    "explanation": "Alfred Binet introduced the concept to identify special education needs."
+  },
+  {
+    "q": "The 'Trial and Error' theory of learning was experimented using a:",
+    "options": ["Dog", "Rat", "Cat", "Monkey"],
+    "a": 2,
+    "explanation": "Thorndike's famous puzzle box experiment involved a hungry cat."
+  },
+  {
+    "q": "At which stage of Piaget's development do children exhibit 'Egocentrism'?",
+    "options": ["Sensory-motor", "Pre-operational", "Concrete operational", "Formal operational"],
+    "a": 1,
+    "explanation": "Children struggle to see things from others' perspectives."
+  },
+  {
+    "q": "What is 'ZPD' in Vygotsky's theory?",
+    "options": ["Zone of Personal Development", "Zone of Proximal Development", "Zero Proximity Distance", "Zone of Progressive Development"],
+    "a": 1,
+    "explanation": "ZPD is the range of tasks a child can perform with help."
+  },
+  {
+    "q": "Which personality trait involves 'Outgoing and Social' behavior?",
+    "options": ["Introversion", "Extroversion", "Neuroticism", "Agreeableness"],
+    "a": 1,
+    "explanation": "Extroversion is characterized by energy and sociability."
+  },
+  {
+    "q": "The 'Heuristic' method is also known as the:",
+    "options": ["Lecture method", "Discovery method", "Demonstration method", "Storytelling method"],
+    "a": 1,
+    "explanation": "Heuristic learning encourages students to find things out."
+  },
+  {
+    "q": "Which of the following is an example of 'Extrinsic Motivation'?",
+    "options": ["Curiosity", "Self-satisfaction", "Receiving a gold medal", "Love for a subject"],
+    "a": 2,
+    "explanation": "Extrinsic motivation is driven by external rewards."
+  },
+  {
+    "q": "'Learning by Doing' is the main principle of:",
+    "options": ["Naturalism", "Pragmatism", "Idealism", "Realism"],
+    "a": 1,
+    "explanation": "Pragmatism emphasizes practical experience."
+  },
+  {
+    "q": "Which assessment is conducted to identify specific 'Learning Difficulties'?",
+    "options": ["Summative", "Placement", "Diagnostic", "Aptitude"],
+    "a": 2,
+    "explanation": "Diagnostic assessment pinpoint areas where student struggles."
+  },
+  {
+    "q": "The concept of 'IQ' (Intelligence Quotient) was first introduced by:",
+    "options": ["William Stern", "Lewis Terman", "Francis Galton", "Charles Spearman"],
+    "a": 0,
+    "explanation": "William Stern proposed the formula; Terman popularized it."
+  },
+  {
+    "q": "What is the primary role of a teacher in a 'Constructivist' classroom?",
+    "options": ["Dictator", "Facilitator", "Passive observer", "Lecturer"],
+    "a": 1,
+    "explanation": "The teacher guides as students build knowledge."
+  },
+  {
+    "q": "sooryoday mein kaun si sandhi hai?",
+    "options": ["deergh sandhi", "gun sandhi", "vriddhi sandhi", "yan sandhi"],
+    "a": 1,
+    "explanation": "soory + uday = sooryoday (a + u = o, gun sandhi)."
+  },
+  {
+    "q": "dashaanan mein kaun sa samaas hai?",
+    "options": ["dvigu", "dvandv", "bahuvrihi", "tatpurush"],
+    "a": 2,
+    "explanation": "Das hain aanan jiske (ravana), bahuvrihi samas."
+  },
+  {
+    "q": "aadi ka vilom shabd hai:",
+    "options": ["ant", "anaadi", "madhya", "shuruaat"],
+    "a": 0,
+    "explanation": "Aadi (start) opposite is Ant (end)."
+  },
+  {
+    "q": "aasamaan par chadhaana muhaavre ka arth hai:",
+    "options": ["atyadhik prashansa karana", "kathin kaary karana", "bahut ooncha udana", "paagal ho jaana"],
+    "a": 0,
+    "explanation": "It means to praise someone excessively."
+  },
+  {
+    "q": "nimnalikhit mein se shuddh shabd hai:",
+    "options": ["aashirvaad", "aashirvaad", "ashirvaad", "aasirvaad"],
+    "a": 0,
+    "explanation": "Correct spelling is Aashirvaad."
+  },
+  {
+    "q": "hava ka paryayavaachi shabd nahin hai:",
+    "options": ["sameer", "pavan", "anal", "vaayu"],
+    "a": 2,
+    "explanation": "Anal means fire."
+  },
+  {
+    "q": "bhaasha shikshan ki pratyaksh vidhi (direct method) mein kis par bal diya jaata hai?",
+    "options": ["anuvaad par", "vyaakaran ke niyamom par", "maukshik abhyaas par", "maatribhaasha ke prayog par"],
+    "a": 2,
+    "explanation": "Direct Method focuses on speaking and oral practice."
+  },
+  {
+    "q": "What is the value of sqrt(0.0064)?",
+    "options": ["0.8", "0.08", "0.008", "8"],
+    "a": 1,
+    "explanation": "0.08 * 0.08 = 0.0064."
+  },
+  {
+    "q": "If the mean of 5 numbers is 20, their sum is:",
+    "options": ["4", "100", "50", "80"],
+    "a": 1,
+    "explanation": "Sum = Mean * Count = 20 * 5 = 100."
+  },
+  {
+    "q": "The product of (a+b) and (a-b) is:",
+    "options": ["a^2+b^2", "a^2-b^2", "2a", "2b"],
+    "a": 1,
+    "explanation": "Standard algebraic identity."
+  },
+  {
+    "q": "How many degrees are in 2/3 of a right angle?",
+    "options": ["30", "45", "60", "90"],
+    "a": 2,
+    "explanation": "2/3 * 90 = 60."
+  },
+  {
+    "q": "A rational number that does not have a reciprocal is:",
+    "options": ["1", "-1", "0", "0.5"],
+    "a": 2,
+    "explanation": "1/0 is undefined."
+  },
+  {
+    "q": "The exterior angle of a regular polygon is 45. How many sides does it have?",
+    "options": ["4", "6", "8", "10"],
+    "a": 2,
+    "explanation": "360 / n = 45 -> n = 8."
+  },
+  {
+    "q": "Find the area of a circle with diameter 14 cm.",
+    "options": ["44", "154", "616", "88"],
+    "a": 1,
+    "explanation": "Radius=7. pi*r^2 = 22/7 * 49 = 154."
+  },
+  {
+    "q": "The unit of power of a lens is:",
+    "options": ["Meter", "Dioptre", "Watt", "Lumen"],
+    "a": 1,
+    "explanation": "P = 1/f (in meters). Unit is Dioptre."
+  },
+  {
+    "q": "Which element is used in the filament of a light bulb?",
+    "options": ["Copper", "Aluminum", "Tungsten", "Iron"],
+    "a": 2,
+    "explanation": "Tungsten has a very high melting point."
+  },
+  {
+    "q": "The percentage of oxygen in inhaled air is approximately:",
+    "options": ["21%", "78%", "0.04%", "16%"],
+    "a": 0,
+    "explanation": "Composition of atmospheric air."
+  },
+  {
+    "q": "An example of a single-celled organism is:",
+    "options": ["Mushroom", "Hydra", "Amoeba", "Earthworm"],
+    "a": 2,
+    "explanation": "Amoeba is a unicellular protozoan."
+  },
+  {
+    "q": "The S.I. unit of temperature is:",
+    "options": ["Celsius", "Fahrenheit", "Kelvin", "Calorie"],
+    "a": 2,
+    "explanation": "Kelvin is the standard scientific unit."
+  },
+  {
+    "q": "Which mirror is used by a dentist to see an enlarged image of teeth?",
+    "options": ["Convex mirror", "Concave mirror", "Plane mirror", "Bifocal mirror"],
+    "a": 1,
+    "explanation": "Concave mirrors form enlarged virtual images when close."
+  },
+  {
+    "q": "The process of nitrogen fixation is done by:",
+    "options": ["Virus", "Fungi", "Rhizobium bacteria", "Amoeba"],
+    "a": 2,
+    "explanation": "Found in root nodules of legumes."
+  },
+  {
+    "q": "CNG stands for:",
+    "options": ["Common Natural Gas", "Compressed Natural Gas", "Clean Natural Gas", "Certified Natural Gas"],
+    "a": 1,
+    "explanation": "Standard fuel abbreviation."
+  }
+]
