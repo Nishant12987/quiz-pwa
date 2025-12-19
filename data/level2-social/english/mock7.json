@@ -1,0 +1,242 @@
+[
+  {
+    "q": "Which of the following is an example of 'Proximo-distal' development?",
+    "options": ["Growth from head to toe", "Control of arms before fingers", "General to specific response", "Mental to physical growth"],
+    "a": 1,
+    "explanation": "Proximo-distal development means growth starts from the center of the body and moves toward the extremities."
+  },
+  {
+    "q": "The concept of 'Latent Learning' was introduced by:",
+    "options": ["Edward Tolman", "B.F. Skinner", "Ivan Pavlov", "Albert Bandura"],
+    "a": 0,
+    "explanation": "Tolman suggested that learning can occur without immediate reinforcement and may not be demonstrated until needed."
+  },
+  {
+    "q": "At which stage of Piaget's theory does 'Transductive Reasoning' occur?",
+    "options": ["Sensory-motor", "Pre-operational", "Concrete operational", "Formal operational"],
+    "a": 1,
+    "explanation": "In the pre-operational stage, children often link two specific events that occur close together in time, even if not related."
+  },
+  {
+    "q": "According to Kohlberg, 'Universal Ethical Principle' is which stage of morality?",
+    "options": ["Stage 3", "Stage 4", "Stage 5", "Stage 6"],
+    "a": 3,
+    "explanation": "Stage 6 is the highest level where individuals follow self-chosen ethical principles."
+  },
+  {
+    "q": "Which of the following is a 'Social' motive?",
+    "options": ["Hunger", "Thirst", "Achievement", "Sleep"],
+    "a": 2,
+    "explanation": "Achievement, affiliation, and power are considered secondary or social motives."
+  },
+  {
+    "q": "The 'Alphabet Method' of teaching reading is also known as:",
+    "options": ["Phonic method", "Word method", "Literal method", "Sentence method"],
+    "a": 2,
+    "explanation": "The literal method involves teaching the names and shapes of letters first."
+  },
+  {
+    "q": "Who is the proponent of 'Functionalism' in psychology?",
+    "options": ["William James", "Wilhelm Wundt", "Sigmund Freud", "Kurt Lewin"],
+    "a": 0,
+    "explanation": "William James is considered the father of functionalism, focusing on how the mind functions to adapt to the environment."
+  },
+  {
+    "q": "A teacher uses 'Scaffolding' to help a student solve a puzzle. This support is:",
+    "options": ["Permanent", "Temporary", "Unnecessary", "Distracting"],
+    "a": 1,
+    "explanation": "Scaffolding (Vygotsky) is temporary support provided until the learner can perform the task independently."
+  },
+  {
+    "q": "Which IQ range represents 'Borderline' intelligence?",
+    "options": ["110-119", "90-109", "70-79", "Below 70"],
+    "a": 2,
+    "explanation": "70-79 is typically classified as borderline, just above the range for intellectual disability."
+  },
+  {
+    "q": "The 'Creative' child is usually characterized by:",
+    "options": ["High Rote Memory", "Divergent Thinking", "Convergent Thinking", "Strict Obedience"],
+    "a": 1,
+    "explanation": "Creativity is strongly linked to divergent thinking—the ability to find multiple solutions."
+  },
+  {
+    "q": "What is the role of 'Play' in childhood development?",
+    "options": ["Waste of time", "Only for physical exercise", "Cognitive, social, and emotional growth", "Preparation for sports only"],
+    "a": 2,
+    "explanation": "Play is essential for holistic development including social skills and problem-solving."
+  },
+  {
+    "q": "'नायक' शब्द का स्त्रीलिंग रूप क्या है?",
+    "options": ["नायकी", "नायिका", "नायिकी", "नायका"],
+    "a": 1,
+    "explanation": "नायक का स्त्रीलिंग नायिका होता है।"
+  },
+  {
+    "q": "'तिरंगा' में कौन सा समास है?",
+    "options": ["द्विगु", "द्वंद्व", "तत्पुरुष", "कर्मधारय"],
+    "a": 0,
+    "explanation": "तीन रंगों का समूह, प्रथम पद संख्यावाचक होने से द्विगु समास है।"
+  },
+  {
+    "q": "'हर्ष' का विलोम शब्द है:",
+    "options": ["खुशी", "विषाद", "दुख", "अप्रसन्नता"],
+    "a": 1,
+    "explanation": "हर्ष का विलोम शब्द 'विषाद' होता है।"
+  },
+  {
+    "q": "'आँख का तारा' मुहावरे का अर्थ है:",
+    "options": ["कम दिखना", "बहुत प्यारा होना", "आँख की बीमारी", "धोखा देना"],
+    "a": 1,
+    "explanation": "इसका अर्थ अत्यंत प्रिय होना है।"
+  },
+  {
+    "q": "शुद्ध वर्तनी वाले शब्द का चयन करें:",
+    "options": ["कवित्री", "कवयित्री", "कवियित्री", "कवयत्री"],
+    "a": 1,
+    "explanation": "सही वर्तनी 'कवयित्री' है।"
+  },
+  {
+    "q": "'कमल' का पर्यायवाची शब्द नहीं है:",
+    "options": ["पंकज", "जलज", "अम्बुद", "सरोज"],
+    "a": 2,
+    "explanation": "'अम्बुद' बादल का पर्यायवाची है।"
+  },
+  {
+    "q": "क्रिया के मूल रूप को क्या कहते हैं?",
+    "options": ["पद", "धातु", "शब्द", "उपसर्ग"],
+    "a": 1,
+    "explanation": "क्रिया के मूल रूप को 'धातु' कहा जाता है, जैसे 'पढ़' धातु से 'पढ़ना' बना।"
+  },
+  {
+    "q": "Select the correct plural form of 'Knife':",
+    "options": ["Knifes", "Knive", "Knives", "Knifess"],
+    "a": 2,
+    "explanation": "Words ending in -fe usually change to -ves in plural."
+  },
+  {
+    "q": "Choose the synonym for 'Abundant':",
+    "options": ["Scarce", "Plentiful", "Rare", "Minimal"],
+    "a": 1,
+    "explanation": "Abundant means existing in large quantities; plentiful."
+  },
+  {
+    "q": "Identify the 'Preposition' in the sentence: 'The book is on the table.'",
+    "options": ["The", "Book", "Is", "On"],
+    "a": 3,
+    "explanation": "'On' shows the relationship between the book and the table."
+  },
+  {
+    "q": "Which of these is a 'Silent Letter' in the word 'Psychology'?",
+    "options": ["s", "p", "y", "h"],
+    "a": 1,
+    "explanation": "The 'p' at the beginning of Psychology is not pronounced."
+  },
+  {
+    "q": "Choose the correct question tag: 'She can drive, ________?'",
+    "options": ["can she", "can't she", "does she", "doesn't she"],
+    "a": 1,
+    "explanation": "A positive sentence with 'can' takes the negative tag 'can't she'."
+  },
+  {
+    "q": "What is the 'Subject' in the sentence: 'Barking dogs seldom bite.'?",
+    "options": ["Barking", "Dogs", "Barking dogs", "Seldom bite"],
+    "a": 2,
+    "explanation": "The entire noun phrase 'Barking dogs' is the subject."
+  },
+  {
+    "q": "Fill in the blank with correct article: 'Copper is ________ useful metal.'",
+    "options": ["a", "an", "the", "No article"],
+    "a": 0,
+    "explanation": "'Useful' starts with a 'y' consonant sound, so 'a' is used."
+  },
+  {
+    "q": "Who was the first woman ruler of medieval India?",
+    "options": ["Chand Bibi", "Razia Sultan", "Nur Jahan", "Rani Rudramma Devi"],
+    "a": 1,
+    "explanation": "Razia Sultan (daughter of Iltutmish) ruled the Delhi Sultanate from 1236–1240."
+  },
+  {
+    "q": "Which layer of the atmosphere reflects radio waves back to Earth?",
+    "options": ["Troposphere", "Stratosphere", "Ionosphere", "Mesosphere"],
+    "a": 2,
+    "explanation": "The Ionosphere (part of the Thermosphere) contains charged particles that reflect radio waves."
+  },
+  {
+    "q": "Who founded the 'Ghadar Party' in San Francisco?",
+    "options": ["Lala Hardayal", "Bhagat Singh", "V.D. Savarkar", "Sohan Singh Bhakna"],
+    "a": 0,
+    "explanation": "Lala Hardayal was the key organizer of the Ghadar Party in 1913."
+  },
+  {
+    "q": "The 'Palk Strait' lies between which two countries?",
+    "options": ["India and Pakistan", "India and Sri Lanka", "India and Maldives", "India and Myanmar"],
+    "a": 1,
+    "explanation": "The Palk Strait is a water body that separates Tamil Nadu (India) from Sri Lanka."
+  },
+  {
+    "q": "The 'Right against Exploitation' includes prohibition of:",
+    "options": ["Untouchability", "Human trafficking and forced labor", "Religious discrimination", "Title usage"],
+    "a": 1,
+    "explanation": "Articles 23 and 24 of the Indian Constitution prohibit trafficking and child labor."
+  },
+  {
+    "q": "Who wrote the famous book 'The Spirit of Laws'?",
+    "options": ["Rousseau", "Montesquieu", "Voltaire", "John Locke"],
+    "a": 1,
+    "explanation": "Montesquieu proposed the separation of powers in this book."
+  },
+  {
+    "q": "Which port is known as the 'Jewel of all Ports' in India?",
+    "options": ["Kandla", "Visakhapatnam", "Mumbai", "Chennai"],
+    "a": 1,
+    "explanation": "Visakhapatnam is a natural, landlocked, and protected harbor."
+  },
+  {
+    "q": "In which year did the 'Cabinet Mission' arrive in India?",
+    "options": ["1942", "1945", "1946", "1947"],
+    "a": 2,
+    "explanation": "The mission came in 1946 to discuss the transfer of power."
+  },
+  {
+    "q": "Which body is responsible for making laws at the state level in India?",
+    "options": ["Parliament", "State Legislature", "Governor", "Supreme Court"],
+    "a": 1,
+    "explanation": "The Vidhan Sabha (and Vidhan Parishad, where applicable) makes state-level laws."
+  },
+  {
+    "q": "The 'Deccan Plateau' was formed by which type of rocks?",
+    "options": ["Sedimentary", "Metamorphic", "Basaltic Igneous", "Granite"],
+    "a": 2,
+    "explanation": "The Deccan Trap was formed by volcanic eruptions leading to basaltic soil."
+  },
+  {
+    "q": "Who was the 'Constitutional Advisor' to the Drafting Committee?",
+    "options": ["Dr. B.R. Ambedkar", "Dr. Rajendra Prasad", "B.N. Rau", "K.M. Munshi"],
+    "a": 2,
+    "explanation": "Sir Benegal Narsing Rau was the advisor who prepared the initial draft."
+  },
+  {
+    "q": "Which movement is associated with the slogan 'Simon Go Back'?",
+    "options": ["Non-Cooperation Movement", "Civil Disobedience Movement", "Anti-Simon Commission Protest", "Quit India Movement"],
+    "a": 2,
+    "explanation": "Protests erupted in 1928 because the commission had no Indian members."
+  },
+  {
+    "q": "Which is the 'Highest Waterfall' in India?",
+    "options": ["Dudhsagar Falls", "Jog Falls", "Kunchikal Falls", "Nohkalikai Falls"],
+    "a": 2,
+    "explanation": "Kunchikal Falls in Karnataka is currently considered the highest in India."
+  },
+  {
+    "q": "What is the minimum age to become the 'President of India'?",
+    "options": ["25 years", "30 years", "35 years", "40 years"],
+    "a": 2,
+    "explanation": "Article 58 specifies 35 years as the minimum age requirement."
+  },
+  {
+    "q": "The 'Lothal' dockyard of the Indus Valley is located in which state?",
+    "options": ["Rajasthan", "Punjab", "Gujarat", "Haryana"],
+    "a": 2,
+    "explanation": "Lothal was a major port city of the Harappan civilization in modern Gujarat."
+  }
+]
