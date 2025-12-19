@@ -1,0 +1,242 @@
+[
+  {
+    "q": "Development proceeds from head to toe—this is:",
+    "options": ["Cephalocaudal", "Proximodistal", "General to Specific", "Integration"],
+    "a": 0,
+    "explanation": "The cephalocaudal principle describes head-to-toe growth."
+  },
+  {
+    "q": "What is 'Egocentrism'?",
+    "options": ["Arrogance", "Focusing only on oneself", "Inability to see from another's point of view", "Self-centered behavior"],
+    "a": 2,
+    "explanation": "Children assume everyone sees the world as they do."
+  },
+  {
+    "q": "According to Kohlberg, rules are seen as absolute in which level?",
+    "options": ["Pre-conventional", "Conventional", "Post-conventional", "None"],
+    "a": 1,
+    "explanation": "The conventional level focuses on social rules and laws."
+  },
+  {
+    "q": "Gardner's 'Linguistic Intelligence' refers to skills in:",
+    "options": ["Math", "Music", "Language", "Sports"],
+    "a": 2,
+    "explanation": "It is the ability to use language effectively."
+  },
+  {
+    "q": "The term 'Scaffolding' was popularized by:",
+    "options": ["Piaget", "Vygotsky", "Skinner", "Bruner"],
+    "a": 1,
+    "explanation": "It is temporary support provided to the learner."
+  },
+  {
+    "q": "Which learning theory is 'Insightful Learning'?",
+    "options": ["Behaviorism", "Constructivism", "Gestalt Theory", "Conditioning"],
+    "a": 2,
+    "explanation": "It emphasizes sudden understanding of a problem."
+  },
+  {
+    "q": "A child with 'Dyslexia' struggles with:",
+    "options": ["Reading", "Writing", "Math", "Speaking"],
+    "a": 0,
+    "explanation": "Dyslexia is a reading disorder."
+  },
+  {
+    "q": "What is 'Positive Reinforcement'?",
+    "options": ["Punishment", "Removing something bad", "Adding something good", "Ignoring"],
+    "a": 2,
+    "explanation": "Giving a reward to increase behavior."
+  },
+  {
+    "q": "The first intelligence test was developed by:",
+    "options": ["Terman", "Binet", "Spearman", "Gardner"],
+    "a": 1,
+    "explanation": "Alfred Binet developed the first scale in 1905."
+  },
+  {
+    "q": "Adolescence is a period of 'Stress and Storm'—who said this?",
+    "options": ["Piaget", "Erikson", "Stanley Hall", "Freud"],
+    "a": 2,
+    "explanation": "Stanley Hall described the turmoil of adolescence."
+  },
+  {
+    "q": "Which is an example of 'Gross Motor Skills'?",
+    "options": ["Writing", "Drawing", "Running", "Painting"],
+    "a": 2,
+    "explanation": "Running uses large muscle groups."
+  },
+  {
+    "q": "'स्वागत' में कौन सी संधि है?",
+    "options": ["दीर्घ", "गुण", "वृद्धि", "यण"],
+    "a": 3,
+    "explanation": "सु + आगत (उ+आ=वा) यण संधि है।"
+  },
+  {
+    "q": "'दशानन' में समास है:",
+    "options": ["द्विगु", "द्वंद्व", "बहुव्रीहि", "अव्ययीभाव"],
+    "a": 2,
+    "explanation": "दश मुख वाला—रावण।"
+  },
+  {
+    "q": "'आकाश' का विलोम शब्द है:",
+    "options": ["पाताल", "पृथ्वी", "गगन", "अंबर"],
+    "a": 0,
+    "explanation": "आकाश vs पाताल।"
+  },
+  {
+    "q": "'हाथ मलना' मुहावरे का अर्थ है:",
+    "options": ["पछताना", "हाथ साफ़ करना", "मेहनत करना", "ठंड लगना"],
+    "a": 0,
+    "explanation": "समय निकल जाने पर पछताना।"
+  },
+  {
+    "q": "शुद्ध वर्तनी वाला शब्द है:",
+    "options": ["आशीर्वाद", "आशिर्वाद", "अशीर्वाद", "आसिर्वाद"],
+    "a": 0,
+    "explanation": "आशीर्वाद सही रूप है।"
+  },
+  {
+    "q": "'सूर्य' का पर्यायवाची नहीं है:",
+    "options": ["रवि", "दिनकर", "भास्कर", "निशाकर"],
+    "a": 3,
+    "explanation": "निशाकर चंद्रमा को कहते हैं।"
+  },
+  {
+    "q": "वर्णों के समूह को क्या कहते हैं?",
+    "options": ["शब्द", "वाक्य", "वर्णमाला", "पद"],
+    "a": 2,
+    "explanation": "वर्णमाला वर्णों का व्यवस्थित समूह है।"
+  },
+  {
+    "q": "Identify the 'Collective Noun' in: 'A fleet of ships.'",
+    "options": ["Fleet", "Ships", "A", "Of"],
+    "a": 0,
+    "explanation": "Fleet refers to a group."
+  },
+  {
+    "q": "Choose the correct article: 'He is ________ honest man.'",
+    "options": ["a", "an", "the", "No article"],
+    "a": 1,
+    "explanation": "'Honest' starts with a silent H."
+  },
+  {
+    "q": "What is the plural of 'Knife'?",
+    "options": ["Knifes", "Knive", "Knives", "Knive's"],
+    "a": 2,
+    "explanation": "Ends in -fe, changes to -ves."
+  },
+  {
+    "q": "Identify the 'Verb' in: 'The dog barks.'",
+    "options": ["The", "Dog", "Barks", "Dog barks"],
+    "a": 2,
+    "explanation": "Barks is the action."
+  },
+  {
+    "q": "What is the synonym of 'Fast'?",
+    "options": ["Slow", "Quick", "Lazy", "Hard"],
+    "a": 1,
+    "explanation": "Quick means fast."
+  },
+  {
+    "q": "Choose the correctly spelled word:",
+    "options": ["Necessary", "Necesary", "Neccessary", "Necerary"],
+    "a": 0,
+    "explanation": "Necessary is the correct spelling."
+  },
+  {
+    "q": "A person who treats sick people is a:",
+    "options": ["Farmer", "Teacher", "Doctor", "Pilot"],
+    "a": 2,
+    "explanation": "A doctor treats patients."
+  },
+  {
+    "q": "What is the place value of 9 in 98?",
+    "options": ["9", "90", "900", "0"],
+    "a": 1,
+    "explanation": "9 is in the tens place."
+  },
+  {
+    "q": "How many meters are in 1 kilometer?",
+    "options": ["10", "100", "1000", "10000"],
+    "a": 2,
+    "explanation": "1km = 1000m."
+  },
+  {
+    "q": "Sum of 25 + 25 is:",
+    "options": ["40", "50", "60", "70"],
+    "a": 1,
+    "explanation": "25 + 25 = 50."
+  },
+  {
+    "q": "Perimeter of a square with side 5cm:",
+    "options": ["10", "15", "20", "25"],
+    "a": 2,
+    "explanation": "4 * 5 = 20."
+  },
+  {
+    "q": "What is 1/4 of 20?",
+    "options": ["4", "5", "10", "15"],
+    "a": 1,
+    "explanation": "20 / 4 = 5."
+  },
+  {
+    "q": "How many sides does a rectangle have?",
+    "options": ["2", "3", "4", "5"],
+    "a": 2,
+    "explanation": "A rectangle has 4 sides."
+  },
+  {
+    "q": "100 - 50 is:",
+    "options": ["40", "50", "60", "70"],
+    "a": 1,
+    "explanation": "100 - 50 = 50."
+  },
+  {
+    "q": "How many months have 31 days?",
+    "options": ["4", "5", "6", "7"],
+    "a": 3,
+    "explanation": "Jan, Mar, May, July, Aug, Oct, Dec."
+  },
+  {
+    "q": "What is 5 x 5?",
+    "options": ["10", "20", "25", "30"],
+    "a": 2,
+    "explanation": "5 * 5 = 25."
+  },
+  {
+    "q": "Smallest composite number is:",
+    "options": ["1", "2", "3", "4"],
+    "a": 3,
+    "explanation": "4 is the first composite number."
+  },
+  {
+    "q": "Plants give us:",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Iron"],
+    "a": 0,
+    "explanation": "Plants release oxygen during photosynthesis."
+  },
+  {
+    "q": "Which part of the plant absorbs water?",
+    "options": ["Leaf", "Root", "Stem", "Flower"],
+    "a": 1,
+    "explanation": "Roots absorb water from soil."
+  },
+  {
+    "q": "Which animal is the 'King of Jungle'?",
+    "options": ["Tiger", "Elephant", "Lion", "Giraffe"],
+    "a": 2,
+    "explanation": "The Lion."
+  },
+  {
+    "q": "The Pink City of India is:",
+    "options": ["Delhi", "Mumbai", "Jaipur", "Kolkata"],
+    "a": 2,
+    "explanation": "Jaipur."
+  },
+  {
+    "q": "Which sense organ is for hearing?",
+    "options": ["Eye", "Nose", "Ear", "Skin"],
+    "a": 2,
+    "explanation": "Ears hear sound."
+  }
+]
