@@ -1,0 +1,242 @@
+[
+  {
+    "q": "Which theorist proposed the 'Triarchic Theory of Intelligence'?",
+    "options": ["Spearman", "Sternberg", "Gardner", "Binet"],
+    "a": 1,
+    "explanation": "Robert Sternberg proposed Analytical, Creative, and Practical intelligence."
+  },
+  {
+    "q": "The 'Concrete Operational' stage lasts from:",
+    "options": ["0-2 years", "2-7 years", "7-11 years", "11+ years"],
+    "a": 2,
+    "explanation": "This is Piaget's third stage where logical thought develops."
+  },
+  {
+    "q": "According to Kohlberg, which level is 'Post-conventional'?",
+    "options": ["Level 1", "Level 2", "Level 3", "Level 4"],
+    "a": 2,
+    "explanation": "Level 3 deals with universal ethical principles."
+  },
+  {
+    "q": "What is the primary objective of 'Formative' assessment?",
+    "options": ["Ranking", "Certifying", "Feedback and improvement", "Final grading"],
+    "a": 2,
+    "explanation": "Formative assessment happens during the learning process."
+  },
+  {
+    "q": "Which reinforcement is given after a 'Variable' time?",
+    "options": ["Variable-interval", "Fixed-interval", "Variable-ratio", "Fixed-ratio"],
+    "a": 0,
+    "explanation": "Reinforcement occurs after unpredictable time periods."
+  },
+  {
+    "q": "Who gave the concept of 'Zone of Proximal Development'?",
+    "options": ["Piaget", "Vygotsky", "Skinner", "Bandura"],
+    "a": 1,
+    "explanation": "Vygotsky defined ZPD as the potential development area."
+  },
+  {
+    "q": "Which learning style involves 'Diagrams and Charts'?",
+    "options": ["Visual", "Auditory", "Kinesthetic", "Social"],
+    "a": 0,
+    "explanation": "Visual learners learn best by seeing."
+  },
+  {
+    "q": "What is 'Maturation'?",
+    "options": ["Biological growth", "Social learning", "School education", "Moral change"],
+    "a": 0,
+    "explanation": "Maturation is the natural unfolding of genetic traits."
+  },
+  {
+    "q": "In Maslow's hierarchy, which is the 'Peak' need?",
+    "options": ["Safety", "Social", "Self-esteem", "Self-actualization"],
+    "a": 3,
+    "explanation": "Self-actualization is the highest level of need."
+  },
+  {
+    "q": "Who is the father of 'Operant Conditioning'?",
+    "options": ["Skinner", "Pavlov", "Watson", "Thorndike"],
+    "a": 0,
+    "explanation": "B.F. Skinner focused on reinforcement and punishment."
+  },
+  {
+    "q": "Which assessment is used to 'Identify' learning gaps?",
+    "options": ["Summative", "Diagnostic", "Placement", "Standardized"],
+    "a": 1,
+    "explanation": "Diagnostic assessment pinpoints specific weaknesses."
+  },
+  {
+    "q": "'विद्यालय' में कौन सी संधि है?",
+    "options": ["दीर्घ", "गुण", "वृद्धि", "यण"],
+    "a": 0,
+    "explanation": "विद्या + आलय = विद्यालय (दीर्घ संधि)।"
+  },
+  {
+    "q": "'त्रिलोचन' में कौन सा समास है?",
+    "options": ["अव्ययीभाव", "बहुव्रीहि", "द्विगु", "द्वंद्व"],
+    "a": 1,
+    "explanation": "शिव जी के लिए (बहुव्रीहि)।"
+  },
+  {
+    "q": "'अनुराग' का विलोम शब्द है:",
+    "options": ["विराग", "त्याग", "प्रेम", "घृणा"],
+    "a": 0,
+    "explanation": "अनुराग का विलोम विराग है।"
+  },
+  {
+    "q": "'घी के दिए जलाना' मुहावरे का अर्थ है:",
+    "options": ["पूजा करना", "खुशियाँ मनाना", "बीमार होना", "झगड़ा करना"],
+    "a": 1,
+    "explanation": "इसका अर्थ बहुत खुश होना है।"
+  },
+  {
+    "q": "शुद्ध वाक्य का चयन करें:",
+    "options": ["बच्चे को फल काट कर खिलाओ।", "फल को बच्चे को काट कर खिलाओ।", "काट कर फल बच्चे को खिलाओ।", "बच्चे को फल खिलाओ काट कर।"],
+    "a": 0,
+    "explanation": "व्याकरण की दृष्टि से 'बच्चे को फल काट कर खिलाओ' सही है।"
+  },
+  {
+    "q": "'आकाश' का पर्यायवाची शब्द नहीं है:",
+    "options": ["नभ", "गगन", "व्योम", "अवनि"],
+    "a": 3,
+    "explanation": "अवनि पृथ्वी का पर्यायवाची है।"
+  },
+  {
+    "q": "शिक्षण की 'आगमन विधि' के सोपान हैं:",
+    "options": ["नियम से उदाहरण", "उदाहरण से नियम", "अमूर्त से मूर्त", "जटिल से सरल"],
+    "a": 1,
+    "explanation": "Inductive method starts with examples."
+  },
+  {
+    "q": "Choose the correctly spelled word:",
+    "options": ["Maintenance", "Maintenence", "Maintanence", "Maintenanse"],
+    "a": 0,
+    "explanation": "Correct spelling is Maintenance."
+  },
+  {
+    "q": "What is the synonym of 'Significant'?",
+    "options": ["Important", "Small", "Useless", "Timid"],
+    "a": 0,
+    "explanation": "Significant means important or meaningful."
+  },
+  {
+    "q": "Identify the 'Adverb' in: 'He ran fast.'",
+    "options": ["He", "Ran", "Fast", "None"],
+    "a": 2,
+    "explanation": "Fast describes how he ran."
+  },
+  {
+    "q": "Select the correct plural of 'Foot':",
+    "options": ["Foots", "Feet", "Feets", "Footes"],
+    "a": 1,
+    "explanation": "Foot (singular) -> Feet (plural)."
+  },
+  {
+    "q": "Which part of speech is 'But'?",
+    "options": ["Noun", "Adjective", "Conjunction", "Preposition"],
+    "a": 2,
+    "explanation": "But is a coordinating conjunction."
+  },
+  {
+    "q": "Choose the correct article: 'He is ________ MLA.'",
+    "options": ["a", "an", "the", "No article"],
+    "a": 1,
+    "explanation": "MLA starts with a vowel sound 'em'."
+  },
+  {
+    "q": "Identify the 'Sentence Type': 'What is your name?'",
+    "options": ["Assertive", "Interrogative", "Exclamatory", "Imperative"],
+    "a": 1,
+    "explanation": "Asks a question."
+  },
+  {
+    "q": "Who was the 'Napoleon of India'?",
+    "options": ["Chandragupta", "Samudragupta", "Ashoka", "Harsha"],
+    "a": 1,
+    "explanation": "Samudragupta for his military genius."
+  },
+  {
+    "q": "The 'Preamble' declares India as:",
+    "options": ["Sovereign, Socialist, Secular, Democratic, Republic", "Sovereign, Democratic, Republic", "Socialist, Secular", "Democratic, Republic"],
+    "a": 0,
+    "explanation": "Full description after 42nd amendment."
+  },
+  {
+    "q": "Which state has the 'Maximum Coastline'?",
+    "options": ["Tamil Nadu", "Gujarat", "Maharashtra", "Odisha"],
+    "a": 1,
+    "explanation": "Gujarat has the longest coastline."
+  },
+  {
+    "q": "The 'Permanent Settlement' was by:",
+    "options": ["Cornwallis", "Munro", "Dalhousie", "Wellesley"],
+    "a": 0,
+    "explanation": "Lord Cornwallis in 1793."
+  },
+  {
+    "q": "Which gas is 'Maximum' in the air?",
+    "options": ["Oxygen", "Nitrogen", "Argon", "CO2"],
+    "a": 1,
+    "explanation": "78% nitrogen."
+  },
+  {
+    "q": "Who wrote 'Panchatantra'?",
+    "options": ["Kalidasa", "Vishnu Sharma", "Banabhatta", "Megasthenes"],
+    "a": 1,
+    "explanation": "Vishnu Sharma wrote these stories."
+  },
+  {
+    "q": "Which planet is 'closest' to Earth?",
+    "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+    "a": 1,
+    "explanation": "Venus is Earth's nearest neighbor."
+  },
+  {
+    "q": "The 'Election Commission' is in Article:",
+    "options": ["324", "352", "356", "360"],
+    "a": 0,
+    "explanation": "Article 324 defines the EC."
+  },
+  {
+    "q": "Who was the first 'Viceroy'?",
+    "options": ["Canning", "Dalhousie", "Mountbatten", "Curzon"],
+    "a": 0,
+    "explanation": "Lord Canning in 1858."
+  },
+  {
+    "q": "Which is the 'Largest Ocean'?",
+    "options": ["Atlantic", "Pacific", "Indian", "Arctic"],
+    "a": 1,
+    "explanation": "Pacific ocean is the largest."
+  },
+  {
+    "q": "The 'Quit India Movement' year:",
+    "options": ["1920", "1930", "1942", "1947"],
+    "a": 2,
+    "explanation": "Launched in August 1942."
+  },
+  {
+    "q": "Which mountain is the 'Oldest'?",
+    "options": ["Himalayas", "Aravalli", "Vindhya", "Satpura"],
+    "a": 1,
+    "explanation": "Aravallis are very old."
+  },
+  {
+    "q": "Who appoints the 'CJI'?",
+    "options": ["President", "PM", "Speaker", "CJ"],
+    "a": 0,
+    "explanation": "President of India."
+  },
+  {
+    "q": "The 'Red Data Book' is for:",
+    "options": ["Endangered species", "Rivers", "Mountains", "Soil"],
+    "a": 0,
+    "explanation": "Tracks threatened species."
+  },
+  {
+    "q": "The '73rd Amendment' relates to:",
+    "options": ["Municipalities", "Panchayats", "Defection", "Rights"],
+    "a": 1,
+    "explanation": "PRIs given constitutional status."
+  }
+]
