@@ -379,3 +379,15 @@ function show(id) {
 auth.onAuthStateChanged(user => {
   if (user) showDashboard();
 });
+/***********************
+ * SAFE EVENT BINDING
+ ***********************/
+document.addEventListener("DOMContentLoaded", () => {
+  const btn = document.getElementById("startTestBtn");
+  if (btn) {
+    btn.addEventListener("click", () => {
+      console.log("Start Test clicked");
+      startFlow();
+    });
+  }
+});
