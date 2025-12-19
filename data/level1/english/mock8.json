@@ -1,242 +1,242 @@
 [
   {
-    "q": "Which psychologist's theory focuses on the 'Zone of Proximal Development' (ZPD)?",
-    "options": ["Jean Piaget", "Lev Vygotsky", "B.F. Skinner", "Lawrence Kohlberg"],
+    "q": "Which psychologist's theory highlights the 'Crisis of Integrity vs. Despair' in late adulthood?",
+    "options": ["Jean Piaget", "Erik Erikson", "Sigmund Freud", "Carl Rogers"],
     "a": 1,
-    "explanation": "Lev Vygotsky introduced ZPD to describe the difference between what a learner can do without help and what they can do with guidance."
+    "explanation": "Erikson's final stage of psychosocial development involves reflecting on life and feeling either a sense of fulfillment or regret."
   },
   {
-    "q": "A child who believes that 'everyone sees the world exactly as I do' is demonstrating:",
-    "options": ["Conservation", "Egocentrism", "Object Permanence", "Reversibility"],
-    "a": 1,
-    "explanation": "Egocentrism is a feature of Piaget's pre-operational stage where children have difficulty taking another's perspective."
-  },
-  {
-    "q": "Which type of reinforcement schedule is the most resistant to extinction?",
-    "options": ["Continuous", "Fixed Ratio", "Variable Ratio", "Fixed Interval"],
+    "q": "The 'Strange Situation' procedure was developed by Mary Ainsworth to measure:",
+    "options": ["Intelligence", "Moral reasoning", "Attachment styles", "Cognitive maps"],
     "a": 2,
-    "explanation": "Variable ratio reinforcement (like gambling) produces high, steady rates of responding and is very resistant to extinction."
+    "explanation": "This procedure observes children's responses to being separated from and reunited with their caregivers to determine attachment quality."
   },
   {
-    "q": "What is the primary characteristic of the 'Concrete Operational' stage?",
-    "options": ["Abstract reasoning", "Logical thinking about physical objects", "Symbolic play", "Sensory exploration"],
+    "q": "A child who understands that 2 + 3 = 5 and 5 - 3 = 2 has mastered the concept of:",
+    "options": ["Egocentrism", "Reversibility", "Animism", "Object Permanence"],
     "a": 1,
-    "explanation": "In this stage (7-11 years), children begin to think logically but only about concrete, physical objects."
+    "explanation": "Reversibility is the mental ability to follow a line of reasoning back to its starting point, typical of the concrete operational stage."
   },
   {
-    "q": "Which of the following is a specific learning disability in mathematics?",
-    "options": ["Dyslexia", "Dysgraphia", "Dyscalculia", "Dysphasia"],
+    "q": "Which of the following is a 'Primary' socialising agency for a child?",
+    "options": ["School", "Media", "Family", "Religious institutions"],
     "a": 2,
-    "explanation": "Dyscalculia is a condition that affects an individual's ability to understand numbers and learn math facts."
+    "explanation": "Family is considered the primary agent of socialization as it is the first point of contact and influence for a child."
   },
   {
-    "q": "According to Maslow's hierarchy, which is the highest level of need?",
-    "options": ["Safety needs", "Esteem needs", "Social needs", "Self-actualization"],
-    "a": 3,
-    "explanation": "Self-actualization is the peak of Maslow's pyramid, representing the realization of one's full potential."
-  },
-  {
-    "q": "A teacher asks students to 'list all possible uses of a brick'. This is a test of:",
-    "options": ["Convergent thinking", "Divergent thinking", "Mechanical memory", "Logical deduction"],
-    "a": 1,
-    "explanation": "Divergent thinking involves generating multiple creative solutions to a single prompt."
-  },
-  {
-    "q": "Which factor is essential for learning in Thorndike's 'Trial and Error' theory?",
-    "options": ["Imitation", "Insight", "Motivation/Drive", "Social pressure"],
-    "a": 2,
-    "explanation": "Without a specific need or drive, an organism will not attempt to solve a problem or learn."
-  },
-  {
-    "q": "The process of modifying existing mental structures to fit new information is:",
-    "options": ["Assimilation", "Accommodation", "Equilibration", "Organization"],
-    "a": 1,
-    "explanation": "Accommodation involves changing internal mental schemas to account for new environmental data."
-  },
-  {
-    "q": "Which assessment is used to evaluate student learning at the end of an instructional unit?",
-    "options": ["Formative", "Summative", "Diagnostic", "Placement"],
-    "a": 1,
-    "explanation": "Summative assessments (like final exams) measure learning outcomes at the conclusion of a period."
-  },
-  {
-    "q": "In an inclusive classroom, 'Individual Differences' should be addressed by:",
-    "options": ["Ignoring them", "Standardizing the curriculum", "Using diverse teaching strategies", "Segregating students"],
-    "a": 2,
-    "explanation": "Inclusive education relies on differentiated instruction to cater to various learning styles and needs."
-  },
-  {
-    "q": "'नायक' शब्द का सही संधि-विच्छेद क्या है?",
-    "options": ["ना + अक", "ने + अक", "नै + अक", "नय + अक"],
-    "a": 2,
-    "explanation": "यह अयादि संधि का उदाहरण है, जहाँ 'नै + अक' मिलकर 'नायक' बनता है."
-  },
-  {
-    "q": "जिस समास का पहला पद संख्यावाचक हो, वह कहलाता है:",
-    "options": ["द्विगु", "द्वंद्व", "तत्पुरुष", "अव्ययीभाव"],
+    "q": "The concept of 'Discovery Learning' was promoted by:",
+    "options": ["Jerome Bruner", "B.F. Skinner", "Ivan Pavlov", "Edward Thorndike"],
     "a": 0,
-    "explanation": "जिस समास का पूर्व पद संख्यावाची विशेषण हो, उसे द्विगु समास कहते हैं (जैसे- चौराहा)."
+    "explanation": "Bruner believed that students learn best when they discover facts and relationships for themselves through active exploration."
   },
   {
-    "q": "'नाक कटना' मुहावरे का अर्थ है:",
-    "options": ["चोट लगना", "इज्जत जाना", "बीमार होना", "झगड़ा करना"],
+    "q": "A teacher provides 'hints' or 'cues' to a student struggling with a puzzle. This is an example of:",
+    "options": ["Negative reinforcement", "Punishment", "Scaffolding", "Assimilation"],
+    "a": 2,
+    "explanation": "Scaffolding is temporary support provided by a teacher to help a child reach a higher level of performance."
+  },
+  {
+    "q": "Which type of intelligence involves the ability to control body movements and handle objects skillfully?",
+    "options": ["Spatial", "Linguistic", "Bodily-kinesthetic", "Intrapersonal"],
+    "a": 2,
+    "explanation": "According to Gardner, bodily-kinesthetic intelligence is seen in athletes, dancers, and surgeons."
+  },
+  {
+    "q": "According to Piaget, 'Centration' (focusing on only one aspect of a situation) is a feature of:",
+    "options": ["Sensory-motor stage", "Pre-operational stage", "Concrete operational stage", "Formal operational stage"],
     "a": 1,
-    "explanation": "इसका प्रयोग मान-सम्मान या प्रतिष्ठा कम होने के संदर्भ में किया जाता है."
+    "explanation": "Centration prevents children in the pre-operational stage from understanding concepts like conservation."
   },
   {
-    "q": "भाषा की सबसे छोटी इकाई क्या है?",
-    "options": ["शब्द", "व्यंजन", "स्वर", "वर्ण"],
+    "q": "Which of the following is an example of 'Operant Conditioning'?",
+    "options": ["Salivating at the smell of food", "Studying hard to receive a reward", "Blinking when air is blown in the eye", "Feeling fear at a loud noise"],
+    "a": 1,
+    "explanation": "Operant conditioning involves voluntary behavior learned through consequences like rewards or punishments."
+  },
+  {
+    "q": "The 'Self-Actualization' need is the highest level in the hierarchy of needs proposed by:",
+    "options": ["Sigmund Freud", "Abraham Maslow", "Jean Piaget", "Lev Vygotsky"],
+    "a": 1,
+    "explanation": "Maslow’s hierarchy places the need to reach one’s full potential at the peak of the pyramid."
+  },
+  {
+    "q": "Inclusive education means that children with special needs should be educated in:",
+    "options": ["Special schools", "Separate classrooms", "Regular classrooms with support", "Home-based settings"],
+    "a": 2,
+    "explanation": "Inclusion focuses on providing support within the general education environment for all learners."
+  },
+  {
+    "q": "'महर्षि' शब्द का सही संधि-विच्छेद क्या है?",
+    "options": ["महन + ऋषि", "महा + ऋषि", "मह + ऋषि", "महार + ऋषि"],
+    "a": 1,
+    "explanation": "महा + ऋषि = महर्षि। यह गुण संधि का उदाहरण है जहाँ 'आ + ऋ' मिलकर 'अर्' बन जाता है."
+  },
+  {
+    "q": "'लंबोदर' किस समास का उदाहरण है?",
+    "options": ["तत्पुरुष", "बहुव्रीहि", "द्विगु", "द्वंद्व"],
+    "a": 1,
+    "explanation": "लंबा है उदर (पेट) जिसका अर्थात गणेश जी। जहाँ पद किसी अन्य अर्थ की ओर संकेत करें, वहाँ बहुव्रीहि समास होता है."
+  },
+  {
+    "q": "'आकाश' का सही पर्यायवाची शब्द कौन सा है?",
+    "options": ["नीर", "व्योम", "अनल", "पावक"],
+    "a": 1,
+    "explanation": "व्योम आकाश का पर्यायवाची है। नीर पानी का, अनल और पावक अग्नि के पर्यायवाची हैं."
+  },
+  {
+    "q": "'अल्पायु' का सही विलोम शब्द चुनिए:",
+    "options": ["दीर्घायु", "कम आयु", "न्यून", "क्षणिक"],
+    "a": 0,
+    "explanation": "अल्पायु (कम उम्र) का विलोम दीर्घायु (लंबी उम्र) होता है।"
+  },
+  {
+    "q": "'नाक में दम करना' मुहावरे का अर्थ है:",
+    "options": ["बहुत परेशान करना", "नाक की बीमारी", "साँस लेना", "प्रसन्न होना"],
+    "a": 0,
+    "explanation": "इस मुहावरे का प्रयोग किसी को बहुत अधिक तंग या परेशान करने के लिए किया जाता है।"
+  },
+  {
+    "q": "शुद्ध शब्द का चयन कीजिए:",
+    "options": ["परिक्षा", "परीक्षा", "परीक्सा", "परिक्सा"],
+    "a": 1,
+    "explanation": "हिंदी वर्तनी के अनुसार 'परीक्षा' शुद्ध शब्द है।"
+  },
+  {
+    "q": "संज्ञा के कितने मुख्य भेद होते हैं?",
+    "options": ["दो", "तीन", "चार", "पाँच"],
+    "a": 1,
+    "explanation": "संज्ञा के मुख्य रूप से तीन भेद होते हैं: व्यक्तिवाचक, जातिवाचक और भाववाचक।"
+  },
+  {
+    "q": "Identify the 'Abstract Noun' in the sentence: 'Honesty is the best policy.'",
+    "options": ["Best", "Policy", "Honesty", "Is"],
+    "a": 2,
+    "explanation": "Honesty refers to a quality that cannot be seen or touched, making it an abstract noun."
+  },
+  {
+    "q": "Choose the correct article: 'I saw ________ one-eyed man in the market.'",
+    "options": ["a", "an", "the", "No article"],
+    "a": 0,
+    "explanation": "'One' starts with a 'w' sound (consonant sound), so we use the article 'a'."
+  },
+  {
+    "q": "Which suffix can be added to 'Joy' to make it an adjective?",
+    "options": ["-ness", "-ful", "-ment", "-tion"],
+    "a": 1,
+    "explanation": "Adding '-ful' to the noun 'Joy' creates the adjective 'Joyful'."
+  },
+  {
+    "q": "What is the synonym of 'Ancient'?",
+    "options": ["Modern", "New", "Very old", "Quick"],
+    "a": 2,
+    "explanation": "Ancient refers to things belonging to the very distant past."
+  },
+  {
+    "q": "Select the correctly spelled word:",
+    "options": ["Buisness", "Business", "Bussiness", "Busness"],
+    "a": 1,
+    "explanation": "The standard English spelling is 'Business'."
+  },
+  {
+    "q": "Identify the 'Verb' in the sentence: 'The cat sleeps on the sofa.'",
+    "options": ["Cat", "Sofa", "On", "Sleeps"],
     "a": 3,
-    "explanation": "वर्ण भाषा की सबसे छोटी लिखित इकाई है जिसके और टुकड़े नहीं किए जा सकते."
+    "explanation": "A verb describes an action or state; here 'sleeps' is the action."
   },
   {
-    "q": "शुद्ध वाक्य का चयन कीजिए:",
-    "options": ["वह दंड देने योग्य है।", "वह दंड के योग्य है।", "वह दंड लेने योग्य है।", "वह दंड पाने योग्य है।"],
+    "q": "Choose the correct preposition: 'The book is ________ the table.'",
+    "options": ["in", "on", "into", "at"],
     "a": 1,
-    "explanation": "व्याकरण की दृष्टि से 'वह दंड के योग्य है' सबसे शुद्ध वाक्य संरचना है."
+    "explanation": "'On' is used to show the position of an object touching a surface."
   },
   {
-    "q": "भाषा शिक्षण की 'प्रत्यक्ष विधि' (Direct Method) में क्या वर्जित है?",
-    "options": ["मातृभाषा का प्रयोग", "अनुवाद", "चित्रों का प्रयोग", "क और ख दोनों"],
-    "a": 3,
-    "explanation": "प्रत्यक्ष विधि में मातृभाषा का प्रयोग और अनुवाद दोनों ही वर्जित माने जाते हैं."
-  },
-  {
-    "q": "कविता शिक्षण का मुख्य उद्देश्य क्या है?",
-    "options": ["शब्दार्थ बोध", "रसानुभूति एवं आनंद", "व्याकरण ज्ञान", "लेखन सुधार"],
+    "q": "What is the value of 500 + 40 + 7?",
+    "options": ["5407", "547", "5047", "50047"],
     "a": 1,
-    "explanation": "कविता का मुख्य उद्देश्य साहित्यिक रसास्वादन और भावनात्मक आनंद प्राप्त करना है."
+    "explanation": "500 + 40 + 7 equals 547."
   },
   {
-    "q": "Select the correct plural of 'Child'.",
-    "options": ["Childs", "Childes", "Children", "Childrens"],
+    "q": "What is the largest 3-digit number?",
+    "options": ["100", "900", "999", "1000"],
     "a": 2,
-    "explanation": "'Child' has an irregular plural form, which is 'Children'."
+    "explanation": "Counting numbers of 3 digits ends at 999 before reaching 1000."
   },
   {
-    "q": "Choose the correct sentence in 'Present Perfect Tense':",
-    "options": ["He finished the work.", "He has finished the work.", "He had finished the work.", "He is finishing the work."],
+    "q": "How many centimeters are there in 1 meter?",
+    "options": ["10", "100", "1000", "10000"],
     "a": 1,
-    "explanation": "Present perfect tense is formed using 'has/have + past participle (V3)'."
+    "explanation": "The metric conversion for length is 100 centimeters = 1 meter."
   },
   {
-    "q": "Which part of speech is 'Alas!'?",
-    "options": ["Conjunction", "Preposition", "Interjection", "Adverb"],
+    "q": "Which of these is an even number?",
+    "options": ["15", "23", "48", "51"],
     "a": 2,
-    "explanation": "Interjections are words used to express sudden emotions or feelings like grief or joy."
+    "explanation": "Even numbers are divisible by 2; 48 ends in 8, making it even."
   },
   {
-    "q": "What is the primary objective of 'Remedial Teaching'?",
-    "options": ["To teach new topics", "To fill learning gaps", "To punish slow learners", "To prepare for sports"],
+    "q": "What is the perimeter of a square with side 5 cm?",
+    "options": ["10 cm", "20 cm", "25 cm", "30 cm"],
     "a": 1,
-    "explanation": "Remedial teaching addresses specific learning weaknesses identified during diagnosis."
+    "explanation": "Perimeter of a square = 4 × side = 4 × 5 = 20 cm."
   },
   {
-    "q": "Choose the word with the correct prefix for 'Fortune'.",
-    "options": ["Unfortune", "Infortune", "Misfortune", "Disfortune"],
+    "q": "Find the product of 10 and 0.",
+    "options": ["0", "1", "10", "100"],
+    "a": 0,
+    "explanation": "Any number multiplied by zero is always zero."
+  },
+  {
+    "q": "What is 1/2 + 1/2?",
+    "options": ["1/4", "2/4", "1", "2"],
     "a": 2,
-    "explanation": "The prefix 'mis-' combined with 'fortune' creates the word 'misfortune', meaning bad luck."
+    "explanation": "Two halves make a whole; (1+1)/2 = 2/2 = 1."
   },
   {
-    "q": "Which tense is used in: 'They are watching TV.'?",
-    "options": ["Simple present", "Present continuous", "Present perfect", "Past continuous"],
+    "q": "If a pen costs 5 rupees, what is the cost of 10 pens?",
+    "options": ["15 rupees", "50 rupees", "55 rupees", "100 rupees"],
     "a": 1,
-    "explanation": "The 'be' verb (are) + present participle (-ing) indicates an action currently in progress."
+    "explanation": "Cost = 10 pens × 5 rupees/pen = 50 rupees."
   },
   {
-    "q": "Select the correct collective noun: 'A ________ of wolves.'",
-    "options": ["Flock", "Herd", "Pack", "Swarm"],
+    "q": "How many sides does a rectangle have?",
+    "options": ["3", "4", "5", "6"],
+    "a": 1,
+    "explanation": "A rectangle is a quadrilateral, meaning it has four sides."
+  },
+  {
+    "q": "What is the successor of 99?",
+    "options": ["98", "100", "101", "110"],
+    "a": 1,
+    "explanation": "The successor is the number that comes immediately after; 99 + 1 = 100."
+  },
+  {
+    "q": "Which part of a plant grows under the ground?",
+    "options": ["Stem", "Leaf", "Root", "Flower"],
     "a": 2,
-    "explanation": "The specific group term for wolves is a 'pack'."
+    "explanation": "The root system is typically located beneath the soil surface."
   },
   {
-    "q": "What is the place value of 5 in the number 4532?",
-    "options": ["5", "50", "500", "5000"],
+    "q": "Which of the following is a 'Domestic Animal'?",
+    "options": ["Tiger", "Cow", "Lion", "Wolf"],
+    "a": 1,
+    "explanation": "Cows are tamed and kept by humans for milk and labor."
+  },
+  {
+    "q": "The festival of 'Holi' is known as the festival of:",
+    "options": ["Lights", "Colors", "Flowers", "Sweets"],
+    "a": 1,
+    "explanation": "Holi is celebrated by playing with vibrant colors."
+  },
+  {
+    "q": "Which sense organ helps us to hear sounds?",
+    "options": ["Eyes", "Nose", "Ears", "Skin"],
     "a": 2,
-    "explanation": "In 4532, 5 is in the hundreds place, so its value is 5 x 100 = 500."
+    "explanation": "Ears are the sensory organs responsible for detecting sound waves."
   },
   {
-    "q": "What is 1/4 + 1/4?",
-    "options": ["1/8", "2/8", "1/2", "1/4"],
+    "q": "What is the main source of water on Earth?",
+    "options": ["River", "Well", "Rain", "Lake"],
     "a": 2,
-    "explanation": "1/4 + 1/4 = 2/4, which simplifies to 1/2."
-  },
-  {
-    "q": "The Roman numeral for 50 is:",
-    "options": ["X", "L", "C", "D"],
-    "a": 1,
-    "explanation": "In the Roman system, X=10, L=50, C=100, and D=500."
-  },
-  {
-    "q": "How many centimeters are in 5 meters?",
-    "options": ["50", "500", "5000", "5"],
-    "a": 1,
-    "explanation": "Since 1 meter = 100 cm, 5 meters = 5 x 100 = 500 cm."
-  },
-  {
-    "q": "The smallest 4-digit number is:",
-    "options": ["1111", "1001", "1000", "9999"],
-    "a": 2,
-    "explanation": "The sequence of 4-digit numbers starts at 1000."
-  },
-  {
-    "q": "If 3x = 12, then x is:",
-    "options": ["2", "4", "6", "9"],
-    "a": 1,
-    "explanation": "By dividing 12 by 3, we find that x = 4."
-  },
-  {
-    "q": "What is the product of 15 and 6?",
-    "options": ["80", "90", "100", "110"],
-    "a": 1,
-    "explanation": "Multiplying 15 by 6 results in 90."
-  },
-  {
-    "q": "How many minutes are in 3 hours and 20 minutes?",
-    "options": ["180", "200", "220", "240"],
-    "a": 1,
-    "explanation": "(3 hours x 60 mins) + 20 mins = 180 + 20 = 200 minutes."
-  },
-  {
-    "q": "If one dozen bananas cost 60 rupees, what is the cost of 5 bananas?",
-    "options": ["20 rupees", "25 rupees", "30 rupees", "15 rupees"],
-    "a": 1,
-    "explanation": "1 banana costs 60/12 = 5 rupees. Thus, 5 bananas cost 5 x 5 = 25 rupees."
-  },
-  {
-    "q": "Find the average of 10, 20, 30, 40, and 50.",
-    "options": ["20", "25", "30", "35"],
-    "a": 2,
-    "explanation": "Sum (150) divided by the count (5) equals 30."
-  },
-  {
-    "q": "Which animal is called the 'Ship of the Desert'?",
-    "options": ["Horse", "Donkey", "Camel", "Elephant"],
-    "a": 2,
-    "explanation": "Camels are adapted for desert travel with their ability to go long periods without water."
-  },
-  {
-    "q": "Which sense organ helps us to smell?",
-    "options": ["Eye", "Ear", "Nose", "Tongue"],
-    "a": 2,
-    "explanation": "The nose contains olfactory receptors that detect scents in the air."
-  },
-  {
-    "q": "The process of a seed growing into a plant is called:",
-    "options": ["Photosynthesis", "Germination", "Pollination", "Transpiration"],
-    "a": 1,
-    "explanation": "Germination is the biological process by which a seed develops into a seedling."
-  },
-  {
-    "q": "Our national flower is:",
-    "options": ["Rose", "Lily", "Lotus", "Sunflower"],
-    "a": 2,
-    "explanation": "The Lotus (Nelumbo nucifera) is the national flower of India."
-  },
-  {
-    "q": "Which of the following is an example of a pulse?",
-    "options": ["Rice", "Gram", "Maize", "Bajra"],
-    "a": 1,
-    "explanation": "Grams (Chana) are legumes, categorized as pulses, unlike cereal grains like rice or maize."
+    "explanation": "Rain is the primary natural source that replenishes other water bodies."
   }
 ]
