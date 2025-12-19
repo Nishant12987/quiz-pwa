@@ -75,11 +75,7 @@ function afterLogin(user) {
         email: user.email,
         name: "",
         selection: null,
-        payments: {
-          level1: user.email === ADMIN_EMAIL,
-          level2_social: false,
-          level2_socio: false
-        },
+        paid: user.email === ADMIN_EMAIL, // Set paid to true for admin, false for others
         history: {
           level1: [],
           level2_social: [],
@@ -176,7 +172,7 @@ function startFlow() {
 }
 
 /***********************
- * LOAD MOCK (WITH SAFETY FIX)
+ * LOAD MOCK
  ***********************/
 async function loadMock(data) {
   if (!data || !data.selection) return alert("Selection missing");
@@ -185,12 +181,13 @@ async function loadMock(data) {
   const key = sel.level === "level1" ? "level1" : 
               (sel.stream === "social" ? "level2_social" : "level2_socio");
 
-  // ✅ Fix: Check if payments and history objects exist before reading keys
-  const userPayments = data.payments || {};
-  const userHistory = data.history || {};
-  const currentHistory = userHistory[key] || [];
+  // ✅ Check 'paid' directly to match your Firestore screenshot
+  const isPaid = data.paid === true;
+  const history = data.history || {};
+  const currentHistory = history[key] || [];
 
-  if (!userPayments[key] && currentHistory.length >= 1) {
+  // Allow first test free, check paid status for subsequent tests
+  if (!isPaid && currentHistory.length >= 1) {
     alert("Payment required for more mock tests in this stream.");
     return;
   }
@@ -221,7 +218,7 @@ async function loadMock(data) {
 }
 
 /***********************
- * HISTORY (WITH SAFETY FIX)
+ * HISTORY
  ***********************/
 function showHistory() {
   const user = auth.currentUser;
@@ -236,13 +233,11 @@ function showHistory() {
     const key = sel.level === "level1" ? "level1" : 
                 (sel.stream === "social" ? "level2_social" : "level2_socio");
 
-    // ✅ Fix: Use local variables to avoid "undefined" crash
-    const userPayments = data.payments || {};
-    const userHistory = data.history || {};
+    // ✅ Match 'paid' status from your database
+    if (data.paid !== true) return alert("Payment required to view history");
 
-    if (!userPayments[key]) return alert("Payment required to view history");
-
-    if (!userHistory[key] || userHistory[key].length === 0) {
+    const history = data.history || {};
+    if (!history[key] || history[key].length === 0) {
       return alert("No test history found yet.");
     }
 
@@ -251,7 +246,7 @@ function showHistory() {
 
     document.getElementById("historyTable").innerHTML =
       "<tr><th>Test</th><th>Score</th></tr>" +
-      userHistory[key]
+      history[key]
         .map((s, i) => `<tr><td>Mock ${i + 1}</td><td>${s}</td></tr>`)
         .join("");
   });
