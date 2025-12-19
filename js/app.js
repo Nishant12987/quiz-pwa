@@ -109,62 +109,50 @@ function saveName() {
 }
 
 /***********************
- * DASHBOARD (FINAL FIX)
+ * DASHBOARD
  ***********************/
 function showDashboard() {
   hideAll();
   show("dashboard");
 
-  const ref = db.collection("users").doc(auth.currentUser.uid);
+  const user = auth.currentUser;
+  if (!user) return;
+
+  const ref = db.collection("users").doc(user.uid);
   ref.get().then(doc => {
+    if (!doc.exists) return;
     const data = doc.data();
 
-    document.getElementById("welcome").innerText =
-      "👋 Welcome, " + data.name;
-
+    document.getElementById("welcome").innerText = "👋 Welcome, " + (data.name || "User");
     document.getElementById("quoteBox").innerText = getQuote();
-
-    document.getElementById("selectionBox").style.display =
-      data.selection ? "none" : "block";
+    document.getElementById("selectionBox").style.display = data.selection ? "none" : "block";
   });
 
-  document.getElementById("level").onchange = () => {
-    document.getElementById("stream").style.display =
-      document.getElementById("level").value === "level2"
-        ? "block"
-        : "none";
+  // Handle Level 2 stream visibility
+  const levelSelect = document.getElementById("level");
+  levelSelect.onchange = () => {
+    document.getElementById("stream").style.display = (levelSelect.value === "level2") ? "block" : "none";
   };
 
-  // ✅ CRITICAL: bind Start Test AFTER dashboard is visible
-  const startBtn = document.getElementById("startTestBtn");
-  if (startBtn) {
-    startBtn.onclick = () => {
-      console.log("Start Test clicked");
-      startFlow();
-    };
-  }
+  // ✅ Explicitly bind buttons to ensure they work every time dashboard is shown
+  document.getElementById("startTestBtn").onclick = startFlow;
+  
+  // Find the history button in the HTML and bind it
+  const histBtn = document.querySelector("button[onclick='showHistory()']");
+  if (histBtn) histBtn.onclick = showHistory;
 }
 
 /***********************
- * START TEST
+ * START TEST FLOW
  ***********************/
 function startFlow() {
-  console.log("startFlow() entered");
-
   const user = auth.currentUser;
-  if (!user) {
-    alert("User not logged in");
-    return;
-  }
+  if (!user) return alert("User not logged in");
 
   const ref = db.collection("users").doc(user.uid);
 
   ref.get().then(doc => {
-    if (!doc.exists) {
-      alert("User data missing");
-      return;
-    }
-
+    if (!doc.exists) return alert("User data missing");
     const data = doc.data();
 
     if (!data.selection) {
@@ -182,11 +170,8 @@ function startFlow() {
       };
 
       ref.update({ selection }).then(() => {
-        ref.get().then(updated => {
-          loadMock(updated.data());
-        });
+        ref.get().then(updated => loadMock(updated.data()));
       });
-
     } else {
       loadMock(data);
     }
@@ -197,40 +182,30 @@ function startFlow() {
  * LOAD MOCK
  ***********************/
 async function loadMock(data) {
-  if (!data || !data.selection) {
-    alert("Selection missing");
-    return;
-  }
+  if (!data || !data.selection) return alert("Selection missing");
 
   const sel = data.selection;
+  const key = sel.level === "level1" ? "level1" : 
+              (sel.stream === "social" ? "level2_social" : "level2_socio");
 
-  const key =
-    sel.level === "level1"
-      ? "level1"
-      : sel.stream === "social"
-      ? "level2_social"
-      : "level2_socio";
-
-  if (!data.payments[key] && data.history[key].length >= 1) {
-    alert("Payment required for this stream");
+  // Allow first test for free, then check payment
+  if (!data.payments[key] && data.history[key] && data.history[key].length >= 1) {
+    alert("Payment required for more mock tests in this stream.");
     return;
   }
 
-  const folder =
-    sel.level === "level1"
-      ? "level1"
-      : sel.stream === "social"
-      ? "level2-social"
-      : "level2-socio";
+  const folder = sel.level === "level1" ? "level1" : 
+                 (sel.stream === "social" ? "level2-social" : "level2-socio");
 
-  const path = `data/${folder}/${sel.language}/mock${data.history[key].length + 1}.json`;
+  const mockNumber = (data.history[key] ? data.history[key].length : 0) + 1;
+  const path = `data/${folder}/${sel.language}/mock${mockNumber}.json`;
 
   try {
     const res = await fetch(path);
     if (!res.ok) throw new Error();
     questions = await res.json();
   } catch {
-    alert("No more mocks available");
+    alert("No more mocks available for this selection.");
     return;
   }
 
@@ -248,23 +223,22 @@ async function loadMock(data) {
  * HISTORY
  ***********************/
 function showHistory() {
-  const ref = db.collection("users").doc(auth.currentUser.uid);
+  const user = auth.currentUser;
+  if (!user) return;
 
+  const ref = db.collection("users").doc(user.uid);
   ref.get().then(doc => {
     const data = doc.data();
-    if (!data.selection) return alert("No history");
+    if (!data.selection) return alert("You must complete a test first to see history.");
 
     const sel = data.selection;
-    const key =
-      sel.level === "level1"
-        ? "level1"
-        : sel.stream === "social"
-        ? "level2_social"
-        : "level2_socio";
+    const key = sel.level === "level1" ? "level1" : 
+                (sel.stream === "social" ? "level2_social" : "level2_socio");
 
-    if (!data.payments[key]) {
-      alert("Payment required to view history");
-      return;
+    if (!data.payments[key]) return alert("Payment required to view history");
+
+    if (!data.history[key] || data.history[key].length === 0) {
+      return alert("No test history found yet.");
     }
 
     hideAll();
@@ -282,11 +256,8 @@ function showHistory() {
  * QUIZ LOGIC
  ***********************/
 function render() {
-  document.getElementById("qCounter").innerText =
-    `Q ${index + 1}/${questions.length}`;
-
-  document.getElementById("question").innerText =
-    questions[index].q;
+  document.getElementById("qCounter").innerText = `Q ${index + 1}/${questions.length}`;
+  document.getElementById("question").innerText = questions[index].q;
 
   const options = document.getElementById("options");
   options.innerHTML = "";
@@ -317,6 +288,7 @@ function prevQ() {
  * TIMER
  ***********************/
 function startTimer() {
+  if (timer) clearInterval(timer);
   updateTime();
   timer = setInterval(() => {
     timeLeft--;
@@ -326,10 +298,9 @@ function startTimer() {
 }
 
 function updateTime() {
-  document.getElementById("time").innerText =
-    Math.floor(timeLeft / 60) +
-    ":" +
-    String(timeLeft % 60).padStart(2, "0");
+  const mins = Math.floor(timeLeft / 60);
+  const secs = String(timeLeft % 60).padStart(2, "0");
+  document.getElementById("time").innerText = `${mins}:${secs}`;
 }
 
 /***********************
@@ -344,32 +315,24 @@ function finishQuiz() {
     else if (a !== null) wrong++;
   });
 
-  const score = (correct - wrong / 3).toFixed(2);
+  const score = (correct - (wrong / 3)).toFixed(2);
 
   const ref = db.collection("users").doc(auth.currentUser.uid);
   ref.get().then(doc => {
     const data = doc.data();
     const sel = data.selection;
+    const key = sel.level === "level1" ? "level1" : 
+                (sel.stream === "social" ? "level2_social" : "level2_socio");
 
-    const key =
-      sel.level === "level1"
-        ? "level1"
-        : sel.stream === "social"
-        ? "level2_social"
-        : "level2_socio";
-
+    if (!data.history[key]) data.history[key] = [];
     data.history[key].push(score);
     ref.update({ history: data.history });
   });
 
   hideAll();
   show("result");
-
-  document.getElementById("finalScore").innerText =
-    `Score: ${score}/40`;
-
-  document.getElementById("finalMsg").innerText =
-    "Test submitted successfully";
+  document.getElementById("finalScore").innerText = `Score: ${score}/${questions.length}`;
+  document.getElementById("finalMsg").innerText = "Test submitted successfully";
 }
 
 /***********************
@@ -393,4 +356,8 @@ function show(id) {
  ***********************/
 auth.onAuthStateChanged(user => {
   if (user) showDashboard();
+  else {
+    hideAll();
+    show("login");
+  }
 });
