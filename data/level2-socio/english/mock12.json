@@ -1,0 +1,200 @@
+[
+  {
+    "q": "Which domain of development deals with 'Reasoning, Memory, and Problem Solving'?",
+    "options": ["Physical", "Cognitive", "Emotional", "Social"],
+    "a": 1,
+    "explanation": "Cognitive development involves the growth of mental processes."
+  },
+  {
+    "q": "Vygotsky's 'More Knowledgeable Other' (MKO) refers to:",
+    "options": ["Only the teacher", "Only parents", "Anyone with more skill", "Only older peers"],
+    "a": 2,
+    "explanation": "An MKO can be a teacher, peer, or even a program."
+  },
+  {
+    "q": "At which stage of moral development do children follow rules to 'Look Good'?",
+    "options": ["Pre-conventional", "Good boy/Nice girl orientation", "Social contract", "Punishment-avoidance"],
+    "a": 1,
+    "explanation": "Conventional level where social approval is the main motive."
+  },
+  {
+    "q": "The 'Intelligence' that involves sensitivity to meaning of words is:",
+    "options": ["Spatial", "Linguistic", "Logical", "Interpersonal"],
+    "a": 1,
+    "explanation": "Poets and writers typically have high linguistic intelligence."
+  },
+  {
+    "q": "Which type of 'Reinforcement' increases a behavior by removing an unpleasant stimulus?",
+    "options": ["Positive reinforcement", "Negative reinforcement", "Punishment", "Extinction"],
+    "a": 1,
+    "explanation": "Negative reinforcement 'subtracts' something bad."
+  },
+  {
+    "q": "The main focus of the 'Right to Education' (RTE) Act 2009 is:",
+    "options": ["Free and compulsory education", "Higher education", "English medium only", "Vocational training only"],
+    "a": 0,
+    "explanation": "It guarantees education to children aged 6 to 14."
+  },
+  {
+    "q": "According to Piaget, 'Assimilation' means:",
+    "options": ["Changing existing schemas", "Creating new schemas", "Fitting new info into schemas", "Forgetting old info"],
+    "a": 2,
+    "explanation": "Assimilation is interpreting the world through existing knowledge."
+  },
+  {
+    "q": "The 'Multiple Intelligence Theory' was proposed by:",
+    "options": ["Daniel Goleman", "Howard Gardner", "Raymond Cattell", "Robert Sternberg"],
+    "a": 1,
+    "explanation": "Gardner proposed distinct multiple capacities."
+  },
+  {
+    "q": "Which stage of creative thinking involves 'Taking a break'?",
+    "options": ["Preparation", "Incubation", "Illumination", "Verification"],
+    "a": 1,
+    "explanation": "During incubation, the unconscious mind works on the solution."
+  },
+  {
+    "q": "What is 'Inclusive' education's primary goal?",
+    "options": ["Teaching gifted separately", "Ignoring special needs", "Equal access for all in one setting", "Focusing on normal children"],
+    "a": 2,
+    "explanation": "It accommodates all children regardless of conditions."
+  },
+  {
+    "q": "The 'Heredity' of a child is fixed at the time of:",
+    "options": ["Birth", "Conception", "Early childhood", "Adolescence"],
+    "a": 1,
+    "explanation": "Genetic makeup is determined at fertilization."
+  },
+  {
+    "q": "paropkaar ka sandhi-vichchhed hai:",
+    "options": ["par + upkaar", "paro + pkaar", "parau + pkaar", "paro + upkaar"],
+    "a": 0,
+    "explanation": "par + upkaar = paropkar (gun sandhi)."
+  },
+  {
+    "q": "dashaanan mein kaun sa samaas hai?",
+    "options": ["dvigu", "dvandv", "bahuvrihi", "karmadhaaraya"],
+    "a": 2,
+    "explanation": "Das hain aanan jiske (ravana), bahuvrihi samas."
+  },
+  {
+    "q": "kritrim ka vilom shabd hai:",
+    "options": ["banaavatee", "praakritik", "nakalee", "akritrim"],
+    "a": 1,
+    "explanation": "Artificial opposite is Natural."
+  },
+  {
+    "q": "muanh ki khaana muhaavre ka arth hai:",
+    "options": ["bhojan karana", "buree tarah haarana", "gaalee dena", "nasht karana"],
+    "a": 1,
+    "explanation": "It means to be defeated badly."
+  },
+  {
+    "q": "shuddh vaaky ka chayan karen:",
+    "options": ["bachche ko kaat kar phal khilaao.", "phal ko bachche ko kaat kar khilaao.", "bachche ko phal kaat kar khilaao.", "kaat kar phal bachche ko khilaao."],
+    "a": 2,
+    "explanation": "Correct syntax: 'bachche ko phal kaat kar khilaao'."
+  },
+  {
+    "q": "amrit ka paryayavaachi shabd nahin hai:",
+    "options": ["peeyoosh", "sudha", "amee", "rasaal"],
+    "a": 3,
+    "explanation": "Rasaal means Mango."
+  },
+  {
+    "q": "kavita shikshan ka sarvopari gun kya hai?",
+    "options": ["shabdarth bodh", "bhaavaatmak rasaanubhooti", "vyaakaran gyaan", "lay aur taal"],
+    "a": 1,
+    "explanation": "Emotional resonance is key to poetry."
+  },
+  {
+    "q": "If x/3 + 5/2 = -3/2, then x is:",
+    "options": ["-12", "-4", "-8", "12"],
+    "a": 0,
+    "explanation": "x/3 = -3/2 - 5/2 = -8/2 = -4. x = -12."
+  },
+  {
+    "q": "The sum of first 10 odd numbers is:",
+    "options": ["100", "50", "90", "110"],
+    "a": 0,
+    "explanation": "Sum of first n odd numbers = n^2. 10^2 = 100."
+  },
+  {
+    "q": "If the side of a cube is doubled, its volume becomes:",
+    "options": ["2 times", "4 times", "8 times", "16 times"],
+    "a": 2,
+    "explanation": "Volume = a^3. (2a)^3 = 8a^3."
+  },
+  {
+    "q": "The value of sqrt(1.21) is:",
+    "options": ["1.1", "0.11", "11", "0.011"],
+    "a": 0,
+    "explanation": "1.1 * 1.1 = 1.21."
+  },
+  {
+    "q": "Find x if 3x + 15 = 0.",
+    "options": ["5", "-5", "3", "-3"],
+    "a": 1,
+    "explanation": "3x = -15. x = -5."
+  },
+  {
+    "q": "A linear pair of angles are always:",
+    "options": ["Complementary", "Supplementary", "Equal", "Right angles"],
+    "a": 1,
+    "explanation": "Sum of angles on a straight line is 180."
+  },
+  {
+    "q": "The probability of getting 'tails' in a coin toss is:",
+    "options": ["0", "1", "1/2", "1/4"],
+    "a": 2,
+    "explanation": "One desired outcome out of two total."
+  },
+  {
+    "q": "What is the smallest prime number?",
+    "options": ["0", "1", "2", "3"],
+    "a": 2,
+    "explanation": "2 is the only even prime and the smallest."
+  },
+  {
+    "q": "Which of the following is a poor conductor of heat?",
+    "options": ["Iron", "Aluminum", "Plastic", "Silver"],
+    "a": 2,
+    "explanation": "Plastic is an insulator."
+  },
+  {
+    "q": "Photosynthesis produces ________ as a byproduct.",
+    "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Methane"],
+    "a": 1,
+    "explanation": "Plants release oxygen during the process."
+  },
+  {
+    "q": "The acid found in curd is:",
+    "options": ["Citric acid", "Lactic acid", "Tartaric acid", "Acetic acid"],
+    "a": 1,
+    "explanation": "Lactobacillus bacteria convert lactose into lactic acid."
+  },
+  {
+    "q": "The distance between two crests in a wave is called:",
+    "options": ["Amplitude", "Frequency", "Wavelength", "Time period"],
+    "a": 2,
+    "explanation": "Wavelength is the spatial period of a wave."
+  },
+  {
+    "q": "The instrument used to measure blood pressure is:",
+    "options": ["Thermometer", "Barometer", "Sphygmomanometer", "Anemometer"],
+    "a": 2,
+    "explanation": "Standard medical device for BP."
+  },
+  {
+    "q": "Which planet is known as 'Earth's twin'?",
+    "options": ["Venus", "Mars", "Mercury", "Neptune"],
+    "a": 0,
+    "explanation": "Venus has similar size and mass."
+  },
+  {
+    "q": "The change from solid directly to gas is:",
+    "options": ["Melting", "Evaporation", "Sublimation", "Condensation"],
+    "a": 2,
+    "explanation": "Examples include camphor and dry ice."
+  }
+]
