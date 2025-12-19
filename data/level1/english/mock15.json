@@ -1,0 +1,242 @@
+[
+  {
+    "q": "Which psychologist described the 'Identity Crisis' during adolescence?",
+    "options": ["Erik Erikson", "Jean Piaget", "Sigmund Freud", "Carl Rogers"],
+    "a": 0,
+    "explanation": "Erik Erikson's theory of psychosocial development identifies 'Identity vs. Role Confusion' as the core conflict in teenagers."
+  },
+  {
+    "q": "In 'Project Method' of teaching, the role of the teacher is that of a:",
+    "options": ["Director", "Dictator", "Guide and Facilitator", "Passive Spectator"],
+    "a": 2,
+    "explanation": "In progressive education, the teacher supports students as they explore projects rather than just lecturing."
+  },
+  {
+    "q": "Which intelligence type is high in a successful 'Sculptor' or 'Architect' according to Gardner?",
+    "options": ["Logical-Mathematical", "Spatial", "Kinesthetic", "Linguistic"],
+    "a": 1,
+    "explanation": "Spatial intelligence involves the ability to visualize and manipulate three-dimensional objects."
+  },
+  {
+    "q": "What does 'IQ' stand for in psychology?",
+    "options": ["Internal Quotient", "Intellectual Quantity", "Intelligence Quotient", "Integrated Quality"],
+    "a": 2,
+    "explanation": "Intelligence Quotient is a score derived from standardized tests to measure human intelligence."
+  },
+  {
+    "q": "Which law of Thorndike states that 'Learning is stronger when followed by satisfaction'?",
+    "options": ["Law of Readiness", "Law of Exercise", "Law of Effect", "Law of Use"],
+    "a": 2,
+    "explanation": "The 'Law of Effect' suggests that responses followed by pleasant outcomes are more likely to be repeated."
+  },
+  {
+    "q": "Which type of reinforcement is most effective for long-term behavior maintenance?",
+    "options": ["Continuous reinforcement", "Variable ratio reinforcement", "Fixed ratio reinforcement", "Negative reinforcement"],
+    "a": 1,
+    "explanation": "Variable ratio schedules (like gambling) produce high rates of responding and are very resistant to extinction."
+  },
+  {
+    "q": "What is 'Metacognition'?",
+    "options": ["Learning by rote", "Thinking about one's own thinking", "Social interaction", "Physical growth"],
+    "a": 1,
+    "explanation": "Metacognition is the awareness and understanding of one's own thought processes (planning, monitoring, evaluating)."
+  },
+  {
+    "q": "Which principle of development suggests that growth proceeds from the center of the body towards the extremities?",
+    "options": ["Cephalocaudal", "Proximodistal", "Spiral", "Continuity"],
+    "a": 1,
+    "explanation": "Proximodistal development proceeds from the central axis of the body outward to the limbs."
+  },
+  {
+    "q": "A child who starts to understand that a tall thin glass can hold the same amount of water as a short wide glass has developed:",
+    "options": ["Egocentrism", "Object Permanence", "Conservation", "Animism"],
+    "a": 2,
+    "explanation": "Conservation is the ability to understand that quantity remains the same despite changes in outward appearance."
+  },
+  {
+    "q": "In Vygotsky's theory, the assistance provided by a teacher or peer to help a child learn a new task is called:",
+    "options": ["Conditioning", "Scaffolding", "Assimilation", "Modeling"],
+    "a": 1,
+    "explanation": "Scaffolding is the temporary support given to a learner to help them complete a task they cannot yet do independently."
+  },
+  {
+    "q": "According to Kohlberg, at which stage of moral development do children judge actions based on whether they will be punished?",
+    "options": ["Social Contract Orientation", "Good Boy-Nice Girl Orientation", "Punishment and Obedience Orientation", "Universal Ethical Principle"],
+    "a": 2,
+    "explanation": "In the earliest stage of moral development, children obey rules primarily to avoid physical punishment from authority figures."
+  },
+  {
+    "q": "'यथाशक्ति' में कौन सा समास है?",
+    "options": ["तत्पुरुष", "द्विगु", "अव्ययीभाव", "बहुव्रीहि"],
+    "a": 2,
+    "explanation": "जहाँ पहला पद अव्यय हो (यथा), वहाँ अव्ययीभाव समास होता है."
+  },
+  {
+    "q": "निम्न में से 'तद्भव' शब्द छाँटिए:",
+    "options": ["अग्नि", "पुष्प", "हाथ", "सूर्य"],
+    "a": 2,
+    "explanation": "'हाथ' तद्भव है; इसका तत्सम 'हस्त' होता है। अन्य शब्द तत्सम हैं."
+  },
+  {
+    "q": "'अंधे की लाठी' मुहावरे का सही अर्थ है:",
+    "options": ["बहुत कमजोर होना", "एकमात्र सहारा", "मूर्ख व्यक्ति", "अंधे व्यक्ति का सहायक"],
+    "a": 1,
+    "explanation": "यह मुहावरा किसी असहाय व्यक्ति के इकलौते सहारे के लिए प्रयोग किया जाता है."
+  },
+  {
+    "q": "जो 'सब कुछ जानता हो' - वाक्यांश के लिए एक शब्द है:",
+    "options": ["अल्पज्ञ", "बहुज्ञ", "सर्वज्ञ", "अभिज्ञ"],
+    "a": 2,
+    "explanation": "सर्व (सब कुछ) + ज्ञ (जानने वाला) = सर्वज्ञ."
+  },
+  {
+    "q": "शिक्षण की 'आगमन विधि' (Inductive Method) चलती है:",
+    "options": ["नियम से उदाहरण की ओर", "उदाहरण से नियम की ओर", "सूक्ष्म से स्थूल की ओर", "अमूर्त से मूर्त की ओर"],
+    "a": 1,
+    "explanation": "आगमन विधि में पहले अनेक उदाहरण दिए जाते हैं, फिर एक सामान्य नियम निकाला जाता है."
+  },
+  {
+    "q": "इनमें से कौन सा 'स्त्रीलिंग' शब्द है?",
+    "options": ["घी", "दही", "नदी", "पानी"],
+    "a": 2,
+    "explanation": "नदी बहती है (स्त्रीलिंग)। घी, दही और पानी पुल्लिंग शब्द हैं."
+  },
+  {
+    "q": "हिंदी भाषा में कुल कितने 'स्वर' हैं?",
+    "options": ["10", "11", "13", "15"],
+    "a": 1,
+    "explanation": "मानक हिंदी वर्णमाला में कुल 11 स्वर (अ से औ) माने जाते हैं."
+  },
+  {
+    "q": "Identify the 'Adjective' in the sentence: 'The blue umbrella belongs to me.'",
+    "options": ["Umbrella", "Belongs", "Me", "Blue"],
+    "a": 3,
+    "explanation": "An adjective modifies a noun; 'blue' describes the noun 'umbrella'."
+  },
+  {
+    "q": "Which of these is NOT a principle of Language Teaching?",
+    "options": ["Principle of Motivation", "Principle of Habit Formation", "Principle of Rote Memorization", "Principle of Oral Approach"],
+    "a": 2,
+    "explanation": "Modern pedagogy discourages rote memorization, favoring communicative and natural learning."
+  },
+  {
+    "q": "Find the error: 'Each of the students (A) have (B) submitted (C) the assignment (D).'",
+    "options": ["A", "B", "C", "D"],
+    "a": 1,
+    "explanation": "'Each' is singular. The verb should be 'has' instead of 'have'."
+  },
+  {
+    "q": "Identify the 'Subject' in the sentence: 'On the top of the hill lives a hermit.'",
+    "options": ["The hill", "The top", "A hermit", "Lives"],
+    "a": 2,
+    "explanation": "The sentence is inverted; 'a hermit' is the person who lives, making him the subject."
+  },
+  {
+    "q": "Which of these is a 'Vowel Sound' symbol in Phonetics?",
+    "options": ["/p/", "/b/", "/e/", "/t/"],
+    "a": 2,
+    "explanation": "/p/, /b/, and /t/ are consonant sounds; /e/ represents a vowel sound."
+  },
+  {
+    "q": "The phrase 'Call it a day' means:",
+    "options": ["To start working", "To stop working on something", "To wake up early", "To celebrate"],
+    "a": 1,
+    "explanation": "This idiom is used to decide to stop doing something for the rest of the day."
+  },
+  {
+    "q": "Select the correct 'Question Tag': 'You are a student, ________?'",
+    "options": ["don't you", "aren't you", "are you", "isn't it"],
+    "a": 1,
+    "explanation": "A positive statement with 'are' takes a negative tag 'aren't you?'."
+  },
+  {
+    "q": "What is the value of 0.5 + 0.05 + 0.005?",
+    "options": ["0.555", "0.6", "0.15", "0.55"],
+    "a": 0,
+    "explanation": "Align the decimal points: 0.500 + 0.050 + 0.005 = 0.555."
+  },
+  {
+    "q": "A triangle with all three sides equal is called:",
+    "options": ["Isosceles", "Equilateral", "Scalene", "Right-angled"],
+    "a": 1,
+    "explanation": "Equi (equal) + lateral (sides) = Equilateral triangle."
+  },
+  {
+    "q": "Convert 2.5 kg into grams:",
+    "options": ["250 g", "2500 g", "25 g", "25000 g"],
+    "a": 1,
+    "explanation": "1 kg = 1000 grams. So, 2.5 x 1000 = 2500 grams."
+  },
+  {
+    "q": "What is the LCM of 4 and 6?",
+    "options": ["2", "12", "24", "10"],
+    "a": 1,
+    "explanation": "Multiples of 4: 4, 8, 12... Multiples of 6: 6, 12... The least common multiple is 12."
+  },
+  {
+    "q": "Which of the following is a prime number?",
+    "options": ["4", "9", "13", "15"],
+    "a": 2,
+    "explanation": "A prime number has exactly two factors: 1 and itself. 13 is only divisible by 1 and 13."
+  },
+  {
+    "q": "If an angle is 90 degrees, it is called a:",
+    "options": ["Acute angle", "Obtuse angle", "Right angle", "Reflex angle"],
+    "a": 2,
+    "explanation": "An angle measuring exactly 90 degrees is a right angle."
+  },
+  {
+    "q": "How many faces does a cube have?",
+    "options": ["4", "6", "8", "12"],
+    "a": 1,
+    "explanation": "A cube (like a die) has 6 flat square faces."
+  },
+  {
+    "q": "What is 25 percent of 200?",
+    "options": ["25", "50", "75", "100"],
+    "a": 1,
+    "explanation": "(25/100) x 200 = 0.25 x 200 = 50."
+  },
+  {
+    "q": "What is the product of 15 and 6?",
+    "options": ["80", "90", "100", "110"],
+    "a": 1,
+    "explanation": "15 x 6 = 90."
+  },
+  {
+    "q": "How many centimeters are in 5 meters?",
+    "options": ["50", "500", "5000", "5"],
+    "a": 1,
+    "explanation": "1 meter = 100 cm. So, 5 meters = 500 cm."
+  },
+  {
+    "q": "Which of the following is a source of Vitamin A?",
+    "options": ["Carrot", "Lemon", "Amla", "Rice"],
+    "a": 0,
+    "explanation": "Carrots are rich in beta-carotene, which the body converts into Vitamin A (essential for eyesight)."
+  },
+  {
+    "q": "A group of ants is known as a:",
+    "options": ["Pride", "Colony", "School", "Pack"],
+    "a": 1,
+    "explanation": "Collective noun for ants is a 'colony'."
+  },
+  {
+    "q": "Which planet is known as the 'Red Planet'?",
+    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "a": 1,
+    "explanation": "Mars appears red due to iron oxide (rust) on its surface."
+  },
+  {
+    "q": "Who is known as the 'Birdman of India'?",
+    "options": ["Salim Ali", "C.V. Raman", "Homi Bhabha", "Vikram Sarabhai"],
+    "a": 0,
+    "explanation": "Dr. Salim Ali was a famous Indian ornithologist and naturalist."
+  },
+  {
+    "q": "Which part of the plant absorbs water from the soil?",
+    "options": ["Stem", "Leaf", "Root", "Flower"],
+    "a": 2,
+    "explanation": "Roots have root hairs that absorb water and minerals through osmosis."
+  }
+]
