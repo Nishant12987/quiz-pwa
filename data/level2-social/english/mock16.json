@@ -1,0 +1,242 @@
+[
+  {
+    "q": "Which stage of development is known as the 'Toy Age'?",
+    "options": ["Infancy", "Early Childhood", "Later Childhood", "Adolescence"],
+    "a": 1,
+    "explanation": "Early childhood (2-6 years) is characterized by intensive play with toys."
+  },
+  {
+    "q": "According to Kohlberg, at which level do individuals value 'Mutual Interpersonal Expectations'?",
+    "options": ["Pre-conventional", "Conventional", "Post-conventional", "Autonomous"],
+    "a": 1,
+    "explanation": "Stage 3 (Good Boy/Nice Girl) is part of the conventional level."
+  },
+  {
+    "q": "The 'Micro-teaching' technique is primarily used for:",
+    "options": ["Evaluating students", "Developing teaching skills", "Increasing class time", "Testing intelligence"],
+    "a": 1,
+    "explanation": "Micro-teaching is a teacher training technique for mastering specific instructional behaviors."
+  },
+  {
+    "q": "Which learning theory emphasizes the role of 'Scaffolding'?",
+    "options": ["Piaget", "Vygotsky", "Skinner", "Bandura"],
+    "a": 1,
+    "explanation": "Vygotsky's socio-cultural theory focuses on support provided to learners."
+  },
+  {
+    "q": "The concept of 'General Intelligence' (g-factor) was proposed by:",
+    "options": ["Charles Spearman", "Howard Gardner", "Raymond Cattell", "Robert Sternberg"],
+    "a": 0,
+    "explanation": "Spearman proposed that intelligence consists of a general factor and specific factors."
+  },
+  {
+    "q": "Which of the following is a 'Projective Technique' of personality assessment?",
+    "options": ["Interview", "Rating Scale", "Rorschach Inkblot Test", "Observation"],
+    "a": 2,
+    "explanation": "Projective tests use ambiguous stimuli to reveal a person's inner traits."
+  },
+  {
+    "q": "What is 'Object Permanence'?",
+    "options": ["Thinking objects have life", "Realizing objects exist even when unseen", "Grouping objects by color", "Solving problems with objects"],
+    "a": 1,
+    "explanation": "A key milestone in the sensory-motor stage (Piaget)."
+  },
+  {
+    "q": "Which reinforcement schedule is most resistant to 'Extinction'?",
+    "options": ["Fixed-ratio", "Variable-ratio", "Fixed-interval", "Continuous"],
+    "a": 1,
+    "explanation": "Variable schedules are more durable because the reward is unpredictable."
+  },
+  {
+    "q": "In a 'Democratic' leadership style, the teacher:",
+    "options": ["Makes all decisions", "Consults with students", "Does not participate", "Punishes frequently"],
+    "a": 1,
+    "explanation": "Democratic leaders encourage participation and shared decision-making."
+  },
+  {
+    "q": "Which of these is a symptom of 'Dyslexia'?",
+    "options": ["Difficulty in writing", "Difficulty in reading and spelling", "Inability to calculate", "Poor handwriting"],
+    "a": 1,
+    "explanation": "Dyslexia is a learning disability primarily affecting language processing."
+  },
+  {
+    "q": "The 'Project Method' was developed by:",
+    "options": ["William Kilpatrick", "John Dewey", "Maria Montessori", "Froebel"],
+    "a": 0,
+    "explanation": "Kilpatrick was a student of Dewey who formalized the project method."
+  },
+  {
+    "q": "'पवन' का सही संधि-विच्छेद है:",
+    "options": ["प + वन", "पा + वन", "पो + अन", "पौ + अन"],
+    "a": 2,
+    "explanation": "पो + अन = पवन (अयादि संधि)।"
+  },
+  {
+    "q": "'लम्बोदर' में कौन सा समास है?",
+    "options": ["कर्मधारय", "बहुव्रीहि", "द्विगु", "द्वंद्व"],
+    "a": 1,
+    "explanation": "लम्बा है उदर जिसका (गणेश जी), यहाँ बहुव्रीहि समास है।"
+  },
+  {
+    "q": "'प्राचीन' का विलोम शब्द है:",
+    "options": ["पुराना", "नवीन", "अर्वाचीन", "आधुनिक"],
+    "a": 2,
+    "explanation": "प्राचीन का सबसे सटीक विलोम अर्वाचीन होता है।"
+  },
+  {
+    "q": "'नाक कटना' मुहावरे का अर्थ है:",
+    "options": ["चोट लगना", "इज्जत जाना", "बीमार होना", "झगड़ा करना"],
+    "a": 1,
+    "explanation": "इसका अर्थ प्रतिष्ठा नष्ट होना है।"
+  },
+  {
+    "q": "शुद्ध वाक्य का चयन करें:",
+    "options": ["वह दंड देने योग्य है।", "वह दंड के योग्य है।", "वह दंड लेने योग्य है।", "वह दंड पाने योग्य है।"],
+    "a": 1,
+    "explanation": "सही व्याकरणिक रूप 'वह दंड के योग्य है' होगा।"
+  },
+  {
+    "q": "'लेखक' शब्द में कौन सा प्रत्यय है?",
+    "options": ["क", "इक", "अक", "आक"],
+    "a": 2,
+    "explanation": "लिख् + अक = लेखक।"
+  },
+  {
+    "q": "हिंदी भाषा में कितने 'स्वर' हैं?",
+    "options": ["10", "11", "13", "15"],
+    "a": 1,
+    "explanation": "मानक हिंदी वर्णमाला में 11 स्वर माने जाते हैं।"
+  },
+  {
+    "q": "Identify the 'Adverb' in: 'He ran very fast.'",
+    "options": ["He", "Ran", "Very", "Fast"],
+    "a": 2,
+    "explanation": "'Very' is an adverb of degree modifying the adverb 'fast'."
+  },
+  {
+    "q": "Select the correct plural of 'Foot':",
+    "options": ["Foots", "Feet", "Feets", "Footes"],
+    "a": 1,
+    "explanation": "Foot (singular) becomes feet (plural)."
+  },
+  {
+    "q": "Choose the correct prefix for 'Fortune':",
+    "options": ["Un-", "In-", "Mis-", "Dis-"],
+    "a": 2,
+    "explanation": "Misfortune means bad luck."
+  },
+  {
+    "q": "Which part of speech is 'Alas!'?",
+    "options": ["Conjunction", "Preposition", "Interjection", "Adverb"],
+    "a": 2,
+    "explanation": "Alas expresses sudden grief or sadness."
+  },
+  {
+    "q": "The primary objective of 'Remedial Teaching' is:",
+    "options": ["To teach new topics", "To fill learning gaps", "To punish slow learners", "To prepare for sports"],
+    "a": 1,
+    "explanation": "Remedial teaching addresses specific learning difficulties."
+  },
+  {
+    "q": "Choose the correct sentence in 'Present Perfect Tense':",
+    "options": ["He finished work.", "He has finished work.", "He had finished work.", "He is finishing work."],
+    "a": 1,
+    "explanation": "Has/Have + V3 is the structure for present perfect."
+  },
+  {
+    "q": "What is the feminine gender of 'Monk'?",
+    "options": ["Spinster", "Nun", "Baroness", "Widow"],
+    "a": 1,
+    "explanation": "Nun is the feminine equivalent of monk."
+  },
+  {
+    "q": "Which Ashokan inscription mentions the 'Kalinga War'?",
+    "options": ["Rock Edict X", "Rock Edict XII", "Rock Edict XIII", "Bhabru Edict"],
+    "a": 2,
+    "explanation": "Rock Edict XIII describes the Kalinga victory and Ashoka's subsequent remorse."
+  },
+  {
+    "q": "The 'Fundamental Duties' were added by which amendment?",
+    "options": ["42nd", "44th", "52nd", "73rd"],
+    "a": 0,
+    "explanation": "The 42nd Amendment (1976) added Part IV-A (Article 51A)."
+  },
+  {
+    "q": "Which planet has the 'Great Red Spot'?",
+    "options": ["Mars", "Jupiter", "Saturn", "Neptune"],
+    "a": 1,
+    "explanation": "The Great Red Spot is a giant storm on Jupiter."
+  },
+  {
+    "q": "Which is the 'Smallest Continent' by area?",
+    "options": ["Europe", "Antarctica", "Australia", "South America"],
+    "a": 2,
+    "explanation": "Australia is the smallest continent and also a country."
+  },
+  {
+    "q": "Who was the first female 'Governor' of an Indian state?",
+    "options": ["Annie Besant", "Sarojini Naidu", "Sucheta Kripalani", "Indira Gandhi"],
+    "a": 1,
+    "explanation": "Sarojini Naidu was the Governor of Uttar Pradesh."
+  },
+  {
+    "q": "The 'Bhakra Nangal Dam' is on which river?",
+    "options": ["Jhelum", "Chenab", "Ravi", "Sutlej"],
+    "a": 3,
+    "explanation": "It is built across the Sutlej River in Himachal Pradesh and Punjab."
+  },
+  {
+    "q": "In which year did the 'First Battle of Tarain' take place?",
+    "options": ["1191", "1192", "1526", "1757"],
+    "a": 0,
+    "explanation": "Prithviraj Chauhan defeated Muhammad Ghori in 1191."
+  },
+  {
+    "q": "The 'Zero Hour' in Parliament is:",
+    "options": ["Time for lunch", "Time for voting", "Time for urgent matters without notice", "Time for adjournment"],
+    "a": 2,
+    "explanation": "Zero Hour starts immediately after the Question Hour."
+  },
+  {
+    "q": "Which line separates 'India and China'?",
+    "options": ["Radcliffe", "McMahon", "Durand", "Palk Strait"],
+    "a": 1,
+    "explanation": "The McMahon Line is the boundary between Northeast India and Tibet."
+  },
+  {
+    "q": "The 'INC' was founded in 1885 by:",
+    "options": ["W.C. Bonnerjee", "A.O. Hume", "Dadabhai Naoroji", "Tilak"],
+    "a": 1,
+    "explanation": "Allan Octavian Hume was the primary organizer of the Indian National Congress."
+  },
+  {
+    "q": "Which layer of Earth is in a 'Liquid' state?",
+    "options": ["Crust", "Mantle", "Outer Core", "Inner Core"],
+    "a": 2,
+    "explanation": "The Outer Core is composed of liquid iron and nickel."
+  },
+  {
+    "q": "Who is the 'Ex-officio Chairman' of Rajya Sabha?",
+    "options": ["President", "Prime Minister", "Vice-President", "Speaker"],
+    "a": 2,
+    "explanation": "The Vice-President of India presides over the Rajya Sabha."
+  },
+  {
+    "q": "'Operation Flood' is related to:",
+    "options": ["Flood control", "Milk production", "Wheat production", "Fish production"],
+    "a": 1,
+    "explanation": "It was a project to make India self-sufficient in milk."
+  },
+  {
+    "q": "The 'Sun Temple' of Konark was built by:",
+    "options": ["Narasimhadeva I", "Rajendra Chola", "Chandragupta II", "Ashoka"],
+    "a": 0,
+    "explanation": "The 13th-century temple in Odisha was built by the Eastern Ganga Dynasty."
+  },
+  {
+    "q": "Who was the first female 'President of INC'?",
+    "options": ["Sarojini Naidu", "Annie Besant", "Nellie Sengupta", "Indira Gandhi"],
+    "a": 1,
+    "explanation": "Annie Besant was the first woman President of the Congress (1917)."
+  }
+]
