@@ -1,0 +1,202 @@
+[
+  {
+    "q": "According to Erikson, the psychological conflict of 'Trust vs. Mistrust' occurs during:",
+    "options": ["Adolescence", "Middle childhood", "Infancy", "Early childhood"],
+    "a": 2
+  },
+  {
+    "q": "Vygotsky's concept of 'Scaffolding' refers to:",
+    "options": ["Rote learning", "Temporary support by adults", "Individualized testing", "Biological maturation"],
+    "a": 1
+  },
+  {
+    "q": "Which type of evaluation identifies a student's specific learning difficulties and their causes?",
+    "options": ["Summative", "Diagnostic", "Placement", "Aptitude"],
+    "a": 1
+  },
+  {
+    "q": "A child who can perform logical operations on mental representations but only for concrete objects is in which stage?",
+    "options": ["Sensory-motor", "Pre-operational", "Concrete operational", "Formal operational"],
+    "a": 2
+  },
+  {
+    "q": "Which intelligence type involves awareness of one's own feelings and goals?",
+    "options": ["Interpersonal", "Intrapersonal", "Spatial", "Bodily-kinesthetic"],
+    "a": 1
+  },
+  {
+    "q": "'Learning through imitation' is a key component of whose theory?",
+    "options": ["Skinner", "Bandura", "Pavlov", "Piaget"],
+    "a": 1
+  },
+  {
+    "q": "The Right to Education (RTE) Act was implemented in India in which year?",
+    "options": ["2005", "2009", "2010", "2012"],
+    "a": 2
+  },
+  {
+    "q": "Divergent thinking is a primary characteristic of:",
+    "options": ["Mental retardation", "Creativity", "Dyslexia", "Egocentrism"],
+    "a": 1
+  },
+  {
+    "q": "Which of these is an 'intrinsic' motivation?",
+    "options": ["Money", "Fear of punishment", "Personal interest", "Praise"],
+    "a": 2
+  },
+  {
+    "q": "The process of 'Socialization' begins at:",
+    "options": ["School", "Birth (in family)", "Adolescence", "Adult life"],
+    "a": 1
+  },
+  {
+    "q": "Which of the following describes 'Proximodistal' development?",
+    "options": ["Head to foot", "Foot to head", "Center of body to outward", "General to specific"],
+    "a": 2
+  },
+  {
+    "q": "'पवन' का सही संधि-विच्छेद है:",
+    "options": ["प + वन", "पा + वन", "पो + अन", "पौ + अन"],
+    "a": 2
+  },
+  {
+    "q": "'लम्बोदर' में कौन सा समास है?",
+    "options": ["कर्मधारय", "बहुव्रीहि", "द्वंद्व", "तत्पुरुष"],
+    "a": 1
+  },
+  {
+    "q": "'आँखें दिखाना' मुहावरे का अर्थ है:",
+    "options": ["स्वागत करना", "गुस्सा करना", "निरीक्षण करना", "सावधान करना"],
+    "a": 1
+  },
+  {
+    "q": "'लेखक' शब्द में कौन सा प्रत्यय है?",
+    "options": ["क", "इक", "अक", "आक"],
+    "a": 2
+  },
+  {
+    "q": "'तरणि' शब्द का अर्थ है:",
+    "options": ["सूर्य", "नाव", "युवती", "नदी"],
+    "a": 0
+  },
+  {
+    "q": "जो 'सब कुछ जानता हो' - वाक्यांश के लिए एक शब्द है:",
+    "options": ["अल्पज्ञ", "बहुज्ञ", "सर्वज्ञ", "अभिज्ञ"],
+    "a": 2
+  },
+  {
+    "q": "शिक्षण की 'आगमन विधि' चलती है:",
+    "options": ["नियम से उदाहरण की ओर", "उदाहरण से नियम की ओर", "सूक्ष्म से स्थूल की ओर", "अमूर्त से मूर्त की ओर"],
+    "a": 1
+  },
+  {
+    "q": "Choose the correctly spelled word:",
+    "options": ["Receive", "Recieve", "Receve", "Riceive"],
+    "a": 0
+  },
+  {
+    "q": "Which of these is a 'Vowel sound' symbol?",
+    "options": ["/p/", "/f/", "/ɔ:/", "/k/"],
+    "a": 2
+  },
+  {
+    "q": "The plural form of 'Goose' is:",
+    "options": ["Gooses", "Goosess", "Geese", "Geeses"],
+    "a": 2
+  },
+  {
+    "q": "Choose the synonym for 'Courageous'.",
+    "options": ["Fearful", "Brave", "Weak", "Timid"],
+    "a": 1
+  },
+  {
+    "q": "What part of speech is the word 'Quickly'?",
+    "options": ["Adjective", "Noun", "Adverb", "Verb"],
+    "a": 2
+  },
+  {
+    "q": "Select the correct article: I saw ________ elephant in the zoo.",
+    "options": ["a", "an", "the", "No article"],
+    "a": 1
+  },
+  {
+    "q": "Change the sentence to active voice: 'A letter was written by her.'",
+    "options": ["She writes a letter.", "She wrote a letter.", "She is writing a letter.", "She will write a letter."],
+    "a": 1
+  },
+  {
+    "q": "Which of the following is a prime number?",
+    "options": ["21", "25", "29", "33"],
+    "a": 2
+  },
+  {
+    "q": "What is the successor of 9,999?",
+    "options": ["9,998", "10,000", "9,910", "11,000"],
+    "a": 1
+  },
+  {
+    "q": "How many vertices does a triangle have?",
+    "options": ["1", "2", "3", "4"],
+    "a": 2
+  },
+  {
+    "q": "What is the Roman numeral for 40?",
+    "options": ["XXXX", "XL", "LX", "XC"],
+    "a": 1
+  },
+  {
+    "q": "A square has a side of 6 cm. What is its perimeter?",
+    "options": ["12 cm", "24 cm", "36 cm", "48 cm"],
+    "a": 1
+  },
+  {
+    "q": "Convert 1.5 liters into milliliters.",
+    "options": ["150 ml", "1500 ml", "15 ml", "15000 ml"],
+    "a": 1
+  },
+  {
+    "q": "What is 1/2 + 1/4?",
+    "options": ["2/6", "1/6", "3/4", "1/4"],
+    "a": 2
+  },
+  {
+    "q": "What is the product of 12 and 11?",
+    "options": ["121", "131", "132", "142"],
+    "a": 2
+  },
+  {
+    "q": "What is the difference between 500 and 175?",
+    "options": ["325", "375", "425", "475"],
+    "a": 0
+  },
+  {
+    "q": "What is 20% of 500?",
+    "options": ["50", "100", "150", "200"],
+    "a": 1
+  },
+  {
+    "q": "Which of the following animals lives in a burrow?",
+    "options": ["Bird", "Rabbit", "Lion", "Spider"],
+    "a": 1
+  },
+  {
+    "q": "Which of these is a biotic component of the environment?",
+    "options": ["Water", "Soil", "Air", "Plants"],
+    "a": 3
+  },
+  {
+    "q": "Which is the smallest bird in the world?",
+    "options": ["Sparrow", "Hummingbird", "Parrot", "Eagle"],
+    "a": 1
+  },
+  {
+    "q": "Which part of the potato do we eat?",
+    "options": ["Root", "Fruit", "Stem (Tuber)", "Leaf"],
+    "a": 2
+  },
+  {
+    "q": "The festival 'Onam' is primarily celebrated in which state?",
+    "options": ["Tamil Nadu", "Kerala", "Karnataka", "Andhra Pradesh"],
+    "a": 1
+  }
+]
