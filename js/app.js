@@ -27,8 +27,10 @@ function getQuote() {
 function login() {
   if (!agree.checked) return alert("Accept policies");
 
-  const email = emailInput.value.trim();
-  const password = passwordInput.value.trim();
+  // ✅ FIXED (this was the bug)
+  const email = document.getElementById("email").value.trim();
+  const password = document.getElementById("password").value.trim();
+
   if (!email || !password) return alert("Enter email & password");
 
   auth.signInWithEmailAndPassword(email, password)
@@ -37,6 +39,16 @@ function login() {
       auth.createUserWithEmailAndPassword(email, password)
         .then(res => afterLogin(res.user))
     );
+}
+
+/* ================= RESET PASSWORD ================= */
+function resetPassword() {
+  const email = document.getElementById("email").value.trim();
+  if (!email) return alert("Enter your email first");
+
+  auth.sendPasswordResetEmail(email)
+    .then(() => alert("Password reset email sent"))
+    .catch(err => alert(err.message));
 }
 
 function afterLogin(user) {
@@ -51,6 +63,7 @@ function afterLogin(user) {
         testsDone: 0,
         scores: []
       });
+      hideAll();
       show("nameSetup");
     } else {
       showDashboard();
@@ -63,11 +76,10 @@ function saveName() {
   const name = userNameInput.value.trim();
   if (!name) return alert("Enter name");
 
-  auth.currentUser &&
-    db.collection("users")
-      .doc(auth.currentUser.uid)
-      .update({ name })
-      .then(showDashboard);
+  db.collection("users")
+    .doc(auth.currentUser.uid)
+    .update({ name })
+    .then(showDashboard);
 }
 
 /* ================= DASHBOARD ================= */
@@ -96,7 +108,7 @@ function startFlow() {
 
 /* ================= LOAD MOCK ================= */
 async function loadMock() {
-  const path = "data/level1/english/mock1.json"; // unchanged logic placeholder
+  const path = "data/level1/english/mock1.json"; // unchanged
 
   const res = await fetch(path);
   questions = await res.json();
@@ -111,10 +123,6 @@ async function loadMock() {
   render();
 }
 
-/* ================= QUIZ LOGIC (UNCHANGED) ================= */
-// render, nextQ, prevQ, finishQuiz, timer, helpers
-// ⛔ untouched for stability
-
 /* ================= HELPERS ================= */
 function hideAll() {
   ["login", "nameSetup", "dashboard", "quiz", "result", "history"]
@@ -125,6 +133,7 @@ function show(id) {
   document.getElementById(id).style.display = "block";
 }
 
+/* ================= AUTO LOGIN ================= */
 auth.onAuthStateChanged(user => {
   if (user) showDashboard();
 });
