@@ -1,242 +1,242 @@
 [
   {
-    "q": "Which of the following describes the 'Cephalocaudal' principle of development?",
-    "options": ["Growth proceeds from the center to the extremities", "Growth proceeds from the head downwards", "Growth proceeds from the feet upwards", "Growth proceeds from simple to complex"],
+    "q": "Which of the following is an example of 'Proximodistal' development?",
+    "options": ["Control over arms before fingers", "Control over head before legs", "Growth of hair before teeth", "Learning to speak before walking"],
+    "a": 0,
+    "explanation": "Proximodistal development means growth starts from the center of the body and moves toward the extremities (limbs and fingers)."
+  },
+  {
+    "q": "The 'Three Mountain Task' was used by Piaget to study:",
+    "options": ["Conservation", "Object Permanence", "Egocentrism", "Reversibility"],
+    "a": 2,
+    "explanation": "Piaget used this task to demonstrate that children in the pre-operational stage cannot see a situation from another's perspective."
+  },
+  {
+    "q": "In an inclusive classroom, 'Differentiated Instruction' means:",
+    "options": ["Grouping students by IQ", "Using various teaching methods to meet diverse needs", "Teaching only the average students", "Giving extra homework to weak students"],
     "a": 1,
-    "explanation": "The cephalocaudal principle states that development proceeds from the upper part of the body (head) to the lower part (feet)."
+    "explanation": "Differentiated instruction involves tailoring teaching environments and practices to create the best learning experience for students with different needs."
   },
   {
-    "q": "According to Piaget, the ability to understand that quantity remains the same despite changes in the shape of a container is called:",
-    "options": ["Egocentrism", "Object Permanence", "Conservation", "Centration"],
-    "a": 2,
-    "explanation": "Conservation is the cognitive ability to recognize that the properties of objects stay the same even if their outward appearance changes."
-  },
-  {
-    "q": "Which of the following is an example of 'Gross Motor Skill' development?",
-    "options": ["Writing a letter", "Drawing a circle", "Jumping and skipping", "Threading a needle"],
-    "a": 2,
-    "explanation": "Gross motor skills involve large muscle movements like jumping, while fine motor skills involve small muscle movements like writing."
-  },
-  {
-    "q": "In Vygotsky's theory, the gap between what a learner can do alone and what they can do with assistance is known as:",
-    "options": ["Mental Age", "IQ", "Zone of Proximal Development (ZPD)", "Scaffolding"],
-    "a": 2,
-    "explanation": "ZPD is the range of tasks that a child can perform with the help of a more knowledgeable other."
-  },
-  {
-    "q": "A student who performs a task to win a trophy or praise is primarily driven by:",
-    "options": ["Intrinsic motivation", "Extrinsic motivation", "Social motivation", "Biological motivation"],
+    "q": "Which psychologist emphasized the importance of 'Social Interaction' in cognitive development?",
+    "options": ["Jean Piaget", "Lev Vygotsky", "B.F. Skinner", "Lawrence Kohlberg"],
     "a": 1,
-    "explanation": "Extrinsic motivation comes from external rewards like trophies, medals, or grades."
+    "explanation": "Vygotsky's Social Development Theory argues that social interaction precedes development; consciousness and cognition are the end product of socialization."
   },
   {
-    "q": "Which of the following is NOT a stage of creative thinking?",
-    "options": ["Incubation", "Verification", "Preparation", "Rote repetition"],
+    "q": "The ability to monitor and regulate one's own cognitive processes is called:",
+    "options": ["Meta-analysis", "Metacognition", "Memory", "Perception"],
+    "a": 1,
+    "explanation": "Metacognition is 'thinking about thinking,' which involves planning, monitoring, and evaluating one’s own learning."
+  },
+  {
+    "q": "Which of the following is a primary law of learning proposed by Thorndike?",
+    "options": ["Law of Multiple Response", "Law of Analogy", "Law of Readiness", "Law of Partial Activity"],
+    "a": 2,
+    "explanation": "Thorndike’s three primary laws are the Law of Readiness, the Law of Exercise, and the Law of Effect."
+  },
+  {
+    "q": "A student who is gifted in 'Musical Intelligence' would be best at:",
+    "options": ["Solving logic puzzles", "Recognizing pitch and rhythm", "Public speaking", "Nature conservation"],
+    "a": 1,
+    "explanation": "According to Gardner, musical intelligence is the capacity to discern pitch, rhythm, timbre, and tone."
+  },
+  {
+    "q": "Which type of assessment is 'Assessment for Learning'?",
+    "options": ["Summative", "Formative", "Placement", "Diagnostic"],
+    "a": 1,
+    "explanation": "Formative assessment (Assessment for Learning) takes place during the learning process to provide ongoing feedback."
+  },
+  {
+    "q": "Dysgraphia is a learning disability characterized by problems with:",
+    "options": ["Reading", "Writing", "Math", "Speaking"],
+    "a": 1,
+    "explanation": "Dysgraphia affects writing abilities, including spelling, handwriting, and organizing ideas on paper."
+  },
+  {
+    "q": "In Kohlberg’s theory, 'Universal Ethical Principle' belongs to which level?",
+    "options": ["Pre-conventional", "Conventional", "Post-conventional", "Pre-operational"],
+    "a": 2,
+    "explanation": "This is the highest stage of moral development, where individuals follow internalized principles of justice."
+  },
+  {
+    "q": "Which of the following is NOT an 'internal' factor of development?",
+    "options": ["Heredity", "Biological factors", "Intelligence", "Quality of schooling"],
     "a": 3,
-    "explanation": "Creative stages include preparation, incubation, and verification; rote repetition is mechanical and does not involve creativity."
+    "explanation": "Schooling is an environmental (external) factor, whereas the others are internal to the child."
   },
   {
-    "q": "According to Gardner's theory, an individual with high 'Spatial Intelligence' would likely excel as a:",
-    "options": ["Poet", "Sculptor or Architect", "Athlete", "Musician"],
-    "a": 1,
-    "explanation": "Spatial intelligence involves the ability to visualize and manipulate 3D shapes and spaces."
+    "q": "'नायक' शब्द में कौन सी संधि है?",
+    "options": ["यण संधि", "गुण संधि", "वृद्धि संधि", "अयादि संधि"],
+    "a": 3,
+    "explanation": "नै + अक = नायक. यहाँ 'ऐ + अ' मिलकर 'आय' बन गया है, जो अयादि संधि का नियम है।"
   },
   {
-    "q": "What is the primary goal of 'Diagnostic Testing' in education?",
-    "options": ["To rank students", "To identify the causes of learning difficulties", "To award certificates", "To promote students to the next class"],
-    "a": 1,
-    "explanation": "Diagnostic tests are used to uncover the underlying reasons for a student's learning gaps or struggles."
-  },
-  {
-    "q": "Which of the following is a characteristic of 'ADHD'?",
-    "options": ["Difficulty in reading words", "Persistent inattention and impulsivity", "Poor mathematical skills", "Inability to write clearly"],
-    "a": 1,
-    "explanation": "ADHD is characterized by patterns of inattention, hyperactivity, and impulsive behavior."
-  },
-  {
-    "q": "The concept of 'Learning by Doing' is a core principle of:",
-    "options": ["Idealism", "Pragmatism", "Naturalism", "Realism"],
-    "a": 1,
-    "explanation": "Pragmatism, led by thinkers like John Dewey, emphasizes learning through practical, hands-on experience."
-  },
-  {
-    "q": "What does 'Metacognition' refer to?",
-    "options": ["Rote memorization", "Thinking about one's own thinking", "Social interaction", "Biological growth"],
-    "a": 1,
-    "explanation": "Metacognition is the awareness and understanding of one's own cognitive processes."
-  },
-  {
-    "q": "'यथाशक्ति' शब्द में कौन सा समास है?",
-    "options": ["द्वंद्व", "तत्पुरुष", "अव्ययीभाव", "बहुव्रीहि"],
+    "q": "'दशानन' में कौन सा समास है?",
+    "options": ["अव्ययीभाव", "तत्पुरुष", "बहुव्रीहि", "द्विगु"],
     "a": 2,
-    "explanation": "जहाँ पहला पद अव्यय हो (यथा), वहाँ अव्ययीभाव समास होता है."
+    "explanation": "दश हैं आनन (मुख) जिसके अर्थात रावण। यहाँ किसी तीसरे अर्थ की प्रधानता के कारण बहुव्रीहि समास है।"
   },
   {
-    "q": "'पवन' का सही संधि-विच्छेद है:",
-    "options": ["प + वन", "पा + वन", "पो + अन", "पौ + अन"],
-    "a": 2,
-    "explanation": "यह अयादि संधि का उदाहरण है, जहाँ 'पो + अन' मिलकर 'पवन' बनता है."
-  },
-  {
-    "q": "'अंधे की लाठी' मुहावरे का सही अर्थ है:",
-    "options": ["कमजोर होना", "एकमात्र सहारा", "मूर्ख होना", "अंधे की सहायता करना"],
+    "q": "'अंधे की लाठी' मुहावरे का सही अर्थ क्या है?",
+    "options": ["बहुत कमजोर होना", "एकमात्र सहारा", "मूर्ख व्यक्ति", "अंधे का मार्गदर्शक"],
     "a": 1,
-    "explanation": "इसका अर्थ है किसी असहाय व्यक्ति का इकलौता सहारा."
+    "explanation": "अंधे की लाठी का अर्थ है किसी असहाय व्यक्ति का इकलौता सहारा होना।"
   },
   {
-    "q": "'प्राचीन' शब्द का विलोम है:",
-    "options": ["पुराना", "नवीन", "अर्वाचीन", "आधुनिक"],
-    "a": 2,
-    "explanation": "प्राचीन का सबसे उपयुक्त विलोम 'अर्वाचीन' होता है."
+    "q": "'आवाहन' शब्द का सही विलोम चुनिए:",
+    "options": ["विसर्जन", "आगमन", "पतन", "तिरस्कार"],
+    "a": 0,
+    "explanation": "आवाहन का अर्थ है बुलाना और विसर्जन का अर्थ है विदा करना।"
   },
   {
-    "q": "जो 'सब कुछ जानता हो' - वाक्यांश के लिए एक शब्द है:",
-    "options": ["अल्पज्ञ", "बहुज्ञ", "सर्वज्ञ", "अभिज्ञ"],
-    "a": 2,
-    "explanation": "'सर्वज्ञ' का अर्थ है वह जो हर विषय की जानकारी रखता हो."
-  },
-  {
-    "q": "इनमें से कौन सा 'स्त्रीलिंग' शब्द है?",
-    "options": ["घी", "दही", "नदी", "पानी"],
-    "a": 2,
-    "explanation": "हिंदी व्याकरण में 'नदी' स्त्रीलिंग है, जबकि घी, दही और पानी पुल्लिंग हैं."
-  },
-  {
-    "q": "हिंदी भाषा में कुल कितने 'स्वर' हैं?",
-    "options": ["10", "11", "13", "15"],
+    "q": "निम्न में से 'शुद्ध' शब्द कौन सा है?",
+    "options": ["कवियित्री", "कवयित्री", "कवयत्री", "कवियत्री"],
     "a": 1,
-    "explanation": "मानक हिंदी वर्णमाला में कुल 11 स्वर माने जाते हैं."
+    "explanation": "शुद्ध वर्तनी 'कवयित्री' है।"
   },
   {
-    "q": "Choose the synonym for the word 'Diligent'.",
-    "options": ["Lazy", "Hardworking", "Careless", "Wealthy"],
-    "a": 1,
-    "explanation": "Diligent means showing steady and earnest effort; hardworking."
+    "q": "'घोड़ा' का तत्सम शब्द क्या है?",
+    "options": ["घोटक", "अश्व", "तुरंग", "बाजी"],
+    "a": 0,
+    "explanation": "संस्कृत का मूल शब्द 'घोटक' है, जिससे तद्भव 'घोड़ा' बना है।"
   },
   {
-    "q": "Select the correct passive voice for: 'The teacher corrected the mistakes.'",
-    "options": ["The mistakes are corrected by the teacher.", "The mistakes were corrected by the teacher.", "The teacher was corrected by the mistakes.", "The mistakes corrected by the teacher."],
-    "a": 1,
-    "explanation": "Simple past 'corrected' changes to 'were corrected' in the passive voice."
+    "q": "भाषा की सबसे छोटी 'लिखित' इकाई क्या है?",
+    "options": ["शब्द", "ध्वनि", "वर्ण", "वाक्य"],
+    "a": 2,
+    "explanation": "वर्ण भाषा की वह सबसे छोटी इकाई है जिसके टुकड़े नहीं किए जा सकते।"
   },
   {
-    "q": "Choose the correct article: 'He is ________ honest man.'",
+    "q": "Identify the 'Collective Noun' in the following list:",
+    "options": ["Water", "Happiness", "Fleet", "Mountain"],
+    "a": 2,
+    "explanation": "A fleet is a group of ships, making it a collective noun."
+  },
+  {
+    "q": "Choose the correct article: 'Copper is ________ useful metal.'",
     "options": ["a", "an", "the", "No article"],
-    "a": 1,
-    "explanation": "'Honest' starts with a vowel sound (silent 'h'), so 'an' is used."
-  },
-  {
-    "q": "Which of these is NOT a principle of Language Teaching?",
-    "options": ["Motivation", "Habit Formation", "Rote Memorization", "Oral Approach"],
-    "a": 2,
-    "explanation": "Modern pedagogy discourages rote memorization in favor of meaningful learning."
-  },
-  {
-    "q": "Identify the 'Subject' in the sentence: 'On the top of the hill lives a hermit.'",
-    "options": ["The hill", "The top", "A hermit", "Lives"],
-    "a": 2,
-    "explanation": "The subject is 'a hermit' as it is the person performing the action."
-  },
-  {
-    "q": "Select the correct collective noun: 'A ________ of wolves.'",
-    "options": ["Flock", "Herd", "Pack", "Swarm"],
-    "a": 2,
-    "explanation": "The specific collective noun for a group of wolves is a 'pack'."
-  },
-  {
-    "q": "What is the feminine gender of 'Bachelor'?",
-    "options": ["Spinster", "Widow", "Nun", "Baroness"],
     "a": 0,
-    "explanation": "'Spinster' is the standard feminine counterpart for 'bachelor'."
+    "explanation": "'Useful' starts with a 'Y' sound (consonant), so we use 'a'."
   },
   {
-    "q": "What is the value of 100 - 45 + 5?",
-    "options": ["50", "60", "70", "80"],
-    "a": 1,
-    "explanation": "Using BODMAS/Addition first: 100 + 5 = 105; 105 - 45 = 60."
-  },
-  {
-    "q": "How many millimeters are in 1 centimeter?",
-    "options": ["1", "10", "100", "1000"],
-    "a": 1,
-    "explanation": "In the metric system, 1 cm equals 10 mm."
-  },
-  {
-    "q": "The perimeter of a rectangle with length 5cm and width 3cm is:",
-    "options": ["8 cm", "15 cm", "16 cm", "20 cm"],
+    "q": "Fill in the blank: The train ________ before I reached the station.",
+    "options": ["left", "has left", "had left", "was leaving"],
     "a": 2,
-    "explanation": "Perimeter = 2 x (L + W) = 2 x (5 + 3) = 16 cm."
+    "explanation": "For two past actions, the earlier one uses Past Perfect (had + V3)."
   },
   {
-    "q": "What is 1/2 of 50?",
-    "options": ["10", "20", "25", "30"],
+    "q": "What is the synonym of 'Enormous'?",
+    "options": ["Tiny", "Gigantic", "Weak", "Soft"],
+    "a": 1,
+    "explanation": "Enormous and gigantic both refer to something extremely large."
+  },
+  {
+    "q": "Choose the correctly spelled word:",
+    "options": ["Receive", "Recieve", "Receve", "Riceive"],
+    "a": 0,
+    "explanation": "The correct spelling is 'Receive' (rule: 'i' before 'e' except after 'c')."
+  },
+  {
+    "q": "A person who treats skin diseases is a:",
+    "options": ["Dentist", "Dermatologist", "Pediatrician", "Optician"],
+    "a": 1,
+    "explanation": "A dermatologist specializes in skin, hair, and nail conditions."
+  },
+  {
+    "q": "Which of these is a 'Vowel' sound in English phonetics?",
+    "options": ["/p/", "/f/", "/ɔ:/", "/t/"],
     "a": 2,
-    "explanation": "Half of 50 is 25."
+    "explanation": "/ɔ:/ is a vowel sound symbol, while the others are consonants."
   },
   {
-    "q": "A circle has how many sides?",
-    "options": ["1", "2", "4", "0"],
+    "q": "What is the place value of 4 in 5,43,210?",
+    "options": ["400", "4,000", "40,000", "4,00,000"],
+    "a": 2,
+    "explanation": "4 is in the ten-thousands place, so 4 x 10,000 = 40,000."
+  },
+  {
+    "q": "What is the smallest prime number?",
+    "options": ["0", "1", "2", "3"],
+    "a": 2,
+    "explanation": "2 is the only even prime number and the smallest prime number."
+  },
+  {
+    "q": "How many faces does a cylinder have?",
+    "options": ["1", "2", "3", "4"],
+    "a": 2,
+    "explanation": "A cylinder has 3 faces: 2 flat circular faces and 1 curved face."
+  },
+  {
+    "q": "The sum of the angles of a triangle is:",
+    "options": ["90 degrees", "180 degrees", "270 degrees", "360 degrees"],
+    "a": 1,
+    "explanation": "The sum of the interior angles of any triangle is always 180 degrees."
+  },
+  {
+    "q": "Convert 0.75 into a fraction in its simplest form.",
+    "options": ["1/4", "1/2", "3/4", "7/5"],
+    "a": 2,
+    "explanation": "0.75 = 75/100. Dividing both by 25 gives 3/4."
+  },
+  {
+    "q": "Find the average of 5, 10, and 15.",
+    "options": ["5", "10", "15", "30"],
+    "a": 1,
+    "explanation": "(5+10+15) / 3 = 30 / 3 = 10."
+  },
+  {
+    "q": "If 5x = 25, then x + 2 is:",
+    "options": ["5", "7", "10", "12"],
+    "a": 1,
+    "explanation": "If 5x = 25, then x = 5. So x + 2 = 5 + 2 = 7."
+  },
+  {
+    "q": "How many centimeters are there in 2.5 meters?",
+    "options": ["25 cm", "250 cm", "2500 cm", "0.25 cm"],
+    "a": 1,
+    "explanation": "1 meter = 100 cm. So 2.5 x 100 = 250 cm."
+  },
+  {
+    "q": "Which of these is a composite number?",
+    "options": ["13", "17", "19", "21"],
     "a": 3,
-    "explanation": "A circle is a curved shape with zero straight sides."
+    "explanation": "21 has factors 1, 3, 7, and 21, so it is composite. The others are prime."
   },
   {
-    "q": "What is the value of 0.5 + 0.05 + 0.005?",
-    "options": ["0.555", "0.6", "0.15", "0.55"],
-    "a": 0,
-    "explanation": "Adding the decimals gives 0.555."
-  },
-  {
-    "q": "Convert 2.5 kg into grams:",
-    "options": ["250 g", "2500 g", "25 g", "25000 g"],
+    "q": "What is the product of 12 and 9?",
+    "options": ["100", "108", "118", "120"],
     "a": 1,
-    "explanation": "1 kg = 1000g, so 2.5 kg = 2500g."
+    "explanation": "12 x 9 = 108."
   },
   {
-    "q": "A leap year has how many days?",
-    "options": ["364", "365", "366", "367"],
+    "q": "Which part of our body coordinates all our actions?",
+    "options": ["Heart", "Lungs", "Brain", "Stomach"],
     "a": 2,
-    "explanation": "A leap year occurs every four years and has 366 days."
+    "explanation": "The brain is the control center of the nervous system and coordinates all bodily functions."
   },
   {
-    "q": "The Roman numeral for 50 is:",
-    "options": ["X", "L", "C", "D"],
+    "q": "In which state of India is the festival of 'Bihu' celebrated?",
+    "options": ["Punjab", "Assam", "Kerala", "Rajasthan"],
     "a": 1,
-    "explanation": "In Roman numerals, L represents the number 50."
+    "explanation": "Bihu is the most important festival of Assam, marking the harvest and changes in seasons."
   },
   {
-    "q": "If 3x = 12, then x is:",
-    "options": ["2", "4", "6", "9"],
-    "a": 1,
-    "explanation": "Dividing 12 by 3 gives x = 4."
-  },
-  {
-    "q": "Which part of the body helps us to taste food?",
-    "options": ["Teeth", "Lips", "Tongue", "Skin"],
+    "q": "Which of these is a flightless bird?",
+    "options": ["Eagle", "Parrot", "Ostrich", "Sparrow"],
     "a": 2,
-    "explanation": "The tongue contains taste buds that detect different flavors."
+    "explanation": "Ostriches are large birds that cannot fly but are adapted for fast running."
   },
   {
-    "q": "Which planet is the largest in our solar system?",
-    "options": ["Earth", "Mars", "Jupiter", "Venus"],
+    "q": "The gas absorbed by plants during photosynthesis is:",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
     "a": 2,
-    "explanation": "Jupiter is the largest planet in our solar system."
+    "explanation": "Plants take in carbon dioxide and water to produce glucose and oxygen using sunlight."
   },
   {
-    "q": "The spinning movement of Earth on its axis is called:",
-    "options": ["Revolution", "Rotation", "Orbit", "Gravity"],
-    "a": 1,
-    "explanation": "Rotation refers to the Earth spinning on its axis, causing day and night."
-  },
-  {
-    "q": "Which gas is needed by humans to breathe?",
-    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"],
-    "a": 0,
-    "explanation": "Humans breathe in oxygen for cellular respiration."
-  },
-  {
-    "q": "Rajasthan is known for which desert?",
-    "options": ["Sahara", "Gobi", "Thar", "Atacama"],
+    "q": "Which of the following is a natural source of water?",
+    "options": ["Handpump", "Well", "River", "Dam"],
     "a": 2,
-    "explanation": "The Thar Desert is located primarily in Rajasthan."
+    "explanation": "Rivers are natural water bodies, while handpumps, wells, and dams are man-made structures."
   }
 ]
