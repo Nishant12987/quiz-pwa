@@ -1,0 +1,242 @@
+[
+  {
+    "q": "Which of the following is an example of 'Fine Motor Skill' development?",
+    "options": ["Running", "Hopping", "Writing", "Climbing"],
+    "a": 2,
+    "explanation": "Fine motor skills involve small muscle movements, such as those used in writing or drawing."
+  },
+  {
+    "q": "In Piaget's theory, 'Animism' (believing inanimate objects have feelings) is a feature of:",
+    "options": ["Sensory-motor stage", "Pre-operational stage", "Concrete operational stage", "Formal operational stage"],
+    "a": 1,
+    "explanation": "Animistic thinking is prevalent in the pre-operational stage (2-7 years)."
+  },
+  {
+    "q": "According to Kohlberg, 'Social Contract Orientation' belongs to which level?",
+    "options": ["Pre-conventional", "Conventional", "Post-conventional", "Non-conventional"],
+    "a": 2,
+    "explanation": "Stage 5 (Social Contract) is part of the post-conventional level of morality."
+  },
+  {
+    "q": "The 'Two-Factor Theory' of intelligence (g-factor and s-factor) was proposed by:",
+    "options": ["Charles Spearman", "Howard Gardner", "L.L. Thurstone", "E.L. Thorndike"],
+    "a": 0,
+    "explanation": "Spearman proposed that intelligence consists of general (g) and specific (s) factors."
+  },
+  {
+    "q": "Which of the following is a symptom of 'ADHD'?",
+    "options": ["Difficulty in reading", "Inability to perform math", "Persistent inattention and impulsivity", "Poor handwriting"],
+    "a": 2,
+    "explanation": "Attention Deficit Hyperactivity Disorder is marked by hyperactivity and lack of focus."
+  },
+  {
+    "q": "What is the primary goal of 'Action Research' in education?",
+    "options": ["To develop new theories", "To solve immediate classroom problems", "To compare school systems", "To conduct national surveys"],
+    "a": 1,
+    "explanation": "Action research is conducted by practitioners to improve their own professional practice."
+  },
+  {
+    "q": "Which of these is a 'Nature' factor in development?",
+    "options": ["Schooling", "Peer group", "Genetic makeup", "Nutritional intake"],
+    "a": 2,
+    "explanation": "Nature refers to biological and genetic influences on development."
+  },
+  {
+    "q": "In Pavlov’s classical conditioning, the 'Bell' before conditioning is a:",
+    "options": ["Unconditioned Stimulus", "Conditioned Response", "Neutral Stimulus", "Unconditioned Response"],
+    "a": 2,
+    "explanation": "Initially, the bell is neutral; it becomes a conditioned stimulus after pairing with food."
+  },
+  {
+    "q": "A student who learns best through charts, maps, and diagrams is a:",
+    "options": ["Auditory learner", "Kinesthetic learner", "Visual learner", "Social learner"],
+    "a": 2,
+    "explanation": "Visual learners process information better when it is presented graphically."
+  },
+  {
+    "q": "Which teaching style is most effective for fostering 'Critical Thinking'?",
+    "options": ["Autocratic", "Laissez-faire", "Democratic", "Permissive"],
+    "a": 2,
+    "explanation": "Democratic environments encourage questioning, discussion, and analysis."
+  },
+  {
+    "q": "The concept of 'Mental Health' in a classroom primarily focuses on:",
+    "options": ["Academic grades", "Physical fitness", "Emotional and social well-being", "Discipline only"],
+    "a": 2,
+    "explanation": "Mental health involves a student's ability to handle stress and relate to others."
+  },
+  {
+    "q": "'परोपकार' शब्द का संधि-विच्छेद होगा:",
+    "options": ["पर + उपकार", "परो + पकार", "परौ + पकार", "परो + उपकार"],
+    "a": 0,
+    "explanation": "पर + उपकार = परोपकार (अ + उ = ओ, गुण संधि)।"
+  },
+  {
+    "q": "'पीताम्बर' में कौन सा समास है?",
+    "options": ["अव्ययीभाव", "तत्पुरुष", "द्वंद्व", "बहुव्रीहि"],
+    "a": 3,
+    "explanation": "पीत है अम्बर जिसका (कृष्ण जी), यहाँ बहुव्रीहि समास है।"
+  },
+  {
+    "q": "'आगमन' का विलोम शब्द है:",
+    "options": ["प्रस्थान", "गमन", "निर्गम", "आयात"],
+    "a": 1,
+    "explanation": "आगमन का अर्थ आना और गमन का अर्थ जाना होता है।"
+  },
+  {
+    "q": "'घी के दिए जलाना' मुहावरे का अर्थ है:",
+    "options": ["रोशनी करना", "पूजा करना", "खुशियाँ मनाना", "धनवान होना"],
+    "a": 2,
+    "explanation": "इसका अर्थ अत्यधिक प्रसन्नता प्रकट करना या खुशियाँ मनाना है।"
+  },
+  {
+    "q": "निम्नलिखित में से 'शुद्ध' शब्द है:",
+    "options": ["आशिर्वाद", "आशीर्वाद", "अशीर्वाद", "आसीर्वाद"],
+    "a": 1,
+    "explanation": "शुद्ध वर्तनी 'आशीर्वाद' है।"
+  },
+  {
+    "q": "'सूर्य' का पर्यायवाची शब्द नहीं है:",
+    "options": ["दिनकर", "दिवाकर", "निशाकर", "भास्कर"],
+    "a": 2,
+    "explanation": "'निशाकर' चन्द्रमा का पर्यायवाची है।"
+  },
+  {
+    "q": "भाषा की सबसे छोटी इकाई क्या है?",
+    "options": ["शब्द", "व्यंजन", "स्वर", "वर्ण"],
+    "a": 3,
+    "explanation": "ध्वनि के लिखित रूप को वर्ण कहते हैं, जो भाषा की लघुतम इकाई है।"
+  },
+  {
+    "q": "Identify the 'Abstract Noun' in the following list:",
+    "options": ["Library", "Wisdom", "Teacher", "Gold"],
+    "a": 1,
+    "explanation": "Wisdom represents a quality or state, which is an abstract noun."
+  },
+  {
+    "q": "Fill in the blank: 'Neither of the two candidates ________ qualified.'",
+    "options": ["are", "is", "were", "have"],
+    "a": 1,
+    "explanation": "'Neither' is singular and requires a singular verb 'is'."
+  },
+  {
+    "q": "What is the synonym of 'Fragile'?",
+    "options": ["Strong", "Delicate", "Tough", "Heavy"],
+    "a": 1,
+    "explanation": "Fragile means easily broken or damaged; delicate."
+  },
+  {
+    "q": "Which suffix can be added to the word 'Manage' to form a noun?",
+    "options": ["-tion", "-ment", "-ness", "-able"],
+    "a": 1,
+    "explanation": "Management is the noun form of the verb manage."
+  },
+  {
+    "q": "Choose the correct indirect speech: 'He said, \"I work hard.\"'",
+    "options": ["He said that he works hard.", "He said that he worked hard.", "He says that he worked hard.", "He said that I worked hard."],
+    "a": 1,
+    "explanation": "In indirect speech, simple present changes to simple past when the reporting verb is in the past."
+  },
+  {
+    "q": "Which of these is a 'Diphthong' sound symbol?",
+    "options": ["/i:/", "/u/", "/aɪ/", "/æ/"],
+    "a": 2,
+    "explanation": "/aɪ/ (as in 'my') is a combination of two vowel sounds."
+  },
+  {
+    "q": "The primary purpose of 'Silent Reading' is to improve:",
+    "options": ["Pronunciation", "Reading speed and comprehension", "Audibility", "Spelling"],
+    "a": 1,
+    "explanation": "Silent reading helps students focus on the meaning and increases reading pace."
+  },
+  {
+    "q": "Which Buddhist Council was held during the reign of 'Kanishka'?",
+    "options": ["First", "Second", "Third", "Fourth"],
+    "a": 3,
+    "explanation": "The Fourth Buddhist Council was held at Kundalvana, Kashmir, under Kanishka's patronage."
+  },
+  {
+    "q": "The 'Mansabdari System' was introduced by which Mughal Emperor?",
+    "options": ["Babur", "Humayun", "Akbar", "Shah Jahan"],
+    "a": 2,
+    "explanation": "Akbar introduced the Mansabdari system to organize the nobility and the army."
+  },
+  {
+    "q": "Which of the following is a 'Direct Tax' in India?",
+    "options": ["GST", "Customs Duty", "Income Tax", "Excise Duty"],
+    "a": 2,
+    "explanation": "Income tax is paid directly by the individual to the government."
+  },
+  {
+    "q": "The 'Sunda Trench' is located in which ocean?",
+    "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+    "a": 2,
+    "explanation": "The Sunda Trench (Java Trench) is the deepest part of the Indian Ocean."
+  },
+  {
+    "q": "Under which Article can the Governor of a state be appointed?",
+    "options": ["Article 153", "Article 155", "Article 161", "Article 163"],
+    "a": 1,
+    "explanation": "Article 155 states that the Governor of a State shall be appointed by the President."
+  },
+  {
+    "q": "Who was the founder of the 'Brahmo Samaj'?",
+    "options": ["Swami Dayanand Saraswati", "Raja Ram Mohan Roy", "Ishwar Chandra Vidyasagar", "Keshab Chandra Sen"],
+    "a": 1,
+    "explanation": "Raja Ram Mohan Roy founded the Brahmo Samaj in 1828 in Calcutta."
+  },
+  {
+    "q": "The 'Roaring Forties' are:",
+    "options": ["Cyclones", "Ocean Currents", "Westerly winds in Southern Hemisphere", "Tidal waves"],
+    "a": 2,
+    "explanation": "These are powerful westerly winds found between latitudes 40° and 50° S."
+  },
+  {
+    "q": "Which session of the INC saw the split between 'Moderates' and 'Extremists'?",
+    "options": ["Bombay 1885", "Calcutta 1906", "Surat 1907", "Lucknow 1916"],
+    "a": 2,
+    "explanation": "The Surat split occurred in 1907 due to differences in ideology and methods."
+  },
+  {
+    "q": "What is the 'Quorum' required to hold a meeting of the Lok Sabha?",
+    "options": ["1/5th of total members", "1/10th of total members", "1/4th of total members", "1/3rd of total members"],
+    "a": 1,
+    "explanation": "A minimum of one-tenth of the total membership is required to conduct business."
+  },
+  {
+    "q": "Which crop is known as 'Golden Fibre'?",
+    "options": ["Cotton", "Silk", "Jute", "Hemp"],
+    "a": 2,
+    "explanation": "Jute is called golden fibre because of its color and high cost-effectiveness."
+  },
+  {
+    "q": "Who was the political guru of Mahatma Gandhi?",
+    "options": ["Dadabhai Naoroji", "Gopal Krishna Gokhale", "Bal Gangadhar Tilak", "Rabindranath Tagore"],
+    "a": 1,
+    "explanation": "Gokhale guided Gandhi during his early years in Indian politics."
+  },
+  {
+    "q": "The 'Pulicat Lake' is situated on the border of which two states?",
+    "options": ["Odisha and West Bengal", "Andhra Pradesh and Tamil Nadu", "Karnataka and Kerala", "Maharashtra and Gujarat"],
+    "a": 1,
+    "explanation": "Pulicat is the second largest brackish water lagoon in India, shared by AP and TN."
+  },
+  {
+    "q": "Which Constitutional Amendment is known as the 'Mini Constitution'?",
+    "options": ["24th Amendment", "42nd Amendment", "44th Amendment", "52nd Amendment"],
+    "a": 1,
+    "explanation": "The 42nd Amendment (1976) brought massive changes to the Constitution."
+  },
+  {
+    "q": "The 'Shivasamudram Falls' is located on which river?",
+    "options": ["Krishna", "Godavari", "Cauvery", "Narmada"],
+    "a": 2,
+    "explanation": "It is a famous waterfall on the Cauvery river in Karnataka."
+  },
+  {
+    "q": "Who among the following was the first Viceroy of India?",
+    "options": ["Lord William Bentinck", "Lord Dalhousie", "Lord Canning", "Lord Mountbatten"],
+    "a": 2,
+    "explanation": "After the 1857 revolt, the Government of India Act 1858 made the Governor-General the Viceroy; Canning was the first."
+  }
+]
