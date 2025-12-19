@@ -67,7 +67,7 @@
   },
   {
     "q": "'नाक कटना' मुहावरे का अर्थ है:",
-    "options": ["चोट लगना", "इज्जत जाना", "बीमार होना", "झगड़ा करना"],
+    "options": ["चोट लगना", "इज्जत जाना", "बीमार होना", "झगड़ा करना"],
     "a": 1,
     "explanation": "इसका प्रयोग प्रतिष्ठा या मान-सम्मान कम होने के संदर्भ में किया जाता है।"
   },
@@ -81,7 +81,7 @@
     "q": "'तरणि' शब्द का अर्थ है:",
     "options": ["सूर्य", "नाव", "युवती", "नदी"],
     "a": 0,
-    "explanation": "'तरणि' (छोटी इ) का अर्थ सूर्य होता है, जबकि 'तरणी' (बड़ी ई) का अर्थ नाव होता है।"
+    "explanation": "'तरणि' (छोटी इ) का अर्थ सूर्य होता है, जबकि 'तरणी' (बड़ी ई) का अर्थ नाव होता है।"
   },
   {
     "q": "भाषा शिक्षण की 'प्रत्यक्ष विधि' (Direct Method) में:",
@@ -96,52 +96,52 @@
     "explanation": "कविता का उद्देश्य भावनाओं को महसूस करना और साहित्यिक आनंद प्राप्त करना है।"
   },
   {
-    "q": "सही विराम चिह्न वाला वाक्य चुनें:",
+    "q": "Choose the sentence with correct punctuation:",
     "options": ["He said I am coming.", "He said, 'I am coming.'", "He said \"I am coming.\"", "He said, I am coming."],
     "a": 1,
-    "explanation": "Direct speech में वक्ता के कथन से पहले कॉमा (,) का प्रयोग आवश्यक है।"
+    "explanation": "In direct speech, a comma is required before the speaker's statement."
   },
   {
-    "q": "'Child' का सही बहुवचन चुनें।",
+    "q": "Choose the correct plural of 'Child'.",
     "options": ["Childs", "Childes", "Children", "Childrens"],
     "a": 2,
-    "explanation": "Child का अनियमित बहुवचन 'Children' होता है।"
+    "explanation": "The irregular plural form of 'Child' is 'Children'."
   },
   {
-    "q": "'They are watching TV' में कौन सा काल है?",
+    "q": "Which tense is used in 'They are watching TV'?",
     "options": ["Simple present", "Present continuous", "Present perfect", "Past continuous"],
     "a": 1,
-    "explanation": "'Are watching' एक चालू क्रिया को दर्शाता है (Present Continuous)।"
+    "explanation": "'Are watching' indicates an ongoing action (Present Continuous)."
   },
   {
-    "q": "'Fortune' के लिए सही उपसर्ग वाला शब्द चुनें।",
+    "q": "Select the correct word with a prefix for 'Fortune'.",
     "options": ["Unfortune", "Infortune", "Misfortune", "Disfortune"],
     "a": 2,
-    "explanation": "उपसर्ग 'mis-' लगाने से 'misfortune' (दुर्भाग्य) शब्द बनता है।"
+    "explanation": "Adding the prefix 'mis-' creates the word 'misfortune' (bad luck)."
   },
   {
-    "q": "'Alas!' शब्द स्पीच का कौन सा हिस्सा है?",
+    "q": "The word 'Alas!' is which part of speech?",
     "options": ["Conjunction", "Preposition", "Interjection", "Adverb"],
     "a": 2,
-    "explanation": "Interjections अचानक भावनाओं या संवेदनाओं को व्यक्त करते हैं।"
+    "explanation": "Interjections express sudden feelings or emotions."
   },
   {
-    "q": "'उपचारात्मक शिक्षण' का प्राथमिक उद्देश्य है:",
-    "options": ["नए विषय पढ़ाना", "सीखने के अंतराल को भरना", "धीमी गति से सीखने वालों को दंडित करना", "केवल परीक्षा के लिए तैयारी करना"],
+    "q": "What is the primary objective of 'Remedial Teaching'?",
+    "options": ["Teaching new topics", "Filling learning gaps", "Punishing slow learners", "Preparing for exams only"],
     "a": 1,
-    "explanation": "उपचारात्मक शिक्षण निदान के दौरान पहचानी गई विशिष्ट अधिगम कमजोरियों को दूर करता है।"
+    "explanation": "Remedial teaching addresses specific learning weaknesses identified during diagnosis."
   },
   {
-    "q": "'Present Perfect Tense' में सही वाक्य चुनें:",
+    "q": "Choose the correct sentence in 'Present Perfect Tense':",
     "options": ["He finished the work.", "He has finished the work.", "He had finished the work.", "He is finishing the work."],
     "a": 1,
-    "explanation": "Present perfect में 'has/have + V3' का प्रयोग होता है।"
+    "explanation": "Present perfect uses 'has/have + V3' structure."
   },
   {
-    "q": "'Bachelor' का स्त्रीलिंग क्या है?",
+    "q": "What is the feminine form of 'Bachelor'?",
     "options": ["Spinster", "Widow", "Nun", "Baroness"],
     "a": 0,
-    "explanation": "Spinster अविवाहित महिला के लिए मानक शब्द है (bachelor का समकक्ष)।"
+    "explanation": "Spinster is the standard term for an unmarried woman (equivalent to bachelor)."
   },
   {
     "q": "10, 20, 30, 40 और 50 का औसत ज्ञात कीजिए।",
@@ -198,7 +198,7 @@
     "explanation": "चना (Gram) एक दलहन है। चावल, मक्का और बाजरा अनाज हैं।"
   },
   {
-    "q": "किस जानवर को 'रेगिस्तान का जहाज' कहा जाता है?",
+    "q": "किस जानवर को 'रेगिस्तान का जहाज' कहा कहा जाता है?",
     "options": ["घोड़ा", "गधा", "ऊंट", "हाथी"],
     "a": 2,
     "explanation": "ऊंट रेत के टीलों पर आसानी से चलने के लिए अनुकूलित होते हैं और लंबे समय तक बिना पानी के रह सकते हैं।"
