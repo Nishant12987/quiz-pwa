@@ -1,0 +1,242 @@
+[
+  {
+    "q": "Which stage of development is characterized by 'Object Permanence'?",
+    "options": ["Sensory-motor", "Pre-operational", "Concrete operational", "Formal operational"],
+    "a": 0,
+    "explanation": "During the sensory-motor stage, infants learn that objects continue to exist even when hidden."
+  },
+  {
+    "q": "According to Vygotsky, 'Inner Speech' is used by children to:",
+    "options": ["Communicate with others", "Self-regulate and guide their own behavior", "Show off", "Waste time"],
+    "a": 1,
+    "explanation": "Private or inner speech helps children manage their cognitive tasks."
+  },
+  {
+    "q": "Which reinforcement is given after an 'Unpredictable' amount of time?",
+    "options": ["Fixed interval", "Variable interval", "Fixed ratio", "Variable ratio"],
+    "a": 1,
+    "explanation": "Variable interval reinforcement occurs after varying time periods (e.g., checking email)."
+  },
+  {
+    "q": "The 'Triarchic' theory of intelligence was proposed by:",
+    "options": ["Howard Gardner", "Robert Sternberg", "Charles Spearman", "Louis Thurstone"],
+    "a": 1,
+    "explanation": "Sternberg's theory includes analytical, creative, and practical intelligence."
+  },
+  {
+    "q": "Which of the following is an 'Extrinsic' motivator?",
+    "options": ["Curiosity", "Love for the subject", "Grades and Trophies", "Personal satisfaction"],
+    "a": 2,
+    "explanation": "Extrinsic motivation comes from outside the individual."
+  },
+  {
+    "q": "What is 'Dyscalculia'?",
+    "options": ["Reading disorder", "Writing disorder", "Math learning disability", "Speaking disorder"],
+    "a": 2,
+    "explanation": "It is a specific learning disability in understanding numbers and math."
+  },
+  {
+    "q": "The 'Micro-teaching' technique was pioneered at:",
+    "options": ["Oxford University", "Stanford University", "Delhi University", "Harvard University"],
+    "a": 1,
+    "explanation": "Dwight Allen and colleagues developed micro-teaching at Stanford in the 1960s."
+  },
+  {
+    "q": "In an 'Authoritarian' classroom, the teacher is:",
+    "options": ["A facilitator", "A strict controller", "Passive", "Democratic"],
+    "a": 1,
+    "explanation": "Authoritarian teachers exert high control and demand obedience."
+  },
+  {
+    "q": "Which level of Maslow's hierarchy deals with 'Friendship and Family'?",
+    "options": ["Safety needs", "Love and belonging needs", "Self-esteem", "Self-actualization"],
+    "a": 1,
+    "explanation": "Social needs include the desire for intimacy and acceptance."
+  },
+  {
+    "q": "What is the primary purpose of 'Summative Assessment'?",
+    "options": ["Identifying gaps", "Improving teaching", "Evaluating learning at the end of a course", "Planning lessons"],
+    "a": 2,
+    "explanation": "It provides a summary of what has been learned (e.g., final exams)."
+  },
+  {
+    "q": "A child's social development is most influenced by:",
+    "options": ["Environment/Family", "Height", "Genetics alone", "Diet"],
+    "a": 0,
+    "explanation": "The family is the primary agency of socialization."
+  },
+  {
+    "q": "'अयादि संधि' का उदाहरण है:",
+    "options": ["पवन", "महर्षि", "प्रत्येक", "सदैव"],
+    "a": 0,
+    "explanation": "पो + अन = पवन (अयादि संधि)।"
+  },
+  {
+    "q": "'राजपुत्र' में कौन सा समास है?",
+    "options": ["द्वंद्व", "तत्पुरुष", "अव्ययीभाव", "बहुव्रीहि"],
+    "a": 1,
+    "explanation": "राजा का पुत्र; यहाँ संबंध तत्पुरुष समास है।"
+  },
+  {
+    "q": "'कृतज्ञ' का विलोम शब्द है:",
+    "options": ["कृतघ्न", "अकृतज्ञ", "अपकारी", "दुष्ट"],
+    "a": 0,
+    "explanation": "कृतज्ञ (उपकार मानने वाला) का विलोम कृतघ्न (उपकार न मानने वाला) होता है।"
+  },
+  {
+    "q": "'गागर में सागर भरना' मुहावरे का अर्थ है:",
+    "options": ["घड़े में पानी भरना", "थोड़े शब्दों में बहुत कुछ कहना", "मुश्किल काम करना", "मजाक करना"],
+    "a": 1,
+    "explanation": "इसका अर्थ है कम शब्दों में गूढ़ और विस्तृत बात कह देना।"
+  },
+  {
+    "q": "शुद्ध वर्तनी वाले शब्द को पहचानें:",
+    "options": ["निरोग", "नीरोग", "निरोग", "नारोग"],
+    "a": 1,
+    "explanation": "शुद्ध वर्तनी 'नीरोग' है (निः + रोग = नीरोग)।"
+  },
+  {
+    "q": "'पृथ्वी' का पर्यायवाची शब्द नहीं है:",
+    "options": ["वसुधा", "धरा", "अवनि", "तरणि"],
+    "a": 3,
+    "explanation": "'तरणि' का अर्थ सूर्य (छोटी इ) या नाव (बड़ी ई) होता है।"
+  },
+  {
+    "q": "भाषा शिक्षण की 'आगमन विधि' श्रेष्ठ है क्योंकि:",
+    "options": ["इसमें समय कम लगता है", "रटने की आदत नहीं पड़ती", "व्याकरण सरल होता है", "शिक्षक को मेहनत नहीं करनी पड़ती"],
+    "a": 1,
+    "explanation": "Inductive method encourages discovery and logic over rote memorization."
+  },
+  {
+    "q": "Choose the correctly punctuated sentence:",
+    "options": ["i live in jaipur", "I live in Jaipur.", "I live in Jaipur", "i Live In Jaipur."],
+    "a": 1,
+    "explanation": "Sentences start with a capital, end with a period, and proper nouns (Jaipur) are capitalized."
+  },
+  {
+    "q": "Identify the 'Adverb' in: 'He works hard.'",
+    "options": ["He", "Works", "Hard", "None"],
+    "a": 2,
+    "explanation": "'Hard' describes how he works."
+  },
+  {
+    "q": "Choose the synonym for 'Sincere':",
+    "options": ["Honest", "Lazy", "Weak", "Proud"],
+    "a": 0,
+    "explanation": "A sincere person is honest and genuine."
+  },
+  {
+    "q": "Select the correct article: 'He is ________ European.'",
+    "options": ["a", "an", "the", "No article"],
+    "a": 0,
+    "explanation": "'European' starts with a 'y' consonant sound, so 'a' is used."
+  },
+  {
+    "q": "What is the 'feminine' of 'Monk'?",
+    "options": ["Nun", "Priestess", "Witch", "Lady"],
+    "a": 0,
+    "explanation": "The feminine equivalent of a monk is a nun."
+  },
+  {
+    "q": "Which of these is an 'Interjection'?",
+    "options": ["And", "Bravo!", "Quickly", "Them"],
+    "a": 1,
+    "explanation": "Bravo expresses sudden praise or excitement."
+  },
+  {
+    "q": "Fill in the blank: 'I have ________ pen.'",
+    "options": ["any", "some", "a", "much"],
+    "a": 2,
+    "explanation": "'A' is used for singular countable nouns."
+  },
+  {
+    "q": "Who was the founder of the 'Gupta Empire'?",
+    "options": ["Chandragupta I", "Sri Gupta", "Samudragupta", "Kumargupta"],
+    "a": 1,
+    "explanation": "While Chandragupta I was the first powerful king, Sri Gupta is credited as the founder."
+  },
+  {
+    "q": "The 'Standard Meridian' of India passes through which state?",
+    "options": ["Rajasthan", "Bihar", "Uttar Pradesh", "Maharashtra"],
+    "a": 2,
+    "explanation": "The 82.5° E longitude passes through Mirzapur, UP."
+  },
+  {
+    "q": "The 'Battle of Khanwa' (1527) was fought between Babur and:",
+    "options": ["Ibrahim Lodi", "Rana Sanga", "Sher Shah Suri", "Hemachandra"],
+    "a": 1,
+    "explanation": "Babur defeated the Rajput confederacy led by Rana Sanga."
+  },
+  {
+    "q": "Which is the 'Largest Continent' by area?",
+    "options": ["Africa", "Asia", "North America", "Europe"],
+    "a": 1,
+    "explanation": "Asia covers about 30% of Earth's total land area."
+  },
+  {
+    "q": "Who is the 'Guardian' of the Constitution of India?",
+    "options": ["President", "Supreme Court", "Parliament", "Prime Minister"],
+    "a": 1,
+    "explanation": "The Supreme Court ensures that the laws and executive actions follow the Constitution."
+  },
+  {
+    "q": "Which Mughal Emperor built the 'Buland Darwaza'?",
+    "options": ["Akbar", "Shah Jahan", "Jahangir", "Aurangzeb"],
+    "a": 0,
+    "explanation": "Akbar built it at Fatehpur Sikri to commemorate his victory over Gujarat."
+  },
+  {
+    "q": "Which river is known as the 'Dakshina Ganga'?",
+    "options": ["Krishna", "Cauvery", "Godavari", "Narmada"],
+    "a": 2,
+    "explanation": "Godavari is the longest river in South India."
+  },
+  {
+    "q": "The 'Civil Disobedience Movement' started with which event?",
+    "options": ["Chauri Chaura", "Dandi March", "Simon Commission Protest", "Jallianwala Bagh"],
+    "a": 1,
+    "explanation": "Gandhi's salt march in 1930 signaled the start of the movement."
+  },
+  {
+    "q": "The 'Maximum Gap' between two sessions of Parliament is:",
+    "options": ["3 months", "4 months", "6 months", "1 year"],
+    "a": 2,
+    "explanation": "According to the Constitution, Parliament must meet at least twice a year."
+  },
+  {
+    "q": "The 'Western Ghats' are also known as:",
+    "options": ["Himadri", "Sahyadri", "Aravalli", "Shiwalik"],
+    "a": 1,
+    "explanation": "Sahyadri is the local name for the range in Maharashtra/Karnataka."
+  },
+  {
+    "q": "How many 'Fundamental Duties' are currently in the Indian Constitution?",
+    "options": ["6", "10", "11", "12"],
+    "a": 2,
+    "explanation": "The 11th duty was added by the 86th Amendment (Right to Education)."
+  },
+  {
+    "q": "Who wrote 'Priyadarshika' and 'Ratnavali'?",
+    "options": ["Kalidasa", "Banabhatta", "Harshavardhana", "Chanakya"],
+    "a": 2,
+    "explanation": "The King of Kannauj, Harshavardhana, was also a notable scholar and author."
+  },
+  {
+    "q": "Which is the 'Deepest Ocean' in the world?",
+    "options": ["Atlantic", "Indian", "Pacific", "Arctic"],
+    "a": 2,
+    "explanation": "The Pacific Ocean contains the Mariana Trench, the deepest point on Earth."
+  },
+  {
+    "q": "The 'Election Commission' of India is a:",
+    "options": ["Statutory body", "Constitutional body", "Private body", "Government department"],
+    "a": 1,
+    "explanation": "It is established under Article 324 of the Constitution."
+  },
+  {
+    "q": "The 'Great Indian Desert' is also known as:",
+    "options": ["Sahara", "Gobi", "Thar", "Atacama"],
+    "a": 2,
+    "explanation": "The Thar desert lies mostly in the state of Rajasthan."
+  }
+]
