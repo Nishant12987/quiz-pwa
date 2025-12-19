@@ -1,0 +1,200 @@
+[
+  {
+    "q": "Which stage of development is characterized by 'Object Permanence'?",
+    "options": ["Sensory-motor", "Pre-operational", "Concrete operational", "Formal operational"],
+    "a": 0,
+    "explanation": "During the sensory-motor stage, infants learn objects exist unseen."
+  },
+  {
+    "q": "According to Vygotsky, 'Inner Speech' is used by children to:",
+    "options": ["Communicate with others", "Self-regulate and guide behavior", "Show off", "Waste time"],
+    "a": 1,
+    "explanation": "Inner speech helps children manage cognitive tasks."
+  },
+  {
+    "q": "Which reinforcement is given after an 'Unpredictable' amount of time?",
+    "options": ["Fixed interval", "Variable interval", "Fixed ratio", "Variable ratio"],
+    "a": 1,
+    "explanation": "Variable interval reinforcement occurs after varying time periods."
+  },
+  {
+    "q": "The 'Triarchic' theory of intelligence was proposed by:",
+    "options": ["Howard Gardner", "Robert Sternberg", "Charles Spearman", "Louis Thurstone"],
+    "a": 1,
+    "explanation": "Sternberg's theory includes analytical, creative, and practical."
+  },
+  {
+    "q": "Which of the following is an 'Extrinsic' motivator?",
+    "options": ["Curiosity", "Love for the subject", "Grades and Trophies", "Personal satisfaction"],
+    "a": 2,
+    "explanation": "Extrinsic motivation comes from outside."
+  },
+  {
+    "q": "What is 'Dyscalculia'?",
+    "options": ["Reading disorder", "Writing disorder", "Math learning disability", "Speaking disorder"],
+    "a": 2,
+    "explanation": "Specific disability in understanding numbers."
+  },
+  {
+    "q": "The 'Micro-teaching' technique was pioneered at:",
+    "options": ["Oxford University", "Stanford University", "Delhi University", "Harvard University"],
+    "a": 1,
+    "explanation": "Developed at Stanford in the 1960s."
+  },
+  {
+    "q": "In an 'Authoritarian' classroom, the teacher is:",
+    "options": ["A facilitator", "A strict controller", "Passive", "Democratic"],
+    "a": 1,
+    "explanation": "They exert high control and demand obedience."
+  },
+  {
+    "q": "Which level of Maslow's hierarchy deals with 'Friendship and Family'?",
+    "options": ["Safety needs", "Love and belonging needs", "Self-esteem", "Self-actualization"],
+    "a": 1,
+    "explanation": "Social needs include desire for acceptance."
+  },
+  {
+    "q": "What is the primary purpose of 'Summative Assessment'?",
+    "options": ["Identifying gaps", "Improving teaching", "Evaluating learning at the end", "Planning lessons"],
+    "a": 2,
+    "explanation": "It evaluates learning at the end of a course."
+  },
+  {
+    "q": "A child's social development is most influenced by:",
+    "options": ["Environment/Family", "Height", "Genetics alone", "Diet"],
+    "a": 0,
+    "explanation": "Family is the primary agency of socialization."
+  },
+  {
+    "q": "ayaadi sandhi ka udaaharan hai:",
+    "options": ["pavan", "maharshi", "pratyek", "sadaiv"],
+    "a": 0,
+    "explanation": "po + an = pavan (ayaadi sandhi)."
+  },
+  {
+    "q": "raajaputra mein kaun sa samaas hai?",
+    "options": ["dvandv", "tatpurush", "avyayibhaav", "bahuvrihi"],
+    "a": 1,
+    "explanation": "Raja ka putra, sambandh tatpurush."
+  },
+  {
+    "q": "kritagya ka vilom shabd hai:",
+    "options": ["kritaghn", "akritagya", "apakaaree", "dusht"],
+    "a": 0,
+    "explanation": "Kritagya (grateful) opposite is Kritaghn."
+  },
+  {
+    "q": "gaagar mein saagar bharana muhaavre ka arth hai:",
+    "options": ["ghade mein paanee bharana", "thode shabdon mein bahut kuchh kahana", "mushkil kaam karana", "majaak karana"],
+    "a": 1,
+    "explanation": "Expressing vast meaning in few words."
+  },
+  {
+    "q": "shuddh vartanee vaale shabd ko pahachaanen:",
+    "options": ["nirog", "neerog", "nirog", "naarog"],
+    "a": 1,
+    "explanation": "Correct form is Neerog."
+  },
+  {
+    "q": "prithvee ka paryayavaachi shabd nahin hai:",
+    "options": ["vasudha", "dhara", "avani", "tarani"],
+    "a": 3,
+    "explanation": "Tarani means Sun."
+  },
+  {
+    "q": "bhaasha shikshan ki aagaman vidhi shreshth hai kyonki:",
+    "options": ["isamen samay kam lagata hai", "ratane ki aadat nahin padatee", "vyaakaran saral hota hai", "shikshak ko mehanat nahin karanee padatee"],
+    "a": 1,
+    "explanation": "It avoids rote learning."
+  },
+  {
+    "q": "The sum of the angles in a linear pair is:",
+    "options": ["90", "180", "270", "360"],
+    "a": 1,
+    "explanation": "Standard geometric axiom."
+  },
+  {
+    "q": "If the base of a triangle is 10 cm and area is 50 sq cm, its height is:",
+    "options": ["5 cm", "10 cm", "20 cm", "25 cm"],
+    "a": 1,
+    "explanation": "Area = 0.5 * b * h -> 50 = 5 * h -> h = 10."
+  },
+  {
+    "q": "The coefficient of x in the expression 2x^2 - 5x + 3 is:",
+    "options": ["2", "5", "-5", "3"],
+    "a": 2,
+    "explanation": "The multiplier of x is -5."
+  },
+  {
+    "q": "What is the value of 5^3 / 5^2?",
+    "options": ["5", "25", "1", "125"],
+    "a": 0,
+    "explanation": "a^m / a^n = a^(m-n). 5^(3-2) = 5^1."
+  },
+  {
+    "q": "The product of two negative numbers is always:",
+    "options": ["Positive", "Negative", "Zero", "Prime"],
+    "a": 0,
+    "explanation": "(-) * (-) = (+)."
+  },
+  {
+    "q": "How many rational numbers are between 2 and 3?",
+    "options": ["Zero", "One", "Ten", "Infinitely many"],
+    "a": 3,
+    "explanation": "Rational numbers are dense between any two reals."
+  },
+  {
+    "q": "An angle greater than 90 but less than 180 is:",
+    "options": ["Acute", "Obtuse", "Reflex", "Right"],
+    "a": 1,
+    "explanation": "Definition of obtuse angle."
+  },
+  {
+    "q": "The perimeter of a regular pentagon with side 5 cm is:",
+    "options": ["10 cm", "20 cm", "25 cm", "30 cm"],
+    "a": 2,
+    "explanation": "5 * 5 = 25."
+  },
+  {
+    "q": "Which fiber is obtained from the outer covering of a coconut?",
+    "options": ["Cotton", "Jute", "Coir", "Hemp"],
+    "a": 2,
+    "explanation": "Coir is extracted from the husk."
+  },
+  {
+    "q": "The largest gland in the human body is:",
+    "options": ["Pancreas", "Liver", "Thyroid", "Pituitary"],
+    "a": 1,
+    "explanation": "The liver is the largest internal organ/gland."
+  },
+  {
+    "q": "Which gas is known as 'Dry Ice' in solid form?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+    "a": 2,
+    "explanation": "Solid CO2 is dry ice."
+  },
+  {
+    "q": "Friction can be reduced by using:",
+    "options": ["Sand", "Lubricants", "Rough surfaces", "Water"],
+    "a": 1,
+    "explanation": "Oil/grease reduce contact between surfaces."
+  },
+  {
+    "q": "Malaria is transmitted by:",
+    "options": ["Housefly", "Female Anopheles mosquito", "Aedes mosquito", "Cockroach"],
+    "a": 1,
+    "explanation": "Anopheles is the vector for Plasmodium."
+  },
+  {
+    "q": "What is the speed of light in vacuum?",
+    "options": ["3 x 10^8 m/s", "3 x 10^6 m/s", "150,000 m/s", "340 m/s"],
+    "a": 0,
+    "explanation": "Approximate speed of light."
+  },
+  {
+    "q": "Which component of air is essential for burning?",
+    "options": ["Nitrogen", "Oxygen", "Carbon Dioxide", "Argon"],
+    "a": 1,
+    "explanation": "Combustion requires oxygen as an oxidizer."
+  }
+]
