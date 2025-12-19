@@ -1,0 +1,242 @@
+[
+  {
+    "q": "Which theory of intelligence emphasizes 'Practical, Analytical, and Creative' aspects?",
+    "options": ["Spearman", "Sternberg", "Gardner", "Binet"],
+    "a": 1,
+    "explanation": "Sternberg's Triarchic theory covers these three types."
+  },
+  {
+    "q": "In Piaget's theory, 'Conservation' occurs at which stage?",
+    "options": ["Sensory-motor", "Pre-operational", "Concrete operational", "Formal operational"],
+    "a": 2,
+    "explanation": "Concrete operational stage (7-11) is where conservation develops."
+  },
+  {
+    "q": "According to Erikson, which stage deals with 'Identity vs Role Confusion'?",
+    "options": ["Early Childhood", "Later Childhood", "Adolescence", "Infancy"],
+    "a": 2,
+    "explanation": "Adolescents struggle with their sense of self."
+  },
+  {
+    "q": "What is the primary objective of 'Diagnostic Evaluation'?",
+    "options": ["Ranking", "Identifying weaknesses", "Certifying", "Planning sports"],
+    "a": 1,
+    "explanation": "Diagnostic tests help find specific areas of difficulty."
+  },
+  {
+    "q": "Which reinforcement is given after a 'Fixed' number of responses?",
+    "options": ["Fixed-ratio", "Variable-ratio", "Fixed-interval", "Variable-interval"],
+    "a": 0,
+    "explanation": "Reinforcement occurs after a set count (e.g., every 5th action)."
+  },
+  {
+    "q": "A teacher who uses 'Scaffolding' is following which theorist?",
+    "options": ["Piaget", "Vygotsky", "Skinner", "Bandura"],
+    "a": 1,
+    "explanation": "Vygotsky emphasized support in the ZPD."
+  },
+  {
+    "q": "Which learning style involves 'Physical Movement'?",
+    "options": ["Visual", "Auditory", "Kinesthetic", "Social"],
+    "a": 2,
+    "explanation": "Kinesthetic learners learn best through movement."
+  },
+  {
+    "q": "What is 'Growth'?",
+    "options": ["Social change", "Physical change", "Moral change", "All of these"],
+    "a": 1,
+    "explanation": "Growth specifically refers to physical increase like height."
+  },
+  {
+    "q": "In Maslow's hierarchy, which is the 'Basic' need?",
+    "options": ["Safety", "Self-esteem", "Physiological", "Social"],
+    "a": 2,
+    "explanation": "Food, water, and shelter are basic physiological needs."
+  },
+  {
+    "q": "Who gave the concept of 'Discovery Learning'?",
+    "options": ["Jerome Bruner", "Skinner", "Pavlov", "Watson"],
+    "a": 0,
+    "explanation": "Bruner advocated for students to discover knowledge themselves."
+  },
+  {
+    "q": "Which assessment is 'Continuous and Comprehensive'?",
+    "options": ["CCE", "Summative", "Final exams", "Standardized tests"],
+    "a": 0,
+    "explanation": "CCE evaluates all aspects of development throughout the year."
+  },
+  {
+    "q": "'नायक' का सही संधि-विच्छेद है:",
+    "options": ["ना + अक", "नै + अक", "ने + अक", "नय + अक"],
+    "a": 1,
+    "explanation": "नै + अक = नायक (अयादि संधि)।"
+  },
+  {
+    "q": "'प्रतिदिन' में कौन सा समास है?",
+    "options": ["अव्ययीभाव", "तत्पुरुष", "द्विगु", "द्वंद्व"],
+    "a": 0,
+    "explanation": "प्रत्येक दिन (अव्ययीभाव)।"
+  },
+  {
+    "q": "'स्थावर' का विलोम शब्द है:",
+    "options": ["चंचल", "जंगम", "स्थिर", "अचल"],
+    "a": 1,
+    "explanation": "स्थावर का विलोम जंगम है।"
+  },
+  {
+    "q": "'लोहे के चने चबाना' मुहावरे का अर्थ है:",
+    "options": ["मेहनत करना", "बहुत कठिनाई झेलना", "मजाक करना", "झगड़ा करना"],
+    "a": 1,
+    "explanation": "इसका अर्थ बहुत मुश्किल काम करना है."
+  },
+  {
+    "q": "शुद्ध वाक्य का चयन करें:",
+    "options": ["मेरे को घर जाना है।", "मुझे घर जाना है।", "मैं घर जाना है।", "मैंने घर जाना है।"],
+    "a": 1,
+    "explanation": "व्याकरण की दृष्टि से 'मुझे घर जाना है' सही है."
+  },
+  {
+    "q": "'सूर्य' का पर्यायवाची शब्द नहीं है:",
+    "options": ["दिनकर", "दिवाकर", "निशाकर", "भास्कर"],
+    "a": 2,
+    "explanation": "निशाकर चंद्रमा का पर्यायवाची है."
+  },
+  {
+    "q": "शिक्षण की 'मोंटेसरी विधि' किस पर आधारित है?",
+    "options": ["इंद्रियों के प्रशिक्षण", "व्याकरण", "अनुवाद", "भाषण"],
+    "a": 0,
+    "explanation": "Montessori focused on sensory training for children."
+  },
+  {
+    "q": "Choose the correctly spelled word:",
+    "options": ["Receive", "Recieve", "Receve", "Riceive"],
+    "a": 0,
+    "explanation": "Rule: 'i' before 'e' except after 'c'."
+  },
+  {
+    "q": "What is the synonym of 'Fragile'?",
+    "options": ["Strong", "Delicate", "Tough", "Hard"],
+    "a": 1,
+    "explanation": "Fragile means easily broken."
+  },
+  {
+    "q": "Identify the 'Adverb' in: 'She sings sweetly.'",
+    "options": ["She", "Sings", "Sweetly", "None"],
+    "a": 2,
+    "explanation": "Sweetly describes how she sings."
+  },
+  {
+    "q": "Select the correct plural of 'Mouse':",
+    "options": ["Mouses", "Mice", "Mices", "Mousess"],
+    "a": 1,
+    "explanation": "Mouse (singular) -> Mice (plural)."
+  },
+  {
+    "q": "Which part of speech is 'Alas!'?",
+    "options": ["Noun", "Adjective", "Interjection", "Preposition"],
+    "a": 2,
+    "explanation": "Alas expresses sudden emotion."
+  },
+  {
+    "q": "Choose the correct article: 'He is ________ European.'",
+    "options": ["a", "an", "the", "No article"],
+    "a": 0,
+    "explanation": "European starts with a 'y' sound."
+  },
+  {
+    "q": "Identify the 'Sentence Type': 'What a beautiful day!'",
+    "options": ["Assertive", "Interrogative", "Exclamatory", "Imperative"],
+    "a": 2,
+    "explanation": "Expresses sudden emotion."
+  },
+  {
+    "q": "Who founded the 'Maurya Dynasty'?",
+    "options": ["Ashoka", "Chandragupta Maurya", "Bindusara", "Samudragupta"],
+    "a": 1,
+    "explanation": "Chandragupta Maurya founded it around 321 BC."
+  },
+  {
+    "q": "The 'Preamble' was modified by which amendment?",
+    "options": ["42nd", "44th", "73rd", "86th"],
+    "a": 0,
+    "explanation": "Modified once in 1976."
+  },
+  {
+    "q": "Which state has the 'Maximum Forests' in India?",
+    "options": ["Madhya Pradesh", "Arunachal Pradesh", "Odisha", "Chhattisgarh"],
+    "a": 0,
+    "explanation": "MP has the largest forest cover by area."
+  },
+  {
+    "q": "The 'Sanchi Stupa' was built by:",
+    "options": ["Ashoka", "Chandragupta", "Kanishka", "Harsha"],
+    "a": 0,
+    "explanation": "Emperor Ashoka built the Great Stupa."
+  },
+  {
+    "q": "Which is the 'Longest River' in the world?",
+    "options": ["Amazon", "Nile", "Mississippi", "Ganga"],
+    "a": 1,
+    "explanation": "The Nile is the longest river globally."
+  },
+  {
+    "q": "Who wrote 'Panchatantra'?",
+    "options": ["Kalidasa", "Vishnu Sharma", "Banabhatta", "Harsha"],
+    "a": 1,
+    "explanation": "Vishnu Sharma wrote these fables."
+  },
+  {
+    "q": "Which planet is known as the 'Morning Star'?",
+    "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+    "a": 1,
+    "explanation": "Venus is highly visible at dawn."
+  },
+  {
+    "q": "The 'Fundamental Rights' are in which part?",
+    "options": ["Part II", "Part III", "Part IV", "Part V"],
+    "a": 1,
+    "explanation": "Part III contains the six fundamental rights."
+  },
+  {
+    "q": "Who was the 'Constitutional Advisor' to the assembly?",
+    "options": ["Ambedkar", "B.N. Rau", "Rajendra Prasad", "Nehru"],
+    "a": 1,
+    "explanation": "Sir B.N. Rau was the advisor."
+  },
+  {
+    "q": "Which is the 'Deepest Trench' in the ocean?",
+    "options": ["Mariana", "Java", "Puerto Rico", "Tonga"],
+    "a": 0,
+    "explanation": "Mariana Trench in the Pacific is the deepest."
+  },
+  {
+    "q": "The 'Quit India Movement' started in:",
+    "options": ["1920", "1930", "1942", "1947"],
+    "a": 2,
+    "explanation": "Launched on August 8, 1942."
+  },
+  {
+    "q": "Which state is known as the 'Spices Garden'?",
+    "options": ["Karnataka", "Kerala", "Tamil Nadu", "Andhra Pradesh"],
+    "a": 1,
+    "explanation": "Kerala is famous for its spice production."
+  },
+  {
+    "q": "Who is the 'Supreme Commander' of the forces?",
+    "options": ["President", "Prime Minister", "Defense Minister", "Speaker"],
+    "a": 0,
+    "explanation": "The President holds this ceremonial command."
+  },
+  {
+    "q": "The 'Ring of Fire' is in which ocean?",
+    "options": ["Atlantic", "Pacific", "Indian", "Arctic"],
+    "a": 1,
+    "explanation": "Pacific ocean is known for volcanic activity."
+  },
+  {
+    "q": "Which amendment is for 'Panchayati Raj'?",
+    "options": ["42nd", "73rd", "74th", "86th"],
+    "a": 1,
+    "explanation": "73rd amendment gave constitutional status to Panchayats."
+  }
+]
