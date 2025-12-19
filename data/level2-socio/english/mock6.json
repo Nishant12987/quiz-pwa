@@ -1,0 +1,242 @@
+[
+  {
+    "q": "Which of the following describes the 'Cephalocaudal' principle of development?",
+    "options": ["Development from center to extremities", "Development from head to toe", "Development from general to specific", "Development from concrete to abstract"],
+    "a": 1,
+    "explanation": "Cephalocaudal development follows a pattern starting from the head and moving down to the rest of the body."
+  },
+  {
+    "q": "According to Piaget, at which stage does a child develop 'Hypothetico-deductive reasoning'?",
+    "options": ["Sensory-motor", "Pre-operational", "Concrete operational", "Formal operational"],
+    "a": 3,
+    "explanation": "In the formal operational stage (11+ years), adolescents can think about abstract propositions."
+  },
+  {
+    "q": "The 'Zone of Proximal Development' (ZPD) is a concept proposed by:",
+    "options": ["Jean Piaget", "Lev Vygotsky", "Jerome Bruner", "B.F. Skinner"],
+    "a": 1,
+    "explanation": "Vygotsky defined ZPD as the distance between what a learner can do without help and with support."
+  },
+  {
+    "q": "Which of the following is an 'Objective Type' test item?",
+    "options": ["Essay", "Short answer", "Multiple choice", "Oral presentation"],
+    "a": 2,
+    "explanation": "Multiple choice questions have one specific correct answer."
+  },
+  {
+    "q": "What is the I.Q. of a child whose mental age is 12 and chronological age is 10?",
+    "options": ["100", "110", "120", "130"],
+    "a": 2,
+    "explanation": "IQ = (Mental Age / Chronological Age) x 100. So, (12/10) x 100 = 120."
+  },
+  {
+    "q": "In an inclusive classroom, a teacher should:",
+    "options": ["Focus only on gifted students", "Set the same standards for everyone", "Believe that every child has a potential to learn", "Ignore students with disabilities"],
+    "a": 2,
+    "explanation": "Inclusion involves accommodating diverse needs and believing in every child's capability."
+  },
+  {
+    "q": "'Learning disability' in motor skills is called:",
+    "options": ["Dyscalculia", "Dyslexia", "Dysphasia", "Dyspraxia"],
+    "a": 3,
+    "explanation": "Dyspraxia affects motor coordination and planning."
+  },
+  {
+    "q": "Which of the following is a primary law of learning given by Thorndike?",
+    "options": ["Law of Multiple Response", "Law of Analogy", "Law of Readiness", "Law of Association"],
+    "a": 2,
+    "explanation": "Readiness, Exercise, and Effect are Thorndike's three primary laws of learning."
+  },
+  {
+    "q": "The concept of 'Discovery Learning' was given by:",
+    "options": ["David Ausubel", "Jerome Bruner", "Albert Bandura", "Robert Gagne"],
+    "a": 1,
+    "explanation": "Bruner advocated for students to interact with their environment to discover principles."
+  },
+  {
+    "q": "Which of the following is an example of 'Intrinsic Motivation'?",
+    "options": ["Studying to win a trophy", "Studying to avoid punishment", "Studying because the subject is interesting", "Studying to please parents"],
+    "a": 2,
+    "explanation": "Intrinsic motivation comes from internal satisfaction."
+  },
+  {
+    "q": "What does 'CCE' stand for in the context of school education?",
+    "options": ["Continuous and Creative Evaluation", "Continuous and Comprehensive Evaluation", "Complete and Comprehensive Evaluation", "Continuous and Cognitive Evaluation"],
+    "a": 1,
+    "explanation": "CCE refers to a system of evaluation that covers all aspects of students' development."
+  },
+  {
+    "q": "atyadhik shabd mein kaun si sandhi hai?",
+    "options": ["deergh sandhi", "gun sandhi", "vriddhi sandhi", "yan sandhi"],
+    "a": 3,
+    "explanation": "ati + adhik = atyadhik (i + a = y, yan sandhi)."
+  },
+  {
+    "q": "trilochan mein kaun sa samaas hai?",
+    "options": ["avyayibhaav", "bahuvrihi", "dvigu", "dvandv"],
+    "a": 1,
+    "explanation": "Teen netra hain jiske (shiva), bahuvrihi samas."
+  },
+  {
+    "q": "anuraag ka sahi vilom shabd hai:",
+    "options": ["viraag", "tyaag", "prem", "ghrina"],
+    "a": 0,
+    "explanation": "anuraag (love) opposite is viraag."
+  },
+  {
+    "q": "haath kangan ko aarasee kya lokokti ka arth hai:",
+    "options": ["ahankaar karana", "pratyaksh ko pramaan ki aavashyakata nahin", "bahut ameer hona", "kathin kaary karana"],
+    "a": 1,
+    "explanation": "Evidence is not needed for something obvious."
+  },
+  {
+    "q": "nimnalikhit mein se ashuddh vartanee vaala shabd hai:",
+    "options": ["kavayitri", "ujjval", "shringaar", "aashirvaad"],
+    "a": 2,
+    "explanation": "The correct form is 'shringaar' with a specific r-vowel mark."
+  },
+  {
+    "q": "aakaash ka paryayavaachi shabd hai:",
+    "options": ["vyom", "ambar", "gagan", "uparyukt sabhee"],
+    "a": 3,
+    "explanation": "All three are synonyms for sky."
+  },
+  {
+    "q": "hindi bhaasha mein ayogavaah varn kaun se hain?",
+    "options": ["a, aa", "i, ee", "am, ah", "u, oo"],
+    "a": 2,
+    "explanation": "Am and Ah are called Ayogavah."
+  },
+  {
+    "q": "Identify the 'Adjective' in the sentence: 'The courageous soldier fought well.'",
+    "options": ["Soldier", "Courageous", "Fought", "Well"],
+    "a": 1,
+    "explanation": "'Courageous' describes the quality of the noun 'soldier'."
+  },
+  {
+    "q": "Choose the correct article: 'I saw ________ one-eyed man yesterday.'",
+    "options": ["a", "an", "the", "No article"],
+    "a": 0,
+    "explanation": "'One' starts with a 'w' sound (consonant sound), so 'a' is used."
+  },
+  {
+    "q": "What is the feminine gender of 'Horse'?",
+    "options": ["Bitch", "Mare", "Doe", "Ewe"],
+    "a": 1,
+    "explanation": "A female horse is called a mare."
+  },
+  {
+    "q": "Change the voice: 'Who broke the glass?'",
+    "options": ["By whom was the glass broken?", "Who was broken the glass?", "By whom is the glass broken?", "The glass was broken by whom?"],
+    "a": 0,
+    "explanation": "Passive voice for 'Who' is 'By whom'."
+  },
+  {
+    "q": "Which of the following is a 'Lexical Word'?",
+    "options": ["Is", "And", "Love", "With"],
+    "a": 2,
+    "explanation": "Lexical words carry independent meaning (nouns, verbs)."
+  },
+  {
+    "q": "The sound produced by 'ch' in 'Chair' is a:",
+    "options": ["Plosive", "Affricate", "Nasal", "Fricative"],
+    "a": 1,
+    "explanation": "Affricates are sounds that begin as a stop and release as a fricative."
+  },
+  {
+    "q": "The primary aim of teaching English in India is to enable students to:",
+    "options": ["Pass exams", "Become scholars", "Communicate effectively", "Recite poems"],
+    "a": 2,
+    "explanation": "Communication is the primary goal of language teaching."
+  },
+  {
+    "q": "What is the value of 2^0 + 3^0 + 4^0?",
+    "options": ["9", "3", "0", "1"],
+    "a": 1,
+    "explanation": "Any non-zero number to power 0 is 1. So 1+1+1 = 3."
+  },
+  {
+    "q": "The perimeter of a square whose area is 144 sq cm is:",
+    "options": ["48 cm", "36 cm", "24 cm", "12 cm"],
+    "a": 0,
+    "explanation": "Side = sqrt(144) = 12. Perimeter = 4 * 12 = 48."
+  },
+  {
+    "q": "In a right-angled triangle, if base is 6 cm and height is 8 cm, the hypotenuse is:",
+    "options": ["10 cm", "14 cm", "12 cm", "7 cm"],
+    "a": 0,
+    "explanation": "h^2 = 6^2 + 8^2 = 36 + 64 = 100. h = 10."
+  },
+  {
+    "q": "The additive inverse of -5/9 is:",
+    "options": ["9/5", "-9/5", "5/9", "0"],
+    "a": 2,
+    "explanation": "Additive inverse of x is -x. -(-5/9) = 5/9."
+  },
+  {
+    "q": "A die is thrown once. The probability of getting an even number is:",
+    "options": ["1/2", "1/3", "1/6", "2/3"],
+    "a": 0,
+    "explanation": "Even numbers are 2, 4, 6 (3 outcomes out of 6). 3/6 = 1/2."
+  },
+  {
+    "q": "If 3x + 2 = 11, then x equals:",
+    "options": ["4", "3", "2", "5"],
+    "a": 1,
+    "explanation": "3x = 11 - 2 = 9. x = 9/3 = 3."
+  },
+  {
+    "q": "The ratio of 50 paise to 5 rupees is:",
+    "options": ["1:10", "1:5", "10:1", "1:1"],
+    "a": 0,
+    "explanation": "50 : 500 = 1 : 10."
+  },
+  {
+    "q": "The sum of all interior angles of a quadrilateral is:",
+    "options": ["180", "270", "360", "540"],
+    "a": 2,
+    "explanation": "(n-2)*180 = (4-2)*180 = 360."
+  },
+  {
+    "q": "Which of the following is a chemical change?",
+    "options": ["Melting of wax", "Boiling of water", "Rusting of iron", "Bending of a wire"],
+    "a": 2,
+    "explanation": "Rusting forms a new substance (iron oxide)."
+  },
+  {
+    "q": "The S.I. unit of pressure is:",
+    "options": ["Newton", "Joule", "Pascal", "Watt"],
+    "a": 2,
+    "explanation": "Pascal (Pa) is N/m^2."
+  },
+  {
+    "q": "Which gas is used in the process of photosynthesis?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+    "a": 2,
+    "explanation": "Plants take in CO2 to prepare food."
+  },
+  {
+    "q": "The boiling point of water on Celsius scale is:",
+    "options": ["0", "32", "100", "273"],
+    "a": 2,
+    "explanation": "Water boils at 100 degrees Celsius."
+  },
+  {
+    "q": "Which part of the plant cell provides it with rigidity and strength?",
+    "options": ["Cell membrane", "Nucleus", "Cell wall", "Cytoplasm"],
+    "a": 2,
+    "explanation": "The cell wall is made of cellulose and provides structure."
+  },
+  {
+    "q": "Kala-azar is caused by:",
+    "options": ["Bacteria", "Virus", "Protozoa", "Fungi"],
+    "a": 2,
+    "explanation": "It is caused by Leishmania, a protozoan."
+  },
+  {
+    "q": "A distance-time graph for uniform motion is a:",
+    "options": ["Curved line", "Straight line", "Circle", "Zig-zag line"],
+    "a": 1,
+    "explanation": "In uniform motion, distance is directly proportional to time."
+  }
+]
