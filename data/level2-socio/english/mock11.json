@@ -3,31 +3,31 @@
     "q": "Growth occurs in a ________ sequence, while development is ________.",
     "options": ["Predictable, Random", "Fixed, Lifelong", "Physical, Holistic", "Qualitative, Quantitative"],
     "a": 2,
-    "explanation": "Growth is primarily the physical increase, while development is holistic."
+    "explanation": "Growth is primarily the physical increase, while development encompasses physical, mental, and social changes."
   },
   {
     "q": "According to Erikson, 'Trust vs. Mistrust' is the conflict of which stage?",
     "options": ["Infancy", "Early Childhood", "Play Age", "School Age"],
     "a": 0,
-    "explanation": "This first stage centers on basic needs being met."
+    "explanation": "This first stage (birth to 1 year) centers on the infant's basic needs being met by caregivers."
   },
   {
     "q": "Piaget's 'Schema' refers to:",
     "options": ["A physical reflex", "A mental packet of information", "A stage of growth", "A social skill"],
     "a": 1,
-    "explanation": "Schemas are frameworks that help organize info."
+    "explanation": "Schemas are cognitive frameworks that help organize and interpret information."
   },
   {
     "q": "Which reinforcement schedule is most resistant to extinction?",
     "options": ["Fixed-ratio", "Variable-ratio", "Fixed-interval", "Continuous"],
     "a": 1,
-    "explanation": "Variable-ratio is hardest to extinguish."
+    "explanation": "Variable-ratio (like gambling) is hardest to extinguish because the reward is unpredictable."
   },
   {
     "q": "The 'Projective' tests like TAT are used to measure:",
     "options": ["Intelligence", "Personality", "Creativity", "Aptitude"],
     "a": 1,
-    "explanation": "Projective tests reveal hidden emotions of personality."
+    "explanation": "Projective tests reveal hidden emotions and internal conflicts of personality."
   },
   {
     "q": "Which is NOT a characteristic of 'Inclusive Education'?",
@@ -39,73 +39,115 @@
     "q": "According to Gardner, 'Musical Intelligence' involves sensitivity to:",
     "options": ["Visual colors", "Logic", "Rhythm and pitch", "Bodily movements"],
     "a": 2,
-    "explanation": "Musicians excel in perceiving sound patterns."
+    "explanation": "Musicians and composers excel in perceiving and creating patterns of sound."
   },
   {
     "q": "The primary aim of 'Diagnostic Evaluation' is:",
     "options": ["Ranking students", "Giving grades", "Identifying learning gaps", "Certifying students"],
     "a": 2,
-    "explanation": "Diagnostic tests help find specific weaknesses."
+    "explanation": "Diagnostic tests help find specific weaknesses to provide remedial help."
   },
   {
     "q": "What is 'Self-Actualization' in Maslow's theory?",
     "options": ["Basic survival", "Social status", "Fulfilling one's full potential", "Avoiding danger"],
     "a": 2,
-    "explanation": "It is the peak where one seeks personal growth."
+    "explanation": "It is the peak of the pyramid where one seeks personal growth and fulfillment."
   },
   {
     "q": "Child-centered education was popularized by:",
     "options": ["John Dewey", "Skinner", "Pavlov", "Watson"],
     "a": 0,
-    "explanation": "Dewey's focused on the child's active experience."
+    "explanation": "Dewey's progressivism focused on the child's interests and active experience."
   },
   {
     "q": "Adolescence is often described as the 'Age of ________'.",
     "options": ["Identity crisis", "Object permanence", "Egocentrism only", "Toy play"],
     "a": 0,
-    "explanation": "Erikson identified 'Identity vs Role Confusion'."
+    "explanation": "Erikson identified 'Identity vs Role Confusion' as the primary struggle during this time."
   },
   {
-    "q": "anvay ka sahi sandhi-vichchhed hai:",
-    "options": ["an + vay", "anu + ay", "anu + aay", "an + aay"],
+    "q": "'अन्वय' का सही संधि-विच्छेद है:",
+    "options": ["अन + वय", "अनु + अय", "अनु + आय", "अन + आय"],
     "a": 1,
-    "explanation": "anu + ay = anvay (u + a = v, yan sandhi)."
+    "explanation": "अनु + अय = अन्वय (उ + अ = व, यण संधि)।"
   },
   {
-    "q": "yathaashakti mein kaun sa samaas hai?",
-    "options": ["tatpurush", "karmadhaaraya", "avyayibhaav", "dvigu"],
+    "q": "'यथाशक्ति' में कौन सा समास है?",
+    "options": ["तत्पुरुष", "कर्मधारय", "अव्ययीभाव", "द्विगु"],
     "a": 2,
-    "explanation": "First word is an avyaya, so avyayibhaav."
+    "explanation": "शक्ति के अनुसार; प्रथम पद 'यथा' अव्यय होने के कारण अव्ययीभाव समास है।"
   },
   {
-    "q": "unmukh ka vilom shabd kya hai?",
-    "options": ["pramukh", "vimukh", "sanmukh", "adhomukh"],
+    "q": "'उन्मुख' का विलोम शब्द क्या है?",
+    "options": ["प्रमुख", "विमुख", "सन्मुख", "अधोमुख"],
     "a": 1,
-    "explanation": "Unmukh opposite is Vimukh."
+    "explanation": "उन्मुख का विलोम विमुख होता है।"
   },
   {
-    "q": "haath malana muhaavre ka arth hai:",
-    "options": ["haath saaf karana", "pachhataana", "mehanat karana", "jhagada karana"],
+    "q": "'हाथ मलना' मुहावरे का अर्थ है:",
+    "options": ["हाथ साफ करना", "पछताना", "मेहनत करना", "झगड़ा करना"],
     "a": 1,
-    "explanation": "It means to regret or repent."
+    "explanation": "इसका अर्थ है अवसर खोने के बाद दुख प्रकट करना या पछताना।"
   },
   {
-    "q": "shuddh vartanee vaale shabd ko chuniye:",
-    "options": ["shringaar", "shringaar", "singaar", "shreengaar"],
+    "q": "शुद्ध वर्तनी वाले शब्द को चुनिए:",
+    "options": ["श्रृंगार", "शृंगार", "सिंगार", "श्रींगार"],
     "a": 1,
-    "explanation": "Correct form has the specific 'shri' vowel."
+    "explanation": "शुद्ध रूप 'शृंगार' है (श के नीचे ऋ की मात्रा)।"
   },
   {
-    "q": "aag ka paryayavaachi shabd nahin hai:",
-    "options": ["paavak", "anil", "anal", "hutaashan"],
+    "q": "'आग' का पर्यायवाची शब्द नहीं है:",
+    "options": ["पावक", "अनिल", "अनल", "हुताशन"],
     "a": 1,
-    "explanation": "Anil means wind."
+    "explanation": "'अनिल' वायु का पर्यायवाची है, जबकि अन्य आग के हैं।"
   },
   {
-    "q": "bhaasha shikshan ki montessoree vidhi kis par aadhaarit hai?",
-    "options": ["indriyon ke prashikshan par", "keval padhane par", "vyaakaran ratane par", "anuvaad par"],
+    "q": "भाषा शिक्षण की 'मोंटेसरी विधि' किस पर आधारित है?",
+    "options": ["इन्द्रियों के प्रशिक्षण पर", "केवल पढ़ने पर", "व्याकरण रटने पर", "अनुवाद पर"],
     "a": 0,
-    "explanation": "Montessori emphasized sensory training."
+    "explanation": "Dr. Maria Montessori emphasized sensory training for young children."
+  },
+  {
+    "q": "Choose the synonym of 'Diligent':",
+    "options": ["Lazy", "Intelligent", "Hardworking", "Careful"],
+    "a": 2,
+    "explanation": "A diligent person is one who puts in steady and earnest effort."
+  },
+  {
+    "q": "Which of these is a 'Verb'?",
+    "options": ["Happiness", "Bright", "Decision", "Create"],
+    "a": 3,
+    "explanation": "Create is an action word; the others are noun/adjectives."
+  },
+  {
+    "q": "Choose the correct preposition: 'The sun rises ________ the east.'",
+    "options": ["on", "at", "in", "from"],
+    "a": 2,
+    "explanation": "We use 'in' for directions like in the east, in the west."
+  },
+  {
+    "q": "Identify the 'Sentence Type' of the following: 'What a beautiful day!'",
+    "options": ["Assertive", "Interrogative", "Exclamatory", "Imperative"],
+    "a": 2,
+    "explanation": "It expresses sudden emotion and ends with an exclamation mark."
+  },
+  {
+    "q": "What is the plural of 'Sheep'?",
+    "options": ["Sheeps", "Sheep", "Sheepses", "Sheepes"],
+    "a": 1,
+    "explanation": "Sheep is an irregular noun that remains the same in singular and plural."
+  },
+  {
+    "q": "Convert to Direct Speech: 'He asked me where I lived.'",
+    "options": ["He said, \"Where you live?\"", "He said to me, \"Where do you live?\"", "He said, \"Where I live?\"", "He asked, \"Where do you live?\""],
+    "a": 1,
+    "explanation": "In direct speech, the question form 'do you live' is used."
+  },
+  {
+    "q": "The phoneme /p/ is classified as a:",
+    "options": ["Vowel", "Nasal", "Voiceless Plosive", "Fricative"],
+    "a": 2,
+    "explanation": "The sound /p/ is produced by blocking air and releasing it without vibrating vocal cords."
   },
   {
     "q": "If 2x - 3 = x + 2, then x is:",
@@ -138,7 +180,7 @@
     "explanation": "a^-n = 1/a^n. 3^-2 = 1/3^2 = 1/9."
   },
   {
-    "q": "Find the range of data: 10, 2, 8, 15, 20.",
+    "q": "Find the range of the following data: 10, 2, 8, 15, 20.",
     "options": ["10", "15", "18", "20"],
     "a": 2,
     "explanation": "Range = Max - Min = 20 - 2 = 18."
