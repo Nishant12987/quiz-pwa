@@ -1,0 +1,200 @@
+[
+  {
+    "q": "Growth occurs in a ________ sequence, while development is ________.",
+    "options": ["Predictable, Random", "Fixed, Lifelong", "Physical, Holistic", "Qualitative, Quantitative"],
+    "a": 2,
+    "explanation": "Growth is primarily the physical increase, while development is holistic."
+  },
+  {
+    "q": "According to Erikson, 'Trust vs. Mistrust' is the conflict of which stage?",
+    "options": ["Infancy", "Early Childhood", "Play Age", "School Age"],
+    "a": 0,
+    "explanation": "This first stage centers on basic needs being met."
+  },
+  {
+    "q": "Piaget's 'Schema' refers to:",
+    "options": ["A physical reflex", "A mental packet of information", "A stage of growth", "A social skill"],
+    "a": 1,
+    "explanation": "Schemas are frameworks that help organize info."
+  },
+  {
+    "q": "Which reinforcement schedule is most resistant to extinction?",
+    "options": ["Fixed-ratio", "Variable-ratio", "Fixed-interval", "Continuous"],
+    "a": 1,
+    "explanation": "Variable-ratio is hardest to extinguish."
+  },
+  {
+    "q": "The 'Projective' tests like TAT are used to measure:",
+    "options": ["Intelligence", "Personality", "Creativity", "Aptitude"],
+    "a": 1,
+    "explanation": "Projective tests reveal hidden emotions of personality."
+  },
+  {
+    "q": "Which is NOT a characteristic of 'Inclusive Education'?",
+    "options": ["Catering to diversity", "Removing barriers", "Segregating disabled children", "Equal participation"],
+    "a": 2,
+    "explanation": "Segregation is the opposite of inclusion."
+  },
+  {
+    "q": "According to Gardner, 'Musical Intelligence' involves sensitivity to:",
+    "options": ["Visual colors", "Logic", "Rhythm and pitch", "Bodily movements"],
+    "a": 2,
+    "explanation": "Musicians excel in perceiving sound patterns."
+  },
+  {
+    "q": "The primary aim of 'Diagnostic Evaluation' is:",
+    "options": ["Ranking students", "Giving grades", "Identifying learning gaps", "Certifying students"],
+    "a": 2,
+    "explanation": "Diagnostic tests help find specific weaknesses."
+  },
+  {
+    "q": "What is 'Self-Actualization' in Maslow's theory?",
+    "options": ["Basic survival", "Social status", "Fulfilling one's full potential", "Avoiding danger"],
+    "a": 2,
+    "explanation": "It is the peak where one seeks personal growth."
+  },
+  {
+    "q": "Child-centered education was popularized by:",
+    "options": ["John Dewey", "Skinner", "Pavlov", "Watson"],
+    "a": 0,
+    "explanation": "Dewey's focused on the child's active experience."
+  },
+  {
+    "q": "Adolescence is often described as the 'Age of ________'.",
+    "options": ["Identity crisis", "Object permanence", "Egocentrism only", "Toy play"],
+    "a": 0,
+    "explanation": "Erikson identified 'Identity vs Role Confusion'."
+  },
+  {
+    "q": "anvay ka sahi sandhi-vichchhed hai:",
+    "options": ["an + vay", "anu + ay", "anu + aay", "an + aay"],
+    "a": 1,
+    "explanation": "anu + ay = anvay (u + a = v, yan sandhi)."
+  },
+  {
+    "q": "yathaashakti mein kaun sa samaas hai?",
+    "options": ["tatpurush", "karmadhaaraya", "avyayibhaav", "dvigu"],
+    "a": 2,
+    "explanation": "First word is an avyaya, so avyayibhaav."
+  },
+  {
+    "q": "unmukh ka vilom shabd kya hai?",
+    "options": ["pramukh", "vimukh", "sanmukh", "adhomukh"],
+    "a": 1,
+    "explanation": "Unmukh opposite is Vimukh."
+  },
+  {
+    "q": "haath malana muhaavre ka arth hai:",
+    "options": ["haath saaf karana", "pachhataana", "mehanat karana", "jhagada karana"],
+    "a": 1,
+    "explanation": "It means to regret or repent."
+  },
+  {
+    "q": "shuddh vartanee vaale shabd ko chuniye:",
+    "options": ["shringaar", "shringaar", "singaar", "shreengaar"],
+    "a": 1,
+    "explanation": "Correct form has the specific 'shri' vowel."
+  },
+  {
+    "q": "aag ka paryayavaachi shabd nahin hai:",
+    "options": ["paavak", "anil", "anal", "hutaashan"],
+    "a": 1,
+    "explanation": "Anil means wind."
+  },
+  {
+    "q": "bhaasha shikshan ki montessoree vidhi kis par aadhaarit hai?",
+    "options": ["indriyon ke prashikshan par", "keval padhane par", "vyaakaran ratane par", "anuvaad par"],
+    "a": 0,
+    "explanation": "Montessori emphasized sensory training."
+  },
+  {
+    "q": "If 2x - 3 = x + 2, then x is:",
+    "options": ["1", "5", "4", "3"],
+    "a": 1,
+    "explanation": "2x - x = 2 + 3 -> x = 5."
+  },
+  {
+    "q": "The sum of all angles of a quadrilateral is:",
+    "options": ["180", "270", "360", "720"],
+    "a": 2,
+    "explanation": "Standard property: 360 degrees."
+  },
+  {
+    "q": "The square of a proper fraction is:",
+    "options": ["Greater than the fraction", "Smaller than the fraction", "Equal to the fraction", "Zero"],
+    "a": 1,
+    "explanation": "e.g., (1/2)^2 = 1/4. 1/4 < 1/2."
+  },
+  {
+    "q": "A quadrilateral with only one pair of parallel sides is called:",
+    "options": ["Parallelogram", "Rhombus", "Trapezium", "Rectangle"],
+    "a": 2,
+    "explanation": "Trapezium has exactly one pair of parallel sides."
+  },
+  {
+    "q": "What is the value of 3^-2?",
+    "options": ["9", "1/9", "-9", "-6"],
+    "a": 1,
+    "explanation": "a^-n = 1/a^n. 3^-2 = 1/3^2 = 1/9."
+  },
+  {
+    "q": "Find the range of data: 10, 2, 8, 15, 20.",
+    "options": ["10", "15", "18", "20"],
+    "a": 2,
+    "explanation": "Range = Max - Min = 20 - 2 = 18."
+  },
+  {
+    "q": "The number of digits in the square root of 625 is:",
+    "options": ["1", "2", "3", "4"],
+    "a": 1,
+    "explanation": "sqrt(625) = 25 (2 digits)."
+  },
+  {
+    "q": "Simple interest on 2000 for 1 year at 5% is:",
+    "options": ["100", "50", "200", "400"],
+    "a": 0,
+    "explanation": "2000 * 5 * 1 / 100 = 100."
+  },
+  {
+    "q": "Which of the following is a synthetic fiber?",
+    "options": ["Cotton", "Silk", "Nylon", "Wool"],
+    "a": 2,
+    "explanation": "Nylon is man-made."
+  },
+  {
+    "q": "The process of converting iron into steel involves:",
+    "options": ["Adding carbon", "Adding oxygen", "Adding water", "Adding sand"],
+    "a": 0,
+    "explanation": "Steel is an alloy of iron and carbon."
+  },
+  {
+    "q": "Which part of the human eye is sensitive to light?",
+    "options": ["Iris", "Lens", "Retina", "Cornea"],
+    "a": 2,
+    "explanation": "Retina acts like a screen and contains photoreceptors."
+  },
+  {
+    "q": "Baculovirus is used for:",
+    "options": ["Pest control", "Medicine", "Food preservation", "Pollution control"],
+    "a": 0,
+    "explanation": "It targets specific insects and arthropods."
+  },
+  {
+    "q": "The pitch of sound is determined by its:",
+    "options": ["Amplitude", "Frequency", "Loudness", "Speed"],
+    "a": 1,
+    "explanation": "High frequency means high pitch."
+  },
+  {
+    "q": "Which lens is used to correct myopia?",
+    "options": ["Convex lens", "Concave lens", "Cylindrical lens", "Bifocal lens"],
+    "a": 1,
+    "explanation": "Concave lenses diverge rays to focus on the retina."
+  },
+  {
+    "q": "The Earth's crust is thinnest under the:",
+    "options": ["Mountains", "Plains", "Oceans", "Deserts"],
+    "a": 2,
+    "explanation": "Oceanic crust is thinner than continental crust."
+  }
+]
