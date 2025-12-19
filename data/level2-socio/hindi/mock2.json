@@ -99,7 +99,7 @@
     "q": "आगमन विधि चलती है:",
     "options": ["नियम से उदाहरण", "उदाहरण से नियम", "सूक्ष्म से स्थूल", "अमूर्त से मूर्त"],
     "a": 1,
-    "explanation": "Inductive method विशिष्ट उदाहरणों से सामान्य नियम की ओर बढ़ता है।"
+    "explanation": "Inductive method विशिष्ट उदाहरणों से सामान्य नियम की ओर बढ़ता है।"
   },
   {
     "q": "इनमें से 'स्त्रीलिंग' शब्द है:",
@@ -108,46 +108,46 @@
     "explanation": "नदी बहती है (स्त्रीलिंग)। घी, दही, पानी पुल्लिंग हैं।"
   },
   {
-    "q": "'I wanted to go, but I was tired' में Conjunction है:",
+    "q": "In the sentence 'I wanted to go, but I was tired', the 'Conjunction' is:",
     "options": ["Wanted", "Go", "But", "Tired"],
     "a": 2,
-    "explanation": "But दो वाक्यों को जोड़ने का कार्य कर रहा है।"
+    "explanation": "'But' is the conjunction here as it is used to connect two independent clauses."
   },
   {
-    "q": "सही वर्तनी (Spelling) चुनें:",
+    "q": "Choose the correctly spelled word:",
     "options": ["Accomodation", "Accommodation", "Acomodation", "Accommadation"],
     "a": 1,
-    "explanation": "Accommodation (Double C, Double M)।"
+    "explanation": "The correct spelling is 'Accommodation', which contains double 'c' and double 'm'."
   },
   {
-    "q": "'Transparent' का विलोम है:",
+    "q": "Select the antonym for the word 'Transparent':",
     "options": ["Clear", "Opaque", "Bright", "Fragile"],
     "a": 1,
-    "explanation": "Opaque का अर्थ है जिसके आर-पार न देखा जा सके।"
+    "explanation": "'Opaque' is the opposite of transparent; it refers to something that does not allow light to pass through."
   },
   {
-    "q": "'She said that she was happy' का Direct Speech है:",
+    "q": "What is the 'Direct Speech' of: She said that she was happy?",
     "options": ["She said, 'I am happy.'", "She said, 'She is happy.'", "She says, 'I am happy.'", "She said, 'I was happy.'"],
     "a": 0,
-    "explanation": "Direct speech में काल वर्तमान (Present) हो जाता है।"
+    "explanation": "In direct speech, the indirect 'was' reverts to the present tense 'am' and the third person pronoun changes to 'I'."
   },
   {
-    "q": "व्याकरण-अनुवाद विधि कहलाती है:",
-    "options": ["Direct Method", "Grammar-Translation Method", "Bilingual Method", "Audio-Lingual Method"],
+    "q": "The Grammar-Translation Method is also known as:",
+    "options": ["Direct Method", "Classical Method", "Bilingual Method", "Audio-Lingual Method"],
     "a": 1,
-    "explanation": "GT method पारंपरिक विदेशी भाषा शिक्षण पद्धति है।"
+    "explanation": "The Grammar-Translation method is one of the most traditional or 'classical' ways of teaching foreign languages."
   },
   {
-    "q": "A ________ of wolves (सही शब्द):",
+    "q": "A ________ of wolves (Choose the correct collective noun):",
     "options": ["Flock", "Herd", "Pack", "Swarm"],
     "a": 2,
-    "explanation": "भेड़ियों के समूह को Pack कहा जाता है।"
+    "explanation": "'Pack' is the specific collective noun used for a group of wolves."
   },
   {
-    "q": "'The cat is sitting ________ the table' (सही Preposition):",
+    "q": "Choose the correct preposition: 'The cat is sitting ________ the table.'",
     "options": ["in", "under", "between", "into"],
     "a": 1,
-    "explanation": "मेज के नीचे बैठने के लिए 'under' का प्रयोग होगा।"
+    "explanation": "'Under' is the correct preposition to indicate a position below the surface of the table."
   },
   {
     "q": "यदि x + 1/x = 5, तो x^2 + 1/x^2 का मान है:",
@@ -174,7 +174,7 @@
     "explanation": "परिधि का कोण केंद्र के कोण का आधा होता है (80/2 = 40)।"
   },
   {
-    "q": "अंकों का योग 9, 27 जोड़ने पर अंक पलट जाते हैं। संख्या है:",
+    "q": "अंकों का योग 9, 27 जोड़ने पर अंक पलट जाते हैं। संख्या है:",
     "options": ["36", "63", "45", "54"],
     "a": 0,
     "explanation": "36 + 27 = 63।"
