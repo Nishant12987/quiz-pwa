@@ -24,7 +24,7 @@
     "explanation": "बहुविकल्पीय प्रश्नों का एक विशिष्ट सही उत्तर होता है, जो परीक्षक के पूर्वाग्रह को कम करता है।"
   },
   {
-    "q": "उस बच्चे की बुद्धि लब्धि (I.Q.) क्या है जिसकी मानसिक आयु 12 और कालानुक्रमिक आयु 10 है?",
+    "q": "उस बच्चे की बुद्धि लब्धि (I.Q.) क्या है जिसकी मानसिक आयु 12 और वास्तविक आयु 10 है?",
     "options": ["100", "110", "120", "130"],
     "a": 2,
     "explanation": "IQ = (मानसिक आयु / वास्तविक आयु) x 100. इसलिए, (12/10) x 100 = 120।"
@@ -63,7 +63,7 @@
     "q": "स्कूली शिक्षा के संदर्भ में 'CCE' का क्या अर्थ है?",
     "options": ["सतत और रचनात्मक मूल्यांकन", "सतत और व्यापक मूल्यांकन", "पूर्ण और व्यापक मूल्यांकन", "सतत और संज्ञानात्मक मूल्यांकन"],
     "a": 1,
-    "explanation": "CCE मूल्यांकन की एक प्रणाली को संदर्भित करता है जो छात्रों के विकास के सभी पहलुओं को कवर करता है।"
+    "explanation": "CCE मूल्यांकन की एक प्रणाली को संदर्भित करता है जो छात्रों के विकास के सभी पहलुओं को कवर करती है।"
   },
   {
     "q": "'अत्यधिक' शब्द में कौन सी संधि है?",
@@ -108,46 +108,46 @@
     "explanation": "अं (अनुस्वार) और अः (विसर्ग) को अयोगवाह कहा जाता है।"
   },
   {
-    "q": "वाक्य में 'विशेषण' पहचानें: 'The courageous soldier fought well.'",
+    "q": "Identify the 'Adjective' in the sentence: 'The courageous soldier fought well.'",
     "options": ["Soldier", "Courageous", "Fought", "Well"],
     "a": 1,
-    "explanation": "'Courageous' संज्ञा 'soldier' की विशेषता बताता है।"
+    "explanation": "'Courageous' describes the quality of the noun 'soldier'."
   },
   {
-    "q": "सही आर्टिकल चुनें: 'I saw ________ one-eyed man yesterday.'",
+    "q": "Choose the correct article: 'I saw ________ one-eyed man yesterday.'",
     "options": ["a", "an", "the", "No article"],
     "a": 0,
-    "explanation": "'One' एक व्यंजन ध्वनि ('w' ध्वनि) से शुरू होता है, इसलिए 'a' का उपयोग किया जाता है।"
+    "explanation": "'One' starts with a consonant sound ('w' sound), so 'a' is used."
   },
   {
-    "q": "'Horse' का स्त्रीलिंग क्या है?",
+    "q": "What is the feminine gender of 'Horse'?",
     "options": ["Bitch", "Mare", "Doe", "Ewe"],
     "a": 1,
-    "explanation": "एक मादा घोड़े को 'mare' कहा जाता है।"
+    "explanation": "A female horse is called a mare."
   },
   {
-    "q": "वाच्य बदलें: 'Who broke the glass?'",
+    "q": "Change the voice: 'Who broke the glass?'",
     "options": ["By whom was the glass broken?", "Who was broken the glass?", "By whom is the glass broken?", "The glass was broken by whom?"],
     "a": 0,
-    "explanation": "पैसिव वॉइस में प्रश्नवाचक 'Who' 'By whom' में बदल जाता है।"
+    "explanation": "Interrogative 'Who' changes to 'By whom' in passive voice."
   },
   {
-    "q": "निम्नलिखित में से कौन सा एक 'Lexical Word' है?",
+    "q": "Which of the following is a 'Lexical Word'?",
     "options": ["Is", "And", "Love", "With"],
     "a": 2,
-    "explanation": "लेक्सिकल शब्दों का स्वतंत्र अर्थ होता है (संज्ञा, क्रिया, विशेषण)।"
+    "explanation": "Lexical words carry independent meaning (nouns, verbs, adjectives)."
   },
   {
-    "q": "'Chair' में 'ch' द्वारा उत्पन्न ध्वनि है:",
+    "q": "The sound produced by 'ch' in 'Chair' is a:",
     "options": ["Plosive", "Affricate", "Nasal", "Fricative"],
     "a": 1,
-    "explanation": "Affricates वे ध्वनियाँ हैं जो एक स्पर्श (stop) के रूप में शुरू होती हैं और एक संघर्षी (fricative) के रूप में मुक्त होती हैं।"
+    "explanation": "Affricates are sounds that begin as a stop and release as a fricative."
   },
   {
-    "q": "भारत में अंग्रेजी पढ़ाने का प्राथमिक लक्ष्य छात्रों को सक्षम बनाना है:",
-    "options": ["परीक्षा पास करने में", "विद्वान बनने में", "प्रभावी ढंग से संवाद करने में", "कविताएँ सुनाने में"],
+    "q": "The primary aim of teaching English in India is to enable students to:",
+    "options": ["Pass exams", "Become scholars", "Communicate effectively", "Recite poems"],
     "a": 2,
-    "explanation": "आधुनिक दृष्टिकोण संचारी क्षमता (communicative competence) पर केंद्रित है।"
+    "explanation": "The modern approach focuses on communicative competence."
   },
   {
     "q": "किस वेद में 'गायत्री मंत्र' का उल्लेख है?",
