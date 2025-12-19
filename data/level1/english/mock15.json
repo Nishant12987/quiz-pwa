@@ -1,242 +1,242 @@
 [
   {
-    "q": "Which psychologist described the 'Identity Crisis' during adolescence?",
-    "options": ["Erik Erikson", "Jean Piaget", "Sigmund Freud", "Carl Rogers"],
-    "a": 0,
-    "explanation": "Erik Erikson's theory of psychosocial development identifies 'Identity vs. Role Confusion' as the core conflict in teenagers."
-  },
-  {
-    "q": "In 'Project Method' of teaching, the role of the teacher is that of a:",
-    "options": ["Director", "Dictator", "Guide and Facilitator", "Passive Spectator"],
-    "a": 2,
-    "explanation": "In progressive education, the teacher supports students as they explore projects rather than just lecturing."
-  },
-  {
-    "q": "Which intelligence type is high in a successful 'Sculptor' or 'Architect' according to Gardner?",
-    "options": ["Logical-Mathematical", "Spatial", "Kinesthetic", "Linguistic"],
+    "q": "Which principle of development states that 'development is a continuous process'?",
+    "options": ["Principle of Discontinuity", "Principle of Continuity", "Principle of Integration", "Principle of Interaction"],
     "a": 1,
-    "explanation": "Spatial intelligence involves the ability to visualize and manipulate three-dimensional objects."
+    "explanation": "Development starts from conception and ends only at death; it never stops, making it a continuous process."
   },
   {
-    "q": "What does 'IQ' stand for in psychology?",
-    "options": ["Internal Quotient", "Intellectual Quantity", "Intelligence Quotient", "Integrated Quality"],
-    "a": 2,
-    "explanation": "Intelligence Quotient is a score derived from standardized tests to measure human intelligence."
-  },
-  {
-    "q": "Which law of Thorndike states that 'Learning is stronger when followed by satisfaction'?",
-    "options": ["Law of Readiness", "Law of Exercise", "Law of Effect", "Law of Use"],
-    "a": 2,
-    "explanation": "The 'Law of Effect' suggests that responses followed by pleasant outcomes are more likely to be repeated."
-  },
-  {
-    "q": "Which type of reinforcement is most effective for long-term behavior maintenance?",
-    "options": ["Continuous reinforcement", "Variable ratio reinforcement", "Fixed ratio reinforcement", "Negative reinforcement"],
+    "q": "According to Piaget, 'Irreversibility' is a characteristic of which stage?",
+    "options": ["Sensory-motor", "Pre-operational", "Concrete operational", "Formal operational"],
     "a": 1,
-    "explanation": "Variable ratio schedules (like gambling) produce high rates of responding and are very resistant to extinction."
+    "explanation": "In the pre-operational stage, children cannot mentally reverse a sequence of events or logical operations."
   },
   {
-    "q": "What is 'Metacognition'?",
-    "options": ["Learning by rote", "Thinking about one's own thinking", "Social interaction", "Physical growth"],
+    "q": "The concept of 'Social Learning' through observation was popularized by:",
+    "options": ["Jean Piaget", "Albert Bandura", "B.F. Skinner", "Lev Vygotsky"],
     "a": 1,
-    "explanation": "Metacognition is the awareness and understanding of one's own thought processes (planning, monitoring, evaluating)."
+    "explanation": "Bandura’s Bobo Doll experiment proved that children learn social behaviors like aggression through observation."
   },
   {
-    "q": "Which principle of development suggests that growth proceeds from the center of the body towards the extremities?",
-    "options": ["Cephalocaudal", "Proximodistal", "Spiral", "Continuity"],
+    "q": "A child who excels at 'Logical-Mathematical Intelligence' would be good at:",
+    "options": ["Writing poems", "Recognizing patterns and reasoning", "Dancing", "Understanding others"],
     "a": 1,
-    "explanation": "Proximodistal development proceeds from the central axis of the body outward to the limbs."
+    "explanation": "This intelligence involves the capacity to analyze problems logically and carry out mathematical operations."
   },
   {
-    "q": "A child who starts to understand that a tall thin glass can hold the same amount of water as a short wide glass has developed:",
-    "options": ["Egocentrism", "Object Permanence", "Conservation", "Animism"],
-    "a": 2,
-    "explanation": "Conservation is the ability to understand that quantity remains the same despite changes in outward appearance."
-  },
-  {
-    "q": "In Vygotsky's theory, the assistance provided by a teacher or peer to help a child learn a new task is called:",
-    "options": ["Conditioning", "Scaffolding", "Assimilation", "Modeling"],
+    "q": "Which of the following is a 'Negative Reinforcer'?",
+    "options": ["Giving a candy for good work", "Removing a loud noise when a student stays quiet", "Giving a low grade", "Ignoring the student"],
     "a": 1,
-    "explanation": "Scaffolding is the temporary support given to a learner to help them complete a task they cannot yet do independently."
+    "explanation": "Negative reinforcement increases behavior by removing an aversive stimulus."
   },
   {
-    "q": "According to Kohlberg, at which stage of moral development do children judge actions based on whether they will be punished?",
-    "options": ["Social Contract Orientation", "Good Boy-Nice Girl Orientation", "Punishment and Obedience Orientation", "Universal Ethical Principle"],
+    "q": "The 'Right to Education Act' (RTE) was implemented in India in which year?",
+    "options": ["2005", "2009", "2010", "2012"],
     "a": 2,
-    "explanation": "In the earliest stage of moral development, children obey rules primarily to avoid physical punishment from authority figures."
+    "explanation": "RTE was passed in 2009 but came into force across India on April 1, 2010."
   },
   {
-    "q": "'यथाशक्ति' में कौन सा समास है?",
-    "options": ["तत्पुरुष", "द्विगु", "अव्ययीभाव", "बहुव्रीहि"],
+    "q": "Which psychologist used 'Cats' in a puzzle box to study learning?",
+    "options": ["Pavlov", "Skinner", "Thorndike", "Kohler"],
     "a": 2,
-    "explanation": "जहाँ पहला पद अव्यय हो (यथा), वहाँ अव्ययीभाव समास होता है."
+    "explanation": "E.L. Thorndike used cats to establish his 'Trial and Error' theory and the 'Law of Effect'."
   },
   {
-    "q": "निम्न में से 'तद्भव' शब्द छाँटिए:",
-    "options": ["अग्नि", "पुष्प", "हाथ", "सूर्य"],
+    "q": "A student with 'Dysphasia' has difficulty in:",
+    "options": ["Reading", "Writing", "Language comprehension and expression", "Motor skills"],
     "a": 2,
-    "explanation": "'हाथ' तद्भव है; इसका तत्सम 'हस्त' होता है। अन्य शब्द तत्सम हैं."
+    "explanation": "Dysphasia is a language disorder that affects a person's ability to communicate."
   },
   {
-    "q": "'अंधे की लाठी' मुहावरे का सही अर्थ है:",
-    "options": ["बहुत कमजोर होना", "एकमात्र सहारा", "मूर्ख व्यक्ति", "अंधे व्यक्ति का सहायक"],
+    "q": "In Kohlberg's theory, the 'Law and Order' orientation is part of which level?",
+    "options": ["Pre-conventional", "Conventional", "Post-conventional", "Pre-operational"],
     "a": 1,
-    "explanation": "यह मुहावरा किसी असहाय व्यक्ति के इकलौते सहारे के लिए प्रयोग किया जाता है."
+    "explanation": "In the conventional level, people believe that rules are necessary for maintaining social order."
   },
   {
-    "q": "जो 'सब कुछ जानता हो' - वाक्यांश के लिए एक शब्द है:",
-    "options": ["अल्पज्ञ", "बहुज्ञ", "सर्वज्ञ", "अभिज्ञ"],
+    "q": "Which method is known as 'Learning by Insight'?",
+    "options": ["Trial and Error", "Classical Conditioning", "Gestalt Theory", "Operant Conditioning"],
     "a": 2,
-    "explanation": "सर्व (सब कुछ) + ज्ञ (जानने वाला) = सर्वज्ञ."
+    "explanation": "Kohler's experiments with chimpanzees showed that learning can happen suddenly through understanding relationships."
   },
   {
-    "q": "शिक्षण की 'आगमन विधि' (Inductive Method) चलती है:",
-    "options": ["नियम से उदाहरण की ओर", "उदाहरण से नियम की ओर", "सूक्ष्म से स्थूल की ओर", "अमूर्त से मूर्त की ओर"],
-    "a": 1,
-    "explanation": "आगमन विधि में पहले अनेक उदाहरण दिए जाते हैं, फिर एक सामान्य नियम निकाला जाता है."
-  },
-  {
-    "q": "इनमें से कौन सा 'स्त्रीलिंग' शब्द है?",
-    "options": ["घी", "दही", "नदी", "पानी"],
+    "q": "Inclusive education means teaching together:",
+    "options": ["Only disabled children", "Only gifted children", "Disabled and non-disabled children", "Only children of the same age"],
     "a": 2,
-    "explanation": "नदी बहती है (स्त्रीलिंग)। घी, दही और पानी पुल्लिंग शब्द हैं."
+    "explanation": "Inclusion ensures all students are part of the same educational community regardless of their abilities."
   },
   {
-    "q": "हिंदी भाषा में कुल कितने 'स्वर' हैं?",
-    "options": ["10", "11", "13", "15"],
+    "q": "'अन्वय' का सही संधि-विच्छेद है:",
+    "options": ["अन + वय", "अनु + अय", "अन् + अय", "अनु + आय"],
     "a": 1,
-    "explanation": "मानक हिंदी वर्णमाला में कुल 11 स्वर (अ से औ) माने जाते हैं."
+    "explanation": "अनु + अय = अन्वय। यह यण संधि का उदाहरण है।"
   },
   {
-    "q": "Identify the 'Adjective' in the sentence: 'The blue umbrella belongs to me.'",
-    "options": ["Umbrella", "Belongs", "Me", "Blue"],
+    "q": "'वनवास' में कौन सा समास है?",
+    "options": ["द्विगु", "द्वंद्व", "तत्पुरुष", "बहुव्रीहि"],
+    "a": 2,
+    "explanation": "वन में वास। यहाँ 'में' विभक्ति का लोप है, अतः यह तत्पुरुष समास है।"
+  },
+  {
+    "q": "'स्थावर' का विलोम शब्द क्या है?",
+    "options": ["सचत", "जंगम", "चेतन", "स्थिर"],
+    "a": 1,
+    "explanation": "स्थावर का अर्थ है स्थिर, और इसका विलोम जंगम (चलायमान) होता है।"
+  },
+  {
+    "q": "'दाँतों तले उँगली दबाना' मुहावरे का अर्थ है:",
+    "options": ["भूख लगना", "हैरान होना", "गुस्सा करना", "दर्द होना"],
+    "a": 1,
+    "explanation": "इस मुहावरे का अर्थ आश्चर्यचकित या दंग रह जाना होता है।"
+  },
+  {
+    "q": "शुद्ध वर्तनी वाला शब्द चुनिए:",
+    "options": ["श्रृंगार", "शृंगार", "श्रंगार", "सिंगार"],
+    "a": 1,
+    "explanation": "हिंदी व्याकरण के अनुसार 'शृंगार' शुद्ध वर्तनी है।"
+  },
+  {
+    "q": "'बादल' का पर्यायवाची शब्द नहीं है:",
+    "options": ["मेघ", "जलद", "वारिद", "अम्बुज"],
     "a": 3,
-    "explanation": "An adjective modifies a noun; 'blue' describes the noun 'umbrella'."
+    "explanation": "अम्बुज कमल का पर्यायवाची है, जबकि अन्य तीनों बादल के हैं।"
   },
   {
-    "q": "Which of these is NOT a principle of Language Teaching?",
-    "options": ["Principle of Motivation", "Principle of Habit Formation", "Principle of Rote Memorization", "Principle of Oral Approach"],
-    "a": 2,
-    "explanation": "Modern pedagogy discourages rote memorization, favoring communicative and natural learning."
-  },
-  {
-    "q": "Find the error: 'Each of the students (A) have (B) submitted (C) the assignment (D).'",
-    "options": ["A", "B", "C", "D"],
-    "a": 1,
-    "explanation": "'Each' is singular. The verb should be 'has' instead of 'have'."
-  },
-  {
-    "q": "Identify the 'Subject' in the sentence: 'On the top of the hill lives a hermit.'",
-    "options": ["The hill", "The top", "A hermit", "Lives"],
-    "a": 2,
-    "explanation": "The sentence is inverted; 'a hermit' is the person who lives, making him the subject."
-  },
-  {
-    "q": "Which of these is a 'Vowel Sound' symbol in Phonetics?",
-    "options": ["/p/", "/b/", "/e/", "/t/"],
-    "a": 2,
-    "explanation": "/p/, /b/, and /t/ are consonant sounds; /e/ represents a vowel sound."
-  },
-  {
-    "q": "The phrase 'Call it a day' means:",
-    "options": ["To start working", "To stop working on something", "To wake up early", "To celebrate"],
-    "a": 1,
-    "explanation": "This idiom is used to decide to stop doing something for the rest of the day."
-  },
-  {
-    "q": "Select the correct 'Question Tag': 'You are a student, ________?'",
-    "options": ["don't you", "aren't you", "are you", "isn't it"],
-    "a": 1,
-    "explanation": "A positive statement with 'are' takes a negative tag 'aren't you?'."
-  },
-  {
-    "q": "What is the value of 0.5 + 0.05 + 0.005?",
-    "options": ["0.555", "0.6", "0.15", "0.55"],
+    "q": "जो 'कठिनाई से मिलता हो' उसे क्या कहते हैं?",
+    "options": ["दुर्लभ", "अलभ्य", "दुर्गम", "अगम"],
     "a": 0,
-    "explanation": "Align the decimal points: 0.500 + 0.050 + 0.005 = 0.555."
+    "explanation": "जो प्राप्त करना कठिन हो उसे दुर्लभ कहा जाता है।"
   },
   {
-    "q": "A triangle with all three sides equal is called:",
-    "options": ["Isosceles", "Equilateral", "Scalene", "Right-angled"],
-    "a": 1,
-    "explanation": "Equi (equal) + lateral (sides) = Equilateral triangle."
-  },
-  {
-    "q": "Convert 2.5 kg into grams:",
-    "options": ["250 g", "2500 g", "25 g", "25000 g"],
-    "a": 1,
-    "explanation": "1 kg = 1000 grams. So, 2.5 x 1000 = 2500 grams."
-  },
-  {
-    "q": "What is the LCM of 4 and 6?",
-    "options": ["2", "12", "24", "10"],
-    "a": 1,
-    "explanation": "Multiples of 4: 4, 8, 12... Multiples of 6: 6, 12... The least common multiple is 12."
-  },
-  {
-    "q": "Which of the following is a prime number?",
-    "options": ["4", "9", "13", "15"],
+    "q": "Identify the 'Collective Noun' in: 'The army marched forward.'",
+    "options": ["Marched", "Forward", "Army", "The"],
     "a": 2,
-    "explanation": "A prime number has exactly two factors: 1 and itself. 13 is only divisible by 1 and 13."
+    "explanation": "Army is a group of soldiers, hence it is a collective noun."
   },
   {
-    "q": "If an angle is 90 degrees, it is called a:",
-    "options": ["Acute angle", "Obtuse angle", "Right angle", "Reflex angle"],
+    "q": "Choose the correct article: 'He is ________ honest officer.'",
+    "options": ["a", "an", "the", "No article"],
+    "a": 1,
+    "explanation": "'Honest' starts with a vowel sound (O), so 'an' is used."
+  },
+  {
+    "q": "What is the antonym of 'Optimist'?",
+    "options": ["Idealist", "Pessimist", "Realist", "Hopeful"],
+    "a": 1,
+    "explanation": "An optimist looks at the bright side; a pessimist looks at the dark side."
+  },
+  {
+    "q": "Identify the 'Verb' in: 'The children played in the park.'",
+    "options": ["Children", "Played", "Park", "In"],
+    "a": 1,
+    "explanation": "Played is the action being performed."
+  },
+  {
+    "q": "Which prefix can be added to 'Fortunate' to make it an antonym?",
+    "options": ["In-", "Un-", "Dis-", "Mis-"],
+    "a": 1,
+    "explanation": "Unfortunate is the opposite of fortunate."
+  },
+  {
+    "q": "Choose the correctly spelled word:",
+    "options": ["Commitee", "Committee", "Comittee", "Committe"],
+    "a": 1,
+    "explanation": "The correct spelling is 'Committee' (double m, double t, double e)."
+  },
+  {
+    "q": "A person who studies the stars and planets is an:",
+    "options": ["Astronaut", "Astronomer", "Astrologer", "Architect"],
+    "a": 1,
+    "explanation": "An astronomer is a scientist who studies celestial bodies."
+  },
+  {
+    "q": "What is the successor of the smallest 4-digit number?",
+    "options": ["999", "1000", "1001", "1010"],
     "a": 2,
-    "explanation": "An angle measuring exactly 90 degrees is a right angle."
+    "explanation": "Smallest 4-digit number is 1000. Successor = 1000 + 1 = 1001."
   },
   {
-    "q": "How many faces does a cube have?",
-    "options": ["4", "6", "8", "12"],
+    "q": "How many millimeters make 10 centimeters?",
+    "options": ["10", "100", "1000", "1"],
     "a": 1,
-    "explanation": "A cube (like a die) has 6 flat square faces."
+    "explanation": "1 cm = 10 mm. So, 10 cm = 100 mm."
   },
   {
-    "q": "What is 25 percent of 200?",
-    "options": ["25", "50", "75", "100"],
-    "a": 1,
-    "explanation": "(25/100) x 200 = 0.25 x 200 = 50."
+    "q": "Which of the following is a 'Prime Number'?",
+    "options": ["15", "21", "23", "27"],
+    "a": 2,
+    "explanation": "23 has only two factors (1 and 23)."
   },
   {
-    "q": "What is the product of 15 and 6?",
-    "options": ["80", "90", "100", "110"],
-    "a": 1,
-    "explanation": "15 x 6 = 90."
-  },
-  {
-    "q": "How many centimeters are in 5 meters?",
-    "options": ["50", "500", "5000", "5"],
-    "a": 1,
-    "explanation": "1 meter = 100 cm. So, 5 meters = 500 cm."
-  },
-  {
-    "q": "Which of the following is a source of Vitamin A?",
-    "options": ["Carrot", "Lemon", "Amla", "Rice"],
+    "q": "A triangle with all three angles less than 90 degrees is:",
+    "options": ["Acute-angled", "Obtuse-angled", "Right-angled", "Equilateral"],
     "a": 0,
-    "explanation": "Carrots are rich in beta-carotene, which the body converts into Vitamin A (essential for eyesight)."
+    "explanation": "An acute triangle has all angles measuring less than 90 degrees."
   },
   {
-    "q": "A group of ants is known as a:",
-    "options": ["Pride", "Colony", "School", "Pack"],
-    "a": 1,
-    "explanation": "Collective noun for ants is a 'colony'."
-  },
-  {
-    "q": "Which planet is known as the 'Red Planet'?",
-    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
-    "a": 1,
-    "explanation": "Mars appears red due to iron oxide (rust) on its surface."
-  },
-  {
-    "q": "Who is known as the 'Birdman of India'?",
-    "options": ["Salim Ali", "C.V. Raman", "Homi Bhabha", "Vikram Sarabhai"],
-    "a": 0,
-    "explanation": "Dr. Salim Ali was a famous Indian ornithologist and naturalist."
-  },
-  {
-    "q": "Which part of the plant absorbs water from the soil?",
-    "options": ["Stem", "Leaf", "Root", "Flower"],
+    "q": "Convert 3/5 into a decimal.",
+    "options": ["0.3", "0.5", "0.6", "0.75"],
     "a": 2,
-    "explanation": "Roots have root hairs that absorb water and minerals through osmosis."
+    "explanation": "3 divided by 5 is 0.6."
+  },
+  {
+    "q": "Find the average of 2, 4, 6, 8.",
+    "options": ["4", "5", "6", "20"],
+    "a": 1,
+    "explanation": "(2+4+6+8) / 4 = 20 / 4 = 5."
+  },
+  {
+    "q": "How many hours are there in 180 minutes?",
+    "options": ["2 hours", "3 hours", "4 hours", "5 hours"],
+    "a": 1,
+    "explanation": "180 / 60 = 3 hours."
+  },
+  {
+    "q": "What is the place value of 0 in 10,543?",
+    "options": ["1000", "0", "100", "10"],
+    "a": 1,
+    "explanation": "Place value of zero is always zero."
+  },
+  {
+    "q": "Find the perimeter of a rectangle with L=12cm and W=8cm.",
+    "options": ["20 cm", "40 cm", "96 cm", "48 cm"],
+    "a": 1,
+    "explanation": "Perimeter = 2(12+8) = 40 cm."
+  },
+  {
+    "q": "What is the Roman numeral for 100?",
+    "options": ["L", "C", "D", "M"],
+    "a": 1,
+    "explanation": "C stands for 100 in Roman numerals."
+  },
+  {
+    "q": "Which gas is released by humans during exhalation?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "a": 1,
+    "explanation": "Humans breathe in oxygen and release carbon dioxide as a waste product."
+  },
+  {
+    "q": "Which part of the plant holds it firmly in the soil?",
+    "options": ["Stem", "Leaves", "Root", "Flower"],
+    "a": 2,
+    "explanation": "Roots anchor the plant and absorb nutrients."
+  },
+  {
+    "q": "A place where honeybees are kept is called an:",
+    "options": ["Aquarium", "Aviary", "Apiary", "Zoo"],
+    "a": 2,
+    "explanation": "An apiary is a place where beehives are kept."
+  },
+  {
+    "q": "Which of these is a source of Vitamin C?",
+    "options": ["Milk", "Wheat", "Orange", "Meat"],
+    "a": 2,
+    "explanation": "Citrus fruits like oranges are rich in Vitamin C."
+  },
+  {
+    "q": "What is the 'State Animal' of Rajasthan?",
+    "options": ["Lion", "Tiger", "Chinkara", "Elephant"],
+    "a": 2,
+    "explanation": "The Chinkara (Indian Gazelle) is a state animal of Rajasthan."
   }
 ]
