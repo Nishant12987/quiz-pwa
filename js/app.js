@@ -1,4 +1,3 @@
-alert("app.js loaded");
 /***********************
  * GLOBAL STATE
  ***********************/
@@ -110,7 +109,7 @@ function saveName() {
 }
 
 /***********************
- * DASHBOARD
+ * DASHBOARD (FINAL FIX)
  ***********************/
 function showDashboard() {
   hideAll();
@@ -135,6 +134,15 @@ function showDashboard() {
         ? "block"
         : "none";
   };
+
+  // ✅ CRITICAL: bind Start Test AFTER dashboard is visible
+  const startBtn = document.getElementById("startTestBtn");
+  if (startBtn) {
+    startBtn.onclick = () => {
+      console.log("Start Test clicked");
+      startFlow();
+    };
+  }
 }
 
 /***********************
