@@ -1,0 +1,242 @@
+[
+  {
+    "q": "Which psychologist emphasizes the 'Socio-cultural' aspect of development?",
+    "options": ["Jean Piaget", "Lev Vygotsky", "Lawrence Kohlberg", "Erik Erikson"],
+    "a": 1,
+    "explanation": "Vygotsky believed social interaction and culture play a fundamental role in cognitive development."
+  },
+  {
+    "q": "What is the primary characteristic of 'Adolescent Egocentrism'?",
+    "options": ["Fear of strangers", "Imaginary Audience", "Object Permanence", "Conservation"],
+    "a": 1,
+    "explanation": "Adolescents often feel they are at the center of everyone else's attention (Imaginary Audience)."
+  },
+  {
+    "q": "In Thorndike's 'Trial and Error' theory, the 'Law of Effect' refers to:",
+    "options": ["Repetition of task", "Consequences of behavior", "Readiness to learn", "Association of ideas"],
+    "a": 1,
+    "explanation": "Behaviors followed by pleasant consequences are likely to be repeated."
+  },
+  {
+    "q": "Which tool is best used for 'Anecdotal Records' in a school?",
+    "options": ["Rating scale", "Checklist", "Observation", "Projective test"],
+    "a": 2,
+    "explanation": "Anecdotal records are brief narrative accounts of specific incidents observed by teachers."
+  },
+  {
+    "q": "The 'Gifted' child usually has an I.Q. score of:",
+    "options": ["90-110", "110-120", "130 or above", "70-80"],
+    "a": 2,
+    "explanation": "Children with an IQ of 130+ are typically categorized as gifted."
+  },
+  {
+    "q": "A child says 'I did it' after completing a task. This shows development in:",
+    "options": ["Physical domain", "Self-efficacy", "Biological growth", "Moral reasoning"],
+    "a": 1,
+    "explanation": "Self-efficacy is the belief in one's own ability to complete tasks and reach goals."
+  },
+  {
+    "q": "Which stage of Piaget involves 'Reversibility' of thought?",
+    "options": ["Sensory-motor", "Pre-operational", "Concrete operational", "Formal operational"],
+    "a": 2,
+    "explanation": "Reversibility—understanding that actions can be undone—develops in the concrete operational stage."
+  },
+  {
+    "q": "What does 'ADHD' primarily affect in a learner?",
+    "options": ["Reading speed", "Attention span", "Math calculation", "Vision"],
+    "a": 1,
+    "explanation": "Attention Deficit Hyperactivity Disorder primarily affects the ability to focus and sustain attention."
+  },
+  {
+    "q": "The 'Project Method' was primarily developed by:",
+    "options": ["Froebel", "Maria Montessori", "William Kilpatrick", "John Dewey"],
+    "a": 2,
+    "explanation": "Kilpatrick, a student of Dewey, developed the Project Method based on pragmatism."
+  },
+  {
+    "q": "Which of the following is an 'Affective' domain objective?",
+    "options": ["Reciting a poem", "Valuing diversity", "Drawing a map", "Solving an equation"],
+    "a": 1,
+    "explanation": "The affective domain (Bloom) deals with feelings, values, and attitudes."
+  },
+  {
+    "q": "What is 'Growth' compared to 'Development'?",
+    "options": ["Qualitative", "Quantitative", "Both", "Spiritual"],
+    "a": 1,
+    "explanation": "Growth refers to physical changes (height/weight) and is quantitative."
+  },
+  {
+    "q": "'सत्याग्रह' का सही संधि-विच्छेद है:",
+    "options": ["सत्य + ग्रह", "सत्य + आग्रह", "सत्या + ग्रह", "सत्य + आग्ग्रह"],
+    "a": 1,
+    "explanation": "सत्य + आग्रह = सत्याग्रह (अ + आ = आ, दीर्घ संधि)।"
+  },
+  {
+    "q": "'महानगर' में कौन सा समास है?",
+    "options": ["तत्पुरुष", "द्विगु", "कर्मधारय", "अव्ययीभाव"],
+    "a": 2,
+    "explanation": "महान है जो नगर (विशेषण-विशेष्य), यहाँ कर्मधारय समास है।"
+  },
+  {
+    "q": "'आयात' का विलोम शब्द क्या है?",
+    "options": ["निर्यात", "गयात", "आगत", "प्रस्थान"],
+    "a": 0,
+    "explanation": "आयात (Import) का विलोम निर्यात (Export) होता है।"
+  },
+  {
+    "q": "'लोहे के चने चबाना' मुहावरे का अर्थ है:",
+    "options": ["कठोर परिश्रम करना", "बहुत कठिनाई का सामना करना", "लोहा खाना", "मजाक करना"],
+    "a": 1,
+    "explanation": "इसका अर्थ है किसी बहुत कठिन कार्य को करना या भारी मुश्किल झेलना।"
+  },
+  {
+    "q": "निम्नलिखित में से 'शुद्ध' वाक्य है:",
+    "options": ["मेरे को घर जाना है।", "मुझे घर जाना है।", "मैं घर को जाना है।", "मैंने घर जाना है।"],
+    "a": 1,
+    "explanation": "व्याकरण की दृष्टि से 'मुझे घर जाना है' शुद्ध वाक्य है।"
+  },
+  {
+    "q": "'अनल' और 'अनिल' शब्द युग्म का सही अर्थ है:",
+    "options": ["वायु और अग्नि", "अग्नि और वायु", "जल और अग्नि", "वायु और जल"],
+    "a": 1,
+    "explanation": "अनल का अर्थ 'अग्नि' और अनिल का अर्थ 'वायु' होता है।"
+  },
+  {
+    "q": "भाषा की 'आगमन विधि' में बढ़ते हैं:",
+    "options": ["नियम से उदाहरण की ओर", "उदाहरण से नियम की ओर", "सरल से कठिन की ओर", "अमूर्त से मूर्त की ओर"],
+    "a": 1,
+    "explanation": "Inductive method starts with specific examples to derive general rules."
+  },
+  {
+    "q": "Identify the 'Adverb' in: 'She sings very sweetly.'",
+    "options": ["She", "Sings", "Very", "Sweetly"],
+    "a": 3,
+    "explanation": "'Sweetly' describes the manner of the verb 'sings'."
+  },
+  {
+    "q": "Choose the correct spelling:",
+    "options": ["Committee", "Comittee", "Committe", "Comitee"],
+    "a": 0,
+    "explanation": "The correct spelling has double m, double t, and double e."
+  },
+  {
+    "q": "The antonym of 'Victory' is:",
+    "options": ["Success", "Defeat", "Win", "Glory"],
+    "a": 1,
+    "explanation": "Defeat is the opposite of victory."
+  },
+  {
+    "q": "Select the correct collective noun: 'A ________ of ships.'",
+    "options": ["Herd", "Pack", "Fleet", "Swarm"],
+    "a": 2,
+    "explanation": "A group of ships or vehicles is called a fleet."
+  },
+  {
+    "q": "Convert to passive voice: 'I am reading a book.'",
+    "options": ["A book is read by me.", "A book is being read by me.", "A book was read by me.", "I was reading a book."],
+    "a": 1,
+    "explanation": "Present continuous changes to 'is/am/are + being + V3' in passive."
+  },
+  {
+    "q": "Which part of speech is 'Under' in 'The cat is under the bed'?",
+    "options": ["Noun", "Adjective", "Preposition", "Conjunction"],
+    "a": 2,
+    "explanation": "It shows the position/relation of the cat to the bed."
+  },
+  {
+    "q": "The 'LSRW' sequence in language learning stands for:",
+    "options": ["Learn, Speak, Read, Write", "Listen, Speak, Read, Write", "Listen, Study, Read, Write", "Look, Speak, Read, Write"],
+    "a": 1,
+    "explanation": "It represents the natural order of language skill acquisition."
+  },
+  {
+    "q": "Who was the 'Sher-e-Punjab'?",
+    "options": ["Bhagat Singh", "Lala Lajpat Rai", "Udam Singh", "Kartar Singh Sarabha"],
+    "a": 1,
+    "explanation": "Lala Lajpat Rai was famously known as the Lion of Punjab."
+  },
+  {
+    "q": "The 'Standard Meridian' of India is:",
+    "options": ["82.5° E", "68.7° E", "97.2° E", "23.5° N"],
+    "a": 0,
+    "explanation": "82°30' E longitude is taken as the IST (Indian Standard Time)."
+  },
+  {
+    "q": "Which Mughal Emperor abolished the 'Jizya' tax?",
+    "options": ["Humayun", "Akbar", "Jahangir", "Aurangzeb"],
+    "a": 1,
+    "explanation": "Akbar abolished Jizya in 1564 to promote religious harmony (though Aurangzeb re-imposed it later)."
+  },
+  {
+    "q": "The 'Mount Aconcagua' is the highest peak of which mountain range?",
+    "options": ["Himalayas", "Rockies", "Andes", "Alps"],
+    "a": 2,
+    "explanation": "Aconcagua is the highest point in South America and the Andes range."
+  },
+  {
+    "q": "Under the Indian Constitution, the 'Residuary Powers' belong to:",
+    "options": ["State Government", "Central Government", "Local Bodies", "Joint Authority"],
+    "a": 1,
+    "explanation": "Article 248 grants residuary powers (subjects not in any list) to the Union Parliament."
+  },
+  {
+    "q": "The 'Sanchi Stupa' was built by which ruler?",
+    "options": ["Chandragupta Maurya", "Ashoka", "Kanishka", "Harshavardhana"],
+    "a": 1,
+    "explanation": "The Great Stupa at Sanchi was originally commissioned by Emperor Ashoka."
+  },
+  {
+    "q": "Which is the largest 'Freshwater Lake' in India?",
+    "options": ["Chilika Lake", "Wular Lake", "Sambhar Lake", "Pulicat Lake"],
+    "a": 1,
+    "explanation": "Wular Lake in Jammu & Kashmir is one of the largest freshwater lakes in Asia."
+  },
+  {
+    "q": "The 'Quit India' resolution was passed in which city?",
+    "options": ["Lahore", "Calcutta", "Bombay", "Delhi"],
+    "a": 2,
+    "explanation": "The resolution was passed at the Gwalior Tank Maidan in Bombay on Aug 8, 1942."
+  },
+  {
+    "q": "How many members can the President nominate to the 'Rajya Sabha'?",
+    "options": ["2", "10", "12", "15"],
+    "a": 2,
+    "explanation": "The President nominates 12 members from fields like art, literature, science, and social service."
+  },
+  {
+    "q": "The 'Ring of Fire' is associated with which ocean?",
+    "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+    "a": 3,
+    "explanation": "The Pacific Ring of Fire is an area of intense volcanic and earthquake activity."
+  },
+  {
+    "q": "Who was the 'Permanent President' of the Constituent Assembly?",
+    "options": ["Dr. B.R. Ambedkar", "Dr. Sachchidanand Sinha", "Dr. Rajendra Prasad", "J.L. Nehru"],
+    "a": 2,
+    "explanation": "While Sinha was temporary, Dr. Rajendra Prasad was elected permanent President on Dec 11, 1946."
+  },
+  {
+    "q": "The 'Indigo Revolt' took place in which state?",
+    "options": ["Bihar", "Bengal", "Gujarat", "Maharashtra"],
+    "a": 1,
+    "explanation": "The revolt (1859) against forced indigo cultivation happened in Bengal."
+  },
+  {
+    "q": "Which planet has the maximum number of 'Natural Satellites' (Moons)?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "a": 1,
+    "explanation": "As per recent astronomical data (2023), Saturn has overtaken Jupiter with the most moons."
+  },
+  {
+    "q": "The 'Governor' of an Indian state is appointed for a term of:",
+    "options": ["4 years", "5 years", "6 years", "No fixed term"],
+    "a": 1,
+    "explanation": "A Governor serves a 5-year term but holds office during the pleasure of the President."
+  },
+  {
+    "q": "The 'Rani Jhansi Marine National Park' is located in:",
+    "options": ["Lakshadweep", "Andaman and Nicobar Islands", "Gujarat", "Odisha"],
+    "a": 1,
+    "explanation": "It is situated in the Andaman and Nicobar Islands."
+  }
+]
