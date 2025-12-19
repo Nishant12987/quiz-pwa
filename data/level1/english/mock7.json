@@ -1,242 +1,242 @@
 [
   {
-    "q": "Which of the following is an example of 'Extrinsic' motivation?",
-    "options": ["Curiosity about a topic", "Joy of learning a new skill", "Receiving a gold medal for a task", "Personal satisfaction"],
-    "a": 2,
-    "explanation": "Extrinsic motivation comes from outside the individual, such as rewards, grades, or praise."
-  },
-  {
-    "q": "Gardner's theory of Multiple Intelligences suggests that a person with high 'Interpersonal Intelligence' is good at:",
-    "options": ["Understanding oneself", "Understanding others' emotions and intentions", "Solving mathematical puzzles", "Bodily coordination"],
+    "q": "Which of the following is an example of 'Symbolic Play' in children?",
+    "options": ["Building a tower with blocks", "Using a stick as a horse", "Running a race", "Solving a jigsaw puzzle"],
     "a": 1,
-    "explanation": "Interpersonal intelligence is the ability to understand and interact effectively with others."
+    "explanation": "Symbolic play occurs when a child uses one object to represent another, a key feature of Piaget's pre-operational stage."
   },
   {
-    "q": "Which learning principle emphasizes that 'Whole is greater than the sum of its parts'?",
-    "options": ["Behaviorism", "Gestalt Psychology", "Constructivism", "Cognitivism"],
-    "a": 1,
-    "explanation": "Gestalt psychology (Wertheimer, Kohler) focuses on holistic perception rather than breaking behavior into small parts."
-  },
-  {
-    "q": "What is the primary purpose of 'Continuous and Comprehensive Evaluation' (CCE)?",
-    "options": ["To rank students", "To reduce the burden of board exams", "To assess all aspects of a child's development", "To conduct monthly tests"],
-    "a": 2,
-    "explanation": "CCE aims to evaluate both 'Scholastic' (academic) and 'Co-scholastic' (life skills, attitudes) domains of a student."
-  },
-  {
-    "q": "The concept of 'Scaffolding' in teaching is most closely associated with:",
-    "options": ["B.F. Skinner", "Jean Piaget", "Lev Vygotsky", "Lawrence Kohlberg"],
-    "a": 2,
-    "explanation": "Vygotsky's scaffolding refers to the temporary support provided to a student to help them master a task within their Zone of Proximal Development."
-  },
-  {
-    "q": "Which psychologist described the 'Identity Crisis' during adolescence?",
-    "options": ["Erik Erikson", "Jean Piaget", "Sigmund Freud", "Carl Rogers"],
+    "q": "The concept of 'Latent Learning' was extensively studied by:",
+    "options": ["Edward Tolman", "B.F. Skinner", "Albert Bandura", "Ivan Pavlov"],
     "a": 0,
-    "explanation": "Erik Erikson's theory of psychosocial development identifies 'Identity vs. Role Confusion' as the core conflict in teenagers."
+    "explanation": "Tolman demonstrated that learning can occur without immediate reinforcement, though it may not be apparent until a reward is presented."
   },
   {
-    "q": "In 'Project Method' of teaching, the role of the teacher is that of a:",
-    "options": ["Director", "Dictator", "Guide and Facilitator", "Passive Spectator"],
+    "q": "A child says, 'I hitted the ball.' This is an example of:",
+    "options": ["Language delay", "Over-regularization", "Telegraphic speech", "Babbling"],
+    "a": 1,
+    "explanation": "Over-regularization occurs when children apply a grammatical rule (like adding -ed for past tense) to irregular verbs."
+  },
+  {
+    "q": "Which of the following is a 'Secondary' socialising agency?",
+    "options": ["Family", "Neighborhood", "School", "Parents"],
     "a": 2,
-    "explanation": "In progressive education, the teacher supports students as they explore projects rather than just lecturing."
+    "explanation": "Family is the primary agency, while school and media are considered secondary agencies of socialization."
   },
   {
-    "q": "Which intelligence type is high in a successful 'Sculptor' or 'Architect' according to Gardner?",
-    "options": ["Logical-Mathematical", "Spatial", "Kinesthetic", "Linguistic"],
-    "a": 1,
-    "explanation": "Spatial intelligence involves the ability to visualize and manipulate three-dimensional objects."
-  },
-  {
-    "q": "What does 'IQ' stand for in psychology?",
-    "options": ["Internal Quotient", "Intellectual Quantity", "Intelligence Quotient", "Integrated Quality"],
+    "q": "According to the 'Level of Processing' theory, information is best remembered if it is processed:",
+    "options": ["Phonetically", "Structurally", "Semantically", "Visually"],
     "a": 2,
-    "explanation": "Intelligence Quotient is a score derived from standardized tests to measure human intelligence."
+    "explanation": "Semantic processing (thinking about the meaning of words) leads to deeper processing and better long-term memory."
   },
   {
-    "q": "Which law of Thorndike states that 'Learning is stronger when followed by satisfaction'?",
-    "options": ["Law of Readiness", "Law of Exercise", "Law of Effect", "Law of Use"],
+    "q": "Which type of 'Play' involves children playing side-by-side with similar toys but not interacting?",
+    "options": ["Solitary play", "Parallel play", "Associative play", "Cooperative play"],
+    "a": 1,
+    "explanation": "Parallel play is common in toddlers; they play near each other but do not try to influence each other's behavior."
+  },
+  {
+    "q": "A teacher who uses 'Socratic Questioning' is trying to develop:",
+    "options": ["Rote memory", "Passive listening", "Critical thinking", "Speed writing"],
     "a": 2,
-    "explanation": "The 'Law of Effect' suggests that responses followed by pleasant outcomes are more likely to be repeated."
+    "explanation": "The Socratic method uses guided questioning to lead students to discover ideas and think critically."
   },
   {
-    "q": "The 'Individualized Education Program' (IEP) is designed for:",
-    "options": ["Gifted students only", "Children with special needs", "Average students", "Teachers' training"],
+    "q": "Which of the following describes a 'Growth Mindset'?",
+    "options": ["Intelligence is fixed", "Failure is a limit of ability", "Effort leads to mastery", "Avoiding challenges"],
+    "a": 2,
+    "explanation": "A growth mindset is the belief that abilities can be developed through dedication and hard work."
+  },
+  {
+    "q": "The 'Zone of Proximal Development' (ZPD) is most effective when the task is:",
+    "options": ["Too easy for the child", "Way beyond the child's reach", "Just above the child's current independent level", "Known perfectly by the child"],
+    "a": 2,
+    "explanation": "ZPD focuses on the 'sweet spot' where a child can succeed only with the help of a more knowledgeable other."
+  },
+  {
+    "q": "Which component of personality, according to Freud, works on the 'Reality Principle'?",
+    "options": ["Id", "Ego", "Superego", "Libido"],
     "a": 1,
-    "explanation": "IEPs are plans in inclusive education to provide tailored support for students with disabilities."
+    "explanation": "The Ego mediates between the impulsive Id and the moralistic Superego, dealing with the demands of the real world."
   },
   {
-    "q": "'हिमालय से गंगा निकलती है' - इस वाक्य में कौन सा कारक है?",
-    "options": ["करण कारक", "अपादान कारक", "संप्रदान कारक", "अधिकरण कारक"],
+    "q": "Inclusive education primarily aims to reduce:",
+    "options": ["Teacher workload", "School funding", "Discrimination and exclusion", "Academic competition"],
+    "a": 2,
+    "explanation": "Inclusive education ensures that all students, regardless of ability or background, are welcomed in the same classroom."
+  },
+  {
+    "q": "'अन्वय' शब्द का सही संधि-विच्छेद है:",
+    "options": ["अन + वय", "अनु + अय", "अन् + अय", "अनु + आय"],
     "a": 1,
-    "explanation": "जहाँ अलग होने का भाव हो (अलगाव), वहाँ 'से' चिह्न के साथ अपादान कारक होता है."
+    "explanation": "अनु + अय = अन्वय। यह यण संधि का उदाहरण है जहाँ 'उ + अ' मिलकर 'व' बन जाता है।"
   },
   {
-    "q": "'प्रत्युत्पन्नमति' शब्द में कौन सा उपसर्ग है?",
-    "options": ["प्र", "प्रति", "प्रत्यु", "प्रत"],
-    "a": 1,
-    "explanation": "'प्रति + उत्पन्न + मति' के मेल से यह शब्द बना है, अतः यहाँ 'प्रति' उपसर्ग है."
+    "q": "'यथासाध्य' में कौन सा समास है?",
+    "options": ["तत्पुरुष", "द्विगु", "अव्ययीभाव", "कर्मधारय"],
+    "a": 2,
+    "explanation": "जहाँ प्रथम पद अव्यय हो और प्रधान हो, वहाँ अव्ययीभाव समास होता है."
   },
   {
-    "q": "भाषा कौशल का सही क्रम क्या है?",
-    "options": ["सुनना, बोलना, पढ़ना, लिखना", "बोलना, सुनना, पढ़ना, लिखना", "लिखना, पढ़ना, सुनना, बोलना", "सुनना, पढ़ना, बोलना, लिखना"],
+    "q": "'आँख का तारा' मुहावरे का अर्थ है:",
+    "options": ["बहुत प्यारा होना", "आँख की बीमारी", "बहुत दूर होना", "नजर कमजोर होना"],
     "a": 0,
-    "explanation": "भाषा सीखने का मनोवैज्ञानिक क्रम LSRW (Listening, Speaking, Reading, Writing) है."
+    "explanation": "'आँख का तारा' का अर्थ होता है अत्यंत प्रिय होना।"
   },
   {
-    "q": "'नायक' शब्द का सही संधि-विच्छेद क्या है?",
-    "options": ["ना + अक", "ने + अक", "नै + अक", "नय + अक"],
-    "a": 2,
-    "explanation": "यह अयादि संधि का उदाहरण है, जहाँ 'नै + अक' मिलकर 'नायक' बनता है."
-  },
-  {
-    "q": "'दयानंद' में प्रयुक्त संधि का नाम है:",
-    "options": ["गुण संधि", "दीर्घ संधि", "व्यंजन संधि", "यण संधि"],
+    "q": "'जंगम' शब्द का सही विलोम क्या है?",
+    "options": ["स्थिर", "स्थावर", "अचल", "स्थूल"],
     "a": 1,
-    "explanation": "दया + आनंद = दयानंद (आ + आ = आ), यह दीर्घ संधि का उदाहरण है."
+    "explanation": "जंगम (चलायमान) का विलोम स्थावर (स्थिर रहने वाला) होता है।"
   },
   {
-    "q": "'चौराहा' में कौन सा समास है?",
-    "options": ["द्विगु", "द्वंद्व", "तत्पुरुष", "अव्ययीभाव"],
+    "q": "निम्न में से 'अशुद्ध' वर्तनी वाला शब्द चुनिए:",
+    "options": ["उज्ज्वल", "आशीर्वाद", "कवयित्री", "शृंगार"],
+    "a": 3,
+    "explanation": "शृंगार में 'र' की मात्रा नहीं होती (श्रृंगार गलत है, शृंगार सही है)।"
+  },
+  {
+    "q": "'अग्नि' का पर्यायवाची शब्द नहीं है?",
+    "options": ["पावक", "अनल", "अनिल", "हुताशन"],
+    "a": 2,
+    "explanation": "अनिल हवा का पर्यायवाची है, जबकि अन्य तीनों अग्नि के हैं।"
+  },
+  {
+    "q": "'मिठास' शब्द में कौन सा प्रत्यय है?",
+    "options": ["स", "आस", "ठास", "मीठा"],
+    "a": 1,
+    "explanation": "मीठा (मूल शब्द) + आस (प्रत्यय) = मिठास।"
+  },
+  {
+    "q": "Choose the correct preposition: 'The apple was cut ________ a knife.'",
+    "options": ["by", "with", "from", "in"],
+    "a": 1,
+    "explanation": "'With' is used for instruments or tools used to perform an action."
+  },
+  {
+    "q": "What is the feminine gender of 'Monk'?",
+    "options": ["Nun", "Friar", "Priestess", "Maid"],
     "a": 0,
-    "explanation": "जिस समास का पहला पद संख्यावाचक हो (चौ = चार), वह द्विगु समास होता है."
+    "explanation": "A woman who belongs to a religious order and lives in a convent is called a nun."
   },
   {
-    "q": "'उपकार' का विलोम शब्द है:",
-    "options": ["विकार", "अनुपकार", "अपकार", "तिरस्कार"],
-    "a": 2,
-    "explanation": "उपकार का विलोम 'अपकार' होता है."
-  },
-  {
-    "q": "Identify the 'Conjunction' in: 'I wanted to go, but I was tired.'",
-    "options": ["Wanted", "Go", "But", "Tired"],
-    "a": 2,
-    "explanation": "A conjunction connects clauses; 'but' connects two independent clauses here."
-  },
-  {
-    "q": "Choose the correct spelling:",
-    "options": ["Accomodation", "Accommodation", "Acomodation", "Accommadation"],
+    "q": "Which part of speech is the word 'Bravo!'?",
+    "options": ["Conjunction", "Interjection", "Adjective", "Pronoun"],
     "a": 1,
-    "explanation": "The standard English spelling is 'Accommodation' with a double 'c' and a double 'm'."
+    "explanation": "Interjections express sudden bursts of emotion or excitement."
   },
   {
-    "q": "The antonym of 'Transparent' is:",
-    "options": ["Clear", "Opaque", "Bright", "Fragile"],
+    "q": "Select the correctly punctuated sentence:",
+    "options": ["Where are you going", "Where are you going!", "Where are you going.", "Where are you going?"],
+    "a": 3,
+    "explanation": "Direct questions must end with a question mark."
+  },
+  {
+    "q": "What is the antonym of 'Victory'?",
+    "options": ["Success", "Defeat", "Win", "Triumph"],
     "a": 1,
-    "explanation": "Transparent allows light to pass through; Opaque does not."
+    "explanation": "Victory means winning; defeat means losing."
   },
   {
-    "q": "Convert to Direct Speech: 'She said that she was happy.'",
-    "options": ["She said, 'I am happy.'", "She said, 'She is happy.'", "She says, 'I am happy.'", "She said, 'I was happy.'"],
+    "q": "A group of cattle is called a ________.",
+    "options": ["Pack", "Flock", "Herd", "School"],
+    "a": 2,
+    "explanation": "'Herd' is the collective noun for a group of large herbivorous animals like cows or elephants."
+  },
+  {
+    "q": "Choose the correctly spelled word:",
+    "options": ["Calendar", "Calender", "Calander", "Celendar"],
     "a": 0,
-    "explanation": "In direct speech, pronouns and tenses revert: 'was' becomes 'am'."
+    "explanation": "The standard spelling is 'Calendar'."
   },
   {
-    "q": "Which method of teaching English focuses on 'translation' and 'rules of grammar'?",
-    "options": ["Direct Method", "Grammar-Translation Method", "Bilingual Method", "Audio-Lingual Method"],
+    "q": "What is the predecessor of the smallest 5-digit number?",
+    "options": ["10001", "9999", "1000", "999"],
     "a": 1,
-    "explanation": "The Grammar-Translation Method focuses on reading, writing, and word-for-word translation."
+    "explanation": "Smallest 5-digit number is 10,000. Predecessor = 10,000 - 1 = 9,999."
   },
   {
-    "q": "Choose the correctly punctuated sentence:",
-    "options": ["He said I am coming.", "He said, 'I am coming.'", "He said \"I am coming.\"", "He said, I am coming."],
-    "a": 1,
-    "explanation": "Direct speech requires a comma before the opening quotation mark."
+    "q": "Which of the following is an acute angle?",
+    "options": ["45 degrees", "90 degrees", "120 degrees", "180 degrees"],
+    "a": 0,
+    "explanation": "An acute angle is any angle that measures less than 90 degrees."
   },
   {
-    "q": "Select the correct plural of 'Child'.",
-    "options": ["Childs", "Childes", "Children", "Childrens"],
+    "q": "How many centimeters make 1 kilometer?",
+    "options": ["1,000", "10,000", "1,00,000", "10,00,000"],
     "a": 2,
-    "explanation": "Child has an irregular plural form: Children."
+    "explanation": "1 km = 1,000 m; 1 m = 100 cm. So, 1,000 * 100 = 1,00,000 cm."
   },
   {
-    "q": "What is the sum of the first five prime numbers?",
-    "options": ["25", "26", "28", "30"],
+    "q": "Find the HCF of 15 and 20.",
+    "options": ["1", "5", "10", "60"],
+    "a": 1,
+    "explanation": "Factors of 15: 1, 3, 5, 15. Factors of 20: 1, 2, 4, 5, 10, 20. Highest common is 5."
+  },
+  {
+    "q": "What is the area of a square with a perimeter of 20 cm?",
+    "options": ["20 sq cm", "25 sq cm", "40 sq cm", "100 sq cm"],
+    "a": 1,
+    "explanation": "Side = 20 / 4 = 5 cm. Area = 5 * 5 = 25 sq cm."
+  },
+  {
+    "q": "Which of these numbers is divisible by both 2 and 5?",
+    "options": ["12", "15", "25", "30"],
+    "a": 3,
+    "explanation": "A number divisible by 2 ends in 0, 2, 4, 6, 8. A number divisible by 5 ends in 0 or 5. Both must end in 0."
+  },
+  {
+    "q": "What is 1/3 + 1/6?",
+    "options": ["2/9", "1/2", "1/9", "2/6"],
+    "a": 1,
+    "explanation": "LCM is 6. (2/6) + (1/6) = 3/6 = 1/2."
+  },
+  {
+    "q": "If 1 meter of cloth costs 80 rupees, how much will 2.5 meters cost?",
+    "options": ["160 rupees", "180 rupees", "200 rupees", "240 rupees"],
     "a": 2,
-    "explanation": "The first five prime numbers are 2, 3, 5, 7, and 11. Sum: 2+3+5+7+11 = 28."
+    "explanation": "80 * 2.5 = 200 rupees."
   },
   {
-    "q": "A square has a perimeter of 24 cm. What is its area?",
-    "options": ["24 sq cm", "36 sq cm", "48 sq cm", "16 sq cm"],
-    "a": 1,
-    "explanation": "Side = 24/4 = 6 cm. Area = 6 x 6 = 36 sq cm."
+    "q": "How many months in a year have exactly 30 days?",
+    "options": ["4", "5", "6", "7"],
+    "a": 0,
+    "explanation": "April, June, September, and November have 30 days."
   },
   {
-    "q": "How many minutes are there in 3 hours and 20 minutes?",
-    "options": ["180", "200", "220", "240"],
-    "a": 1,
-    "explanation": "(3 x 60) + 20 = 180 + 20 = 200 minutes."
+    "q": "The face value of 8 in 98,765 is:",
+    "options": ["8", "800", "8,000", "80,000"],
+    "a": 0,
+    "explanation": "The face value of a digit is always the digit itself, regardless of its position."
   },
   {
-    "q": "Which of the following is an improper fraction?",
-    "options": ["3/4", "5/2", "1/2", "7/9"],
-    "a": 1,
-    "explanation": "In an improper fraction, the numerator is greater than or equal to the denominator (5 > 2)."
-  },
-  {
-    "q": "The number 48 is a multiple of which of the following?",
-    "options": ["5", "7", "8", "9"],
+    "q": "Which of the following is a 'Producer' in an ecosystem?",
+    "options": ["Lion", "Human", "Green Plant", "Mushroom"],
     "a": 2,
-    "explanation": "8 x 6 = 48, so 48 is a multiple of 8."
+    "explanation": "Green plants are producers because they make their own food through photosynthesis."
   },
   {
-    "q": "What is the successor of the largest 3-digit number?",
-    "options": ["999", "100", "1000", "998"],
-    "a": 2,
-    "explanation": "Largest 3-digit number is 999. Successor = 999 + 1 = 1000."
-  },
-  {
-    "q": "If one dozen bananas cost 60 rupees, what is the cost of 5 bananas?",
-    "options": ["20 rupees", "25 rupees", "30 rupees", "15 rupees"],
-    "a": 1,
-    "explanation": "1 banana = 60/12 = 5. 5 bananas = 5 x 5 = 25 rupees."
-  },
-  {
-    "q": "Find the average of 10, 20, 30, 40, and 50.",
-    "options": ["20", "25", "30", "35"],
-    "a": 2,
-    "explanation": "(10+20+30+40+50) / 5 = 150 / 5 = 30."
-  },
-  {
-    "q": "What is the product of 15 and 6?",
-    "options": ["80", "90", "100", "110"],
-    "a": 1,
-    "explanation": "15 x 6 = 90."
-  },
-  {
-    "q": "How many centimeters are in 5 meters?",
-    "options": ["50", "500", "5000", "5"],
-    "a": 1,
-    "explanation": "1 meter = 100 cm. 5 meters = 500 cm."
-  },
-  {
-    "q": "Which bird makes its nest in the hollow of a tree?",
-    "options": ["Sunbird", "Indian Robin", "Barbet", "Dove"],
-    "a": 2,
-    "explanation": "The Barbet (Coppersmith bird) pecks holes in tree trunks to make nests."
-  },
-  {
-    "q": "The 'Bishnoi' community of Rajasthan is famous for:",
-    "options": ["Handicraft", "Conservation of flora and fauna", "Folk dance", "Painting"],
-    "a": 1,
-    "explanation": "The Bishnoi community is known for its dedication to protecting trees and wildlife."
-  },
-  {
-    "q": "Which of the following is a renewable source of energy?",
-    "options": ["Coal", "Petroleum", "Solar Energy", "Natural Gas"],
-    "a": 2,
-    "explanation": "Solar energy is inexhaustible, unlike finite fossil fuels."
-  },
-  {
-    "q": "Which vitamin deficiency leads to a disease called 'Scurvy'?",
+    "q": "Which vitamin is synthesized by our body in the presence of sunlight?",
     "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
-    "a": 2,
-    "explanation": "Vitamin C deficiency causes bleeding gums and weakness, known as Scurvy."
+    "a": 3,
+    "explanation": "Sunlight exposure helps the skin produce Vitamin D, which is essential for bone health."
   },
   {
-    "q": "The primary cause of the 'Greenhouse Effect' is the increase in:",
-    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+    "q": "Which instrument is used to measure body temperature?",
+    "options": ["Barometer", "Thermometer", "Speedometer", "Compass"],
+    "a": 1,
+    "explanation": "A thermometer is the standard medical instrument for measuring heat levels in the body."
+  },
+  {
+    "q": "What is the main source of 'Energy' for the Earth?",
+    "options": ["Moon", "Sun", "Wind", "Electricity"],
+    "a": 1,
+    "explanation": "The Sun provides the solar energy required for life and drives the Earth's climate."
+  },
+  {
+    "q": "Which of these is a 'Natural' fiber?",
+    "options": ["Nylon", "Polyester", "Cotton", "Plastic"],
     "a": 2,
-    "explanation": "Carbon dioxide traps heat in the atmosphere, leading to global warming."
+    "explanation": "Cotton is a natural fiber obtained from the cotton plant, unlike synthetic fibers."
   }
 ]
