@@ -1,0 +1,242 @@
+[
+  {
+    "q": "Which theorist proposed 'Multiple Intelligences'?",
+    "options": ["Gardner", "Spearman", "Binet", "Sternberg"],
+    "a": 0,
+    "explanation": "Howard Gardner proposed 8 distinct types of intelligence."
+  },
+  {
+    "q": "The 'Formal Operational' stage starts from:",
+    "options": ["2-7 years", "7-11 years", "11+ years", "0-2 years"],
+    "a": 2,
+    "explanation": "Piaget's final stage where abstract thinking begins."
+  },
+  {
+    "q": "According to Kohlberg, which stage is 'Social Contract'?",
+    "options": ["Stage 4", "Stage 5", "Stage 6", "Stage 3"],
+    "a": 1,
+    "explanation": "Stage 5 is part of the post-conventional level."
+  },
+  {
+    "q": "What is the role of a teacher in 'Inclusive' education?",
+    "options": ["Separating", "Catering to all", "Ignoring special needs", "Ranking"],
+    "a": 1,
+    "explanation": "Inclusion means all children learn together."
+  },
+  {
+    "q": "Which reinforcement is given after a 'Fixed' time?",
+    "options": ["Fixed-interval", "Variable-interval", "Fixed-ratio", "Variable-ratio"],
+    "a": 0,
+    "explanation": "Reinforcement occurs after a set time (e.g., every month)."
+  },
+  {
+    "q": "Who gave the concept of 'Scaffolding'?",
+    "options": ["Piaget", "Vygotsky", "Skinner", "Bandura"],
+    "a": 1,
+    "explanation": "Vygotsky focused on help provided in the ZPD."
+  },
+  {
+    "q": "Which learning style involves 'Listening'?",
+    "options": ["Visual", "Auditory", "Kinesthetic", "Social"],
+    "a": 1,
+    "explanation": "Auditory learners learn best through hearing."
+  },
+  {
+    "q": "What is 'Development'?",
+    "options": ["Only physical", "Qualitative and Quantitative", "Only social", "None of these"],
+    "a": 1,
+    "explanation": "Development is holistic and continuous."
+  },
+  {
+    "q": "In Maslow's hierarchy, which is the 'Highest' need?",
+    "options": ["Safety", "Social", "Self-esteem", "Self-actualization"],
+    "a": 3,
+    "explanation": "Reaching full potential is the highest need."
+  },
+  {
+    "q": "Who is the father of 'Classical Conditioning'?",
+    "options": ["Skinner", "Pavlov", "Watson", "Thorndike"],
+    "a": 1,
+    "explanation": "Pavlov experimented with dogs and bells."
+  },
+  {
+    "q": "Which assessment is used to 'Improve' learning?",
+    "options": ["Summative", "Formative", "Placement", "Standardized"],
+    "a": 1,
+    "explanation": "Formative assessment provides feedback during learning."
+  },
+  {
+    "q": "'परोपकार' में कौन सी संधि है?",
+    "options": ["गुण", "दीर्घ", "वृद्धि", "यण"],
+    "a": 0,
+    "explanation": "पर + उपकार = परोपकार (गुण संधि)।"
+  },
+  {
+    "q": "'लम्बोदर' में कौन सा समास है?",
+    "options": ["अव्ययीभाव", "बहुव्रीहि", "द्विगु", "द्वंद्व"],
+    "a": 1,
+    "explanation": "गणेश जी के लिए (बहुव्रीहि)।"
+  },
+  {
+    "q": "'आदि' का विलोम शब्द है:",
+    "options": ["अनादि", "अंत", "मध्य", "आरंभ"],
+    "a": 1,
+    "explanation": "आदि का विलोम अंत है।"
+  },
+  {
+    "q": "'नाक में दम करना' मुहावरे का अर्थ है:",
+    "options": ["परेशान करना", "प्यार करना", "बीमार होना", "झगड़ा करना"],
+    "a": 0,
+    "explanation": "इसका अर्थ बहुत परेशान करना है।"
+  },
+  {
+    "q": "शुद्ध वर्तनी वाले शब्द का चयन करें:",
+    "options": ["उज्वल", "उज्जवल", "उज्ज्वल", "ऊज्जवल"],
+    "a": 2,
+    "explanation": "शुद्ध वर्तनी उज्ज्वल है।"
+  },
+  {
+    "q": "'कमल' का पर्यायवाची शब्द नहीं है:",
+    "options": ["पंकज", "जलज", "अम्बुद", "सरोज"],
+    "a": 2,
+    "explanation": "अम्बुद बादल का पर्यायवाची है।"
+  },
+  {
+    "q": "शिक्षण की 'सूत्र विधि' किस भाषा से आई है?",
+    "options": ["हिंदी", "संस्कृत", "अंग्रेजी", "अरबी"],
+    "a": 1,
+    "explanation": "Sutra method is from ancient Sanskrit grammar."
+  },
+  {
+    "q": "Choose the correctly spelled word:",
+    "options": ["Committee", "Comittee", "Committe", "Comitee"],
+    "a": 0,
+    "explanation": "Double m, double t, double e."
+  },
+  {
+    "q": "What is the synonym of 'Abundant'?",
+    "options": ["Scarce", "Plentiful", "Rare", "Poor"],
+    "a": 1,
+    "explanation": "Abundant means in large quantity."
+  },
+  {
+    "q": "Identify the 'Pronoun' in: 'They are playing.'",
+    "options": ["They", "Are", "Playing", "None"],
+    "a": 0,
+    "explanation": "They is a personal pronoun."
+  },
+  {
+    "q": "Select the correct plural of 'Knife':",
+    "options": ["Knifes", "Knive", "Knives", "Knifess"],
+    "a": 2,
+    "explanation": "Ends in f/fe -> ves."
+  },
+  {
+    "q": "Which part of speech is 'Under'?",
+    "options": ["Noun", "Preposition", "Conjunction", "Verb"],
+    "a": 1,
+    "explanation": "Shows relation/position."
+  },
+  {
+    "q": "Choose the correct article: 'He is ________ honest man.'",
+    "options": ["a", "an", "the", "No article"],
+    "a": 1,
+    "explanation": "Honest has a silent 'h'."
+  },
+  {
+    "q": "Identify the 'Sentence Type': 'Go home.'",
+    "options": ["Assertive", "Interrogative", "Exclamatory", "Imperative"],
+    "a": 3,
+    "explanation": "Gives a command."
+  },
+  {
+    "q": "Who was the first 'Viceroy' of India?",
+    "options": ["Canning", "Dalhousie", "Curzon", "Ripon"],
+    "a": 0,
+    "explanation": "Lord Canning in 1858."
+  },
+  {
+    "q": "The 'Fundamental Rights' are borrowed from:",
+    "options": ["UK", "USA", "France", "USSR"],
+    "a": 1,
+    "explanation": "Inspired by US Bill of Rights."
+  },
+  {
+    "q": "Which Indian state has the 'Longest Coastline'?",
+    "options": ["Tamil Nadu", "Gujarat", "Maharashtra", "Odisha"],
+    "a": 1,
+    "explanation": "Gujarat coastline is about 1600 km."
+  },
+  {
+    "q": "The 'Dandi March' was against which tax?",
+    "options": ["Salt Tax", "Land Tax", "Forest Tax", "Trade Tax"],
+    "a": 0,
+    "explanation": "Started by Gandhi in 1930."
+  },
+  {
+    "q": "Which gas is 'Abundant' in the air?",
+    "options": ["Oxygen", "Nitrogen", "Argon", "CO2"],
+    "a": 1,
+    "explanation": "78% nitrogen."
+  },
+  {
+    "q": "Who wrote 'Discovery of India'?",
+    "options": ["Nehru", "Gandhi", "Bose", "Tilak"],
+    "a": 0,
+    "explanation": "Jawaharlal Nehru wrote it in jail."
+  },
+  {
+    "q": "Which planet is the 'Morning Star'?",
+    "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+    "a": 1,
+    "explanation": "Venus is highly visible."
+  },
+  {
+    "q": "The 'Election Commission' is a:",
+    "options": ["Statutory body", "Constitutional body", "Private body", "NGO"],
+    "a": 1,
+    "explanation": "Under Article 324."
+  },
+  {
+    "q": "Who wrote 'Arthashastra'?",
+    "options": ["Megasthenes", "Chanakya", "Kalidasa", "Harsha"],
+    "a": 1,
+    "explanation": "Kautilya wrote on statecraft."
+  },
+  {
+    "q": "Which is the 'Deepest Ocean'?",
+    "options": ["Atlantic", "Pacific", "Indian", "Arctic"],
+    "a": 1,
+    "explanation": "Pacific is the deepest."
+  },
+  {
+    "q": "The 'Swadeshi Movement' started in:",
+    "options": ["1905", "1910", "1920", "1942"],
+    "a": 0,
+    "explanation": "After Bengal partition."
+  },
+  {
+    "q": "Which range is the 'Oldest'?",
+    "options": ["Himalayas", "Aravalli", "Vindhya", "Satpura"],
+    "a": 1,
+    "explanation": "Aravallis are very old."
+  },
+  {
+    "q": "Who appoints the 'CJI'?",
+    "options": ["President", "PM", "Parliament", "Speaker"],
+    "a": 0,
+    "explanation": "President of India."
+  },
+  {
+    "q": "The '73rd Amendment' is for:",
+    "options": ["Municipalities", "Panchayats", "Rights", "Defection"],
+    "a": 1,
+    "explanation": "Constitutional status to Panchayats."
+  },
+  {
+    "q": "Which is the 'Longest River' in India?",
+    "options": ["Yamuna", "Ganga", "Brahmaputra", "Godavari"],
+    "a": 1,
+    "explanation": "Ganga is the longest."
+  }
+]
