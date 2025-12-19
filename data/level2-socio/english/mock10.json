@@ -1,0 +1,200 @@
+[
+  {
+    "q": "In development, 'Maturation' refers to:",
+    "options": ["Learning from environment", "Biological unfolding of genetic potential", "Social adjustment", "Academic achievement"],
+    "a": 1,
+    "explanation": "Maturation is the natural sequence of changes dictated by heredity."
+  },
+  {
+    "q": "Who gave the theory of 'Operant Conditioning'?",
+    "options": ["Ivan Pavlov", "B.F. Skinner", "Edward Thorndike", "John Watson"],
+    "a": 1,
+    "explanation": "Skinner focused on how consequences shape behavior."
+  },
+  {
+    "q": "The ability to 'Conserve' (quantity remains same despite shape change) occurs in which Piaget stage?",
+    "options": ["Sensory-motor", "Pre-operational", "Concrete operational", "Formal operational"],
+    "a": 2,
+    "explanation": "Conservation is a hallmark of the concrete operational stage."
+  },
+  {
+    "q": "Which is the most reliable method to study the 'Behavior' of a child?",
+    "options": ["Interview", "Questionnaire", "Case Study", "Anecdote"],
+    "a": 2,
+    "explanation": "A Case Study provides an in-depth analysis of development."
+  },
+  {
+    "q": "In Maslow's hierarchy, 'Food, water, and sleep' are part of:",
+    "options": ["Safety needs", "Physiological needs", "Belongingness needs", "Esteem needs"],
+    "a": 1,
+    "explanation": "Physiological needs are the most basic requirements."
+  },
+  {
+    "q": "Which of the following is an 'Inclusive Education' practice?",
+    "options": ["Special schools for blind", "Same curriculum for all without change", "Differentiated instruction", "Segregation of slow learners"],
+    "a": 2,
+    "explanation": "Inclusion adapts methods to meet diverse learner needs."
+  },
+  {
+    "q": "The concept of 'Emotional Intelligence' (EQ) was popularized by:",
+    "options": ["Daniel Goleman", "Howard Gardner", "Robert Sternberg", "David Wechsler"],
+    "a": 0,
+    "explanation": "Goleman's book brought attention to emotional awareness."
+  },
+  {
+    "q": "'Learning by Insight' emphasizes:",
+    "options": ["Repetition", "Stimulus-Response", "Sudden perception of relationships", "Slow trial and error"],
+    "a": 2,
+    "explanation": "Insight involves a 'Eureka' moment."
+  },
+  {
+    "q": "A teacher notices a student is high in 'Intrapersonal Intelligence'. This student is good at:",
+    "options": ["Leading groups", "Understanding their own emotions", "Playing music", "Mathematics"],
+    "a": 1,
+    "explanation": "Intrapersonal intelligence is the capacity to understand oneself."
+  },
+  {
+    "q": "Which stage of development is known as the 'Gang Age'?",
+    "options": ["Early Childhood", "Later Childhood", "Adolescence", "Infancy"],
+    "a": 1,
+    "explanation": "Later childhood (7-12) is when children form strong peer groups."
+  },
+  {
+    "q": "What is the primary motive of 'Punishment' in education?",
+    "options": ["To help the child learn", "To deter undesirable behavior", "To show teacher's power", "To make child study harder"],
+    "a": 1,
+    "explanation": "Punishment aims to decrease the frequency of a behavior."
+  },
+  {
+    "q": "shubhaagaman mein kaun si sandhi hai?",
+    "options": ["gun sandhi", "deergh sandhi", "vriddhi sandhi", "yan sandhi"],
+    "a": 1,
+    "explanation": "shubh + aagaman = shubhaagaman (a + aa = aa, deergh sandhi)."
+  },
+  {
+    "q": "chaumaasa mein kaun sa samaas hai?",
+    "options": ["dvandv", "tatpurush", "dvigu", "bahuvrihi"],
+    "a": 2,
+    "explanation": "First word is a number, so dvigu samas."
+  },
+  {
+    "q": "alpagya ka vilom shabd hai:",
+    "options": ["bahugya", "sarvagya", "abhigya", "kritagya"],
+    "a": 1,
+    "explanation": "Alpagya (knowing little) opposite is Sarvagya (knowing all)."
+  },
+  {
+    "q": "aasamaan par chadhaana muhaavre ka arth hai:",
+    "options": ["bahut ooncha udana", "atyadhik prashansa karana", "kathin kaary karana", "paagal ho jaana"],
+    "a": 1,
+    "explanation": "It means to praise someone excessively."
+  },
+  {
+    "q": "shuddh shabd ka chayan keejiye:",
+    "options": ["ujval", "ujjval", "ujjval", "ujaval"],
+    "a": 2,
+    "explanation": "Correct spelling is Ujjval (two half j)."
+  },
+  {
+    "q": "vinaayak kiska paryayavaachi hai?",
+    "options": ["vishnu", "shiva", "ganesh", "brahma"],
+    "a": 2,
+    "explanation": "Vinayak is a synonym for Ganesh."
+  },
+  {
+    "q": "bhaasha shikshan ki kis vidhi mein maatribhaasha ka prayog bilkul nahin kiya jaata?",
+    "options": ["anuvaad vidhi", "dvibhaashee vidhi", "pratyaksh vidhi", "vyaakaran vidhi"],
+    "a": 2,
+    "explanation": "Direct Method focuses on target language only."
+  },
+  {
+    "q": "If x/2 - 1/4 = 1/2, then x is:",
+    "options": ["1", "1.5", "2", "3"],
+    "a": 1,
+    "explanation": "x/2 = 1/2 + 1/4 = 3/4. x = 2 * 3/4 = 1.5."
+  },
+  {
+    "q": "The product of a non-zero rational and an irrational number is:",
+    "options": ["Always rational", "Always irrational", "Can be both", "Zero"],
+    "a": 1,
+    "explanation": "Rational * Irrational is always irrational."
+  },
+  {
+    "q": "How many line segments can be drawn through two distinct points?",
+    "options": ["None", "One", "Two", "Infinite"],
+    "a": 1,
+    "explanation": "Only one unique straight line connects two points."
+  },
+  {
+    "q": "The sum of the digits of a number is subtracted from the number. The result is always divisible by:",
+    "options": ["2", "5", "9", "11"],
+    "a": 2,
+    "explanation": "e.g., 25 - (2+5) = 18. 18 is divisible by 9."
+  },
+  {
+    "q": "If the angles of a triangle are in ratio 1:2:3, the smallest angle is:",
+    "options": ["30", "60", "90", "45"],
+    "a": 0,
+    "explanation": "x+2x+3x=180 -> 6x=180 -> x=30."
+  },
+  {
+    "q": "What is the cube root of 1331?",
+    "options": ["11", "13", "17", "19"],
+    "a": 0,
+    "explanation": "11 * 11 * 11 = 1331."
+  },
+  {
+    "q": "The area of a rhombus is 240 sq cm and one diagonal is 16 cm. The other diagonal is:",
+    "options": ["15 cm", "30 cm", "20 cm", "25 cm"],
+    "a": 1,
+    "explanation": "Area = 0.5 * d1 * d2. 240 = 0.5 * 16 * d2. d2 = 30."
+  },
+  {
+    "q": "Find x if 2^(x-3) = 1.",
+    "options": ["0", "1", "3", "-3"],
+    "a": 2,
+    "explanation": "Any number to power 0 is 1. So x-3 = 0 -> x=3."
+  },
+  {
+    "q": "Which of the following is a displacement reaction?",
+    "options": ["Mg + O2 -> MgO", "Zn + CuSO4 -> ZnSO4 + Cu", "CaCO3 -> CaO + CO2", "H2 + Cl2 -> HCl"],
+    "a": 1,
+    "explanation": "Zn replaces Cu from its salt solution."
+  },
+  {
+    "q": "Which gas turns lime water milky?",
+    "options": ["Oxygen", "Hydrogen", "Nitrogen", "Carbon Dioxide"],
+    "a": 3,
+    "explanation": "CO2 reacts with lime water to form calcium carbonate."
+  },
+  {
+    "q": "A fuse wire should have:",
+    "options": ["High resistance, high melting point", "Low resistance, low melting point", "High resistance, low melting point", "Low resistance, high melting point"],
+    "a": 2,
+    "explanation": "High resistance generates heat, low MP ensures it breaks quickly."
+  },
+  {
+    "q": "The part of the flower that develops into a fruit is:",
+    "options": ["Stigma", "Style", "Ovary", "Ovule"],
+    "a": 2,
+    "explanation": "Ovary ripens into fruit after fertilization."
+  },
+  {
+    "q": "Sound travels slowest in:",
+    "options": ["Water", "Steel", "Air", "Glass"],
+    "a": 2,
+    "explanation": "Sound is slower in gases compared to liquids and solids."
+  },
+  {
+    "q": "The phenomenon of splitting light into its component colors is:",
+    "options": ["Reflection", "Refraction", "Dispersion", "Total internal reflection"],
+    "a": 2,
+    "explanation": "Dispersion creates a spectrum."
+  },
+  {
+    "q": "Which planet is known as the 'Morning Star'?",
+    "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+    "a": 1,
+    "explanation": "Venus is visible at dawn."
+  }
+]
