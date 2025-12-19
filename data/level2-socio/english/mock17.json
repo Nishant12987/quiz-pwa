@@ -1,0 +1,200 @@
+[
+  {
+    "q": "Which theorist proposed the 'Hierarchy of Needs'?",
+    "options": ["Maslow", "Rogers", "Freud", "Skinner"],
+    "a": 0,
+    "explanation": "Abraham Maslow's theory ranges from physiological to self-actualization."
+  },
+  {
+    "q": "The 'Sensory-motor' stage lasts from:",
+    "options": ["0-2 years", "2-7 years", "7-11 years", "11+ years"],
+    "a": 0,
+    "explanation": "This is Piaget's first stage where infants learn through senses."
+  },
+  {
+    "q": "Which type of intelligence is high in 'Poets and Writers'?",
+    "options": ["Spatial", "Linguistic", "Mathematical", "Kinesthetic"],
+    "a": 1,
+    "explanation": "Linguistic intelligence involves sensitivity to language."
+  },
+  {
+    "q": "What is 'Growth' compared to development?",
+    "options": ["Quantitative", "Qualitative", "Both", "Spiritual"],
+    "a": 0,
+    "explanation": "Growth refers to measurable physical changes."
+  },
+  {
+    "q": "Which assessment is used at the 'End' of a term?",
+    "options": ["Formative", "Summative", "Diagnostic", "Placement"],
+    "a": 1,
+    "explanation": "Summative assessment evaluates learning at the end."
+  },
+  {
+    "q": "Who is the proponent of 'Social Learning Theory'?",
+    "options": ["Albert Bandura", "Lev Vygotsky", "B.F. Skinner", "Jean Piaget"],
+    "a": 0,
+    "explanation": "Bandura focused on learning through observation."
+  },
+  {
+    "q": "What does 'IQ' stand for?",
+    "options": ["Intellectual Quality", "Intelligence Quotient", "Internal Quantity", "Integrated Quality"],
+    "a": 1,
+    "explanation": "IQ is a score to measure intelligence."
+  },
+  {
+    "q": "Which reinforcement is given 'Unpredictably'?",
+    "options": ["Fixed-ratio", "Variable-ratio", "Fixed-interval", "Continuous"],
+    "a": 1,
+    "explanation": "Variable schedules are resistant to extinction."
+  },
+  {
+    "q": "A child who has difficulty with 'Math' has:",
+    "options": ["Dyslexia", "Dyscalculia", "Dysgraphia", "ADHD"],
+    "a": 1,
+    "explanation": "Dyscalculia is a learning disability in mathematics."
+  },
+  {
+    "q": "Who is the father of 'Behaviorism'?",
+    "options": ["John Watson", "William James", "Sigmund Freud", "Carl Rogers"],
+    "a": 0,
+    "explanation": "Watson focused on observable behavior."
+  },
+  {
+    "q": "Which stage of development is the 'Gang Age'?",
+    "options": ["Early Childhood", "Later Childhood", "Adolescence", "Infancy"],
+    "a": 1,
+    "explanation": "Children form strong groups during later childhood."
+  },
+  {
+    "q": "dayaanand mein prayukt sandhi ka naam hai:",
+    "options": ["gun sandhi", "deergh sandhi", "vyanjan sandhi", "yan sandhi"],
+    "a": 1,
+    "explanation": "daya + aanand = dayaanand (aa + aa = aa, deergh sandhi)."
+  },
+  {
+    "q": "chauraaha mein kaun sa samaas hai?",
+    "options": ["dvigu", "dvandv", "tatpurush", "avyayibhaav"],
+    "a": 0,
+    "explanation": "Chau (four) is a number, so dvigu."
+  },
+  {
+    "q": "upakaar ka vilom shabd hai:",
+    "options": ["vikaar", "anupakaar", "apakaar", "tiraskaar"],
+    "a": 2,
+    "explanation": "Upakar (benefit) opposite is Apakar (harm)."
+  },
+  {
+    "q": "aankh dikhaana muhaavre ka arth hai:",
+    "options": ["pyaar karana", "gussa karana", "beemaar hona", "jhagada karana"],
+    "a": 1,
+    "explanation": "It means to look with anger or warn."
+  },
+  {
+    "q": "shuddh vaaky ka chayan karen:",
+    "options": ["mere ko jaana hai.", "mujhe jaana hai.", "main jaana hai.", "mainne jaana hai."],
+    "a": 1,
+    "explanation": "Correct Hindi: 'mujhe jaana hai'."
+  },
+  {
+    "q": "anal shabd ka arth hai:",
+    "options": ["hava", "paanee", "aag", "nadee"],
+    "a": 2,
+    "explanation": "Anal = Fire, Anil = Wind."
+  },
+  {
+    "q": "shikshan ki aagaman vidhi chalatee hai:",
+    "options": ["niyam se udaaharan", "udaaharan se niyam", "amoort se moort", "jatil se saral"],
+    "a": 1,
+    "explanation": "Inductive starts with specific examples."
+  },
+  {
+    "q": "The perimeter of a rectangle with length 15 and width 10 is:",
+    "options": ["25", "50", "150", "40"],
+    "a": 1,
+    "explanation": "2 * (15+10) = 50."
+  },
+  {
+    "q": "In a circle, the longest chord is the:",
+    "options": ["Radius", "Diameter", "Secant", "Tangent"],
+    "a": 1,
+    "explanation": "Diameter passes through center and is max chord."
+  },
+  {
+    "q": "If x/5 = 7, then x is:",
+    "options": ["12", "2", "35", "1.4"],
+    "a": 2,
+    "explanation": "7 * 5 = 35."
+  },
+  {
+    "q": "The sum of the first 5 whole numbers is:",
+    "options": ["15", "10", "5", "11"],
+    "a": 1,
+    "explanation": "0+1+2+3+4 = 10."
+  },
+  {
+    "q": "0 divided by any non-zero number is:",
+    "options": ["1", "Infinite", "0", "Undefined"],
+    "a": 2,
+    "explanation": "0/x = 0."
+  },
+  {
+    "q": "A cylinder has how many curved surfaces?",
+    "options": ["1", "2", "3", "0"],
+    "a": 0,
+    "explanation": "A cylinder has 1 curved and 2 flat circular surfaces."
+  },
+  {
+    "q": "What is 25% of 200?",
+    "options": ["25", "40", "50", "100"],
+    "a": 2,
+    "explanation": "0.25 * 200 = 50."
+  },
+  {
+    "q": "Which of these is a perfect cube?",
+    "options": ["100", "216", "256", "500"],
+    "a": 1,
+    "explanation": "6 * 6 * 6 = 216."
+  },
+  {
+    "q": "Which metal is liquid at room temperature?",
+    "options": ["Iron", "Sodium", "Mercury", "Potassium"],
+    "a": 2,
+    "explanation": "Mercury remains liquid at standard conditions."
+  },
+  {
+    "q": "The process of conversion of water vapor into water is:",
+    "options": ["Evaporation", "Condensation", "Freezing", "Melting"],
+    "a": 1,
+    "explanation": "Gas to liquid is condensation."
+  },
+  {
+    "q": "Which cell organelle is the 'Powerhouse of the cell'?",
+    "options": ["Nucleus", "Vacuole", "Mitochondria", "Ribosome"],
+    "a": 2,
+    "explanation": "Mitochondria produce ATP energy."
+  },
+  {
+    "q": "The unit of force is:",
+    "options": ["Pascal", "Newton", "Joule", "Watt"],
+    "a": 1,
+    "explanation": "Force is measured in Newtons."
+  },
+  {
+    "q": "Which gas do humans release during respiration?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"],
+    "a": 1,
+    "explanation": "CO2 is the byproduct of cellular respiration."
+  },
+  {
+    "q": "Loudness of sound depends on:",
+    "options": ["Frequency", "Wavelength", "Amplitude", "Speed"],
+    "a": 2,
+    "explanation": "Higher amplitude results in louder sound."
+  },
+  {
+    "q": "An earthquake is measured with an instrument called:",
+    "options": ["Barometer", "Hygrometer", "Seismograph", "Thermometer"],
+    "a": 2,
+    "explanation": "Seismographs record the intensity/magnitude."
+  }
+]
