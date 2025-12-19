@@ -1,242 +1,242 @@
 [
   {
-    "q": "Which of the following is an example of 'Fine Motor Skill' development?",
-    "options": ["Running", "Hopping", "Writing", "Climbing"],
-    "a": 2,
-    "explanation": "Fine motor skills involve the coordination of small muscle movements, usually involving the hands and fingers, such as writing."
-  },
-  {
-    "q": "In Piaget's theory, 'Animism' (believing inanimate objects have feelings) is a feature of:",
-    "options": ["Sensory-motor stage", "Pre-operational stage", "Concrete operational stage", "Formal operational stage"],
+    "q": "Which of the following is an example of 'Parallel Play'?",
+    "options": ["Children playing a game of tag", "Two children playing with blocks near each other but not together", "A child playing alone with a doll", "Children working together to build a sandcastle"],
     "a": 1,
-    "explanation": "Animism is a characteristic of the pre-operational stage where children attribute human-like life and intentions to inanimate objects."
+    "explanation": "Parallel play is a stage of development where children play adjacent to each other but do not try to influence one another's behavior."
   },
   {
-    "q": "Which psychologist described the 'Identity Crisis' during adolescence?",
-    "options": ["Erik Erikson", "Jean Piaget", "Sigmund Freud", "Carl Rogers"],
+    "q": "According to Piaget, the 'Pre-operational' child's belief that a taller glass always has more water is due to:",
+    "options": ["Reversibility", "Centration", "Conservation", "Object Permanence"],
+    "a": 1,
+    "explanation": "Centration is the tendency to focus on only one salient aspect of a situation (height) and neglect other relevant aspects (width)."
+  },
+  {
+    "q": "Which psychologist proposed the 'Social Development Theory', emphasizing the 'Zone of Proximal Development'?",
+    "options": ["Jean Piaget", "Lev Vygotsky", "B.F. Skinner", "Lawrence Kohlberg"],
+    "a": 1,
+    "explanation": "Vygotsky's theory stresses the fundamental role of social interaction in the development of cognition."
+  },
+  {
+    "q": "A child who has a high 'Intrapersonal Intelligence' would likely:",
+    "options": ["Be excellent at team sports", "Have a deep understanding of their own strengths and weaknesses", "Be a great public speaker", "Identify different types of plants easily"],
+    "a": 1,
+    "explanation": "Intrapersonal intelligence is the capacity to understand oneself, one’s feelings, and one’s motivations."
+  },
+  {
+    "q": "Which type of 'Reinforcement' involves the removal of an unpleasant stimulus to increase a behavior?",
+    "options": ["Positive Reinforcement", "Negative Reinforcement", "Positive Punishment", "Negative Punishment"],
+    "a": 1,
+    "explanation": "Negative reinforcement increases the likelihood of a behavior by taking away an aversive condition (e.g., stopping a loud noise when a button is pressed)."
+  },
+  {
+    "q": "The 'Inkblot Test', used to evaluate personality and emotional functioning, was created by:",
+    "options": ["Sigmund Freud", "Hermann Rorschach", "Carl Jung", "Alfred Adler"],
+    "a": 1,
+    "explanation": "The Rorschach inkblot test is a projective psychological test consisting of ten standardized inkblots."
+  },
+  {
+    "q": "Which stage of Erikson's theory corresponds to 'Middle Childhood' (6-11 years)?",
+    "options": ["Autonomy vs. Shame", "Initiative vs. Guilt", "Industry vs. Inferiority", "Identity vs. Role Confusion"],
+    "a": 2,
+    "explanation": "In this stage, children learn the pleasure of applying themselves to tasks, or they feel inferior."
+  },
+  {
+    "q": "Which of the following is a 'Specific Learning Disability' in reading?",
+    "options": ["Dyscalculia", "Dyslexia", "Dysgraphia", "ADHD"],
+    "a": 1,
+    "explanation": "Dyslexia is a learning disorder characterized by difficulty reading due to problems identifying speech sounds."
+  },
+  {
+    "q": "Inclusive education primarily requires:",
+    "options": ["Special schools for the disabled", "Differentiated instruction and flexible curricula", "Segregating students by IQ", "Strict standardized testing"],
+    "a": 1,
+    "explanation": "Inclusion involves adapting the teaching environment to meet the diverse needs of all students in a single classroom."
+  },
+  {
+    "q": "The concept of 'Scaffolding' in education is most closely associated with:",
+    "options": ["Piaget", "Bruner", "Vygotsky", "Skinner"],
+    "a": 2,
+    "explanation": "Scaffolding refers to the temporary support provided to a learner to help them complete a task."
+  },
+  {
+    "q": "Which of the following is a 'Summative' assessment?",
+    "options": ["A quick class quiz", "Observation during a group activity", "An end-of-year final exam", "A teacher's verbal feedback"],
+    "a": 2,
+    "explanation": "Summative assessments are used to evaluate student learning at the end of an instructional unit by comparing it against some standard."
+  },
+  {
+    "q": "'प्रत्युपकार' शब्द में कौन सी संधि है?",
+    "options": ["दीर्घ संधि", "गुण संधि", "यण संधि", "वृद्धि संधि"],
+    "a": 2,
+    "explanation": "प्रति + उपकार = प्रत्युपकार। यहाँ 'इ + उ' मिलकर 'यु' बन गया है, जो यण संधि का उदाहरण है।"
+  },
+  {
+    "q": "'चौराहा' में कौन सा समास प्रयुक्त है?",
+    "options": ["द्वंद्व", "द्विगु", "तत्पुरुष", "बहुव्रीहि"],
+    "a": 1,
+    "explanation": "जिस समास का प्रथम पद संख्यावाचक हो (चौ = चार), वह द्विगु समास कहलाता है।"
+  },
+  {
+    "q": "'अमृत' का सही विलोम शब्द है:",
+    "options": ["सुधा", "विष", "अमी", "पीयूष"],
+    "a": 1,
+    "explanation": "अमृत का विलोम विष (ज़हर) होता है।"
+  },
+  {
+    "q": "'आँखें बिछाना' मुहावरे का सही अर्थ है:",
+    "options": ["बहुत स्वागत करना", "आँखें आना", "निरीक्षण करना", "सो जाना"],
     "a": 0,
-    "explanation": "Erik Erikson's theory of psychosocial development identifies 'Identity vs. Role Confusion' as the core conflict during adolescence."
+    "explanation": "'आँखें बिछाना' का अर्थ होता है प्रेमपूर्वक किसी की प्रतीक्षा करना या स्वागत करना।"
   },
   {
-    "q": "The 'Two-Factor Theory' of intelligence (g-factor and s-factor) was proposed by:",
-    "options": ["Charles Spearman", "Howard Gardner", "L.L. Thurstone", "E.L. Thorndike"],
+    "q": "शुद्ध वर्तनी वाले शब्द का चयन कीजिए:",
+    "options": ["आशिर्वाद", "आशीर्बाद", "आशीर्वाद", "अशीर्वाद"],
+    "a": 2,
+    "explanation": "सही वर्तनी 'आशीर्वाद' है।"
+  },
+  {
+    "q": "'पक्षी' का पर्यायवाची शब्द नहीं है:",
+    "options": ["खग", "विहग", "नभचर", "वारि"],
+    "a": 3,
+    "explanation": "वारि का अर्थ पानी होता है, जबकि अन्य तीनों पक्षी के पर्यायवाची हैं।"
+  },
+  {
+    "q": "जो 'सब कुछ जानता हो' के लिए एक शब्द है:",
+    "options": ["अल्पज्ञ", "बहुज्ञ", "सर्वज्ञ", "अभिज्ञ"],
+    "a": 2,
+    "explanation": "सर्वज्ञ का अर्थ है जो सब कुछ जानता हो।"
+  },
+  {
+    "q": "Identify the 'Abstract Noun' in: 'Knowledge is power.'",
+    "options": ["Knowledge", "Is", "Power", "Both Knowledge and Power"],
+    "a": 3,
+    "explanation": "Both 'Knowledge' and 'Power' are abstract concepts that cannot be seen or touched."
+  },
+  {
+    "q": "Choose the correct article: 'He is ________ European.'",
+    "options": ["a", "an", "the", "No article"],
     "a": 0,
-    "explanation": "Charles Spearman proposed that intelligence consists of a general factor (g) and various specific factors (s)."
+    "explanation": "'European' starts with a 'Y' sound (consonant sound), so we use 'a'."
   },
   {
-    "q": "What is the primary goal of 'Action Research' in education?",
-    "options": ["To develop new theories", "To solve immediate classroom problems", "To compare school systems", "To conduct national surveys"],
+    "q": "What is the synonym of 'Brief'?",
+    "options": ["Long", "Short", "Fast", "Hard"],
     "a": 1,
-    "explanation": "Action research is conducted by teachers or practitioners to find immediate solutions to specific classroom problems."
+    "explanation": "Brief means of short duration; not lasting for long."
   },
   {
-    "q": "A student with 'Dyscalculia' has difficulty with:",
-    "options": ["Reading words", "Handwriting", "Mathematical calculations", "Social interaction"],
+    "q": "Identify the 'Adverb' in: 'She sings very sweetly.'",
+    "options": ["She", "Sings", "Sweetly", "Very"],
     "a": 2,
-    "explanation": "Dyscalculia is a specific learning disability that affects an individual's ability to understand and perform mathematical tasks."
+    "explanation": "'Sweetly' is an adverb of manner describing how she sings."
   },
   {
-    "q": "In Maslow's hierarchy, which is the highest level of need?",
-    "options": ["Safety needs", "Esteem needs", "Social needs", "Self-actualization"],
-    "a": 3,
-    "explanation": "Self-actualization is the realization of one's full potential and sits at the top of Maslow's pyramid of needs."
-  },
-  {
-    "q": "What does 'ZPD' stand for in Vygotsky's theory?",
-    "options": ["Zone of Personal Development", "Zone of Proximal Development", "Zero Proximity Distance", "Zone of Progressive Development"],
+    "q": "Which of these is a 'Silent Letter' in the word 'Island'?",
+    "options": ["i", "s", "l", "n"],
     "a": 1,
-    "explanation": "The Zone of Proximal Development is the gap between what a learner can do independently and what they can do with assistance."
+    "explanation": "In 'Island', the 's' is silent."
   },
   {
-    "q": "Which teaching style is most effective for fostering 'Critical Thinking'?",
-    "options": ["Autocratic", "Laissez-faire", "Democratic", "Permissive"],
+    "q": "Choose the correctly spelled word:",
+    "options": ["Tommorow", "Tomorrow", "Tomorrow", "To-morrow"],
+    "a": 1,
+    "explanation": "The standard English spelling is 'Tomorrow' (one 'm', two 'r's)."
+  },
+  {
+    "q": "A collection of maps is called a/an ________.",
+    "options": ["Dictionary", "Encyclopedia", "Atlas", "Catalogue"],
     "a": 2,
-    "explanation": "A democratic teaching style encourages student participation, discussion, and independent thinking."
+    "explanation": "An atlas is a book or collection of maps."
   },
   {
-    "q": "Which of these is a 'Nature' factor in development?",
-    "options": ["Schooling", "Peer group", "Genetic makeup", "Nutritional intake"],
+    "q": "What is the result of 50 + 20 * 2?",
+    "options": ["140", "90", "70", "120"],
+    "a": 1,
+    "explanation": "Using BODMAS: 50 + (20 * 2) = 50 + 40 = 90."
+  },
+  {
+    "q": "Which shape has 3 sides and 3 vertices?",
+    "options": ["Square", "Circle", "Triangle", "Rectangle"],
     "a": 2,
-    "explanation": "Nature factors refer to biological and genetic influences that are inherited."
+    "explanation": "A triangle is a polygon with three edges and three vertices."
   },
   {
-    "q": "The concept of 'Mental Health' in a classroom primarily focuses on:",
-    "options": ["Academic grades", "Physical fitness", "Emotional and social well-being", "Discipline only"],
+    "q": "How many centimeters make 1 meter?",
+    "options": ["10", "100", "1000", "10000"],
+    "a": 1,
+    "explanation": "There are 100 centimeters in 1 meter."
+  },
+  {
+    "q": "What is the successor of 999?",
+    "options": ["998", "1000", "1001", "100"],
+    "a": 1,
+    "explanation": "Successor means the number that comes next (999 + 1 = 1000)."
+  },
+  {
+    "q": "Find the perimeter of a square with side 6 cm.",
+    "options": ["12 cm", "24 cm", "36 cm", "18 cm"],
+    "a": 1,
+    "explanation": "Perimeter = 4 * side = 4 * 6 = 24 cm."
+  },
+  {
+    "q": "What is the fraction 1/2 as a percentage?",
+    "options": ["25%", "50%", "75%", "100%"],
+    "a": 1,
+    "explanation": "1/2 * 100 = 50%."
+  },
+  {
+    "q": "How many hours are there in 2 days?",
+    "options": ["24", "36", "48", "60"],
     "a": 2,
-    "explanation": "Mental health in schools focuses on supporting the emotional and social well-being of the students."
+    "explanation": "1 day = 24 hours. So, 2 days = 2 * 24 = 48 hours."
   },
   {
-    "q": "'परोपकार' शब्द का संधि-विच्छेद होगा:",
-    "options": ["पर + उपकार", "परो + पकार", "परौ + पकार", "परो + उपकार"],
+    "q": "Which of these is a 'Prime' number?",
+    "options": ["1", "9", "11", "15"],
+    "a": 2,
+    "explanation": "11 is divisible only by 1 and itself."
+  },
+  {
+    "q": "What is 0.5 multiplied by 10?",
+    "options": ["0.05", "0.5", "5", "50"],
+    "a": 2,
+    "explanation": "0.5 * 10 = 5."
+  },
+  {
+    "q": "If a dozen bananas cost 60 rupees, what is the cost of 1 banana?",
+    "options": ["2 rupees", "5 rupees", "6 rupees", "10 rupees"],
+    "a": 1,
+    "explanation": "60 / 12 = 5 rupees."
+  },
+  {
+    "q": "Which organ helps us to breathe?",
+    "options": ["Heart", "Lungs", "Brain", "Liver"],
+    "a": 1,
+    "explanation": "The lungs are the primary organs of respiration in humans."
+  },
+  {
+    "q": "The process of loss of water from leaves in the form of vapor is called:",
+    "options": ["Photosynthesis", "Transpiration", "Respiration", "Evaporation"],
+    "a": 1,
+    "explanation": "Transpiration is the process where plants release water vapor through stomata."
+  },
+  {
+    "q": "Which animal is known for its ability to change color for camouflage?",
+    "options": ["Chameleon", "Frog", "Snake", "Lizard"],
     "a": 0,
-    "explanation": "यह गुण संधि का उदाहरण है, जहाँ 'अ + उ' मिलकर 'ओ' बन जाता है."
+    "explanation": "Chameleons change skin color to blend into their surroundings or communicate."
   },
   {
-    "q": "'पीताम्बर' में कौन सा समास है?",
-    "options": ["अव्ययीभाव", "तत्पुरुष", "द्वंद्व", "बहुव्रीहि"],
-    "a": 3,
-    "explanation": "पीला है अंबर (वस्त्र) जिसका (अर्थात कृष्ण); यहाँ बहुव्रीहि समास है."
-  },
-  {
-    "q": "'आगमन' का विलोम शब्द है:",
-    "options": ["प्रस्थान", "गमन", "निर्गम", "आयात"],
-    "a": 1,
-    "explanation": "आगमन का अर्थ है आना और गमन का अर्थ है जाना."
-  },
-  {
-    "q": "'घी के दिए जलाना' मुहावरे का अर्थ है:",
-    "options": ["रोशनी करना", "पूजा करना", "खुशियाँ मनाना", "धनवान होना"],
+    "q": "What is the main source of light on Earth?",
+    "options": ["Moon", "Electricity", "Sun", "Fire"],
     "a": 2,
-    "explanation": "यह मुहावरा बहुत अधिक प्रसन्न होने या खुशियाँ मनाने के लिए प्रयोग किया जाता है."
+    "explanation": "The Sun is the primary natural source of light and energy for the planet."
   },
   {
-    "q": "निम्नलिखित में से 'शुद्ध' शब्द है:",
-    "options": ["आशिर्वाद", "आशीर्वाद", "अशीर्वाद", "आसीर्वाद"],
-    "a": 1,
-    "explanation": "वर्तनी की दृष्टि से 'आशीर्वाद' शुद्ध शब्द है."
-  },
-  {
-    "q": "'सूर्य' का पर्यायवाची शब्द नहीं है:",
-    "options": ["दिनकर", "दिवाकर", "निशाकर", "भास्कर"],
+    "q": "Which of the following is an 'Omnivore'?",
+    "options": ["Lion", "Cow", "Human", "Rabbit"],
     "a": 2,
-    "explanation": "निशाकर चंद्रमा का पर्यायवाची है, जबकि अन्य तीनों सूर्य के हैं."
-  },
-  {
-    "q": "भाषा की सबसे छोटी इकाई क्या है?",
-    "options": ["शब्द", "व्यंजन", "स्वर", "वर्ण"],
-    "a": 3,
-    "explanation": "वर्ण भाषा की सबसे छोटी इकाई है जिसके और खंड नहीं किए जा सकते."
-  },
-  {
-    "q": "Identify the 'Abstract Noun' in the following list:",
-    "options": ["Library", "Wisdom", "Teacher", "Gold"],
-    "a": 1,
-    "explanation": "Wisdom is an abstract noun because it refers to a quality or state that cannot be touched physically."
-  },
-  {
-    "q": "Fill in the blank: Neither of the two candidates ________ qualified.",
-    "options": ["are", "is", "were", "have"],
-    "a": 1,
-    "explanation": "'Neither' is singular and requires a singular verb ('is')."
-  },
-  {
-    "q": "What is the synonym of 'Fragile'?",
-    "options": ["Strong", "Delicate", "Tough", "Heavy"],
-    "a": 1,
-    "explanation": "Fragile means something that is easily broken; 'delicate' is its synonym."
-  },
-  {
-    "q": "Which suffix can be added to the word 'Manage' to form a noun?",
-    "options": ["-tion", "-ment", "-ness", "-able"],
-    "a": 1,
-    "explanation": "The suffix '-ment' is added to 'manage' to form the noun 'management'."
-  },
-  {
-    "q": "Choose the correct indirect speech: He said, \"I work hard.\"",
-    "options": ["He said that he works hard.", "He said that he worked hard.", "He says that he worked hard.", "He said that I worked hard."],
-    "a": 1,
-    "explanation": "When the reporting verb is in the past tense, the present simple 'work' changes to past simple 'worked'."
-  },
-  {
-    "q": "Which of these is a 'Diphthong' sound symbol?",
-    "options": ["/i:/", "/u/", "/aɪ/", "/æ/"],
-    "a": 2,
-    "explanation": "/aɪ/ is a diphthong because it involves a glide from one vowel sound to another."
-  },
-  {
-    "q": "The primary purpose of 'Silent Reading' is to improve:",
-    "options": ["Pronunciation", "Reading speed and comprehension", "Audibility", "Spelling"],
-    "a": 1,
-    "explanation": "Silent reading allows the reader to focus on the meaning and speed without verbal distraction."
-  },
-  {
-    "q": "What is the place value of 9 in 7,89,450?",
-    "options": ["90", "900", "9,000", "90,000"],
-    "a": 2,
-    "explanation": "In 7,89,450, the digit 9 is in the thousands place, so its value is 9,000."
-  },
-  {
-    "q": "What is the sum of the smallest 3-digit number and the largest 2-digit number?",
-    "options": ["100", "199", "109", "110"],
-    "a": 1,
-    "explanation": "Smallest 3-digit number (100) + Largest 2-digit number (99) = 199."
-  },
-  {
-    "q": "Convert 3/4 into a percentage.",
-    "options": ["30%", "45%", "75%", "80%"],
-    "a": 2,
-    "explanation": "To convert a fraction to a percentage, multiply by 100: (3/4) * 100 = 75%."
-  },
-  {
-    "q": "How many degrees are in a straight angle?",
-    "options": ["45", "90", "180", "360"],
-    "a": 2,
-    "explanation": "A straight angle is exactly 180 degrees."
-  },
-  {
-    "q": "If a dozen eggs cost 48 rupees, what is the cost of 1 egg?",
-    "options": ["3 rupees", "4 rupees", "5 rupees", "6 rupees"],
-    "a": 1,
-    "explanation": "Cost of 1 egg = 48 / 12 (a dozen) = 4 rupees."
-  },
-  {
-    "q": "A rectangle has a length of 10 cm and a width of 5 cm. What is its area?",
-    "options": ["15 sq cm", "30 sq cm", "50 sq cm", "100 sq cm"],
-    "a": 2,
-    "explanation": "Area of rectangle = Length * Width = 10 * 5 = 50 sq cm."
-  },
-  {
-    "q": "Which of the following is a composite number?",
-    "options": ["2", "3", "7", "9"],
-    "a": 3,
-    "explanation": "A composite number has more than two factors; 9 has factors 1, 3, and 9."
-  },
-  {
-    "q": "What is 1000 divided by 25?",
-    "options": ["20", "40", "50", "60"],
-    "a": 1,
-    "explanation": "1000 / 25 = 40."
-  },
-  {
-    "q": "What is the HCF of 8 and 12?",
-    "options": ["2", "4", "6", "8"],
-    "a": 1,
-    "explanation": "The highest common factor of 8 and 12 is 4."
-  },
-  {
-    "q": "Simplify: 12 + 4 x 3",
-    "options": ["48", "36", "24", "19"],
-    "a": 2,
-    "explanation": "Using BODMAS: 12 + (4 * 3) = 12 + 12 = 24."
-  },
-  {
-    "q": "Which part of a plant is called its 'Kitchen'?",
-    "options": ["Root", "Stem", "Leaf", "Flower"],
-    "a": 2,
-    "explanation": "Leaves are called the kitchen because they prepare food via photosynthesis."
-  },
-  {
-    "q": "Which bird is known for laying eggs in a crow's nest?",
-    "options": ["Sparrow", "Cuckoo (Koel)", "Pigeon", "Eagle"],
-    "a": 1,
-    "explanation": "The Cuckoo (Koel) is a brood parasite that lays its eggs in other birds' nests."
-  },
-  {
-    "q": "Which among the following is a liquid at room temperature?",
-    "options": ["Iron", "Gold", "Mercury", "Copper"],
-    "a": 2,
-    "explanation": "Mercury is a metal that exists in liquid state at room temperature."
-  },
-  {
-    "q": "Which fiber is also known as 'Golden Fiber'?",
-    "options": ["Cotton", "Silk", "Jute", "Wool"],
-    "a": 2,
-    "explanation": "Jute is known as the golden fiber due to its color and high value."
-  },
-  {
-    "q": "Which organ pumps blood throughout the human body?",
-    "options": ["Lungs", "Brain", "Heart", "Stomach"],
-    "a": 2,
-    "explanation": "The heart is the organ responsible for pumping blood to all parts of the body."
+    "explanation": "Humans are omnivores as they eat both plants and animal-based food."
   }
 ]
