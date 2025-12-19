@@ -1,0 +1,242 @@
+[
+  {
+    "q": "Which psychologist emphasizes the 'Socio-cultural' aspect of development?",
+    "options": ["Jean Piaget", "Lev Vygotsky", "Lawrence Kohlberg", "Erik Erikson"],
+    "a": 1,
+    "explanation": "Vygotsky believed social interaction and culture play a fundamental role."
+  },
+  {
+    "q": "What is the primary characteristic of 'Adolescent Egocentrism'?",
+    "options": ["Fear of strangers", "Imaginary Audience", "Object Permanence", "Conservation"],
+    "a": 1,
+    "explanation": "Adolescents often feel they are at the center of attention."
+  },
+  {
+    "q": "In Thorndike's 'Trial and Error' theory, the 'Law of Effect' refers to:",
+    "options": ["Repetition of task", "Consequences of behavior", "Readiness to learn", "Association of ideas"],
+    "a": 1,
+    "explanation": "Behaviors followed by pleasant consequences are likely to be repeated."
+  },
+  {
+    "q": "Which tool is best used for 'Anecdotal Records' in a school?",
+    "options": ["Rating scale", "Checklist", "Observation", "Projective test"],
+    "a": 2,
+    "explanation": "Anecdotal records are brief narrative accounts of incidents observed."
+  },
+  {
+    "q": "The 'Gifted' child usually has an I.Q. score of:",
+    "options": ["90-110", "110-120", "130 or above", "70-80"],
+    "a": 2,
+    "explanation": "Children with an IQ of 130+ are typically categorized as gifted."
+  },
+  {
+    "q": "A child says 'I did it' after completing a task. This shows development in:",
+    "options": ["Physical domain", "Self-efficacy", "Biological growth", "Moral reasoning"],
+    "a": 1,
+    "explanation": "Self-efficacy is the belief in one's own ability to complete tasks."
+  },
+  {
+    "q": "Which stage of Piaget involves 'Reversibility' of thought?",
+    "options": ["Sensory-motor", "Pre-operational", "Concrete operational", "Formal operational"],
+    "a": 2,
+    "explanation": "Reversibility develops in the concrete operational stage."
+  },
+  {
+    "q": "What does 'ADHD' primarily affect in a learner?",
+    "options": ["Reading speed", "Attention span", "Math calculation", "Vision"],
+    "a": 1,
+    "explanation": "Attention Deficit Hyperactivity Disorder primarily affects focus."
+  },
+  {
+    "q": "The 'Project Method' was primarily developed by:",
+    "options": ["Froebel", "Maria Montessori", "William Kilpatrick", "John Dewey"],
+    "a": 2,
+    "explanation": "Kilpatrick developed the Project Method based on pragmatism."
+  },
+  {
+    "q": "Which of the following is an 'Affective' domain objective?",
+    "options": ["Reciting a poem", "Valuing diversity", "Drawing a map", "Solving an equation"],
+    "a": 1,
+    "explanation": "The affective domain deals with feelings, values, and attitudes."
+  },
+  {
+    "q": "What is 'Growth' compared to 'Development'?",
+    "options": ["Qualitative", "Quantitative", "Both", "Spiritual"],
+    "a": 1,
+    "explanation": "Growth refers to physical changes and is quantitative."
+  },
+  {
+    "q": "satyaagrah ka sahi sandhi-vichchhed hai:",
+    "options": ["satya + grah", "satya + aagrah", "satya + grah", "satya + aaggrah"],
+    "a": 1,
+    "explanation": "satya + aagrah = satyaagrah (a + aa = aa, deergh sandhi)."
+  },
+  {
+    "q": "mahaanagar mein kaun sa samaas hai?",
+    "options": ["tatpurush", "dvigu", "karmadhaaraya", "avyayibhaav"],
+    "a": 2,
+    "explanation": "Mahaan hai jo nagar, karmadhaaraya samas."
+  },
+  {
+    "q": "aayaat ka vilom shabd kya hai?",
+    "options": ["niryaat", "gayaat", "aagat", "prasthaan"],
+    "a": 0,
+    "explanation": "Import opposite is Export."
+  },
+  {
+    "q": "lohe ke chane chabaana muhaavre ka arth hai:",
+    "options": ["kathor parishram karana", "bahut kathinaee ka saamana karana", "loha khaana", "majaak karana"],
+    "a": 1,
+    "explanation": "It means to face immense difficulty."
+  },
+  {
+    "q": "nimnalikhit mein se shuddh vaaky hai:",
+    "options": ["mere ko ghar jaana hai.", "mujhe ghar jaana hai.", "main ghar ko jaana hai.", "mainne ghar jaana hai."],
+    "a": 1,
+    "explanation": "Correct grammatical form is 'mujhe ghar jaana hai'."
+  },
+  {
+    "q": "anal aur anil shabd yugm ka sahi arth hai:",
+    "options": ["vaayu aur agni", "agni aur vaayu", "jal aur agni", "vaayu aur jal"],
+    "a": 1,
+    "explanation": "Anal = Fire, Anil = Wind."
+  },
+  {
+    "q": "bhaasha ki aagaman vidhi mein badhate hain:",
+    "options": ["niyam se udaaharan ki or", "udaaharan se niyam ki or", "saral se kathin ki or", "amoort se moort ki or"],
+    "a": 1,
+    "explanation": "Inductive method starts with examples."
+  },
+  {
+    "q": "Identify the 'Adverb' in: 'She sings very sweetly.'",
+    "options": ["She", "Sings", "Very", "Sweetly"],
+    "a": 3,
+    "explanation": "'Sweetly' describes the manner of the verb."
+  },
+  {
+    "q": "Choose the correct spelling:",
+    "options": ["Committee", "Comittee", "Committe", "Comitee"],
+    "a": 0,
+    "explanation": "Correct spelling has double m, double t, and double e."
+  },
+  {
+    "q": "The antonym of 'Victory' is:",
+    "options": ["Success", "Defeat", "Win", "Glory"],
+    "a": 1,
+    "explanation": "Defeat is the opposite of victory."
+  },
+  {
+    "q": "Select the correct collective noun: 'A ________ of ships.'",
+    "options": ["Herd", "Pack", "Fleet", "Swarm"],
+    "a": 2,
+    "explanation": "A group of ships is called a fleet."
+  },
+  {
+    "q": "Convert to passive voice: 'I am reading a book.'",
+    "options": ["A book is read by me.", "A book is being read by me.", "A book was read by me.", "I was reading a book."],
+    "a": 1,
+    "explanation": "Present continuous passive uses 'being'."
+  },
+  {
+    "q": "Which part of speech is 'Under' in 'The cat is under the bed'?",
+    "options": ["Noun", "Adjective", "Preposition", "Conjunction"],
+    "a": 2,
+    "explanation": "It shows relationship/position."
+  },
+  {
+    "q": "The 'LSRW' sequence in language learning stands for:",
+    "options": ["Learn, Speak, Read, Write", "Listen, Speak, Read, Write", "Listen, Study, Read, Write", "Look, Speak, Read, Write"],
+    "a": 1,
+    "explanation": "Listening, Speaking, Reading, Writing."
+  },
+  {
+    "q": "The square root of 0.09 is:",
+    "options": ["0.3", "0.03", "0.003", "3"],
+    "a": 0,
+    "explanation": "0.3 * 0.3 = 0.09."
+  },
+  {
+    "q": "The product of (x+3) and (x-3) is:",
+    "options": ["x^2 + 9", "x^2 - 9", "x^2 - 6", "x^2 + 6x + 9"],
+    "a": 1,
+    "explanation": "(a+b)(a-b) = a^2 - b^2."
+  },
+  {
+    "q": "If 20% of x is 50, then x is:",
+    "options": ["100", "200", "250", "500"],
+    "a": 2,
+    "explanation": "0.2x = 50. x = 50 / 0.2 = 250."
+  },
+  {
+    "q": "A triangle with sides 3, 4, 5 is:",
+    "options": ["Equilateral", "Isosceles", "Right-angled", "Obtuse"],
+    "a": 2,
+    "explanation": "3^2 + 4^2 = 5^2 (9 + 16 = 25)."
+  },
+  {
+    "q": "The area of a circle with radius 7 cm is:",
+    "options": ["44 cm^2", "154 cm^2", "49 cm^2", "88 cm^2"],
+    "a": 1,
+    "explanation": "pi * r^2 = 22/7 * 49 = 154."
+  },
+  {
+    "q": "Which of the following is a rational number?",
+    "options": ["sqrt(2)", "pi", "0", "sqrt(3)"],
+    "a": 2,
+    "explanation": "0 can be written as 0/1."
+  },
+  {
+    "q": "The sum of angles of a triangle is:",
+    "options": ["90", "180", "270", "360"],
+    "a": 1,
+    "explanation": "Standard geometric theorem."
+  },
+  {
+    "q": "Find x if 2x/3 = 4.",
+    "options": ["2", "4", "6", "12"],
+    "a": 2,
+    "explanation": "2x = 12. x = 6."
+  },
+  {
+    "q": "Which of the following is a physical change?",
+    "options": ["Burning of paper", "Digestion of food", "Melting of ice", "Curdling of milk"],
+    "a": 2,
+    "explanation": "Ice to water is a state change, no new substance."
+  },
+  {
+    "q": "The smallest unit of an element that retains its properties is:",
+    "options": ["Molecule", "Atom", "Compound", "Cell"],
+    "a": 1,
+    "explanation": "Atom is the basic chemical unit."
+  },
+  {
+    "q": "Red blood cells are produced in:",
+    "options": ["Heart", "Liver", "Bone marrow", "Kidney"],
+    "a": 2,
+    "explanation": "Hematopoiesis occurs in bone marrow."
+  },
+  {
+    "q": "The speed of sound is maximum in:",
+    "options": ["Air", "Water", "Steel", "Vacuum"],
+    "a": 2,
+    "explanation": "Sound travels faster in solids due to higher elasticity."
+  },
+  {
+    "q": "Which mirror is used as a rear-view mirror in vehicles?",
+    "options": ["Plane mirror", "Concave mirror", "Convex mirror", "Cylindrical mirror"],
+    "a": 2,
+    "explanation": "Convex mirrors provide a wider field of view."
+  },
+  {
+    "q": "The mode of nutrition in mushrooms is:",
+    "options": ["Autotrophic", "Saprophytic", "Parasitic", "Holozoic"],
+    "a": 1,
+    "explanation": "Mushrooms feed on decaying organic matter."
+  },
+  {
+    "q": "Electric current is measured by:",
+    "options": ["Voltmeter", "Ammeter", "Galvanometer", "Multimeter"],
+    "a": 1,
+    "explanation": "Ammeter measures flow of charge in Amperes."
+  }
+]
