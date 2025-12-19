@@ -1,0 +1,242 @@
+[
+  {
+    "q": "Which of the following is an example of 'Fine Motor Skill' development?",
+    "options": ["Running", "Hopping", "Writing", "Climbing"],
+    "a": 2,
+    "explanation": "Fine motor skills involve small muscle movements, such as those used in writing or drawing."
+  },
+  {
+    "q": "In Piaget's theory, 'Animism' (believing inanimate objects have feelings) is a feature of:",
+    "options": ["Sensory-motor stage", "Pre-operational stage", "Concrete operational stage", "Formal operational stage"],
+    "a": 1,
+    "explanation": "Animistic thinking is prevalent in the pre-operational stage (2-7 years)."
+  },
+  {
+    "q": "According to Kohlberg, 'Social Contract Orientation' belongs to which level?",
+    "options": ["Pre-conventional", "Conventional", "Post-conventional", "Non-conventional"],
+    "a": 2,
+    "explanation": "Stage 5 (Social Contract) is part of the post-conventional level of morality."
+  },
+  {
+    "q": "The 'Two-Factor Theory' of intelligence (g-factor and s-factor) was proposed by:",
+    "options": ["Charles Spearman", "Howard Gardner", "L.L. Thurstone", "E.L. Thorndike"],
+    "a": 0,
+    "explanation": "Spearman proposed that intelligence consists of general (g) and specific (s) factors."
+  },
+  {
+    "q": "Which of the following is a symptom of 'ADHD'?",
+    "options": ["Difficulty in reading", "Inability to perform math", "Persistent inattention and impulsivity", "Poor handwriting"],
+    "a": 2,
+    "explanation": "Attention Deficit Hyperactivity Disorder is marked by hyperactivity and lack of focus."
+  },
+  {
+    "q": "What is the primary goal of 'Action Research' in education?",
+    "options": ["To develop new theories", "To solve immediate classroom problems", "To compare school systems", "To conduct national surveys"],
+    "a": 1,
+    "explanation": "Action research is conducted by practitioners to improve their own professional practice."
+  },
+  {
+    "q": "Which of these is a 'Nature' factor in development?",
+    "options": ["Schooling", "Peer group", "Genetic makeup", "Nutritional intake"],
+    "a": 2,
+    "explanation": "Nature refers to biological and genetic influences on development."
+  },
+  {
+    "q": "In Pavlov’s classical conditioning, the 'Bell' before conditioning is a:",
+    "options": ["Unconditioned Stimulus", "Conditioned Response", "Neutral Stimulus", "Unconditioned Response"],
+    "a": 2,
+    "explanation": "Initially, the bell is neutral; it becomes a conditioned stimulus after pairing with food."
+  },
+  {
+    "q": "A student who learns best through charts, maps, and diagrams is a:",
+    "options": ["Auditory learner", "Kinesthetic learner", "Visual learner", "Social learner"],
+    "a": 2,
+    "explanation": "Visual learners process information better when it is presented graphically."
+  },
+  {
+    "q": "Which teaching style is most effective for fostering 'Critical Thinking'?",
+    "options": ["Autocratic", "Laissez-faire", "Democratic", "Permissive"],
+    "a": 2,
+    "explanation": "Democratic environments encourage questioning, discussion, and analysis."
+  },
+  {
+    "q": "The concept of 'Mental Health' in a classroom primarily focuses on:",
+    "options": ["Academic grades", "Physical fitness", "Emotional and social well-being", "Discipline only"],
+    "a": 2,
+    "explanation": "Mental health involves a student's ability to handle stress and relate to others."
+  },
+  {
+    "q": "paropkaar shabd ka sandhi-vichchhed hoga:",
+    "options": ["par + upkaar", "paro + pkaar", "parau + pkaar", "paro + upkaar"],
+    "a": 0,
+    "explanation": "par + upkaar = paropkar (a + u = o, gun sandhi)."
+  },
+  {
+    "q": "peetaambar mein kaun sa samaas hai?",
+    "options": ["avyayibhaav", "tatpurush", "dvandv", "bahuvrihi"],
+    "a": 3,
+    "explanation": "peet hai ambar jiska (krishna), here bahuvrihi samas."
+  },
+  {
+    "q": "aagaman ka vilom shabd hai:",
+    "options": ["prasthaan", "gaman", "nirgam", "aayaat"],
+    "a": 1,
+    "explanation": "aagaman means coming, gaman means going."
+  },
+  {
+    "q": "ghee ke diye jalaana muhaavre ka arth hai:",
+    "options": ["roshani karana", "pooja karana", "khushiyaan manaana", "dhanavaan hona"],
+    "a": 2,
+    "explanation": "It means to celebrate or express great joy."
+  },
+  {
+    "q": "nimnalikhit mein se shuddh shabd hai:",
+    "options": ["aashirvaad", "aashirvaad", "ashirvaad", "aasirvaad"],
+    "a": 1,
+    "explanation": "The correct spelling is 'aashirvaad'."
+  },
+  {
+    "q": "soory ka paryayavaachi shabd nahin hai:",
+    "options": ["dinakar", "divaakar", "nishaakar", "bhaaskar"],
+    "a": 2,
+    "explanation": "nishakar is the synonym of Moon."
+  },
+  {
+    "q": "bhaasha ki sabase chhoti ikaee kya hai?",
+    "options": ["shabd", "vyanjan", "svar", "varn"],
+    "a": 3,
+    "explanation": "Varn is the smallest unit of language."
+  },
+  {
+    "q": "Identify the 'Abstract Noun' in the following list:",
+    "options": ["Library", "Wisdom", "Teacher", "Gold"],
+    "a": 1,
+    "explanation": "Wisdom represents a quality or state, which is an abstract noun."
+  },
+  {
+    "q": "Fill in the blank: 'Neither of the two candidates ________ qualified.'",
+    "options": ["are", "is", "were", "have"],
+    "a": 1,
+    "explanation": "'Neither' is singular and requires a singular verb 'is'."
+  },
+  {
+    "q": "What is the synonym of 'Fragile'?",
+    "options": ["Strong", "Delicate", "Tough", "Heavy"],
+    "a": 1,
+    "explanation": "Fragile means easily broken or damaged; delicate."
+  },
+  {
+    "q": "Which suffix can be added to the word 'Manage' to form a noun?",
+    "options": ["-tion", "-ment", "-ness", "-able"],
+    "a": 1,
+    "explanation": "Management is the noun form of the verb manage."
+  },
+  {
+    "q": "Choose the correct indirect speech: 'He said, \"I work hard.\"'",
+    "options": ["He said that he works hard.", "He said that he worked hard.", "He says that he worked hard.", "He said that I worked hard."],
+    "a": 1,
+    "explanation": "In indirect speech, simple present changes to simple past."
+  },
+  {
+    "q": "Which of these is a 'Diphthong' sound symbol?",
+    "options": ["/i:/", "/u/", "/ai/", "/ae/"],
+    "a": 2,
+    "explanation": "/ai/ is a combination of two vowel sounds."
+  },
+  {
+    "q": "The primary purpose of 'Silent Reading' is to improve:",
+    "options": ["Pronunciation", "Reading speed and comprehension", "Audibility", "Spelling"],
+    "a": 1,
+    "explanation": "Silent reading helps students focus on the meaning and increases reading pace."
+  },
+  {
+    "q": "A number whose one-fourth is 10 more than its one-fifth is:",
+    "options": ["200", "100", "300", "400"],
+    "a": 0,
+    "explanation": "x/4 = x/5 + 10. Multiplying by 20: 5x = 4x + 200. x = 200."
+  },
+  {
+    "q": "The smallest number by which 180 should be multiplied so that it becomes a perfect square is:",
+    "options": ["2", "3", "5", "6"],
+    "a": 2,
+    "explanation": "180 = 2*2 * 3*3 * 5. To make it a square, we need another 5."
+  },
+  {
+    "q": "If the sum of two numbers is 14 and their difference is 2, find the product of the numbers.",
+    "options": ["24", "48", "32", "40"],
+    "a": 1,
+    "explanation": "x+y=14, x-y=2. 2x=16 -> x=8, y=6. Product = 8*6 = 48."
+  },
+  {
+    "q": "A polyhedral with 6 faces and 8 vertices has how many edges?",
+    "options": ["10", "12", "14", "16"],
+    "a": 1,
+    "explanation": "Euler's Formula: F + V - E = 2. 6 + 8 - E = 2. E = 12."
+  },
+  {
+    "q": "The measure of each interior angle of a regular octagon is:",
+    "options": ["108 degrees", "120 degrees", "135 degrees", "150 degrees"],
+    "a": 2,
+    "explanation": "Angle = (n-2)*180/n. (8-2)*180/8 = 6*180/8 = 135."
+  },
+  {
+    "q": "The value of (625)^0.25 is:",
+    "options": ["5", "25", "125", "625"],
+    "a": 0,
+    "explanation": "625 is 5^4. (5^4)^0.25 = 5^(4*0.25) = 5^1 = 5."
+  },
+  {
+    "q": "The sum of a number and its reciprocal is 2. The number is:",
+    "options": ["0", "1", "2", "-1"],
+    "a": 1,
+    "explanation": "1 + 1/1 = 2. The only positive number satisfying this is 1."
+  },
+  {
+    "q": "Find the simple interest on 5000 at 10% per annum for 2 years.",
+    "options": ["500", "1000", "1500", "2000"],
+    "a": 1,
+    "explanation": "SI = P*R*T/100 = 5000*10*2/100 = 1000."
+  },
+  {
+    "q": "Which of the following is a non-contact force?",
+    "options": ["Frictional force", "Muscular force", "Magnetic force", "Mechanical force"],
+    "a": 2,
+    "explanation": "Magnetic force acts from a distance without physical contact."
+  },
+  {
+    "q": "The part of the eye that gives it its distinctive color is the:",
+    "options": ["Cornea", "Iris", "Pupil", "Retina"],
+    "a": 1,
+    "explanation": "The iris is the pigmented part of the eye."
+  },
+  {
+    "q": "Which synthetic fiber is also known as artificial silk?",
+    "options": ["Nylon", "Rayon", "Polyester", "Acrylic"],
+    "a": 1,
+    "explanation": "Rayon is chemically similar to silk and has a similar shine."
+  },
+  {
+    "q": "The conversion of a liquid into gas below its boiling point is called:",
+    "options": ["Vaporization", "Condensation", "Evaporation", "Sublimation"],
+    "a": 2,
+    "explanation": "Evaporation is the surface process of liquid turning to gas below BP."
+  },
+  {
+    "q": "Which organelle is known as the suicide bag of the cell?",
+    "options": ["Ribosome", "Lysosome", "Mitochondria", "Vacuole"],
+    "a": 1,
+    "explanation": "Lysosomes contain digestive enzymes that can destroy the cell."
+  },
+  {
+    "q": "Which vitamin is essential for blood clotting?",
+    "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin K"],
+    "a": 3,
+    "explanation": "Vitamin K is the primary clotting factor."
+  },
+  {
+    "q": "The path of a projectile is a:",
+    "options": ["Straight line", "Circle", "Parabola", "Hyperbola"],
+    "a": 2,
+    "explanation": "Under gravity, the path of a projectile is parabolic."
+  }
+]
