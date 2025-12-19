@@ -1,0 +1,242 @@
+[
+  {
+    "q": "Growth occurs in a ________ sequence, while development is ________.",
+    "options": ["Predictable, Random", "Fixed, Lifelong", "Physical, Holistic", "Qualitative, Quantitative"],
+    "a": 2,
+    "explanation": "Growth is primarily the physical increase, while development encompasses physical, mental, and social changes."
+  },
+  {
+    "q": "According to Erikson, 'Trust vs. Mistrust' is the conflict of which stage?",
+    "options": ["Infancy", "Early Childhood", "Play Age", "School Age"],
+    "a": 0,
+    "explanation": "This first stage (birth to 1 year) centers on the infant's basic needs being met by caregivers."
+  },
+  {
+    "q": "Piaget's 'Schema' refers to:",
+    "options": ["A physical reflex", "A mental packet of information", "A stage of growth", "A social skill"],
+    "a": 1,
+    "explanation": "Schemas are cognitive frameworks that help organize and interpret information."
+  },
+  {
+    "q": "Which reinforcement schedule is most resistant to extinction?",
+    "options": ["Fixed-ratio", "Variable-ratio", "Fixed-interval", "Continuous"],
+    "a": 1,
+    "explanation": "Variable-ratio (like gambling) is hardest to extinguish because the reward is unpredictable."
+  },
+  {
+    "q": "The 'Projective' tests like TAT are used to measure:",
+    "options": ["Intelligence", "Personality", "Creativity", "Aptitude"],
+    "a": 1,
+    "explanation": "Projective tests reveal hidden emotions and internal conflicts of personality."
+  },
+  {
+    "q": "Which is NOT a characteristic of 'Inclusive Education'?",
+    "options": ["Catering to diversity", "Removing barriers", "Segregating disabled children", "Equal participation"],
+    "a": 2,
+    "explanation": "Segregation is the opposite of inclusion."
+  },
+  {
+    "q": "According to Gardner, 'Musical Intelligence' involves sensitivity to:",
+    "options": ["Visual colors", "Logic", "Rhythm and pitch", "Bodily movements"],
+    "a": 2,
+    "explanation": "Musicians and composers excel in perceiving and creating patterns of sound."
+  },
+  {
+    "q": "The primary aim of 'Diagnostic Evaluation' is:",
+    "options": ["Ranking students", "Giving grades", "Identifying learning gaps", "Certifying students"],
+    "a": 2,
+    "explanation": "Diagnostic tests help find specific weaknesses to provide remedial help."
+  },
+  {
+    "q": "What is 'Self-Actualization' in Maslow's theory?",
+    "options": ["Basic survival", "Social status", "Fulfilling one's full potential", "Avoiding danger"],
+    "a": 2,
+    "explanation": "It is the peak of the pyramid where one seeks personal growth and fulfillment."
+  },
+  {
+    "q": "Child-centered education was popularized by:",
+    "options": ["John Dewey", "Skinner", "Pavlov", "Watson"],
+    "a": 0,
+    "explanation": "Dewey's progressivism focused on the child's interests and active experience."
+  },
+  {
+    "q": "Adolescence is often described as the 'Age of ________'.",
+    "options": ["Identity crisis", "Object permanence", "Egocentrism only", "Toy play"],
+    "a": 0,
+    "explanation": "Erikson identified 'Identity vs Role Confusion' as the primary struggle during this time."
+  },
+  {
+    "q": "'अन्वय' का सही संधि-विच्छेद है:",
+    "options": ["अन + वय", "अनु + अय", "अनु + आय", "अन + आय"],
+    "a": 1,
+    "explanation": "अनु + अय = अन्वय (उ + अ = व, यण संधि)।"
+  },
+  {
+    "q": "'यथाशक्ति' में कौन सा समास है?",
+    "options": ["तत्पुरुष", "कर्मधारय", "अव्ययीभाव", "द्विगु"],
+    "a": 2,
+    "explanation": "शक्ति के अनुसार; प्रथम पद 'यथा' अव्यय होने के कारण अव्ययीभाव समास है।"
+  },
+  {
+    "q": "'उन्मुख' का विलोम शब्द क्या है?",
+    "options": ["प्रमुख", "विमुख", "सन्मुख", "अधोमुख"],
+    "a": 1,
+    "explanation": "उन्मुख का विलोम विमुख होता है।"
+  },
+  {
+    "q": "'हाथ मलना' मुहावरे का अर्थ है:",
+    "options": ["हाथ साफ करना", "पछताना", "मेहनत करना", "झगड़ा करना"],
+    "a": 1,
+    "explanation": "इसका अर्थ है अवसर खोने के बाद दुख प्रकट करना या पछताना।"
+  },
+  {
+    "q": "शुद्ध वर्तनी वाले शब्द को चुनिए:",
+    "options": ["श्रृंगार", "शृंगार", "सिंगार", "श्रींगार"],
+    "a": 1,
+    "explanation": "शुद्ध रूप 'शृंगार' है (श के नीचे ऋ की मात्रा)।"
+  },
+  {
+    "q": "'आग' का पर्यायवाची शब्द नहीं है:",
+    "options": ["पावक", "अनिल", "अनल", "हुताशन"],
+    "a": 1,
+    "explanation": "'अनिल' वायु का पर्यायवाची है, जबकि अन्य आग के हैं।"
+  },
+  {
+    "q": "भाषा शिक्षण की 'मोंटेसरी विधि' किस पर आधारित है?",
+    "options": ["इन्द्रियों के प्रशिक्षण पर", "केवल पढ़ने पर", "व्याकरण रटने पर", "अनुवाद पर"],
+    "a": 0,
+    "explanation": "Dr. Maria Montessori emphasized sensory training for young children."
+  },
+  {
+    "q": "Choose the synonym of 'Diligent':",
+    "options": ["Lazy", "Intelligent", "Hardworking", "Careful"],
+    "a": 2,
+    "explanation": "A diligent person is one who puts in steady and earnest effort."
+  },
+  {
+    "q": "Which of these is a 'Verb'?",
+    "options": ["Happiness", "Bright", "Decision", "Create"],
+    "a": 3,
+    "explanation": "Create is an action word; the others are noun/adjectives."
+  },
+  {
+    "q": "Choose the correct preposition: 'The sun rises ________ the east.'",
+    "options": ["on", "at", "in", "from"],
+    "a": 2,
+    "explanation": "We use 'in' for directions like in the east, in the west."
+  },
+  {
+    "q": "Identify the 'Sentence Type': 'What a beautiful day!'",
+    "options": ["Assertive", "Interrogative", "Exclamatory", "Imperative"],
+    "a": 2,
+    "explanation": "It expresses sudden emotion and ends with an exclamation mark."
+  },
+  {
+    "q": "The plural of 'Sheep' is:",
+    "options": ["Sheeps", "Sheep", "Sheepses", "Sheepes"],
+    "a": 1,
+    "explanation": "Sheep is an irregular noun that remains the same in singular and plural."
+  },
+  {
+    "q": "Convert to Direct Speech: 'He asked me where I lived.'",
+    "options": ["He said, \"Where you live?\"", "He said to me, \"Where do you live?\"", "He said, \"Where I live?\"", "He asked, \"Where do you live?\""],
+    "a": 1,
+    "explanation": "In direct speech, the question form 'do you live' is used."
+  },
+  {
+    "q": "The phoneme /p/ is classified as a:",
+    "options": ["Vowel", "Nasal", "Voiceless Plosive", "Fricative"],
+    "a": 2,
+    "explanation": "The sound /p/ is produced by blocking air and releasing it without vibrating vocal cords."
+  },
+  {
+    "q": "Which Buddhist council resulted in the split between Hinayana and Mahayana?",
+    "options": ["First", "Second", "Third", "Fourth"],
+    "a": 3,
+    "explanation": "The Fourth Council under Kanishka in Kashmir saw the formal division of Buddhism."
+  },
+  {
+    "q": "Who was the 'Father of Local Self-Government' in India?",
+    "options": ["Lord Mayo", "Lord Ripon", "Lord Lytton", "Lord Curzon"],
+    "a": 1,
+    "explanation": "Ripon's resolution of 1882 gave Indians the first taste of local governance."
+  },
+  {
+    "q": "Which state has the largest area under 'Forest Cover' in India (by area)?",
+    "options": ["Mizoram", "Arunachal Pradesh", "Madhya Pradesh", "Chhattisgarh"],
+    "a": 2,
+    "explanation": "Madhya Pradesh consistently has the largest area of forest in India."
+  },
+  {
+    "q": "The 'Preamble' of the Indian Constitution declares India as:",
+    "options": ["Sovereign, Democratic, Republic", "Sovereign, Socialist, Secular, Democratic, Republic", "Democratic, Socialist", "Socialist, Secular, Republic"],
+    "a": 1,
+    "explanation": "This full description was finalized after the 42nd Amendment."
+  },
+  {
+    "q": "Who founded the 'Arya Samaj' in 1875?",
+    "options": ["Raja Ram Mohan Roy", "Swami Vivekananda", "Swami Dayanand Saraswati", "Annie Besant"],
+    "a": 2,
+    "explanation": "Dayanand Saraswati gave the call 'Back to the Vedas'."
+  },
+  {
+    "q": "The 'Indira Point' (southernmost point of India) is located in:",
+    "options": ["Tamil Nadu", "Lakshadweep", "Andaman and Nicobar Islands", "Kerala"],
+    "a": 2,
+    "explanation": "It is located on Great Nicobar Island."
+  },
+  {
+    "q": "Which Indian ruler was defeated in the 'Second Battle of Tarain' (1192)?",
+    "options": ["Prithviraj Chauhan", "Jaichand", "Maharana Sanga", "Dahir"],
+    "a": 0,
+    "explanation": "Ghori defeated Prithviraj, which marked the beginning of Muslim rule in North India."
+  },
+  {
+    "q": "What is the 'Maximum Strength' of the Lok Sabha as per the Constitution?",
+    "options": ["530", "545", "550", "552"],
+    "a": 3,
+    "explanation": "While currently 543 are elected, the maximum limit is 552."
+  },
+  {
+    "q": "The 'Kanha National Park' is famous for:",
+    "options": ["Lions", "Tigers", "Rhinoceros", "Elephants"],
+    "a": 1,
+    "explanation": "Located in MP, it is a significant tiger reserve."
+  },
+  {
+    "q": "The 'Cabinet Mission Plan' rejected the demand for:",
+    "options": ["Interim Government", "Pakistan", "Constituent Assembly", "Independence"],
+    "a": 1,
+    "explanation": "The 1946 plan proposed a united India and rejected a separate Pakistan (though it was later accepted in 1947)."
+  },
+  {
+    "q": "The 'Prime Meridian' passes through which place?",
+    "options": ["Paris", "London (Greenwich)", "New York", "Delhi"],
+    "a": 1,
+    "explanation": "0° longitude passes through the Royal Observatory in Greenwich."
+  },
+  {
+    "q": "How many 'Fundamental Rights' are currently guaranteed to Indian citizens?",
+    "options": ["5", "6", "7", "11"],
+    "a": 1,
+    "explanation": "There are currently six: Equality, Freedom, Against Exploitation, Religion, Culture/Education, and Remedies."
+  },
+  {
+    "q": "Who wrote 'Akbarnama'?",
+    "options": ["Akbar", "Birbal", "Abul Fazl", "Badauni"],
+    "a": 2,
+    "explanation": "Abul Fazl was one of the Navratnas in Akbar's court."
+  },
+  {
+    "q": "The 'Blue Revolution' is related to:",
+    "options": ["Sky conservation", "Fish production", "Agriculture", "Milk"],
+    "a": 1,
+    "explanation": "Blue revolution focuses on aquaculture and fisheries."
+  },
+  {
+    "q": "The 'Governor' of a state holds office during the pleasure of the:",
+    "options": ["Chief Minister", "President", "Prime Minister", "Chief Justice"],
+    "a": 1,
+    "explanation": "Although the term is 5 years, the President can remove them at any time."
+  }
+]
