@@ -1,0 +1,200 @@
+[
+  {
+    "q": "Which stage of development is called the 'Stage of Stress and Storm'?",
+    "options": ["Infancy", "Early Childhood", "Later Childhood", "Adolescence"],
+    "a": 3,
+    "explanation": "G. Stanley Hall described adolescence as a period of great tension."
+  },
+  {
+    "q": "The 'Insight Theory' of learning was experimented using a chimpanzee named Sultan by:",
+    "options": ["Wolfgang Kohler", "Max Wertheimer", "Kurt Koffka", "Kurt Lewin"],
+    "a": 0,
+    "explanation": "Kohler’s work with Sultan demonstrated sudden problem-solving."
+  },
+  {
+    "q": "According to Piaget, 'Centration' is a limitation of which stage?",
+    "options": ["Sensory-motor", "Pre-operational", "Concrete operational", "Formal operational"],
+    "a": 1,
+    "explanation": "Centration is focusing on only one aspect of a situation."
+  },
+  {
+    "q": "Which personality type is 'Social, outgoing, and talkative' according to Jung?",
+    "options": ["Introvert", "Extrovert", "Ambivert", "Neurotic"],
+    "a": 1,
+    "explanation": "Extroverts direct their energy outward."
+  },
+  {
+    "q": "The 'Individual differences' in a classroom should be viewed by teachers as:",
+    "options": ["A nuisance", "An obstacle to teaching", "A resource for learning", "A sign of failure"],
+    "a": 2,
+    "explanation": "Diverse backgrounds should be leveraged to enrich learning."
+  },
+  {
+    "q": "Which assessment is best for 'Improving' the teaching-learning process?",
+    "options": ["Summative", "Formative", "Placement", "Standardized"],
+    "a": 1,
+    "explanation": "Formative assessment provides feedback during instruction."
+  },
+  {
+    "q": "The concept of 'Intelligence Quotient' (IQ) was first given by:",
+    "options": ["William Stern", "Lewis Terman", "Alfred Binet", "David Wechsler"],
+    "a": 0,
+    "explanation": "Stern proposed the formula (MA/CA)."
+  },
+  {
+    "q": "Dysgraphia is a learning disability associated with:",
+    "options": ["Reading", "Writing", "Mathematical calculation", "Listening"],
+    "a": 1,
+    "explanation": "Dysgraphia primarily affects handwriting."
+  },
+  {
+    "q": "In an 'Authoritative' parenting style, parents are:",
+    "options": ["Demanding and unresponsive", "Undemanding and responsive", "Demanding and responsive", "Undemanding and unresponsive"],
+    "a": 2,
+    "explanation": "Authoritative parents set rules but are supportive."
+  },
+  {
+    "q": "What is 'Object Permanence'?",
+    "options": ["Thinking objects have life", "Knowing objects exist even when unseen", "Grouping similar objects", "Solving math with objects"],
+    "a": 1,
+    "explanation": "Realizing things still exist out of sight."
+  },
+  {
+    "q": "The 'Constructivist' framework of learning emphasizes:",
+    "options": ["Passive reception", "Active participation of the learner", "Conditioning", "Punishment"],
+    "a": 1,
+    "explanation": "Constructivism posits that learners build their own knowledge."
+  },
+  {
+    "q": "naayak ka sahi sandhi-vichchhed hai:",
+    "options": ["na + ak", "nai + ak", "ne + ak", "nay + ak"],
+    "a": 1,
+    "explanation": "nai + ak = naayak (ayaadi sandhi)."
+  },
+  {
+    "q": "pratidin mein kaun sa samaas hai?",
+    "options": ["dvigu", "dvandv", "avyayibhaav", "tatpurush"],
+    "a": 2,
+    "explanation": "First word is an avyaya, so avyayibhaav."
+  },
+  {
+    "q": "jangam ka vilom shabd hai:",
+    "options": ["sthaavar", "agam", "durgam", "chanchal"],
+    "a": 0,
+    "explanation": "Jangam (movable) opposite is Sthavar (fixed)."
+  },
+  {
+    "q": "naak mein dam karana muhaavre ka arth hai:",
+    "options": ["naak mein chot lagana", "bahut pareshaan karana", "ghamand karana", "saans na le paana"],
+    "a": 1,
+    "explanation": "It means to harass or trouble a lot."
+  },
+  {
+    "q": "shuddh vaaky chuniye:",
+    "options": ["yahaan shuddh gaay ka doodh milata hai.", "yahaan gaay ka shuddh doodh milata hai.", "yahaan gaay shuddh ka doodh milata hai.", "shuddh gaay ka doodh yahaan milata hai."],
+    "a": 1,
+    "explanation": "Correct word order: 'yahaan gaay ka shuddh doodh milata hai'."
+  },
+  {
+    "q": "pavan ka paryayavaachi shabd nahin hai:",
+    "options": ["sameer", "maarut", "anal", "vaat"],
+    "a": 2,
+    "explanation": "Anal means Fire."
+  },
+  {
+    "q": "shikshan ki sootra vidhi kis bhaasha se aaee hai?",
+    "options": ["hindi", "sanskrit", "angrejee", "arabee"],
+    "a": 1,
+    "explanation": "Sutra method originates from Sanskrit grammar."
+  },
+  {
+    "q": "In which type of triangle are all three angles equal to 60 degrees?",
+    "options": ["Isosceles", "Scalene", "Equilateral", "Right-angled"],
+    "a": 2,
+    "explanation": "All sides and angles are equal in an equilateral triangle."
+  },
+  {
+    "q": "The value of (-1)^1000 is:",
+    "options": ["1", "-1", "0", "1000"],
+    "a": 0,
+    "explanation": "Negative number raised to an even power is positive."
+  },
+  {
+    "q": "If the radius of a circle is doubled, its area becomes:",
+    "options": ["Double", "Triple", "Four times", "Half"],
+    "a": 2,
+    "explanation": "Area = pi * r^2. If r becomes 2r, Area = pi * (2r)^2 = 4 * pi * r^2."
+  },
+  {
+    "q": "What is the probability of an impossible event?",
+    "options": ["1", "0.5", "0", "-1"],
+    "a": 2,
+    "explanation": "Impossible events have 0 probability."
+  },
+  {
+    "q": "Find the average of first 5 natural numbers.",
+    "options": ["2", "2.5", "3", "3.5"],
+    "a": 2,
+    "explanation": "(1+2+3+4+5)/5 = 15/5 = 3."
+  },
+  {
+    "q": "The square of 1.2 is:",
+    "options": ["1.44", "14.4", "0.144", "144"],
+    "a": 0,
+    "explanation": "1.2 * 1.2 = 1.44."
+  },
+  {
+    "q": "The supplementary angle of 120 degrees is:",
+    "options": ["30", "60", "90", "180"],
+    "a": 1,
+    "explanation": "180 - 120 = 60."
+  },
+  {
+    "q": "Which of the following is a prime number?",
+    "options": ["21", "27", "29", "33"],
+    "a": 2,
+    "explanation": "29 has no factors other than 1 and 29."
+  },
+  {
+    "q": "The pH of lemon juice is approximately:",
+    "options": ["2.2", "7.0", "8.5", "13.0"],
+    "a": 0,
+    "explanation": "Lemon juice is acidic."
+  },
+  {
+    "q": "Which organ is responsible for filtering blood in the human body?",
+    "options": ["Heart", "Lungs", "Kidney", "Stomach"],
+    "a": 2,
+    "explanation": "Kidneys remove waste and excess water."
+  },
+  {
+    "q": "The frequency of ultrasound is:",
+    "options": ["Below 20 Hz", "20 Hz to 20,000 Hz", "Above 20,000 Hz", "100 Hz"],
+    "a": 2,
+    "explanation": "Ultrasound is beyond human hearing range."
+  },
+  {
+    "q": "Which metal is stored in kerosene?",
+    "options": ["Iron", "Sodium", "Gold", "Silver"],
+    "a": 1,
+    "explanation": "Sodium is highly reactive with air and water."
+  },
+  {
+    "q": "The image formed by a plane mirror is:",
+    "options": ["Real and Inverted", "Virtual and Erect", "Real and Erect", "Virtual and Inverted"],
+    "a": 1,
+    "explanation": "Plane mirrors produce upright, non-real images."
+  },
+  {
+    "q": "Power is defined as:",
+    "options": ["Rate of doing work", "Capacity to do work", "Force per unit area", "Product of mass and velocity"],
+    "a": 0,
+    "explanation": "P = W/t."
+  },
+  {
+    "q": "Which part of the brain controls balance and posture?",
+    "options": ["Cerebrum", "Cerebellum", "Medulla", "Hypothalamus"],
+    "a": 1,
+    "explanation": "Cerebellum coordinates voluntary movements and balance."
+  }
+]
