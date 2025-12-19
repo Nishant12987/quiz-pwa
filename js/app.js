@@ -189,7 +189,7 @@ function finishQuiz() {
     const history = data.history || {};
     if (!history[key]) history[key] = [];
     
-    // ✅ SAVE FULL DETAILS FOR REVIEW
+    // Save detailed test record for Review
     history[key].push({
       score: score,
       date: new Date().toLocaleString(),
@@ -261,11 +261,11 @@ function viewReview(key, testIndex) {
         p.innerText = opt;
 
         if (optIdx === q.a) {
-          p.style.backgroundColor = "#dcfce7"; // Green Correct
+          p.style.backgroundColor = "#dcfce7"; // Green Background
           p.style.border = "1px solid green";
           p.innerHTML += " ✅ (Correct)";
         } else if (optIdx === userAns) {
-          p.style.backgroundColor = "#fee2e2"; // Red Wrong
+          p.style.backgroundColor = "#fee2e2"; // Red Background
           p.style.border = "1px solid red";
           p.innerHTML += " ❌ (Your Answer)";
         } else {
