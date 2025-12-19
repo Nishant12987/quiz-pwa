@@ -1,0 +1,242 @@
+[
+  {
+    "q": "Which psychologist developed the concept of 'Mental Age'?",
+    "options": ["Alfred Binet", "Lewis Terman", "David Wechsler", "Robert Sternberg"],
+    "a": 0,
+    "explanation": "Alfred Binet introduced the concept to identify children needing special education."
+  },
+  {
+    "q": "The 'Trial and Error' theory of learning was experimented using a:",
+    "options": ["Dog", "Rat", "Cat", "Monkey"],
+    "a": 2,
+    "explanation": "Thorndike's famous puzzle box experiment involved a hungry cat."
+  },
+  {
+    "q": "At which stage of Piaget's development do children exhibit 'Egocentrism'?",
+    "options": ["Sensory-motor", "Pre-operational", "Concrete operational", "Formal operational"],
+    "a": 1,
+    "explanation": "In the pre-operational stage, children struggle to see things from others' perspectives."
+  },
+  {
+    "q": "What is 'ZPD' in Vygotsky's theory?",
+    "options": ["Zone of Personal Development", "Zone of Proximal Development", "Zero Proximity Distance", "Zone of Progressive Development"],
+    "a": 1,
+    "explanation": "ZPD is the range of tasks that a child can perform with help."
+  },
+  {
+    "q": "Which personality trait involves 'Outgoing and Social' behavior?",
+    "options": ["Introversion", "Extroversion", "Neuroticism", "Agreeableness"],
+    "a": 1,
+    "explanation": "Extroversion is characterized by energy and sociability."
+  },
+  {
+    "q": "The 'Heuristic' method is also known as the:",
+    "options": ["Lecture method", "Discovery method", "Demonstration method", "Storytelling method"],
+    "a": 1,
+    "explanation": "Heuristic learning encourages students to find out things for themselves."
+  },
+  {
+    "q": "Which of the following is an example of 'Extrinsic Motivation'?",
+    "options": ["Curiosity", "Self-satisfaction", "Receiving a gold medal", "Love for a subject"],
+    "a": 2,
+    "explanation": "Extrinsic motivation is driven by external rewards."
+  },
+  {
+    "q": "'Learning by Doing' is the main principle of:",
+    "options": ["Naturalism", "Pragmatism", "Idealism", "Realism"],
+    "a": 1,
+    "explanation": "Pragmatism (John Dewey) emphasizes practical experience and utility."
+  },
+  {
+    "q": "Which assessment is conducted to identify specific 'Learning Difficulties'?",
+    "options": ["Summative", "Placement", "Diagnostic", "Aptitude"],
+    "a": 2,
+    "explanation": "Diagnostic assessment helps pinpoint specific areas where a student struggles."
+  },
+  {
+    "q": "The concept of 'IQ' (Intelligence Quotient) was first introduced by:",
+    "options": ["William Stern", "Lewis Terman", "Francis Galton", "Charles Spearman"],
+    "a": 0,
+    "explanation": "William Stern proposed the IQ formula; Terman later popularized it."
+  },
+  {
+    "q": "What is the primary role of a teacher in a 'Constructivist' classroom?",
+    "options": ["Dictator", "Facilitator", "Passive observer", "Lecturer"],
+    "a": 1,
+    "explanation": "The teacher guides and supports students as they build their own knowledge."
+  },
+  {
+    "q": "'सूर्योदय' में कौन सी संधि है?",
+    "options": ["दीर्घ संधि", "गुण संधि", "वृद्धि संधि", "यण संधि"],
+    "a": 1,
+    "explanation": "सूर्य + उदय = सूर्योदय (अ + उ = ओ, गुण संधि)।"
+  },
+  {
+    "q": "'दशानन' में कौन सा समास है?",
+    "options": ["द्विगु", "द्वंद्व", "बहुव्रीहि", "तत्पुरुष"],
+    "a": 2,
+    "explanation": "दस हैं आनन (मुख) जिसके (रावण), तीसरा अर्थ प्रधान होने से बहुव्रीहि समास है।"
+  },
+  {
+    "q": "'आदि' का विलोम शब्द है:",
+    "options": ["अंत", "अनादि", "मध्य", "शुरुआत"],
+    "a": 0,
+    "explanation": "आदि का अर्थ आरंभ होता है, जिसका विलोम अंत है।"
+  },
+  {
+    "q": "'आसमान पर चढ़ाना' मुहावरे का अर्थ है:",
+    "options": ["अत्यधिक प्रशंसा करना", "कठिन कार्य करना", "बहुत ऊँचा उड़ना", "पागल हो जाना"],
+    "a": 0,
+    "explanation": "इसका अर्थ है किसी की बहुत ज्यादा तारीफ करना।"
+  },
+  {
+    "q": "निम्नलिखित में से 'शुद्ध' शब्द है:",
+    "options": ["आशीर्वाद", "आशिर्वाद", "अशीर्वाद", "आसीर्वाद"],
+    "a": 0,
+    "explanation": "सही वर्तनी 'आशीर्वाद' है।"
+  },
+  {
+    "q": "'हवा' का पर्यायवाची शब्द नहीं है:",
+    "options": ["समीर", "पवन", "अनल", "वायु"],
+    "a": 2,
+    "explanation": "'अनल' आग का पर्यायवाची है।"
+  },
+  {
+    "q": "भाषा शिक्षण की 'प्रत्यक्ष विधि' (Direct Method) में किस पर बल दिया जाता है?",
+    "options": ["अनुवाद पर", "व्याकरण के नियमों पर", "मौखिक अभ्यास पर", "मातृभाषा के प्रयोग पर"],
+    "a": 2,
+    "explanation": "प्रत्यक्ष विधि में सीधे लक्ष्य भाषा में वार्तालाप पर बल दिया जाता है।"
+  },
+  {
+    "q": "What is the 'Adjective' in: 'The brave soldier won.'",
+    "options": ["The", "Brave", "Soldier", "Won"],
+    "a": 1,
+    "explanation": "'Brave' describes the noun 'soldier'."
+  },
+  {
+    "q": "Choose the correctly spelled word:",
+    "options": ["Maintenance", "Maintenence", "Maintanence", "Maintenanse"],
+    "a": 0,
+    "explanation": "The correct spelling is 'Maintenance'."
+  },
+  {
+    "q": "Identify the 'Pronoun' in: 'They are playing.'",
+    "options": ["They", "Are", "Playing", "None"],
+    "a": 0,
+    "explanation": "'They' is a personal pronoun."
+  },
+  {
+    "q": "What is the feminine gender of 'Bachelor'?",
+    "options": ["Spinster", "Nun", "Baroness", "Widow"],
+    "a": 0,
+    "explanation": "Spinster is the feminine equivalent of a bachelor."
+  },
+  {
+    "q": "Choose the correct preposition: 'The cat is ________ the table.'",
+    "options": ["in", "under", "between", "into"],
+    "a": 1,
+    "explanation": "'Under' indicates the position beneath the table."
+  },
+  {
+    "q": "Select the correct plural of 'Mouse':",
+    "options": ["Mouses", "Mice", "Mices", "Mousess"],
+    "a": 1,
+    "explanation": "Mice is an irregular plural form."
+  },
+  {
+    "q": "The phrase 'Call it a day' means:",
+    "options": ["To start working", "To stop working", "To wake up early", "To celebrate"],
+    "a": 1,
+    "explanation": "It means to decide to stop doing something for the rest of the day."
+  },
+  {
+    "q": "Who was the 'First Mughal Emperor'?",
+    "options": ["Akbar", "Humayun", "Babur", "Shah Jahan"],
+    "a": 2,
+    "explanation": "Babur founded the Mughal Empire in 1526."
+  },
+  {
+    "q": "The 'Aravalli Range' is located primarily in which state?",
+    "options": ["Gujarat", "Rajasthan", "Madhya Pradesh", "Haryana"],
+    "a": 1,
+    "explanation": "Rajasthan contains the largest portion of the Aravalli range."
+  },
+  {
+    "q": "Who wrote the 'Discovery of India'?",
+    "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Subhash Chandra Bose", "Rabindranath Tagore"],
+    "a": 1,
+    "explanation": "Nehru wrote it during his imprisonment in Ahmednagar Fort."
+  },
+  {
+    "q": "Which planet is known as the 'Red Planet'?",
+    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "a": 1,
+    "explanation": "Mars appears red due to iron oxide on its surface."
+  },
+  {
+    "q": "The 'Right to Constitutional Remedies' is given in which Article?",
+    "options": ["Article 14", "Article 19", "Article 21", "Article 32"],
+    "a": 3,
+    "explanation": "Article 32 allows citizens to approach courts for the enforcement of rights."
+  },
+  {
+    "q": "Where did 'Buddha' deliver his first sermon?",
+    "options": ["Bodh Gaya", "Sarnath", "Lumbini", "Kushinagar"],
+    "a": 1,
+    "explanation": "Buddha gave his first sermon (Dharmachakrapravartana) in Sarnath."
+  },
+  {
+    "q": "Which is the 'Longest River' in India?",
+    "options": ["Yamuna", "Ganga", "Brahmaputra", "Godavari"],
+    "a": 1,
+    "explanation": "The Ganga is the longest river flowing entirely through India."
+  },
+  {
+    "q": "The 'Swadeshi Movement' was a reaction to the:",
+    "options": ["Partition of Bengal", "Jallianwala Bagh", "Simon Commission", "Rowlatt Act"],
+    "a": 0,
+    "explanation": "It started in 1905 as a protest against the partition of Bengal."
+  },
+  {
+    "q": "Who is the 'Ex-officio Chairman' of the Rajya Sabha?",
+    "options": ["President", "Prime Minister", "Vice-President", "Speaker"],
+    "a": 2,
+    "explanation": "The Vice-President of India presides over the Rajya Sabha."
+  },
+  {
+    "q": "The 'Kaziranga National Park' is famous for:",
+    "options": ["Tigers", "Lions", "One-horned Rhinoceros", "Elephants"],
+    "a": 2,
+    "explanation": "It is located in Assam and is a world heritage site."
+  },
+  {
+    "q": "Who wrote 'Arthashastra'?",
+    "options": ["Chanakya", "Megasthenes", "Kalidasa", "Banabhatta"],
+    "a": 0,
+    "explanation": "Chanakya (Kautilya) wrote this treatise on statecraft and economy."
+  },
+  {
+    "q": "Which is the highest peak in 'India' (Kanchenjunga)?",
+    "options": ["Mount Everest", "K2", "Kanchenjunga", "Anamudi"],
+    "a": 2,
+    "explanation": "Kanchenjunga is the highest peak in India (located on the border of Sikkim and Nepal)."
+  },
+  {
+    "q": "The '73rd Amendment' of the Constitution is related to:",
+    "options": ["Municipalities", "Panchayati Raj", "Fundamental Rights", "Defection Law"],
+    "a": 1,
+    "explanation": "It gave constitutional status to the three-tier Panchayati Raj system."
+  },
+  {
+    "q": "Which layer of Earth's atmosphere contains the 'Ozone Layer'?",
+    "options": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+    "a": 1,
+    "explanation": "The Stratosphere protects Earth from harmful UV rays."
+  },
+  {
+    "q": "The 'Doctrine of Lapse' was introduced by:",
+    "options": ["Lord Dalhousie", "Lord Curzon", "Lord Wellesley", "Lord Canning"],
+    "a": 0,
+    "explanation": "It was an annexation policy used by the British East India Company."
+  }
+]
