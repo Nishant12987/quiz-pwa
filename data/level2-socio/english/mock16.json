@@ -15,97 +15,139 @@
     "q": "The 'Micro-teaching' technique is primarily used for:",
     "options": ["Evaluating students", "Developing teaching skills", "Increasing class time", "Testing intelligence"],
     "a": 1,
-    "explanation": "Micro-teaching is a master instructional behavior training technique."
+    "explanation": "Micro-teaching is a teacher training technique for mastering specific instructional behaviors."
   },
   {
     "q": "Which learning theory emphasizes the role of 'Scaffolding'?",
     "options": ["Piaget", "Vygotsky", "Skinner", "Bandura"],
     "a": 1,
-    "explanation": "Vygotsky's socio-cultural theory focuses on support provided."
+    "explanation": "Vygotsky's socio-cultural theory focuses on support provided to learners."
   },
   {
     "q": "The concept of 'General Intelligence' (g-factor) was proposed by:",
     "options": ["Charles Spearman", "Howard Gardner", "Raymond Cattell", "Robert Sternberg"],
     "a": 0,
-    "explanation": "Spearman proposed intelligence consists of a general factor."
+    "explanation": "Spearman proposed that intelligence consists of a general factor and specific factors."
   },
   {
     "q": "Which of the following is a 'Projective Technique' of personality assessment?",
     "options": ["Interview", "Rating Scale", "Rorschach Inkblot Test", "Observation"],
     "a": 2,
-    "explanation": "Projective tests use ambiguous stimuli to reveal traits."
+    "explanation": "Projective tests use ambiguous stimuli to reveal a person's inner traits."
   },
   {
     "q": "What is 'Object Permanence'?",
     "options": ["Thinking objects have life", "Realizing objects exist even when unseen", "Grouping objects by color", "Solving problems with objects"],
     "a": 1,
-    "explanation": "A key milestone in the sensory-motor stage."
+    "explanation": "A key milestone in the sensory-motor stage (Piaget)."
   },
   {
     "q": "Which reinforcement schedule is most resistant to 'Extinction'?",
     "options": ["Fixed-ratio", "Variable-ratio", "Fixed-interval", "Continuous"],
     "a": 1,
-    "explanation": "Variable schedules are more durable as reward is unpredictable."
+    "explanation": "Variable schedules are more durable because the reward is unpredictable."
   },
   {
     "q": "In a 'Democratic' leadership style, the teacher:",
     "options": ["Makes all decisions", "Consults with students", "Does not participate", "Punishes frequently"],
     "a": 1,
-    "explanation": "Democratic leaders encourage participation."
+    "explanation": "Democratic leaders encourage participation and shared decision-making."
   },
   {
     "q": "Which of these is a symptom of 'Dyslexia'?",
     "options": ["Difficulty in writing", "Difficulty in reading and spelling", "Inability to calculate", "Poor handwriting"],
     "a": 1,
-    "explanation": "Dyslexia primarily affects language processing."
+    "explanation": "Dyslexia is a learning disability primarily affecting language processing."
   },
   {
     "q": "The 'Project Method' was developed by:",
     "options": ["William Kilpatrick", "John Dewey", "Maria Montessori", "Froebel"],
     "a": 0,
-    "explanation": "Kilpatrick was a student of Dewey who formalized the method."
+    "explanation": "Kilpatrick was a student of Dewey who formalized the project method."
   },
   {
-    "q": "pavan ka sahi sandhi-vichchhed hai:",
-    "options": ["pa + van", "paa + van", "po + an", "pau + an"],
+    "q": "'पवन' का सही संधि-विच्छेद है:",
+    "options": ["प + वन", "पा + वन", "पो + अन", "पौ + अन"],
     "a": 2,
-    "explanation": "po + an = pavan (ayaadi sandhi)."
+    "explanation": "पो + अन = पवन (अयादि संधि)।"
   },
   {
-    "q": "lambodar mein kaun sa samaas hai?",
-    "options": ["karmadhaaraya", "bahuvrihi", "dvigu", "dvandv"],
+    "q": "'लम्बोदर' में कौन सा समास है?",
+    "options": ["कर्मधारय", "बहुव्रीहि", "द्विगु", "द्वंद्व"],
     "a": 1,
-    "explanation": "Lamba hai udar jiska (ganesh), bahuvrihi samas."
+    "explanation": "लम्बा है उदर जिसका (गणेश जी), यहाँ बहुव्रीहि समास है।"
   },
   {
-    "q": "praacheen ka vilom shabd hai:",
-    "options": ["puraana", "naveen", "arvaacheen", "aadhunik"],
+    "q": "'प्राचीन' का विलोम शब्द है:",
+    "options": ["पुराना", "नवीन", "अर्वाचीन", "आधुनिक"],
     "a": 2,
-    "explanation": "Pracheen opposite is Arvacheen."
+    "explanation": "प्राचीन का सबसे सटीक विलोम अर्वाचीन होता है।"
   },
   {
-    "q": "naak katana muhaavre ka arth hai:",
-    "options": ["chot lagana", "ijjat jaana", "beemaar hona", "jhagada karana"],
+    "q": "'नाक कटना' मुहावरे का अर्थ है:",
+    "options": ["चोट लगना", "इज्जत जाना", "बीमार होना", "झगड़ा करना"],
     "a": 1,
-    "explanation": "It means loss of prestige."
+    "explanation": "इसका अर्थ प्रतिष्ठा नष्ट होना है।"
   },
   {
-    "q": "shuddh vaaky ka chayan karen:",
-    "options": ["vah dand dene yogya hai.", "vah dand ke yogya hai.", "vah dand lene yogya hai.", "vah dand paane yogya hai."],
+    "q": "शुद्ध वाक्य का चयन करें:",
+    "options": ["वह दंड देने योग्य है।", "वह दंड के योग्य है।", "वह दंड लेने योग्य है।", "वह दंड पाने योग्य है।"],
     "a": 1,
-    "explanation": "Correct form: 'vah dand ke yogya hai'."
+    "explanation": "सही व्याकरणिक रूप 'वह दंड के योग्य है' होगा।"
   },
   {
-    "q": "lekhak shabd mein kaun sa pratyay hai?",
-    "options": ["ka", "ik", "ak", "aak"],
+    "q": "'लेखक' शब्द में कौन सा प्रत्यय है?",
+    "options": ["क", "इक", "अक", "आक"],
     "a": 2,
-    "explanation": "likh + ak = lekhak."
+    "explanation": "लिख् + अक = लेखक।"
   },
   {
-    "q": "hindi bhaasha mein kitane svar hain?",
+    "q": "हिंदी भाषा में कितने 'स्वर' हैं?",
     "options": ["10", "11", "13", "15"],
     "a": 1,
-    "explanation": "There are 11 vowels."
+    "explanation": "मानक हिंदी वर्णमाला में 11 स्वर माने जाते हैं।"
+  },
+  {
+    "q": "Identify the 'Adverb' in the sentence: 'He ran very fast.'",
+    "options": ["He", "Ran", "Very", "Fast"],
+    "a": 2,
+    "explanation": "'Very' is an adverb of degree modifying the adverb 'fast'."
+  },
+  {
+    "q": "Select the correct plural of 'Foot':",
+    "options": ["Foots", "Feet", "Feets", "Footes"],
+    "a": 1,
+    "explanation": "Foot (singular) becomes feet (plural)."
+  },
+  {
+    "q": "Choose the correct prefix for 'Fortune':",
+    "options": ["Un-", "In-", "Mis-", "Dis-"],
+    "a": 2,
+    "explanation": "Misfortune means bad luck."
+  },
+  {
+    "q": "Which part of speech is 'Alas!'?",
+    "options": ["Conjunction", "Preposition", "Interjection", "Adverb"],
+    "a": 2,
+    "explanation": "Alas expresses sudden grief or sadness."
+  },
+  {
+    "q": "The primary objective of 'Remedial Teaching' is:",
+    "options": ["To teach new topics", "To fill learning gaps", "To punish slow learners", "To prepare for sports"],
+    "a": 1,
+    "explanation": "Remedial teaching addresses specific learning difficulties."
+  },
+  {
+    "q": "Choose the correct sentence in 'Present Perfect Tense':",
+    "options": ["He finished work.", "He has finished work.", "He had finished work.", "He is finishing work."],
+    "a": 1,
+    "explanation": "Has/Have + V3 is the structure for present perfect."
+  },
+  {
+    "q": "What is the feminine gender of 'Monk'?",
+    "options": ["Spinster", "Nun", "Baroness", "Widow"],
+    "a": 1,
+    "explanation": "Nun is the feminine equivalent of monk."
   },
   {
     "q": "The multiplicative identity for rational numbers is:",
