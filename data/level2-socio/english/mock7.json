@@ -1,0 +1,242 @@
+[
+  {
+    "q": "Which of the following is an example of 'Proximo-distal' development?",
+    "options": ["Growth from head to toe", "Control of arms before fingers", "General to specific response", "Mental to physical growth"],
+    "a": 1,
+    "explanation": "Proximo-distal development means growth starts from the center of the body."
+  },
+  {
+    "q": "The concept of 'Latent Learning' was introduced by:",
+    "options": ["Edward Tolman", "B.F. Skinner", "Ivan Pavlov", "Albert Bandura"],
+    "a": 0,
+    "explanation": "Tolman suggested that learning can occur without immediate reinforcement."
+  },
+  {
+    "q": "At which stage of Piaget's theory does 'Transductive Reasoning' occur?",
+    "options": ["Sensory-motor", "Pre-operational", "Concrete operational", "Formal operational"],
+    "a": 1,
+    "explanation": "In the pre-operational stage, children link two specific events."
+  },
+  {
+    "q": "According to Kohlberg, 'Universal Ethical Principle' is which stage of morality?",
+    "options": ["Stage 3", "Stage 4", "Stage 5", "Stage 6"],
+    "a": 3,
+    "explanation": "Stage 6 is the highest level of morality."
+  },
+  {
+    "q": "Which of the following is a 'Social' motive?",
+    "options": ["Hunger", "Thirst", "Achievement", "Sleep"],
+    "a": 2,
+    "explanation": "Achievement is considered a secondary or social motive."
+  },
+  {
+    "q": "The 'Alphabet Method' of teaching reading is also known as:",
+    "options": ["Phonic method", "Word method", "Literal method", "Sentence method"],
+    "a": 2,
+    "explanation": "The literal method involves teaching names and shapes of letters."
+  },
+  {
+    "q": "Who is the proponent of 'Functionalism' in psychology?",
+    "options": ["William James", "Wilhelm Wundt", "Sigmund Freud", "Kurt Lewin"],
+    "a": 0,
+    "explanation": "William James is considered the father of functionalism."
+  },
+  {
+    "q": "A teacher uses 'Scaffolding' to help a student solve a puzzle. This support is:",
+    "options": ["Permanent", "Temporary", "Unnecessary", "Distracting"],
+    "a": 1,
+    "explanation": "Scaffolding is temporary support until the learner can perform alone."
+  },
+  {
+    "q": "Which IQ range represents 'Borderline' intelligence?",
+    "options": ["110-119", "90-109", "70-79", "Below 70"],
+    "a": 2,
+    "explanation": "70-79 is typically classified as borderline."
+  },
+  {
+    "q": "The 'Creative' child is usually characterized by:",
+    "options": ["High Rote Memory", "Divergent Thinking", "Convergent Thinking", "Strict Obedience"],
+    "a": 1,
+    "explanation": "Creativity is strongly linked to divergent thinking."
+  },
+  {
+    "q": "What is the role of 'Play' in childhood development?",
+    "options": ["Waste of time", "Only for physical exercise", "Cognitive, social, and emotional growth", "Preparation for sports only"],
+    "a": 2,
+    "explanation": "Play is essential for holistic development."
+  },
+  {
+    "q": "naayak shabd ka streeling roop kya hai?",
+    "options": ["naayakee", "naayika", "naayikee", "naayaka"],
+    "a": 1,
+    "explanation": "Nayika is the correct feminine form."
+  },
+  {
+    "q": "tiranga mein kaun sa samaas hai?",
+    "options": ["dvigu", "dvandv", "tatpurush", "karmadhaaraya"],
+    "a": 0,
+    "explanation": "Teen rangon ka samooh, dvigu samas."
+  },
+  {
+    "q": "harsh ka vilom shabd hai:",
+    "options": ["khushee", "vishaad", "dukh", "aprasannata"],
+    "a": 1,
+    "explanation": "Harsh opposite is vishaad."
+  },
+  {
+    "q": "aankh ka taara muhaavre ka arth hai:",
+    "options": ["kam dikhana", "bahut pyaara hona", "aankh ki beemaaree", "dhokha dena"],
+    "a": 1,
+    "explanation": "It means very dear or beloved."
+  },
+  {
+    "q": "shuddh vartanee vaale shabd ka chayan karen:",
+    "options": ["kavitree", "kavayitri", "kaviyitri", "kavayatri"],
+    "a": 1,
+    "explanation": "The correct spelling is kavayitri."
+  },
+  {
+    "q": "kamal ka paryayavaachi shabd nahin hai:",
+    "options": ["pankaj", "jalaj", "ambud", "saroj"],
+    "a": 2,
+    "explanation": "Ambud means cloud."
+  },
+  {
+    "q": "kriya ke mool roop ko kya kahate hain?",
+    "options": ["pad", "dhaatu", "shabd", "upasarg"],
+    "a": 1,
+    "explanation": "Dhatu is the root of the verb."
+  },
+  {
+    "q": "Select the correct plural form of 'Knife':",
+    "options": ["Knifes", "Knive", "Knives", "Knifess"],
+    "a": 2,
+    "explanation": "Words ending in -fe change to -ves."
+  },
+  {
+    "q": "Choose the synonym for 'Abundant':",
+    "options": ["Scarce", "Plentiful", "Rare", "Minimal"],
+    "a": 1,
+    "explanation": "Abundant means plentiful."
+  },
+  {
+    "q": "Identify the 'Preposition' in the sentence: 'The book is on the table.'",
+    "options": ["The", "Book", "Is", "On"],
+    "a": 3,
+    "explanation": "'On' shows the relationship between book and table."
+  },
+  {
+    "q": "Which of these is a 'Silent Letter' in the word 'Psychology'?",
+    "options": ["s", "p", "y", "h"],
+    "a": 1,
+    "explanation": "The 'p' is silent."
+  },
+  {
+    "q": "Choose the correct question tag: 'She can drive, ________?'",
+    "options": ["can she", "can't she", "does she", "doesn't she"],
+    "a": 1,
+    "explanation": "Positive sentence takes a negative tag."
+  },
+  {
+    "q": "What is the 'Subject' in the sentence: 'Barking dogs seldom bite.'?",
+    "options": ["Barking", "Dogs", "Barking dogs", "Seldom bite"],
+    "a": 2,
+    "explanation": "The entire noun phrase is the subject."
+  },
+  {
+    "q": "Fill in the blank with correct article: 'Copper is ________ useful metal.'",
+    "options": ["a", "an", "the", "No article"],
+    "a": 0,
+    "explanation": "'Useful' starts with a consonant sound."
+  },
+  {
+    "q": "Find the compound interest on 1000 for 2 years at 10% per annum.",
+    "options": ["200", "210", "110", "121"],
+    "a": 1,
+    "explanation": "A = 1000(1+0.1)^2 = 1210. CI = 1210 - 1000 = 210."
+  },
+  {
+    "q": "The sum of the digits of a 2-digit number is 8. If 18 is added, digits reverse. The number is:",
+    "options": ["35", "53", "26", "62"],
+    "a": 0,
+    "explanation": "35 + 18 = 53. Sum: 3+5=8."
+  },
+  {
+    "q": "How many faces does a hexagonal pyramid have?",
+    "options": ["6", "7", "12", "8"],
+    "a": 1,
+    "explanation": "1 base + 6 side faces = 7 faces."
+  },
+  {
+    "q": "If 2^x = 32, then x is:",
+    "options": ["4", "5", "6", "16"],
+    "a": 1,
+    "explanation": "2*2*2*2*2 = 32. So 2^5 = 32."
+  },
+  {
+    "q": "Volume of a cylinder with radius 7 cm and height 1 cm is:",
+    "options": ["154 cm^3", "44 cm^3", "22 cm^3", "77 cm^3"],
+    "a": 0,
+    "explanation": "V = pi * r^2 * h = 22/7 * 49 * 1 = 154."
+  },
+  {
+    "q": "The median of 3, 5, 7, 9, 11 is:",
+    "options": ["5", "7", "9", "35"],
+    "a": 1,
+    "explanation": "The middle value in an ordered set is 7."
+  },
+  {
+    "q": "The multiplicative inverse of -1 is:",
+    "options": ["1", "0", "-1", "undefined"],
+    "a": 2,
+    "explanation": "-1 * -1 = 1."
+  },
+  {
+    "q": "What is the exterior angle of a regular hexagon?",
+    "options": ["30", "45", "60", "120"],
+    "a": 2,
+    "explanation": "360 / 6 = 60."
+  },
+  {
+    "q": "Which of the following is a good conductor of electricity?",
+    "options": ["Rubber", "Plastic", "Copper", "Wood"],
+    "a": 2,
+    "explanation": "Metals like copper have free electrons."
+  },
+  {
+    "q": "The voice box in humans is called:",
+    "options": ["Pharynx", "Trachea", "Larynx", "Bronchus"],
+    "a": 2,
+    "explanation": "Larynx is responsible for sound production."
+  },
+  {
+    "q": "Deficiency of iodine causes:",
+    "options": ["Anaemia", "Goitre", "Scurvy", "Rickets"],
+    "a": 1,
+    "explanation": "Iodine is required for thyroid hormones."
+  },
+  {
+    "q": "Which of the following represents a motion with constant speed?",
+    "options": ["Circular motion", "Freely falling body", "Vibrating string", "Motion of light in vacuum"],
+    "a": 3,
+    "explanation": "Light travels at a constant speed c."
+  },
+  {
+    "q": "The process of getting silk from cocoons is called:",
+    "options": ["Shearing", "Scouring", "Reeling", "Spinning"],
+    "a": 2,
+    "explanation": "Reeling is the process of unwinding silk fibers."
+  },
+  {
+    "q": "The basic unit of life is:",
+    "options": ["Tissue", "Organ", "Cell", "Atom"],
+    "a": 2,
+    "explanation": "Cell is the structural and functional unit."
+  },
+  {
+    "q": "Sound cannot travel through:",
+    "options": ["Solids", "Liquids", "Gases", "Vacuum"],
+    "a": 3,
+    "explanation": "Sound requires a medium to propagate."
+  }
+]
