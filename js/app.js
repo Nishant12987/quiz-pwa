@@ -141,14 +141,16 @@ function showDashboard() {
 }
 
 /***********************
- * START TEST
+ * START TEST (FIXED)
  ***********************/
 function startFlow() {
-  const ref = db.collection("users").doc(auth.currentUser.uid);
+  const uid = auth.currentUser.uid;
+  const ref = db.collection("users").doc(uid);
 
   ref.get().then(doc => {
     const data = doc.data();
 
+    // FIRST TIME SELECTION
     if (!data.selection) {
       const level = document.getElementById("level").value;
       const stream = document.getElementById("stream").value;
@@ -157,23 +159,35 @@ function startFlow() {
       if (!level || !language) return alert("Select all options");
       if (level === "level2" && !stream) return alert("Select stream");
 
-      data.selection = {
+      const selection = {
         level,
         stream: level === "level2" ? stream : "",
         language
       };
 
-      ref.update({ selection: data.selection });
-    }
+      // SAVE → RE-FETCH → LOAD MOCK
+      ref.update({ selection }).then(() => {
+        ref.get().then(newDoc => {
+          loadMock(newDoc.data());
+        });
+      });
 
-    loadMock(data);
+    } else {
+      // SELECTION ALREADY EXISTS
+      loadMock(data);
+    }
   });
 }
 
 /***********************
- * LOAD MOCK
+ * LOAD MOCK (GUARDED)
  ***********************/
 async function loadMock(data) {
+  if (!data || !data.selection) {
+    alert("Selection missing. Reload app.");
+    return;
+  }
+
   const sel = data.selection;
 
   const key =
