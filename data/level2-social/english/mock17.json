@@ -1,0 +1,242 @@
+[
+  {
+    "q": "Which theorist proposed the 'Hierarchy of Needs'?",
+    "options": ["Maslow", "Rogers", "Freud", "Skinner"],
+    "a": 0,
+    "explanation": "Abraham Maslow's theory ranges from physiological to self-actualization needs."
+  },
+  {
+    "q": "The 'Sensory-motor' stage lasts from:",
+    "options": ["0-2 years", "2-7 years", "7-11 years", "11+ years"],
+    "a": 0,
+    "explanation": "This is Piaget's first stage where infants learn through senses and actions."
+  },
+  {
+    "q": "Which type of intelligence is high in 'Poets and Writers'?",
+    "options": ["Spatial", "Linguistic", "Mathematical", "Kinesthetic"],
+    "a": 1,
+    "explanation": "Linguistic intelligence involves sensitivity to language and meaning."
+  },
+  {
+    "q": "What is 'Growth' compared to development?",
+    "options": ["Quantitative", "Qualitative", "Both", "Spiritual"],
+    "a": 0,
+    "explanation": "Growth refers to measurable physical changes."
+  },
+  {
+    "q": "Which assessment is used at the 'End' of a term?",
+    "options": ["Formative", "Summative", "Diagnostic", "Placement"],
+    "a": 1,
+    "explanation": "Summative assessment evaluates learning at the end of a course."
+  },
+  {
+    "q": "Who is the proponent of 'Social Learning Theory'?",
+    "options": ["Albert Bandura", "Lev Vygotsky", "B.F. Skinner", "Jean Piaget"],
+    "a": 0,
+    "explanation": "Bandura focused on learning through observation and imitation."
+  },
+  {
+    "q": "What does 'IQ' stand for?",
+    "options": ["Intellectual Quality", "Intelligence Quotient", "Internal Quantity", "Integrated Quality"],
+    "a": 1,
+    "explanation": "IQ is a score derived from standardized tests to measure intelligence."
+  },
+  {
+    "q": "Which reinforcement is given 'Unpredictably'?",
+    "options": ["Fixed-ratio", "Variable-ratio", "Fixed-interval", "Continuous"],
+    "a": 1,
+    "explanation": "Variable schedules are resistant to extinction."
+  },
+  {
+    "q": "A child who has difficulty with 'Math' has:",
+    "options": ["Dyslexia", "Dyscalculia", "Dysgraphia", "ADHD"],
+    "a": 1,
+    "explanation": "Dyscalculia is a learning disability in mathematics."
+  },
+  {
+    "q": "Who is the father of 'Behaviorism'?",
+    "options": ["John Watson", "William James", "Sigmund Freud", "Carl Rogers"],
+    "a": 0,
+    "explanation": "Watson focused on observable behavior over internal processes."
+  },
+  {
+    "q": "Which stage of development is the 'Gang Age'?",
+    "options": ["Early Childhood", "Later Childhood", "Adolescence", "Infancy"],
+    "a": 1,
+    "explanation": "Children form strong peer groups during later childhood (7-12)."
+  },
+  {
+    "q": "'दयानंद' में कौन सी संधि है?",
+    "options": ["गुण", "दीर्घ", "व्यंजन", "यण"],
+    "a": 1,
+    "explanation": "दया + आनंद = दयानंद (दीर्घ संधि)।"
+  },
+  {
+    "q": "'चौराहा' में कौन सा समास है?",
+    "options": ["द्विगु", "द्वंद्व", "तत्पुरुष", "अव्ययीभाव"],
+    "a": 0,
+    "explanation": "चार राहों का समूह (द्विगु)।"
+  },
+  {
+    "q": "'उपकार' का विलोम शब्द है:",
+    "options": ["विकार", "अनुपकार", "अपकार", "तिरस्कार"],
+    "a": 2,
+    "explanation": "उपकार का विलोम अपकार है।"
+  },
+  {
+    "q": "'आँख दिखाना' मुहावरे का अर्थ है:",
+    "options": ["प्यार करना", "गुस्सा करना", "बीमार होना", "झगड़ा करना"],
+    "a": 1,
+    "explanation": "इसका अर्थ क्रोधित होना है।"
+  },
+  {
+    "q": "शुद्ध वाक्य का चयन करें:",
+    "options": ["मेरे को जाना है।", "मुझे जाना है।", "मैं जाना है।", "मैंने जाना है।"],
+    "a": 1,
+    "explanation": "व्याकरण की दृष्टि से 'मुझे जाना है' सही है।"
+  },
+  {
+    "q": "'अनल' शब्द का अर्थ है:",
+    "options": ["हवा", "पानी", "आग", "नदी"],
+    "a": 2,
+    "explanation": "अनल का अर्थ आग है; अनिल का अर्थ हवा है।"
+  },
+  {
+    "q": "शिक्षण की 'आगमन विधि' चलती है:",
+    "options": ["नियम से उदाहरण", "उदाहरण से नियम", "अमूर्त से मूर्त", "जटिल से सरल"],
+    "a": 1,
+    "explanation": "Inductive method starts with specific examples."
+  },
+  {
+    "q": "Choose the correctly spelled word:",
+    "options": ["Accomodation", "Accommodation", "Acomodation", "Accommadation"],
+    "a": 1,
+    "explanation": "Correct spelling has double c and double m."
+  },
+  {
+    "q": "What is the synonym of 'Diligent'?",
+    "options": ["Lazy", "Hardworking", "Rich", "Happy"],
+    "a": 1,
+    "explanation": "Diligent means putting effort into work."
+  },
+  {
+    "q": "Identify the 'Adjective' in: 'The blue pen is mine.'",
+    "options": ["Pen", "Blue", "Mine", "The"],
+    "a": 1,
+    "explanation": "Blue describes the noun pen."
+  },
+  {
+    "q": "Select the correct plural of 'Tooth':",
+    "options": ["Tooths", "Teeth", "Teeths", "Toothes"],
+    "a": 1,
+    "explanation": "Tooth (singular) -> Teeth (plural)."
+  },
+  {
+    "q": "Which part of speech is 'And'?",
+    "options": ["Noun", "Adjective", "Conjunction", "Preposition"],
+    "a": 2,
+    "explanation": "And joins words or sentences."
+  },
+  {
+    "q": "Choose the correct article: 'He is ________ MLA.'",
+    "options": ["a", "an", "the", "No article"],
+    "a": 1,
+    "explanation": "MLA starts with a vowel sound 'em'."
+  },
+  {
+    "q": "Identify the 'Subject' in: 'Ram is a good boy.'",
+    "options": ["Ram", "Is", "Good", "Boy"],
+    "a": 0,
+    "explanation": "Ram is the person being spoken about."
+  },
+  {
+    "q": "Who was known as the 'Napoleon of India'?",
+    "options": ["Chandragupta I", "Samudragupta", "Ashoka", "Akbar"],
+    "a": 1,
+    "explanation": "Samudragupta was called so for his military conquests."
+  },
+  {
+    "q": "The 'Preamble' was inspired by the constitution of:",
+    "options": ["UK", "USA", "France", "USSR"],
+    "a": 1,
+    "explanation": "The US constitution was the first to have a Preamble."
+  },
+  {
+    "q": "Which state has the 'Longest Coastline'?",
+    "options": ["Tamil Nadu", "Gujarat", "Maharashtra", "Odisha"],
+    "a": 1,
+    "explanation": "Gujarat has the longest coastline in India."
+  },
+  {
+    "q": "The 'Ryotwari System' was introduced by:",
+    "options": ["Thomas Munro", "Lord Cornwallis", "Lord Wellesley", "Lord Curzon"],
+    "a": 0,
+    "explanation": "It was a land revenue system in Madras."
+  },
+  {
+    "q": "Which gas is most abundant in the 'Atmosphere'?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Argon"],
+    "a": 1,
+    "explanation": "Nitrogen makes up 78% of the air."
+  },
+  {
+    "q": "Who wrote 'Arthashastra'?",
+    "options": ["Kalidasa", "Chanakya", "Banabhatta", "Megasthenes"],
+    "a": 1,
+    "explanation": "Kautilya (Chanakya) wrote this treatise."
+  },
+  {
+    "q": "Which planet is closest to the 'Sun'?",
+    "options": ["Venus", "Earth", "Mercury", "Mars"],
+    "a": 2,
+    "explanation": "Mercury is the first planet from the sun."
+  },
+  {
+    "q": "The 'Election Commission' is a:",
+    "options": ["Statutory body", "Constitutional body", "Private body", "Non-constitutional body"],
+    "a": 1,
+    "explanation": "It is established under Article 324."
+  },
+  {
+    "q": "Who was the first 'Viceroy' of India?",
+    "options": ["Canning", "Dalhousie", "Curzon", "Ripon"],
+    "a": 0,
+    "explanation": "Lord Canning became the first Viceroy in 1858."
+  },
+  {
+    "q": "Which is the largest 'Ocean' in the world?",
+    "options": ["Atlantic", "Pacific", "Indian", "Arctic"],
+    "a": 1,
+    "explanation": "The Pacific Ocean is the largest."
+  },
+  {
+    "q": "The 'Dandi March' started in:",
+    "options": ["1920", "1930", "1942", "1947"],
+    "a": 1,
+    "explanation": "It was part of the Civil Disobedience Movement."
+  },
+  {
+    "q": "Which mountain range is the 'Oldest' in India?",
+    "options": ["Himalayas", "Aravalli", "Western Ghats", "Vindhya"],
+    "a": 1,
+    "explanation": "Aravallis are among the oldest fold mountains."
+  },
+  {
+    "q": "Who appoints the 'Chief Justice of India'?",
+    "options": ["President", "Prime Minister", "Parliament", "Speaker"],
+    "a": 0,
+    "explanation": "The President of India appoints the CJI."
+  },
+  {
+    "q": "The 'Red Data Book' contains information on:",
+    "options": ["Red soil", "Endangered species", "Rivers", "Forests"],
+    "a": 1,
+    "explanation": "It tracks plants and animals at risk of extinction."
+  },
+  {
+    "q": "Which amendment added 'Fundamental Duties'?",
+    "options": ["42nd", "44th", "73rd", "86th"],
+    "a": 0,
+    "explanation": "Added in 1976 during the Emergency."
+  }
+]
