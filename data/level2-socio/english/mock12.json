@@ -3,22 +3,22 @@
     "q": "Which domain of development deals with 'Reasoning, Memory, and Problem Solving'?",
     "options": ["Physical", "Cognitive", "Emotional", "Social"],
     "a": 1,
-    "explanation": "Cognitive development involves the growth of mental processes."
+    "explanation": "Cognitive development involves the growth of mental processes and thinking."
   },
   {
     "q": "Vygotsky's 'More Knowledgeable Other' (MKO) refers to:",
-    "options": ["Only the teacher", "Only parents", "Anyone with more skill", "Only older peers"],
+    "options": ["Only the teacher", "Only parents", "Anyone with more skill than the learner", "Only older peers"],
     "a": 2,
-    "explanation": "An MKO can be a teacher, peer, or even a program."
+    "explanation": "An MKO can be a teacher, peer, or even a computer program."
   },
   {
-    "q": "At which stage of moral development do children follow rules to 'Look Good'?",
+    "q": "At which stage of moral development do children follow rules to 'Look Good' to others?",
     "options": ["Pre-conventional", "Good boy/Nice girl orientation", "Social contract", "Punishment-avoidance"],
     "a": 1,
-    "explanation": "Conventional level where social approval is the main motive."
+    "explanation": "This is part of the conventional level where social approval is the main motive."
   },
   {
-    "q": "The 'Intelligence' that involves sensitivity to meaning of words is:",
+    "q": "The 'Intelligence' that involves sensitivity to the meaning and sounds of words is:",
     "options": ["Spatial", "Linguistic", "Logical", "Interpersonal"],
     "a": 1,
     "explanation": "Poets and writers typically have high linguistic intelligence."
@@ -27,85 +27,127 @@
     "q": "Which type of 'Reinforcement' increases a behavior by removing an unpleasant stimulus?",
     "options": ["Positive reinforcement", "Negative reinforcement", "Punishment", "Extinction"],
     "a": 1,
-    "explanation": "Negative reinforcement 'subtracts' something bad."
+    "explanation": "Negative reinforcement 'subtracts' something bad to encourage a good behavior (e.g., stopping an alarm)."
   },
   {
     "q": "The main focus of the 'Right to Education' (RTE) Act 2009 is:",
     "options": ["Free and compulsory education", "Higher education", "English medium only", "Vocational training only"],
     "a": 0,
-    "explanation": "It guarantees education to children aged 6 to 14."
+    "explanation": "It guarantees education to children aged 6 to 14 years."
   },
   {
     "q": "According to Piaget, 'Assimilation' means:",
-    "options": ["Changing existing schemas", "Creating new schemas", "Fitting new info into schemas", "Forgetting old info"],
+    "options": ["Changing existing schemas", "Creating new schemas", "Fitting new info into existing schemas", "Forgetting old info"],
     "a": 2,
-    "explanation": "Assimilation is interpreting the world through existing knowledge."
+    "explanation": "Assimilation is interpreting the world through what we already know."
   },
   {
     "q": "The 'Multiple Intelligence Theory' was proposed by:",
     "options": ["Daniel Goleman", "Howard Gardner", "Raymond Cattell", "Robert Sternberg"],
     "a": 1,
-    "explanation": "Gardner proposed distinct multiple capacities."
+    "explanation": "Gardner proposed that intelligence is not a single unit but multiple distinct capacities."
   },
   {
-    "q": "Which stage of creative thinking involves 'Taking a break'?",
+    "q": "Which stage of creative thinking involves 'Taking a break' from the problem?",
     "options": ["Preparation", "Incubation", "Illumination", "Verification"],
     "a": 1,
-    "explanation": "During incubation, the unconscious mind works on the solution."
+    "explanation": "During incubation, the unconscious mind continues to work on the solution while the person does other things."
   },
   {
     "q": "What is 'Inclusive' education's primary goal?",
-    "options": ["Teaching gifted separately", "Ignoring special needs", "Equal access for all in one setting", "Focusing on normal children"],
+    "options": ["Teaching gifted and disabled separately", "Ignoring special needs", "Providing equal access for all in one setting", "Focusing on normal children"],
     "a": 2,
-    "explanation": "It accommodates all children regardless of conditions."
+    "explanation": "It emphasizes that schools should accommodate all children regardless of physical/mental conditions."
   },
   {
     "q": "The 'Heredity' of a child is fixed at the time of:",
     "options": ["Birth", "Conception", "Early childhood", "Adolescence"],
     "a": 1,
-    "explanation": "Genetic makeup is determined at fertilization."
+    "explanation": "Genetic makeup is determined at the moment of fertilization."
   },
   {
-    "q": "paropkaar ka sandhi-vichchhed hai:",
-    "options": ["par + upkaar", "paro + pkaar", "parau + pkaar", "paro + upkaar"],
+    "q": "'परोपकार' का संधि-विच्छेद है:",
+    "options": ["पर + उपकार", "परो + पकार", "परौ + पकार", "परो + उपकार"],
     "a": 0,
-    "explanation": "par + upkaar = paropkar (gun sandhi)."
+    "explanation": "पर + उपकार = परोपकार (अ + उ = ओ, गुण संधि)।"
   },
   {
-    "q": "dashaanan mein kaun sa samaas hai?",
-    "options": ["dvigu", "dvandv", "bahuvrihi", "karmadhaaraya"],
+    "q": "'दशानन' में कौन सा समास है?",
+    "options": ["द्विगु", "द्वंद्व", "बहुव्रीहि", "कर्मधारय"],
     "a": 2,
-    "explanation": "Das hain aanan jiske (ravana), bahuvrihi samas."
+    "explanation": "दस हैं आनन (मुख) जिसके अर्थात् रावण; यहाँ बहुव्रीहि समास है।"
   },
   {
-    "q": "kritrim ka vilom shabd hai:",
-    "options": ["banaavatee", "praakritik", "nakalee", "akritrim"],
+    "q": "'कृत्रिम' का विलोम शब्द है:",
+    "options": ["बनावटी", "प्राकृतिक", "नकली", "अकृत्रिम"],
     "a": 1,
-    "explanation": "Artificial opposite is Natural."
+    "explanation": "कृत्रिम (Artificial) का विलोम प्राकृतिक (Natural) होता है।"
   },
   {
-    "q": "muanh ki khaana muhaavre ka arth hai:",
-    "options": ["bhojan karana", "buree tarah haarana", "gaalee dena", "nasht karana"],
+    "q": "'मुँह की खाना' मुहावरे का अर्थ है:",
+    "options": ["भोजन करना", "बुरी तरह हारना", "गाली देना", "नष्ट करना"],
     "a": 1,
-    "explanation": "It means to be defeated badly."
+    "explanation": "इसका अर्थ है पराजित होना या अपमानित होकर हारना।"
   },
   {
-    "q": "shuddh vaaky ka chayan karen:",
-    "options": ["bachche ko kaat kar phal khilaao.", "phal ko bachche ko kaat kar khilaao.", "bachche ko phal kaat kar khilaao.", "kaat kar phal bachche ko khilaao."],
+    "q": "शुद्ध वाक्य का चयन करें:",
+    "options": ["बच्चे को काट कर फल खिलाओ।", "फल को बच्चे को काट कर खिलाओ।", "बच्चे को फल काट कर खिलाओ।", "काट कर फल बच्चे को खिलाओ।"],
     "a": 2,
-    "explanation": "Correct syntax: 'bachche ko phal kaat kar khilaao'."
+    "explanation": "व्याकरण की दृष्टि से पदक्रम 'बच्चे को फल काट कर खिलाओ' सही है।"
   },
   {
-    "q": "amrit ka paryayavaachi shabd nahin hai:",
-    "options": ["peeyoosh", "sudha", "amee", "rasaal"],
+    "q": "'अमृत' का पर्यायवाची शब्द नहीं है:",
+    "options": ["पीयूष", "सुधा", "अमी", "रसाल"],
     "a": 3,
-    "explanation": "Rasaal means Mango."
+    "explanation": "'रसाल' आम का पर्यायवाची है।"
   },
   {
-    "q": "kavita shikshan ka sarvopari gun kya hai?",
-    "options": ["shabdarth bodh", "bhaavaatmak rasaanubhooti", "vyaakaran gyaan", "lay aur taal"],
+    "q": "कविता शिक्षण का सर्वोपरि गुण क्या है?",
+    "options": ["शब्दार्थ बोध", "भावात्मक रसानुभूति", "व्याकरण ज्ञान", "लय और ताल"],
     "a": 1,
-    "explanation": "Emotional resonance is key to poetry."
+    "explanation": "कविता का मुख्य उद्देश्य पाठक के हृदय में भाव जाग्रत करना और आनंद प्रदान करना है।"
+  },
+  {
+    "q": "The comparative degree of 'Little' is:",
+    "options": ["Littler", "Less", "Least", "Lesser"],
+    "a": 1,
+    "explanation": "Little, Less (Comparative), Least (Superlative)."
+  },
+  {
+    "q": "Identify the 'Adjective' in the following sentence: 'He is a brave boy.'",
+    "options": ["He", "Is", "Brave", "Boy"],
+    "a": 2,
+    "explanation": "'Brave' describes the noun 'boy'."
+  },
+  {
+    "q": "Choose the correct article: 'He is ________ honest man.'",
+    "options": ["a", "an", "the", "No article"],
+    "a": 1,
+    "explanation": "The 'h' is silent, so the vowel sound 'o' takes 'an'."
+  },
+  {
+    "q": "Change the following into 'Direct Speech': 'She said that she was happy.'",
+    "options": ["She said, \"She is happy.\"", "She said, \"I am happy.\"", "She says, \"I am happy.\"", "She said, \"I was happy.\""],
+    "a": 1,
+    "explanation": "In direct speech, 'she was' changes back to 'I am'."
+  },
+  {
+    "q": "Which of these is a 'Suffix'?",
+    "options": ["un-", "dis-", "-ness", "pre-"],
+    "a": 2,
+    "explanation": "Suffixes are added at the end of words."
+  },
+  {
+    "q": "Select the correct collective noun: 'A ________ of keys.'",
+    "options": ["Bunch", "Pack", "Fleet", "Herd"],
+    "a": 0,
+    "explanation": "A group of keys or grapes is called a bunch."
+  },
+  {
+    "q": "Fill in the blank: 'He has been sleeping ________ two hours.'",
+    "options": ["since", "for", "from", "at"],
+    "a": 1,
+    "explanation": "We use 'for' to show a duration of time."
   },
   {
     "q": "If x/3 + 5/2 = -3/2, then x is:",
@@ -147,13 +189,13 @@
     "q": "The probability of getting 'tails' in a coin toss is:",
     "options": ["0", "1", "1/2", "1/4"],
     "a": 2,
-    "explanation": "One desired outcome out of two total."
+    "explanation": "One desired outcome out of two total outcomes."
   },
   {
     "q": "What is the smallest prime number?",
     "options": ["0", "1", "2", "3"],
     "a": 2,
-    "explanation": "2 is the only even prime and the smallest."
+    "explanation": "2 is the only even prime and the smallest prime."
   },
   {
     "q": "Which of the following is a poor conductor of heat?",
