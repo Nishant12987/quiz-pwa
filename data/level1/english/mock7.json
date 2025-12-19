@@ -1,0 +1,242 @@
+[
+  {
+    "q": "Which of the following is an example of 'Extrinsic' motivation?",
+    "options": ["Curiosity about a topic", "Joy of learning a new skill", "Receiving a gold medal for a task", "Personal satisfaction"],
+    "a": 2,
+    "explanation": "Extrinsic motivation comes from outside the individual, such as rewards, grades, or praise."
+  },
+  {
+    "q": "Gardner's theory of Multiple Intelligences suggests that a person with high 'Interpersonal Intelligence' is good at:",
+    "options": ["Understanding oneself", "Understanding others' emotions and intentions", "Solving mathematical puzzles", "Bodily coordination"],
+    "a": 1,
+    "explanation": "Interpersonal intelligence is the ability to understand and interact effectively with others."
+  },
+  {
+    "q": "Which learning principle emphasizes that 'Whole is greater than the sum of its parts'?",
+    "options": ["Behaviorism", "Gestalt Psychology", "Constructivism", "Cognitivism"],
+    "a": 1,
+    "explanation": "Gestalt psychology (Wertheimer, Kohler) focuses on holistic perception rather than breaking behavior into small parts."
+  },
+  {
+    "q": "What is the primary purpose of 'Continuous and Comprehensive Evaluation' (CCE)?",
+    "options": ["To rank students", "To reduce the burden of board exams", "To assess all aspects of a child's development", "To conduct monthly tests"],
+    "a": 2,
+    "explanation": "CCE aims to evaluate both 'Scholastic' (academic) and 'Co-scholastic' (life skills, attitudes) domains of a student."
+  },
+  {
+    "q": "The concept of 'Scaffolding' in teaching is most closely associated with:",
+    "options": ["B.F. Skinner", "Jean Piaget", "Lev Vygotsky", "Lawrence Kohlberg"],
+    "a": 2,
+    "explanation": "Vygotsky's scaffolding refers to the temporary support provided to a student to help them master a task within their Zone of Proximal Development."
+  },
+  {
+    "q": "Which psychologist described the 'Identity Crisis' during adolescence?",
+    "options": ["Erik Erikson", "Jean Piaget", "Sigmund Freud", "Carl Rogers"],
+    "a": 0,
+    "explanation": "Erik Erikson's theory of psychosocial development identifies 'Identity vs. Role Confusion' as the core conflict in teenagers."
+  },
+  {
+    "q": "In 'Project Method' of teaching, the role of the teacher is that of a:",
+    "options": ["Director", "Dictator", "Guide and Facilitator", "Passive Spectator"],
+    "a": 2,
+    "explanation": "In progressive education, the teacher supports students as they explore projects rather than just lecturing."
+  },
+  {
+    "q": "Which intelligence type is high in a successful 'Sculptor' or 'Architect' according to Gardner?",
+    "options": ["Logical-Mathematical", "Spatial", "Kinesthetic", "Linguistic"],
+    "a": 1,
+    "explanation": "Spatial intelligence involves the ability to visualize and manipulate three-dimensional objects."
+  },
+  {
+    "q": "What does 'IQ' stand for in psychology?",
+    "options": ["Internal Quotient", "Intellectual Quantity", "Intelligence Quotient", "Integrated Quality"],
+    "a": 2,
+    "explanation": "Intelligence Quotient is a score derived from standardized tests to measure human intelligence."
+  },
+  {
+    "q": "Which law of Thorndike states that 'Learning is stronger when followed by satisfaction'?",
+    "options": ["Law of Readiness", "Law of Exercise", "Law of Effect", "Law of Use"],
+    "a": 2,
+    "explanation": "The 'Law of Effect' suggests that responses followed by pleasant outcomes are more likely to be repeated."
+  },
+  {
+    "q": "The 'Individualized Education Program' (IEP) is designed for:",
+    "options": ["Gifted students only", "Children with special needs", "Average students", "Teachers' training"],
+    "a": 1,
+    "explanation": "IEPs are plans in inclusive education to provide tailored support for students with disabilities."
+  },
+  {
+    "q": "'हिमालय से गंगा निकलती है' - इस वाक्य में कौन सा कारक है?",
+    "options": ["करण कारक", "अपादान कारक", "संप्रदान कारक", "अधिकरण कारक"],
+    "a": 1,
+    "explanation": "जहाँ अलग होने का भाव हो (अलगाव), वहाँ 'से' चिह्न के साथ अपादान कारक होता है."
+  },
+  {
+    "q": "'प्रत्युत्पन्नमति' शब्द में कौन सा उपसर्ग है?",
+    "options": ["प्र", "प्रति", "प्रत्यु", "प्रत"],
+    "a": 1,
+    "explanation": "'प्रति + उत्पन्न + मति' के मेल से यह शब्द बना है, अतः यहाँ 'प्रति' उपसर्ग है."
+  },
+  {
+    "q": "भाषा कौशल का सही क्रम क्या है?",
+    "options": ["सुनना, बोलना, पढ़ना, लिखना", "बोलना, सुनना, पढ़ना, लिखना", "लिखना, पढ़ना, सुनना, बोलना", "सुनना, पढ़ना, बोलना, लिखना"],
+    "a": 0,
+    "explanation": "भाषा सीखने का मनोवैज्ञानिक क्रम LSRW (Listening, Speaking, Reading, Writing) है."
+  },
+  {
+    "q": "'नायक' शब्द का सही संधि-विच्छेद क्या है?",
+    "options": ["ना + अक", "ने + अक", "नै + अक", "नय + अक"],
+    "a": 2,
+    "explanation": "यह अयादि संधि का उदाहरण है, जहाँ 'नै + अक' मिलकर 'नायक' बनता है."
+  },
+  {
+    "q": "'दयानंद' में प्रयुक्त संधि का नाम है:",
+    "options": ["गुण संधि", "दीर्घ संधि", "व्यंजन संधि", "यण संधि"],
+    "a": 1,
+    "explanation": "दया + आनंद = दयानंद (आ + आ = आ), यह दीर्घ संधि का उदाहरण है."
+  },
+  {
+    "q": "'चौराहा' में कौन सा समास है?",
+    "options": ["द्विगु", "द्वंद्व", "तत्पुरुष", "अव्ययीभाव"],
+    "a": 0,
+    "explanation": "जिस समास का पहला पद संख्यावाचक हो (चौ = चार), वह द्विगु समास होता है."
+  },
+  {
+    "q": "'उपकार' का विलोम शब्द है:",
+    "options": ["विकार", "अनुपकार", "अपकार", "तिरस्कार"],
+    "a": 2,
+    "explanation": "उपकार का विलोम 'अपकार' होता है."
+  },
+  {
+    "q": "Identify the 'Conjunction' in: 'I wanted to go, but I was tired.'",
+    "options": ["Wanted", "Go", "But", "Tired"],
+    "a": 2,
+    "explanation": "A conjunction connects clauses; 'but' connects two independent clauses here."
+  },
+  {
+    "q": "Choose the correct spelling:",
+    "options": ["Accomodation", "Accommodation", "Acomodation", "Accommadation"],
+    "a": 1,
+    "explanation": "The standard English spelling is 'Accommodation' with a double 'c' and a double 'm'."
+  },
+  {
+    "q": "The antonym of 'Transparent' is:",
+    "options": ["Clear", "Opaque", "Bright", "Fragile"],
+    "a": 1,
+    "explanation": "Transparent allows light to pass through; Opaque does not."
+  },
+  {
+    "q": "Convert to Direct Speech: 'She said that she was happy.'",
+    "options": ["She said, 'I am happy.'", "She said, 'She is happy.'", "She says, 'I am happy.'", "She said, 'I was happy.'"],
+    "a": 0,
+    "explanation": "In direct speech, pronouns and tenses revert: 'was' becomes 'am'."
+  },
+  {
+    "q": "Which method of teaching English focuses on 'translation' and 'rules of grammar'?",
+    "options": ["Direct Method", "Grammar-Translation Method", "Bilingual Method", "Audio-Lingual Method"],
+    "a": 1,
+    "explanation": "The Grammar-Translation Method focuses on reading, writing, and word-for-word translation."
+  },
+  {
+    "q": "Choose the correctly punctuated sentence:",
+    "options": ["He said I am coming.", "He said, 'I am coming.'", "He said \"I am coming.\"", "He said, I am coming."],
+    "a": 1,
+    "explanation": "Direct speech requires a comma before the opening quotation mark."
+  },
+  {
+    "q": "Select the correct plural of 'Child'.",
+    "options": ["Childs", "Childes", "Children", "Childrens"],
+    "a": 2,
+    "explanation": "Child has an irregular plural form: Children."
+  },
+  {
+    "q": "What is the sum of the first five prime numbers?",
+    "options": ["25", "26", "28", "30"],
+    "a": 2,
+    "explanation": "The first five prime numbers are 2, 3, 5, 7, and 11. Sum: 2+3+5+7+11 = 28."
+  },
+  {
+    "q": "A square has a perimeter of 24 cm. What is its area?",
+    "options": ["24 sq cm", "36 sq cm", "48 sq cm", "16 sq cm"],
+    "a": 1,
+    "explanation": "Side = 24/4 = 6 cm. Area = 6 x 6 = 36 sq cm."
+  },
+  {
+    "q": "How many minutes are there in 3 hours and 20 minutes?",
+    "options": ["180", "200", "220", "240"],
+    "a": 1,
+    "explanation": "(3 x 60) + 20 = 180 + 20 = 200 minutes."
+  },
+  {
+    "q": "Which of the following is an improper fraction?",
+    "options": ["3/4", "5/2", "1/2", "7/9"],
+    "a": 1,
+    "explanation": "In an improper fraction, the numerator is greater than or equal to the denominator (5 > 2)."
+  },
+  {
+    "q": "The number 48 is a multiple of which of the following?",
+    "options": ["5", "7", "8", "9"],
+    "a": 2,
+    "explanation": "8 x 6 = 48, so 48 is a multiple of 8."
+  },
+  {
+    "q": "What is the successor of the largest 3-digit number?",
+    "options": ["999", "100", "1000", "998"],
+    "a": 2,
+    "explanation": "Largest 3-digit number is 999. Successor = 999 + 1 = 1000."
+  },
+  {
+    "q": "If one dozen bananas cost 60 rupees, what is the cost of 5 bananas?",
+    "options": ["20 rupees", "25 rupees", "30 rupees", "15 rupees"],
+    "a": 1,
+    "explanation": "1 banana = 60/12 = 5. 5 bananas = 5 x 5 = 25 rupees."
+  },
+  {
+    "q": "Find the average of 10, 20, 30, 40, and 50.",
+    "options": ["20", "25", "30", "35"],
+    "a": 2,
+    "explanation": "(10+20+30+40+50) / 5 = 150 / 5 = 30."
+  },
+  {
+    "q": "What is the product of 15 and 6?",
+    "options": ["80", "90", "100", "110"],
+    "a": 1,
+    "explanation": "15 x 6 = 90."
+  },
+  {
+    "q": "How many centimeters are in 5 meters?",
+    "options": ["50", "500", "5000", "5"],
+    "a": 1,
+    "explanation": "1 meter = 100 cm. 5 meters = 500 cm."
+  },
+  {
+    "q": "Which bird makes its nest in the hollow of a tree?",
+    "options": ["Sunbird", "Indian Robin", "Barbet", "Dove"],
+    "a": 2,
+    "explanation": "The Barbet (Coppersmith bird) pecks holes in tree trunks to make nests."
+  },
+  {
+    "q": "The 'Bishnoi' community of Rajasthan is famous for:",
+    "options": ["Handicraft", "Conservation of flora and fauna", "Folk dance", "Painting"],
+    "a": 1,
+    "explanation": "The Bishnoi community is known for its dedication to protecting trees and wildlife."
+  },
+  {
+    "q": "Which of the following is a renewable source of energy?",
+    "options": ["Coal", "Petroleum", "Solar Energy", "Natural Gas"],
+    "a": 2,
+    "explanation": "Solar energy is inexhaustible, unlike finite fossil fuels."
+  },
+  {
+    "q": "Which vitamin deficiency leads to a disease called 'Scurvy'?",
+    "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "a": 2,
+    "explanation": "Vitamin C deficiency causes bleeding gums and weakness, known as Scurvy."
+  },
+  {
+    "q": "The primary cause of the 'Greenhouse Effect' is the increase in:",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+    "a": 2,
+    "explanation": "Carbon dioxide traps heat in the atmosphere, leading to global warming."
+  }
+]
