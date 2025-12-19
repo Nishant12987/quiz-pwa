@@ -48,7 +48,7 @@
     "explanation": "डिस्लेक्सिया एक पठन विकार (Reading disorder) है।"
   },
   {
-    "q": "शिक्षण में 'पाड़' (Scaffolding) की अवधारणा किससे जुड़ी है?",
+    "q": "शिक्षण में 'पाड़' (Scaffolding) की अवधारणा किससे जुड़ी है?",
     "options": ["स्किनर", "पियाजे", "वायगोत्स्की", "कोहलबर्ग"],
     "a": 2,
     "explanation": "वायगोत्स्की के अनुसार, Scaffolding वह अस्थायी सहायता है जो बच्चे को कठिन कार्य सीखने में दी जाती है।"
@@ -103,51 +103,51 @@
   },
   {
     "q": "भाषा कौशल का सही मनोवैज्ञानिक क्रम क्या है?",
-    "options": ["सुनना, बोलना, पढ़ना, लिखना", "बोलना, सुनना, पढ़ना, लिखना", "लिखना, पढ़ना, सुनना, बोलना", "सुनना, पढ़ना, बोलना, लिखना"],
+    "options": ["सुनना, बोलना, पढ़ना, लिखना", "बोलना, सुनना, पढ़ना, लिखना", "लिखना, पढ़ना, सुनना, बोलना", "सुनना, पढ़ना, बोलना, लिखना"],
     "a": 0,
     "explanation": "भाषा विकास का प्राकृतिक क्रम LSRW (Listening, Speaking, Reading, Writing) है।"
   },
   {
-    "q": "'Diligent' शब्द का पर्यायवाची चुनिए:",
+    "q": "Select the synonym for the word 'Diligent':",
     "options": ["Lazy", "Hardworking", "Careless", "Wealthy"],
     "a": 1,
-    "explanation": "Diligent का अर्थ है परिश्रमी या मेहनती।"
+    "explanation": "Diligent means showing care and conscientiousness in one's work or duties; therefore, 'Hardworking' is the correct synonym."
   },
   {
-    "q": "'The teacher corrected the mistakes' का Passive Voice होगा:",
+    "q": "What is the Passive Voice of: 'The teacher corrected the mistakes'?",
     "options": ["The mistakes are corrected by the teacher.", "The mistakes were corrected by the teacher.", "The teacher was corrected by the mistakes.", "The mistakes corrected by the teacher."],
     "a": 1,
-    "explanation": "Simple Past tense में Passive Voice में 'were + V3' का प्रयोग होता है।"
+    "explanation": "In Simple Past tense, the passive voice structure is 'Object + was/were + V3 + by + Subject'."
   },
   {
-    "q": "निम्नलिखित में से 'Interrogative Pronoun' पहचानें:",
+    "q": "Identify the 'Interrogative Pronoun' from the following:",
     "options": ["He", "Each", "Who", "Them"],
     "a": 2,
-    "explanation": "'Who' का प्रयोग प्रश्न पूछने के लिए सर्वनाम के रूप में किया जाता है।"
+    "explanation": "'Who' is used to ask questions about people and functions as a pronoun."
   },
   {
-    "q": "सही आर्टिकल चुनें: 'He is ________ honest man.'",
+    "q": "Choose the correct article: 'He is ________ honest man.'",
     "options": ["a", "an", "the", "No article"],
     "a": 1,
-    "explanation": "'Honest' का उच्चारण 'अ' (Vowel sound) से शुरू होता है, इसलिए 'an' लगेगा।"
+    "explanation": "The word 'Honest' begins with a vowel sound (silent 'h'), so 'an' is used."
   },
   {
-    "q": "वाक्य में 'Adjective' पहचानें: 'The blue umbrella belongs to me.'",
+    "q": "Identify the 'Adjective' in the sentence: 'The blue umbrella belongs to me.'",
     "options": ["Umbrella", "Belongs", "Me", "Blue"],
     "a": 3,
-    "explanation": "'Blue' संज्ञा 'umbrella' की विशेषता बता रहा है।"
+    "explanation": "'Blue' describes the noun 'umbrella', making it an adjective."
   },
   {
-    "q": "इनमें से कौन सा भाषा शिक्षण का सिद्धांत नहीं है?",
-    "options": ["अभिप्रेरणा", "आदत निर्माण", "रटकर याद करना", "मौखिक दृष्टिकोण"],
+    "q": "Which of the following is NOT a principle of language teaching?",
+    "options": ["Motivation", "Habit Formation", "Rote Learning", "Oral Approach"],
     "a": 2,
-    "explanation": "रटना (Rote learning) एक दोषपूर्ण पद्धति है, यह शिक्षण का स्वस्थ सिद्धांत नहीं है।"
+    "explanation": "Rote learning is considered a flawed method and is not a healthy principle of effective language teaching."
   },
   {
-    "q": "त्रुटि पहचानें: 'Each of the students (A) have (B) submitted (C) the assignment (D).'",
+    "q": "Identify the error: 'Each of the students (A) have (B) submitted (C) the assignment (D).'",
     "options": ["A", "B", "C", "D"],
     "a": 1,
-    "explanation": "'Each' हमेशा एकवचन (Singular) होता है, इसलिए यहाँ 'has' आना चाहिए।"
+    "explanation": "The word 'Each' is always singular; therefore, the singular verb 'has' should be used instead of 'have'."
   },
   {
     "q": "256 की घात 0.16 गुना 256 की घात 0.09 का मान है:",
