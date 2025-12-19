@@ -1,3 +1,6 @@
+/***********************
+ * GLOBAL STATE
+ ***********************/
 let questions = [];
 let answers = [];
 let index = 0;
@@ -6,7 +9,9 @@ let timeLeft = 2400;
 
 const ADMIN_EMAIL = "nishantameta1@gmail.com";
 
-/* ================= QUOTES ================= */
+/***********************
+ * QUOTES
+ ***********************/
 const quotes = [
   "🔥 Consistency beats talent every single time.",
   "🎯 One test today is one step closer to success.",
@@ -23,72 +28,113 @@ function getQuote() {
   return quotes[Math.floor(Math.random() * quotes.length)];
 }
 
-/* ================= AUTH ================= */
+/***********************
+ * AUTH
+ ***********************/
 function login() {
-  if (!agree.checked) return alert("Accept policies");
+  if (!document.getElementById("agree").checked) {
+    alert("Accept policies");
+    return;
+  }
 
   const email = document.getElementById("email").value.trim();
   const password = document.getElementById("password").value.trim();
 
-  if (!email || !password) return alert("Enter email & password");
+  if (!email || !password) {
+    alert("Enter email and password");
+    return;
+  }
 
-  auth.signInWithEmailAndPassword(email, password)
-    .then(res => afterLogin(res.user))
+  auth
+    .signInWithEmailAndPassword(email, password)
+    .then(res => {
+      handleLoginSuccess(res.user);
+    })
     .catch(err => {
-      // 👇 proper error handling
-      if (err.code === "auth/wrong-password")
-        alert("Wrong password");
-      else if (err.code === "auth/user-not-found")
-        auth.createUserWithEmailAndPassword(email, password)
-          .then(res => afterLogin(res.user))
+      if (err.code === "auth/user-not-found") {
+        auth
+          .createUserWithEmailAndPassword(email, password)
+          .then(res => {
+            handleLoginSuccess(res.user);
+          })
           .catch(e => alert(e.message));
-      else
+      } else if (err.code === "auth/wrong-password") {
+        alert("Wrong password");
+      } else {
         alert(err.message);
+      }
     });
 }
 
-/* ================= RESET PASSWORD ================= */
 function resetPassword() {
   const email = document.getElementById("email").value.trim();
-  if (!email) return alert("Enter your email first");
+  if (!email) {
+    alert("Enter email first");
+    return;
+  }
 
-  auth.sendPasswordResetEmail(email)
+  auth
+    .sendPasswordResetEmail(email)
     .then(() => alert("Password reset email sent"))
     .catch(err => alert(err.message));
 }
 
-function afterLogin(user) {
+/***********************
+ * LOGIN SUCCESS HANDLER
+ ***********************/
+function handleLoginSuccess(user) {
   const ref = db.collection("users").doc(user.uid);
 
-  ref.get().then(doc => {
-    if (!doc.exists) {
-      ref.set({
-        email: user.email,
-        name: "",
-        paid: user.email === ADMIN_EMAIL,
-        testsDone: 0,
-        scores: []
+  ref
+    .get()
+    .then(doc => {
+      if (!doc.exists) {
+        return ref.set({
+          email: user.email,
+          name: "",
+          paid: user.email === ADMIN_EMAIL,
+          testsDone: 0,
+          scores: []
+        });
+      }
+    })
+    .then(() => {
+      ref.get().then(doc => {
+        const data = doc.data();
+        if (!data.name) {
+          hideAll();
+          show("nameSetup");
+        } else {
+          showDashboard();
+        }
       });
-      hideAll();
-      show("nameSetup");
-    } else {
-      showDashboard();
-    }
-  });
+    })
+    .catch(err => {
+      alert("Login succeeded but data error: " + err.message);
+    });
 }
 
-/* ================= SAVE NAME ================= */
+/***********************
+ * SAVE NAME
+ ***********************/
 function saveName() {
-  const name = userNameInput.value.trim();
-  if (!name) return alert("Enter name");
+  const name = document.getElementById("userNameInput").value.trim();
+  if (!name) {
+    alert("Enter name");
+    return;
+  }
 
   db.collection("users")
     .doc(auth.currentUser.uid)
     .update({ name })
-    .then(showDashboard);
+    .then(() => {
+      showDashboard();
+    });
 }
 
-/* ================= DASHBOARD ================= */
+/***********************
+ * DASHBOARD
+ ***********************/
 function showDashboard() {
   hideAll();
   show("dashboard");
@@ -98,21 +144,29 @@ function showDashboard() {
     .get()
     .then(doc => {
       const data = doc.data();
-      welcome.innerText = "👋 Welcome, " + data.name;
-      quoteBox.innerText = getQuote();
+      document.getElementById("welcome").innerText =
+        "👋 Welcome, " + (data.name || "User");
+      document.getElementById("quoteBox").innerText = getQuote();
     });
 
-  level.onchange = () => {
-    stream.style.display = level.value === "level2" ? "block" : "none";
+  document.getElementById("level").onchange = () => {
+    document.getElementById("stream").style.display =
+      document.getElementById("level").value === "level2"
+        ? "block"
+        : "none";
   };
 }
 
-/* ================= START FLOW ================= */
+/***********************
+ * START TEST
+ ***********************/
 function startFlow() {
   loadMock();
 }
 
-/* ================= LOAD MOCK ================= */
+/***********************
+ * LOAD MOCK
+ ***********************/
 async function loadMock() {
   const path = "data/level1/english/mock1.json";
 
@@ -121,7 +175,7 @@ async function loadMock() {
     if (!res.ok) throw new Error();
     questions = await res.json();
   } catch {
-    alert("Mock file not found");
+    alert("Mock not found");
     showDashboard();
     return;
   }
@@ -136,21 +190,31 @@ async function loadMock() {
   render();
 }
 
-/* ================= QUIZ RENDER ================= */
+/***********************
+ * QUIZ RENDER
+ ***********************/
 function render() {
-  qCounter.innerText = `Q ${index + 1}/${questions.length}`;
-  question.innerText = questions[index].q;
-  options.innerHTML = "";
+  document.getElementById("qCounter").innerText =
+    `Q ${index + 1}/${questions.length}`;
+
+  document.getElementById("question").innerText =
+    questions[index].q;
+
+  const optionsDiv = document.getElementById("options");
+  optionsDiv.innerHTML = "";
 
   questions[index].options.forEach((opt, i) => {
     const btn = document.createElement("button");
     btn.innerText = opt;
+
     if (answers[index] === i) btn.classList.add("selected");
+
     btn.onclick = () => {
       answers[index] = i;
       render();
     };
-    options.appendChild(btn);
+
+    optionsDiv.appendChild(btn);
   });
 }
 
@@ -168,7 +232,9 @@ function prevQ() {
   }
 }
 
-/* ================= TIMER ================= */
+/***********************
+ * TIMER
+ ***********************/
 function startTimer() {
   updateTime();
   timer = setInterval(() => {
@@ -179,17 +245,21 @@ function startTimer() {
 }
 
 function updateTime() {
-  time.innerText =
+  document.getElementById("time").innerText =
     Math.floor(timeLeft / 60) +
     ":" +
     String(timeLeft % 60).padStart(2, "0");
 }
 
-/* ================= FINISH ================= */
+/***********************
+ * FINISH QUIZ
+ ***********************/
 function finishQuiz() {
   clearInterval(timer);
 
-  let correct = 0, wrong = 0;
+  let correct = 0;
+  let wrong = 0;
+
   answers.forEach((a, i) => {
     if (a === questions[i].a) correct++;
     else if (a !== null) wrong++;
@@ -200,8 +270,10 @@ function finishQuiz() {
   hideAll();
   show("result");
 
-  finalScore.innerText = `Score: ${score}/40`;
-  finalMsg.innerText =
+  document.getElementById("finalScore").innerText =
+    `Score: ${score}/40`;
+
+  document.getElementById("finalMsg").innerText =
     score >= 30
       ? "🏆 Excellent! You are exam ready."
       : score >= 20
@@ -209,17 +281,25 @@ function finishQuiz() {
       : "💪 Don’t give up! Improvement will come.";
 }
 
-/* ================= HELPERS ================= */
+/***********************
+ * HELPERS
+ ***********************/
 function hideAll() {
   ["login", "nameSetup", "dashboard", "quiz", "result", "history"]
-    .forEach(id => document.getElementById(id).style.display = "none");
+    .forEach(id => {
+      const el = document.getElementById(id);
+      if (el) el.style.display = "none";
+    });
 }
 
 function show(id) {
-  document.getElementById(id).style.display = "block";
+  const el = document.getElementById(id);
+  if (el) el.style.display = "block";
 }
 
-/* ================= AUTO LOGIN (SAFE) ================= */
+/***********************
+ * AUTO LOGIN (SAFE)
+ ***********************/
 auth.onAuthStateChanged(user => {
   if (!user) return;
 
@@ -228,7 +308,7 @@ auth.onAuthStateChanged(user => {
     if (!doc.exists) {
       ref.set({
         email: user.email,
-        name: "User",
+        name: "",
         paid: user.email === ADMIN_EMAIL,
         testsDone: 0,
         scores: []
