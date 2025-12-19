@@ -1,0 +1,242 @@
+[
+  {
+    "q": "In development, 'Maturation' refers to:",
+    "options": ["Learning from environment", "Biological unfolding of genetic potential", "Social adjustment", "Academic achievement"],
+    "a": 1,
+    "explanation": "Maturation is the natural sequence of physical and behavioral changes dictated by heredity."
+  },
+  {
+    "q": "Who gave the theory of 'Operant Conditioning'?",
+    "options": ["Ivan Pavlov", "B.F. Skinner", "Edward Thorndike", "John Watson"],
+    "a": 1,
+    "explanation": "Skinner focused on how consequences (reinforcement/punishment) shape behavior."
+  },
+  {
+    "q": "The ability to 'Conserve' (quantity remains same despite shape change) occurs in which Piaget stage?",
+    "options": ["Sensory-motor", "Pre-operational", "Concrete operational", "Formal operational"],
+    "a": 2,
+    "explanation": "Conservation is a hallmark of the concrete operational stage (7-11 years)."
+  },
+  {
+    "q": "Which is the most reliable method to study the 'Behavior' of a child?",
+    "options": ["Interview", "Questionnaire", "Case Study", "Anecdote"],
+    "a": 2,
+    "explanation": "A Case Study provides an in-depth, longitudinal analysis of an individual's development."
+  },
+  {
+    "q": "In Maslow's hierarchy, 'Food, water, and sleep' are part of:",
+    "options": ["Safety needs", "Physiological needs", "Belongingness needs", "Esteem needs"],
+    "a": 1,
+    "explanation": "Physiological needs are the most basic requirements for human survival."
+  },
+  {
+    "q": "Which of the following is an 'Inclusive Education' practice?",
+    "options": ["Special schools for blind", "Same curriculum for all without change", "Differentiated instruction", "Segregation of slow learners"],
+    "a": 2,
+    "explanation": "Inclusive education adapts teaching methods to meet diverse learner needs in the same classroom."
+  },
+  {
+    "q": "The concept of 'Emotional Intelligence' (EQ) was popularized by:",
+    "options": ["Daniel Goleman", "Howard Gardner", "Robert Sternberg", "David Wechsler"],
+    "a": 0,
+    "explanation": "Goleman's 1995 book brought widespread attention to the importance of emotional awareness."
+  },
+  {
+    "q": "'Learning by Insight' emphasizes:",
+    "options": ["Repetition", "Stimulus-Response", "Sudden perception of relationships", "Slow trial and error"],
+    "a": 2,
+    "explanation": "Insight involves a 'Eureka' moment where the solution becomes clear all at once."
+  },
+  {
+    "q": "A teacher notices a student is high in 'Intrapersonal Intelligence'. This student is good at:",
+    "options": ["Leading groups", "Understanding their own emotions", "Playing music", "Mathematics"],
+    "a": 1,
+    "explanation": "Intrapersonal intelligence (Gardner) is the capacity to understand oneself."
+  },
+  {
+    "q": "Which stage of development is known as the 'Gang Age'?",
+    "options": ["Early Childhood", "Later Childhood", "Adolescence", "Infancy"],
+    "a": 1,
+    "explanation": "Later childhood (7-12) is when children form strong peer groups or 'gangs'."
+  },
+  {
+    "q": "What is the primary motive of 'Punishment' in education?",
+    "options": ["To help the child learn", "To deter undesirable behavior", "To show teacher's power", "To make child study harder"],
+    "a": 1,
+    "explanation": "In behavioral terms, punishment aims to decrease the frequency of a specific behavior."
+  },
+  {
+    "q": "'शुभागमन' में कौन सी संधि है?",
+    "options": ["गुण संधि", "दीर्घ संधि", "वृद्धि संधि", "यण संधि"],
+    "a": 1,
+    "explanation": "शुभ + आगमन = शुभागमन (अ + आ = आ, दीर्घ संधि)।"
+  },
+  {
+    "q": "'चौमासा' में कौन सा समास है?",
+    "options": ["द्वंद्व", "तत्पुरुष", "द्विगु", "बहुव्रीहि"],
+    "a": 2,
+    "explanation": "चार मासों (महीनों) का समूह, प्रथम पद संख्यावाचक होने से द्विगु समास है।"
+  },
+  {
+    "q": "'अल्पज्ञ' का विलोम शब्द है:",
+    "options": ["बहुज्ञ", "सर्वज्ञ", "अभिज्ञ", "कृतज्ञ"],
+    "a": 1,
+    "explanation": "अल्पज्ञ (कम जानने वाला) का विलोम सर्वज्ञ (सब कुछ जानने वाला) होता है।"
+  },
+  {
+    "q": "'आसमान पर चढ़ाना' मुहावरे का अर्थ है:",
+    "options": ["बहुत ऊँचा उड़ना", "अत्यधिक प्रशंसा करना", "कठिन कार्य करना", "पागल हो जाना"],
+    "a": 1,
+    "explanation": "इसका अर्थ है किसी की बहुत ज्यादा तारीफ करके उसे फूला देना।"
+  },
+  {
+    "q": "शुद्ध शब्द का चयन कीजिए:",
+    "options": ["उज्वल", "उज्जवल", "उज्ज्वल", "उजवल"],
+    "a": 2,
+    "explanation": "शुद्ध वर्तनी 'उज्ज्वल' है (दो आधे 'ज')।"
+  },
+  {
+    "q": "'विनायक' किसका पर्यायवाची है?",
+    "options": ["विष्णु", "शिव", "गणेश", "ब्रह्मा"],
+    "a": 2,
+    "explanation": "विनायक गणेश जी का प्रसिद्ध पर्यायवाची है।"
+  },
+  {
+    "q": "भाषा शिक्षण की किस विधि में 'मातृभाषा' का प्रयोग बिल्कुल नहीं किया जाता?",
+    "options": ["अनुवाद विधि", "द्विभाषी विधि", "प्रत्यक्ष विधि", "व्याकरण विधि"],
+    "a": 2,
+    "explanation": "Direct Method focuses on the target language only."
+  },
+  {
+    "q": "Choose the word which is 'Opposite' in meaning to 'Ancient':",
+    "options": ["Old", "Historic", "Modern", "Antique"],
+    "a": 2,
+    "explanation": "Modern is the antonym of ancient."
+  },
+  {
+    "q": "Identify the 'Pronoun' in: 'They are playing football.'",
+    "options": ["They", "Are", "Playing", "Football"],
+    "a": 0,
+    "explanation": "'They' is a third-person plural pronoun."
+  },
+  {
+    "q": "Complete the idiom: 'Once in a ________ moon.'",
+    "options": ["Red", "Full", "Blue", "New"],
+    "a": 2,
+    "explanation": "'Once in a blue moon' means something that happens very rarely."
+  },
+  {
+    "q": "Choose the correctly spelled word:",
+    "options": ["Maintenence", "Maintenance", "Maintenanse", "Maintenence"],
+    "a": 1,
+    "explanation": "The correct spelling is 'Maintenance'."
+  },
+  {
+    "q": "Select the 'Passive Voice' for: 'Who wrote this letter?'",
+    "options": ["By whom this letter was written?", "By whom was this letter written?", "Who was written this letter?", "This letter was written by whom?"],
+    "a": 1,
+    "explanation": "For questions, the auxiliary verb 'was' must come before the subject 'this letter'."
+  },
+  {
+    "q": "Which of these is a 'Plural' noun?",
+    "options": ["News", "Mathematics", "Cattle", "Furniture"],
+    "a": 2,
+    "explanation": "Cattle is a collective noun that is always treated as plural."
+  },
+  {
+    "q": "Fill in the blank: 'He is afraid ________ dogs.'",
+    "options": ["from", "to", "of", "with"],
+    "a": 2,
+    "explanation": "'Afraid' is followed by the preposition 'of'."
+  },
+  {
+    "q": "Who was the founder of the 'Khalsa Panth'?",
+    "options": ["Guru Nanak Dev", "Guru Arjan Dev", "Guru Gobind Singh", "Guru Tegh Bahadur"],
+    "a": 2,
+    "explanation": "The Khalsa was founded in 1699 at Anandpur Sahib."
+  },
+  {
+    "q": "Which line separates India and China?",
+    "options": ["Radcliffe Line", "McMahon Line", "Durand Line", "49th Parallel"],
+    "a": 1,
+    "explanation": "The McMahon Line is the effective boundary between Northeast India and Tibet."
+  },
+  {
+    "q": "The 'Permanent Settlement' (1793) was introduced by:",
+    "options": ["Lord Wellesley", "Lord Cornwallis", "Lord Hastings", "Lord Dalhousie"],
+    "a": 1,
+    "explanation": "Cornwallis introduced this land revenue system in Bengal and Bihar."
+  },
+  {
+    "q": "Which is the 'Smallest State' of India by area?",
+    "options": ["Sikkim", "Goa", "Tripura", "Nagaland"],
+    "a": 1,
+    "explanation": "Goa is the smallest state, while Rajasthan is the largest."
+  },
+  {
+    "q": "How many 'Fundamental Rights' were provided originally in 1950?",
+    "options": ["6", "7", "8", "10"],
+    "a": 1,
+    "explanation": "There were 7. The 'Right to Property' was removed by the 44th Amendment in 1978."
+  },
+  {
+    "q": "Who wrote the 'Humayun-nama'?",
+    "options": ["Humayun", "Gulbadan Begum", "Abul Fazl", "Badauni"],
+    "a": 1,
+    "explanation": "Gulbadan Begum was Humayun's sister who wrote his biography."
+  },
+  {
+    "q": "Which Indian river forms the 'Dhuandhar Falls'?",
+    "options": ["Narmada", "Tapi", "Godavari", "Krishna"],
+    "a": 0,
+    "explanation": "Located in Jabalpur (MP), the Narmada falls through marble rocks."
+  },
+  {
+    "q": "The 'Non-Cooperation Movement' was called off due to which incident?",
+    "options": ["Jallianwala Bagh", "Chauri Chaura", "Kakori Robbery", "Dandi March"],
+    "a": 1,
+    "explanation": "Violence in Chauri Chaura (1922) led Gandhi to withdraw the movement."
+  },
+  {
+    "q": "Who appoints the 'State Election Commissioner'?",
+    "options": ["President", "Governor", "Chief Minister", "Chief Justice of High Court"],
+    "a": 1,
+    "explanation": "The Governor of the state appoints the SEC."
+  },
+  {
+    "q": "The 'Grand Bank' (famous fishing ground) is located in:",
+    "options": ["North Pacific", "North Atlantic", "South Indian", "Arctic Ocean"],
+    "a": 1,
+    "explanation": "It is located near Newfoundland, Canada."
+  },
+  {
+    "q": "Which amendment added the words 'Socialist' and 'Secular' to the Preamble?",
+    "options": ["42nd Amendment", "44th Amendment", "52nd Amendment", "61st Amendment"],
+    "a": 0,
+    "explanation": "These were added during the Emergency in 1976."
+  },
+  {
+    "q": "Who was the first woman to preside over an INC session?",
+    "options": ["Sarojini Naidu", "Annie Besant", "Nellie Sengupta", "Indira Gandhi"],
+    "a": 1,
+    "explanation": "Annie Besant presided in 1917 (Calcutta). Sarojini Naidu was the first *Indian* woman (1925)."
+  },
+  {
+    "q": "Which is the highest peak of the 'Aravalli Range'?",
+    "options": ["Guru Shikhar", "Dhupgarh", "Kalsubai", "Dodabetta"],
+    "a": 0,
+    "explanation": "Guru Shikhar (1722m) is located in Mount Abu, Rajasthan."
+  },
+  {
+    "q": "Which Article allows the President to grant 'Pardon'?",
+    "options": ["Article 52", "Article 61", "Article 72", "Article 123"],
+    "a": 2,
+    "explanation": "Article 72 deals with the pardoning powers of the President."
+  },
+  {
+    "q": "The 'Battle of Buxar' (1764) established British rule in which region?",
+    "options": ["Punjab", "Bengal", "Mysore", "Maratha"],
+    "a": 1,
+    "explanation": "It confirmed the British as the supreme power in North India, especially Bengal."
+  }
+]
