@@ -108,46 +108,46 @@
     "explanation": "कविता का मूल उद्देश्य आनंद और भावों की अनुभूति कराना है।"
   },
   {
-    "q": "वाक्य में 'Adverb' पहचानें: 'He ran very quickly.'",
+    "q": "Identify the 'Adverb' in the sentence: 'He ran very quickly.'",
     "options": ["He", "Ran", "Very", "Quickly"],
     "a": 3,
-    "explanation": "'Quickly' क्रिया 'ran' की विशेषता बताता है।"
+    "explanation": "'Quickly' describes the manner of the verb 'ran'."
   },
   {
-    "q": "'Mouse' का सही बहुवचन चुनें।",
+    "q": "Choose the correct plural of 'Mouse'.",
     "options": ["Mouses", "Mice", "Mice's", "Mices"],
     "a": 1,
-    "explanation": "Mouse का अनियमित बहुवचन 'mice' है।"
+    "explanation": "The irregular plural form of mouse is 'mice'."
   },
   {
-    "q": "'Fortune' के लिए सही उपसर्ग वाला शब्द चुनें।",
+    "q": "Select the correct word with a prefix for 'Fortune'.",
     "options": ["Unfortune", "Infortune", "Misfortune", "Disfortune"],
     "a": 2,
-    "explanation": "'दुर्भाग्य' का अर्थ देने के लिए सही उपसर्ग 'mis-' है।"
+    "explanation": "The correct prefix to mean 'bad luck' is 'mis-'."
   },
   {
-    "q": "'Alas!' शब्द स्पीच का कौन सा हिस्सा है?",
+    "q": "The word 'Alas!' is which part of speech?",
     "options": ["Conjunction", "Preposition", "Interjection", "Adverb"],
     "a": 2,
-    "explanation": "Interjections अचानक भावनाओं या संवेदनाओं को व्यक्त करते हैं।"
+    "explanation": "Interjections express sudden feelings or emotions."
   },
   {
-    "q": "'उपचारात्मक शिक्षण' (Remedial Teaching) का प्राथमिक उद्देश्य है:",
-    "options": ["नए विषय पढ़ाना", "सीखने के अंतराल को भरना", "धीमी गति से सीखने वालों को दंडित करना", "केवल परीक्षा के लिए तैयारी करना"],
+    "q": "What is the primary objective of 'Remedial Teaching'?",
+    "options": ["Teaching new topics", "Filling learning gaps", "Punishing slow learners", "Preparing for exams only"],
     "a": 1,
-    "explanation": "उपचारात्मक शिक्षण निदान के माध्यम से पहचानी गई विशिष्ट अधिगम कमजोरियों को दूर करता है।"
+    "explanation": "Remedial teaching addresses specific learning weaknesses identified through diagnosis."
   },
   {
-    "q": "'Present Perfect Tense' में सही वाक्य चुनें:",
+    "q": "Choose the correct sentence in 'Present Perfect Tense':",
     "options": ["He finished the work.", "He has finished the work.", "He had finished the work.", "He is finishing the work."],
     "a": 1,
-    "explanation": "Has/Have + V3 प्रेजेंट परफेक्ट की संरचना है।"
+    "explanation": "Has/Have + V3 is the structure for the Present Perfect tense."
   },
   {
-    "q": "'Bachelor' का स्त्रीलिंग क्या है?",
+    "q": "What is the feminine of 'Bachelor'?",
     "options": ["Spinster", "Widow", "Nun", "Baroness"],
     "a": 0,
-    "explanation": "Spinster कुंवारे पुरुष (bachelor) का पारंपरिक स्त्रीलिंग रूप है।"
+    "explanation": "Spinster is the traditional feminine term for a bachelor."
   },
   {
     "q": "अशोक का कौन सा शिलालेख 'कलिंग युद्ध' का उल्लेख करता है?",
