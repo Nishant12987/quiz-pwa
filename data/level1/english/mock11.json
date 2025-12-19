@@ -1,242 +1,242 @@
 [
   {
-    "q": "Which of the following is an example of 'Fine Motor Skill' development?",
-    "options": ["Running", "Hopping", "Writing", "Climbing"],
-    "a": 2,
-    "explanation": "Fine motor skills involve the coordination of small muscles, such as those in the hands and fingers, used for activities like writing."
-  },
-  {
-    "q": "In Piaget's theory, 'Animism' (believing inanimate objects have feelings) is a feature of:",
-    "options": ["Sensory-motor stage", "Pre-operational stage", "Concrete operational stage", "Formal operational stage"],
+    "q": "Which stage of Piaget's theory is characterized by the development of 'Transductive Reasoning'?",
+    "options": ["Sensory-motor", "Pre-operational", "Concrete operational", "Formal operational"],
     "a": 1,
-    "explanation": "Animism is a characteristic of the pre-operational stage where children attribute human-like life and intentions to inanimate objects."
+    "explanation": "Transductive reasoning (linking unrelated events) is a hallmark of the pre-operational stage (2-7 years) where logical thinking is not yet fully developed."
   },
   {
-    "q": "The 'Two-Factor Theory' of intelligence (g-factor and s-factor) was proposed by:",
-    "options": ["Charles Spearman", "Howard Gardner", "L.L. Thurstone", "E.L. Thorndike"],
+    "q": "The concept of 'Reciprocal Determinism' (interplay of person, behavior, and environment) was proposed by:",
+    "options": ["B.F. Skinner", "Albert Bandura", "Erik Erikson", "Carl Jung"],
+    "a": 1,
+    "explanation": "Bandura’s social cognitive theory suggests that these three factors constantly influence each other."
+  },
+  {
+    "q": "Which type of 'Memory' has an almost unlimited capacity and can store information for a lifetime?",
+    "options": ["Sensory Memory", "Short-term Memory", "Long-term Memory", "Working Memory"],
+    "a": 2,
+    "explanation": "Long-term memory acts as a permanent storehouse for knowledge, skills, and experiences."
+  },
+  {
+    "q": "A teacher rewards a student with a 'Star Sticker' every time they finish their work. This is an example of:",
+    "options": ["Primary Reinforcer", "Secondary Reinforcer", "Punishment", "Negative Reinforcement"],
+    "a": 1,
+    "explanation": "A secondary (conditioned) reinforcer gains its value through association with a primary reinforcer (like praise or food)."
+  },
+  {
+    "q": "According to Gardner, an 'Intrapersonal' intelligent person is skilled at:",
+    "options": ["Managing others", "Understanding their own emotions and goals", "Solving math problems", "Playing instruments"],
+    "a": 1,
+    "explanation": "Intrapersonal intelligence is the capacity to understand oneself and one’s own thoughts and feelings."
+  },
+  {
+    "q": "The 'Alphabet Method' and the 'Phonic Method' are techniques used for teaching:",
+    "options": ["Writing", "Reading", "Speaking", "Grammar"],
+    "a": 1,
+    "explanation": "These are traditional approaches to help children decode letters and sounds to begin reading."
+  },
+  {
+    "q": "Which of the following is a 'Social' motive for learning?",
+    "options": ["Hunger", "Thirst", "Need for achievement", "Sleep"],
+    "a": 2,
+    "explanation": "Achievement is a secondary or social motive, whereas hunger and thirst are biological (primary) motives."
+  },
+  {
+    "q": "A child who has difficulty 'crossing the midline' and lacks coordination might be showing signs of:",
+    "options": ["Dyslexia", "Dyspraxia", "Dyscalculia", "Dysphasia"],
+    "a": 1,
+    "explanation": "Dyspraxia (DCD) affects motor coordination and the ability to plan and execute physical movements."
+  },
+  {
+    "q": "In an inclusive setup, the 'Resource Room' is intended for:",
+    "options": ["Only gifted students", "Storing textbooks", "Providing specialized support to students with disabilities", "Teachers' lunch break"],
+    "a": 2,
+    "explanation": "A resource room is a separate remedial setting where students receive individualized instruction for part of the day."
+  },
+  {
+    "q": "Which play type involves children using the same materials and talking to each other but not working toward a common goal?",
+    "options": ["Solitary play", "Parallel play", "Associative play", "Cooperative play"],
+    "a": 2,
+    "explanation": "In associative play, interaction is present, but the play is not yet organized or coordinated."
+  },
+  {
+    "q": "Which psychological perspective focuses on 'Self-actualization' and free will?",
+    "options": ["Behaviorism", "Psychoanalysis", "Humanism", "Structuralism"],
+    "a": 2,
+    "explanation": "Humanistic psychology (Maslow, Rogers) emphasizes the positive potential of human beings."
+  },
+  {
+    "q": "'प्रत्येक' शब्द में कौन सा उपसर्ग लगा है?",
+    "options": ["प्र", "प्रति", "प्रत्य", "एक"],
+    "a": 1,
+    "explanation": "प्रति + एक = प्रत्येक। यहाँ 'प्रति' उपसर्ग है।"
+  },
+  {
+    "q": "'लड़का पेड़ से गिरा'—इस वाक्य में कौन सा कारक है?",
+    "options": ["करण कारक", "अपादान कारक", "संप्रदान कारक", "कर्म कारक"],
+    "a": 1,
+    "explanation": "जहाँ अलगाव (separation) का बोध हो, वहाँ अपादान कारक होता है।"
+  },
+  {
+    "q": "'चक्रपाणि' में कौन सा समास है?",
+    "options": ["अव्ययीभाव", "तत्पुरुष", "बहुव्रीहि", "द्वंद्व"],
+    "a": 2,
+    "explanation": "चक्र है पाणि (हाथ) में जिसके अर्थात विष्णु। यह बहुव्रीहि समास है।"
+  },
+  {
+    "q": "'अल्प' का सही विलोम शब्द क्या है?",
+    "options": ["न्यून", "बहु", "कम", "जरा"],
+    "a": 1,
+    "explanation": "अल्प का अर्थ है थोड़ा, और इसका विलोम बहु (बहुत) होता है।"
+  },
+  {
+    "q": "शुद्ध वर्तनी वाले शब्द का चयन कीजिए:",
+    "options": ["अशिर्वाद", "आशीर्वाद", "आशिर्बाद", "असीर्वाद"],
+    "a": 1,
+    "explanation": "सही वर्तनी 'आशीर्वाद' है।"
+  },
+  {
+    "q": "'हाथ पाँव फूलना' मुहावरे का अर्थ है:",
+    "options": ["बीमार होना", "बहुत घबरा जाना", "कठिन परिश्रम करना", "मोटा होना"],
+    "a": 1,
+    "explanation": "डर या घबराहट के कारण सुध-बुध खो देने को 'हाथ पाँव फूलना' कहते हैं।"
+  },
+  {
+    "q": "निम्न में से 'तद्भव' शब्द कौन सा है?",
+    "options": ["दुग्ध", "मयूर", "आग", "दन्त"],
+    "a": 2,
+    "explanation": "'आग' तद्भव है; इसका तत्सम 'अग्नि' होता है।"
+  },
+  {
+    "q": "Choose the correctly punctuated sentence:",
+    "options": ["Help! I am drowning.", "Help, I am drowning.", "Help I am drowning?", "Help i am drowning."],
     "a": 0,
-    "explanation": "Charles Spearman proposed that intelligence consists of a general factor (g) and specific factors (s)."
+    "explanation": "'Help' is an exclamation and requires an exclamation mark."
   },
   {
-    "q": "Which of the following is a symptom of 'ADHD'?",
-    "options": ["Difficulty in reading", "Inability to perform math", "Persistent inattention and impulsivity", "Poor handwriting"],
-    "a": 2,
-    "explanation": "Attention-Deficit/Hyperactivity Disorder (ADHD) is marked by persistent patterns of inattention and/or hyperactivity-impulsivity."
-  },
-  {
-    "q": "What is the primary goal of 'Action Research' in education?",
-    "options": ["To develop new theories", "To solve immediate classroom problems", "To compare school systems", "To conduct national surveys"],
+    "q": "What is the synonym of 'Abandon'?",
+    "options": ["Keep", "Leave", "Adopt", "Hold"],
     "a": 1,
-    "explanation": "Action research is conducted by practitioners to identify and solve practical problems in their own immediate work environment."
+    "explanation": "To abandon means to desert or leave someone/something behind."
   },
   {
-    "q": "Which of these is a 'Nature' factor in development?",
-    "options": ["Schooling", "Peer group", "Genetic makeup", "Nutritional intake"],
+    "q": "Identify the 'Adjective' in the sentence: 'She bought five oranges.'",
+    "options": ["She", "Bought", "Five", "Oranges"],
     "a": 2,
-    "explanation": "Nature refers to biological and genetic influences that are inherited."
+    "explanation": "'Five' is an adjective of number describing the noun 'oranges'."
   },
   {
-    "q": "In Pavlov’s classical conditioning, the 'Bell' before conditioning is a:",
-    "options": ["Unconditioned Stimulus", "Conditioned Response", "Neutral Stimulus", "Unconditioned Response"],
+    "q": "Which of these is a 'Silent Letter' in the word 'Ghost'?",
+    "options": ["g", "h", "o", "s"],
+    "a": 1,
+    "explanation": "In the word 'Ghost', the letter 'h' is silent."
+  },
+  {
+    "q": "What is the plural of 'Foot'?",
+    "options": ["Foots", "Feets", "Feet", "Footes"],
     "a": 2,
-    "explanation": "Before conditioning, the bell does not elicit the reflex and is considered a neutral stimulus."
+    "explanation": "Foot has an irregular plural form, which is 'feet'."
   },
   {
-    "q": "A student who learns best through charts, maps, and diagrams is a:",
-    "options": ["Auditory learner", "Kinesthetic learner", "Visual learner", "Social learner"],
+    "q": "Choose the word with the correct prefix for 'Interpret'.",
+    "options": ["Uninterpret", "Misinterpret", "Disinterpret", "Ininterpret"],
+    "a": 1,
+    "explanation": "The prefix 'mis-' added to 'interpret' means to understand wrongly."
+  },
+  {
+    "q": "Identify the 'Conjunction' in: 'He is poor yet he is honest.'",
+    "options": ["Is", "Poor", "Yet", "Honest"],
     "a": 2,
-    "explanation": "Visual learners process information best when it is presented in a graphic or illustrated format."
+    "explanation": "'Yet' is a coordinating conjunction connecting two contrasting ideas."
   },
   {
-    "q": "Which teaching style is most effective for fostering 'Critical Thinking'?",
-    "options": ["Autocratic", "Laissez-faire", "Democratic", "Permissive"],
-    "a": 2,
-    "explanation": "A democratic teaching style encourages participation, discussion, and independent thinking."
-  },
-  {
-    "q": "The concept of 'Mental Health' in a classroom primarily focuses on:",
-    "options": ["Academic grades", "Physical fitness", "Emotional and social well-being", "Discipline only"],
-    "a": 2,
-    "explanation": "Mental health in the classroom environment is about supporting students' overall emotional and social health."
-  },
-  {
-    "q": "According to Kohlberg, 'Social Contract Orientation' belongs to which level?",
-    "options": ["Pre-conventional", "Conventional", "Post-conventional", "Non-conventional"],
-    "a": 2,
-    "explanation": "Social contract orientation is a stage within the post-conventional level of moral development."
-  },
-  {
-    "q": "'परोपकार' शब्द का संधि-विच्छेद होगा:",
-    "options": ["पर + उपकार", "परो + पकार", "परौ + पकार", "परो + उपकार"],
+    "q": "What is the face value of 7 in 4,78,920?",
+    "options": ["7", "700", "70,000", "7,00,000"],
     "a": 0,
-    "explanation": "यह गुण संधि का उदाहरण है, जहाँ 'अ + उ' मिलकर 'ओ' बन जाता है."
+    "explanation": "The face value of a digit is the digit itself, regardless of its place."
   },
   {
-    "q": "'पीताम्बर' में कौन सा समास है?",
-    "options": ["अव्ययीभाव", "तत्पुरुष", "द्वंद्व", "बहुव्रीहि"],
-    "a": 3,
-    "explanation": "पीला है अंबर जिसका (कृष्ण); यहाँ बहुव्रीहि समास है क्योंकि यह किसी तीसरे पद की विशेषता बता रहा है."
-  },
-  {
-    "q": "'आगमन' का विलोम शब्द है:",
-    "options": ["प्रस्थान", "गमन", "निर्गम", "आयात"],
+    "q": "How many vertices does a cube have?",
+    "options": ["6", "8", "12", "4"],
     "a": 1,
-    "explanation": "आगमन (आना) का विपरीत शब्द गमन (जाना) होता है."
+    "explanation": "A cube has 8 vertices (corners)."
   },
   {
-    "q": "'घी के दिए जलाना' मुहावरे का अर्थ है:",
-    "options": ["रोशनी करना", "पूजा करना", "खुशियाँ मनाना", "धनवान होना"],
+    "q": "What is the result of 150 ÷ 5 + 10?",
+    "options": ["15", "30", "40", "50"],
     "a": 2,
-    "explanation": "यह मुहावरा बहुत खुश होने या खुशियाँ मनाने के लिए प्रयोग किया जाता है."
+    "explanation": "150 / 5 = 30; 30 + 10 = 40."
   },
   {
-    "q": "निम्नलिखित में से 'शुद्ध' शब्द है:",
-    "options": ["आशिर्वाद", "आशीर्वाद", "अशीर्वाद", "आसीर्वाद"],
-    "a": 1,
-    "explanation": "वर्तनी की दृष्टि से 'आशीर्वाद' शुद्ध शब्द है."
-  },
-  {
-    "q": "'सूर्य' का पर्यायवाची शब्द नहीं है:",
-    "options": ["दिनकर", "दिवाकर", "निशाकर", "भास्कर"],
+    "q": "Which of the following is a unit of capacity?",
+    "options": ["Meter", "Gram", "Liter", "Second"],
     "a": 2,
-    "explanation": "निशाकर चंद्रमा का पर्यायवाची है, जबकि अन्य तीनों सूर्य के हैं."
+    "explanation": "Liter is used to measure the volume or capacity of liquids."
   },
   {
-    "q": "भाषा की सबसे छोटी इकाई क्या है?",
-    "options": ["शब्द", "व्यंजन", "स्वर", "वर्ण"],
-    "a": 3,
-    "explanation": "वर्ण भाषा की सबसे छोटी ध्वनि इकाई है जिसके खंड नहीं किए जा सकते."
-  },
-  {
-    "q": "Identify the 'Abstract Noun' in the following list:",
-    "options": ["Library", "Wisdom", "Teacher", "Gold"],
+    "q": "If the perimeter of a square is 36 cm, what is its side?",
+    "options": ["6 cm", "9 cm", "12 cm", "18 cm"],
     "a": 1,
-    "explanation": "Wisdom is an abstract noun as it refers to a quality or state of being that cannot be physically touched."
+    "explanation": "Side = Perimeter / 4 = 36 / 4 = 9 cm."
   },
   {
-    "q": "Fill in the blank: Neither of the two candidates ________ qualified.",
-    "options": ["are", "is", "were", "have"],
+    "q": "Convert the fraction 1/5 into a decimal.",
+    "options": ["0.1", "0.2", "0.5", "0.05"],
     "a": 1,
-    "explanation": "'Neither' acts as a singular subject and therefore requires a singular verb ('is')."
+    "explanation": "1 divided by 5 is 0.2."
   },
   {
-    "q": "What is the synonym of 'Fragile'?",
-    "options": ["Strong", "Delicate", "Tough", "Heavy"],
-    "a": 1,
-    "explanation": "Fragile means something that is easily broken; delicate is its synonym."
-  },
-  {
-    "q": "Which suffix can be added to the word 'Manage' to form a noun?",
-    "options": ["-tion", "-ment", "-ness", "-able"],
-    "a": 1,
-    "explanation": "Adding the suffix '-ment' to the verb 'Manage' forms the noun 'Management'."
-  },
-  {
-    "q": "Choose the correct indirect speech: He said, \"I work hard.\"",
-    "options": ["He said that he works hard.", "He said that he worked hard.", "He says that he worked hard.", "He said that I worked hard."],
-    "a": 1,
-    "explanation": "When the reporting verb is in the past tense, the present simple in direct speech changes to past simple in indirect speech."
-  },
-  {
-    "q": "Which of these is a 'Diphthong' sound symbol?",
-    "options": ["/i:/", "/u/", "/aɪ/", "/æ/"],
+    "q": "What is the successor of the largest 4-digit number?",
+    "options": ["9999", "1000", "10000", "9998"],
     "a": 2,
-    "explanation": "/aɪ/ is a diphthong because it involves a glide from one vowel sound to another within one syllable."
+    "explanation": "Largest 4-digit number is 9999. Successor = 9999 + 1 = 10000."
   },
   {
-    "q": "The primary purpose of 'Silent Reading' is to improve:",
-    "options": ["Pronunciation", "Reading speed and comprehension", "Audibility", "Spelling"],
+    "q": "Which of these is a line of symmetry for a circle?",
+    "options": ["Radius", "Chord", "Diameter", "Arc"],
+    "a": 2,
+    "explanation": "Any diameter of a circle acts as a line of symmetry."
+  },
+  {
+    "q": "How many minutes are in a quarter of an hour?",
+    "options": ["15", "20", "25", "30"],
+    "a": 0,
+    "explanation": "1/4 of 60 minutes is 15 minutes."
+  },
+  {
+    "q": "Find the sum of 0.4 and 0.04.",
+    "options": ["0.8", "0.44", "0.08", "4.4"],
     "a": 1,
-    "explanation": "Silent reading allows the reader to focus on the meaning and speed of reading without oral distractions."
+    "explanation": "0.40 + 0.04 = 0.44."
   },
   {
-    "q": "What is the place value of 9 in 7,89,450?",
-    "options": ["90", "900", "9,000", "90,000"],
-    "a": 2,
-    "explanation": "In 7,89,450, the digit 9 is in the thousands place, so its value is 9,000."
-  },
-  {
-    "q": "What is the sum of the smallest 3-digit number and the largest 2-digit number?",
-    "options": ["100", "199", "109", "110"],
+    "q": "Which plant is called the 'King of Deserts' in Rajasthan?",
+    "options": ["Neem", "Khejri", "Peepal", "Banyan"],
     "a": 1,
-    "explanation": "Smallest 3-digit number (100) + Largest 2-digit number (99) = 199."
+    "explanation": "Khejri is the state tree and is highly valued in arid regions."
   },
   {
-    "q": "Convert 3/4 into a percentage.",
-    "options": ["30%", "45%", "75%", "80%"],
-    "a": 2,
-    "explanation": "(3/4) * 100 = 75%."
-  },
-  {
-    "q": "How many degrees are in a straight angle?",
-    "options": ["45", "90", "180", "360"],
-    "a": 2,
-    "explanation": "A straight angle is equal to 180 degrees."
-  },
-  {
-    "q": "If a dozen eggs cost 48 rupees, what is the cost of 1 egg?",
-    "options": ["3 rupees", "4 rupees", "5 rupees", "6 rupees"],
+    "q": "Which of the following is an example of an 'Amphibian'?",
+    "options": ["Fish", "Frog", "Snake", "Lizard"],
     "a": 1,
-    "explanation": "Cost of 1 egg = 48 (total cost) / 12 (one dozen) = 4 rupees."
+    "explanation": "Frogs can live both on land and in water."
   },
   {
-    "q": "A rectangle has a length of 10 cm and a width of 5 cm. What is its area?",
-    "options": ["15 sq cm", "30 sq cm", "50 sq cm", "100 sq cm"],
+    "q": "Which organ is responsible for 'Digestion' of food in the human body?",
+    "options": ["Heart", "Lungs", "Stomach", "Kidneys"],
     "a": 2,
-    "explanation": "Area of rectangle = length * width = 10 cm * 5 cm = 50 sq cm."
+    "explanation": "The stomach breaks down food using acids and enzymes."
   },
   {
-    "q": "Which of the following is a composite number?",
-    "options": ["2", "3", "7", "9"],
-    "a": 3,
-    "explanation": "A composite number has more than two factors. 9 has factors 1, 3, and 9."
-  },
-  {
-    "q": "What is 1000 divided by 25?",
-    "options": ["20", "40", "50", "60"],
-    "a": 1,
-    "explanation": "1000 / 25 = 40."
-  },
-  {
-    "q": "What is the HCF of 8 and 12?",
-    "options": ["2", "4", "6", "8"],
-    "a": 1,
-    "explanation": "The highest common factor of 8 and 12 is 4."
-  },
-  {
-    "q": "Simplify: 12 + 4 x 3",
-    "options": ["48", "36", "24", "19"],
+    "q": "The mixture of gases surrounding the Earth is called:",
+    "options": ["Hydrosphere", "Lithosphere", "Atmosphere", "Biosphere"],
     "a": 2,
-    "explanation": "According to BODMAS, multiplication comes before addition: 12 + (4 x 3) = 12 + 12 = 24."
+    "explanation": "The atmosphere is the layer of air that surrounds the planet."
   },
   {
-    "q": "Which part of a plant is called its 'Kitchen'?",
-    "options": ["Root", "Stem", "Leaf", "Flower"],
+    "q": "Which of the following is a 'Biodegradable' waste?",
+    "options": ["Plastic bottle", "Glass jar", "Fruit peels", "Aluminum foil"],
     "a": 2,
-    "explanation": "Leaves are called the kitchen of the plant because they prepare food through photosynthesis."
-  },
-  {
-    "q": "Which bird is known for laying eggs in a crow's nest?",
-    "options": ["Sparrow", "Cuckoo (Koel)", "Pigeon", "Eagle"],
-    "a": 1,
-    "explanation": "The Cuckoo (Koel) is a brood parasite that lays its eggs in the nests of other birds like crows."
-  },
-  {
-    "q": "Which among the following is a liquid at room temperature?",
-    "options": ["Iron", "Gold", "Mercury", "Copper"],
-    "a": 2,
-    "explanation": "Mercury is the only metal that is liquid at standard room temperature."
-  },
-  {
-    "q": "Which fiber is also known as 'Golden Fiber'?",
-    "options": ["Cotton", "Silk", "Jute", "Wool"],
-    "a": 2,
-    "explanation": "Jute is called the golden fiber due to its color and high cost-effectiveness."
-  },
-  {
-    "q": "Which organ pumps blood throughout the human body?",
-    "options": ["Lungs", "Brain", "Heart", "Stomach"],
-    "a": 2,
-    "explanation": "The heart is the muscular organ responsible for circulating blood through the body."
+    "explanation": "Fruit peels decay naturally and mix with the soil."
   }
 ]
