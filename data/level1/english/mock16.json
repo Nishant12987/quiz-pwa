@@ -1,0 +1,242 @@
+[
+  {
+    "q": "The 'Schema' theory of cognitive development was given by:",
+    "options": ["Vygotsky", "Piaget", "Bruner", "Bandura"],
+    "a": 1,
+    "explanation": "Jean Piaget proposed that schemas are the building blocks of knowledge."
+  },
+  {
+    "q": "What is 'Mental Age' according to Binet?",
+    "options": ["Chronological age", "Level of intellectual performance", "Height of the child", "School grade"],
+    "a": 1,
+    "explanation": "Mental age represents the intellectual level at which a child is functioning."
+  },
+  {
+    "q": "Which psychologist studied 'Classical Conditioning' using a dog?",
+    "options": ["Skinner", "Pavlov", "Watson", "Kohler"],
+    "a": 1,
+    "explanation": "Ivan Pavlov discovered conditioning through his experiments with dogs and bells."
+  },
+  {
+    "q": "The ability to understand one's own internal world is ________ intelligence.",
+    "options": ["Interpersonal", "Intrapersonal", "Spatial", "Linguistic"],
+    "a": 1,
+    "explanation": "Intrapersonal intelligence is self-awareness and understanding personal feelings."
+  },
+  {
+    "q": "Which stage of development is known as 'The Golden Age' of life?",
+    "options": ["Infancy", "Childhood", "Adolescence", "Adulthood"],
+    "a": 1,
+    "explanation": "Childhood is often called the golden age because of the rapid learning and lack of responsibilities."
+  },
+  {
+    "q": "What is 'Egocentrism' in early childhood?",
+    "options": ["Selfishness", "Inability to see from another's perspective", "Arrogance", "Love for toys"],
+    "a": 1,
+    "explanation": "A child assumes everyone sees, hears, and feels exactly as they do."
+  },
+  {
+    "q": "'Learning by Doing' was emphasized by:",
+    "options": ["John Dewey", "Piaget", "Freud", "Pavlov"],
+    "a": 0,
+    "explanation": "Dewey believed education should be practical and hands-on."
+  },
+  {
+    "q": "Dyscalculia is related to difficulty in:",
+    "options": ["Reading", "Writing", "Mathematics", "Speaking"],
+    "a": 2,
+    "explanation": "Dyscalculia is a learning disability that affects number sense and calculations."
+  },
+  {
+    "q": "The 'Punishment and Obedience' stage is part of which level?",
+    "options": ["Pre-conventional", "Conventional", "Post-conventional", "Formal"],
+    "a": 0,
+    "explanation": "Children obey rules simply to avoid getting in trouble."
+  },
+  {
+    "q": "A teacher acts as a ________ in the modern classroom.",
+    "options": ["Dictator", "Facilitator", "Lecturer", "Authority"],
+    "a": 1,
+    "explanation": "The teacher’s role is to guide and help students discover knowledge."
+  },
+  {
+    "q": "Which is a 'Social Motive'?",
+    "options": ["Hunger", "Achievement", "Sleep", "Thirst"],
+    "a": 1,
+    "explanation": "Achievement is a secondary motive learned through social interaction."
+  },
+  {
+    "q": "'अत्याधिक' का सही संधि-विच्छेद है:",
+    "options": ["अत्य + अधिक", "अति + अधिक", "अति + आधिक", "अत्य + आधिक"],
+    "a": 1,
+    "explanation": "अति + अधिक = अत्यधिक। यह यण संधि है।"
+  },
+  {
+    "q": "'त्रिभुवन' में कौन सा समास है?",
+    "options": ["द्वंद्व", "द्विगु", "तत्पुरुष", "कर्मधारय"],
+    "a": 1,
+    "explanation": "जहाँ पहला पद संख्यावाचक हो, वहाँ द्विगु समास होता है।"
+  },
+  {
+    "q": "'उदय' का विलोम शब्द है:",
+    "options": ["सूर्यास्त", "अस्त", "अंधकार", "पतन"],
+    "a": 1,
+    "explanation": "उदय का अर्थ निकलना और अस्त का अर्थ छिपना होता है।"
+  },
+  {
+    "q": "'आसमान पर चढ़ाना' मुहावरे का अर्थ है:",
+    "options": ["बहुत प्रशंसा करना", "कठिन काम करना", "ऊपर जाना", "गुस्सा करना"],
+    "a": 0,
+    "explanation": "किसी की अत्यधिक तारीफ करने को 'आसमान पर चढ़ाना' कहते हैं।"
+  },
+  {
+    "q": "शुद्ध वर्तनी वाला शब्द है:",
+    "options": ["उज्वल", "उज्जवल", "उज्ज्वल", "उजवल"],
+    "a": 2,
+    "explanation": "उज्ज्वल सही रूप है।"
+  },
+  {
+    "q": "'अंधेरा' का पर्यायवाची शब्द है:",
+    "options": ["तिमिर", "प्रकाश", "दिन", "रश्मि"],
+    "a": 0,
+    "explanation": "तिमिर अंधेरे का पर्यायवाची है।"
+  },
+  {
+    "q": "जो 'कम बोलता हो' उसे क्या कहते हैं?",
+    "options": ["वाचाल", "मितभाषी", "मूक", "अभाषी"],
+    "a": 1,
+    "explanation": "कम बोलने वाले को मितभाषी कहा जाता है।"
+  },
+  {
+    "q": "Identify the 'Pronoun' in: 'She is a doctor.'",
+    "options": ["She", "Is", "A", "Doctor"],
+    "a": 0,
+    "explanation": "She replaces a noun, so it is a pronoun."
+  },
+  {
+    "q": "Choose the correct preposition: 'The cat is ________ the table.'",
+    "options": ["at", "under", "into", "between"],
+    "a": 1,
+    "explanation": "Under shows the position below the table."
+  },
+  {
+    "q": "What is the plural of 'Mouse'?",
+    "options": ["Mouses", "Mice", "Mice's", "Mices"],
+    "a": 1,
+    "explanation": "Mouse has an irregular plural, which is 'Mice'."
+  },
+  {
+    "q": "Identify the 'Adjective' in: 'It is a sunny day.'",
+    "options": ["It", "Sunny", "Day", "Is"],
+    "a": 1,
+    "explanation": "Sunny describes the day."
+  },
+  {
+    "q": "What is the synonym of 'Wealthy'?",
+    "options": ["Poor", "Rich", "Greedy", "Happy"],
+    "a": 1,
+    "explanation": "Wealthy and Rich have the same meaning."
+  },
+  {
+    "q": "Choose the correctly spelled word:",
+    "options": ["Libery", "Library", "Liberary", "Libry"],
+    "a": 1,
+    "explanation": "Library is the correct spelling."
+  },
+  {
+    "q": "A person who makes furniture is a:",
+    "options": ["Mason", "Plumber", "Carpenter", "Barber"],
+    "a": 2,
+    "explanation": "A carpenter works with wood to make furniture."
+  },
+  {
+    "q": "What is the largest 4-digit number?",
+    "options": ["1000", "9000", "9999", "10000"],
+    "a": 2,
+    "explanation": "9999 is the last 4-digit number."
+  },
+  {
+    "q": "How many centimeters make 5 meters?",
+    "options": ["50", "500", "5000", "5"],
+    "a": 1,
+    "explanation": "1m = 100cm, so 5m = 500cm."
+  },
+  {
+    "q": "The product of 15 and 0 is:",
+    "options": ["15", "0", "150", "1"],
+    "a": 1,
+    "explanation": "Any number multiplied by 0 is 0."
+  },
+  {
+    "q": "Find the perimeter of a square with side 8cm.",
+    "options": ["16 cm", "32 cm", "64 cm", "24 cm"],
+    "a": 1,
+    "explanation": "4 * 8 = 32 cm."
+  },
+  {
+    "q": "What is 1/4 of 100?",
+    "options": ["20", "25", "40", "50"],
+    "a": 1,
+    "explanation": "100 / 4 = 25."
+  },
+  {
+    "q": "How many vertices does a triangle have?",
+    "options": ["2", "3", "4", "0"],
+    "a": 1,
+    "explanation": "A triangle has 3 corners (vertices)."
+  },
+  {
+    "q": "Find the sum of 5.5 and 2.5.",
+    "options": ["7", "8", "8.5", "7.5"],
+    "a": 1,
+    "explanation": "5.5 + 2.5 = 8."
+  },
+  {
+    "q": "If 1 pen costs 10 rupees, how much for 5 pens?",
+    "options": ["15", "50", "40", "60"],
+    "a": 1,
+    "explanation": "10 * 5 = 50."
+  },
+  {
+    "q": "What is the value of 1000 + 500 + 50?",
+    "options": ["1505", "1550", "1055", "1500"],
+    "a": 1,
+    "explanation": "1000 + 500 + 50 = 1550."
+  },
+  {
+    "q": "Which number is even?",
+    "options": ["11", "22", "33", "45"],
+    "a": 1,
+    "explanation": "22 is divisible by 2."
+  },
+  {
+    "q": "The main source of water on Earth is:",
+    "options": ["Rivers", "Wells", "Rain", "Dams"],
+    "a": 2,
+    "explanation": "Rain is the primary natural source of freshwater."
+  },
+  {
+    "q": "Which organ helps us to smell?",
+    "options": ["Eyes", "Ears", "Nose", "Tongue"],
+    "a": 2,
+    "explanation": "The nose detects scents."
+  },
+  {
+    "q": "A house made of snow is called:",
+    "options": ["Tent", "Igloo", "Bungalow", "Flat"],
+    "a": 1,
+    "explanation": "An igloo is a snow house built by Eskimos."
+  },
+  {
+    "q": "Plants breathe through tiny holes in leaves called:",
+    "options": ["Roots", "Stomata", "Stems", "Petals"],
+    "a": 1,
+    "explanation": "Stomata are small openings for gas exchange."
+  },
+  {
+    "q": "The festival of 'Onam' is celebrated in which state?",
+    "options": ["Tamil Nadu", "Kerala", "Punjab", "Bihar"],
+    "a": 1,
+    "explanation": "Onam is a harvest festival of Kerala."
+  }
+]
