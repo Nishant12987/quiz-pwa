@@ -3,109 +3,151 @@
     "q": "Which stage of development is characterized by 'Object Permanence'?",
     "options": ["Sensory-motor", "Pre-operational", "Concrete operational", "Formal operational"],
     "a": 0,
-    "explanation": "During the sensory-motor stage, infants learn objects exist unseen."
+    "explanation": "During the sensory-motor stage, infants learn that objects continue to exist even when hidden."
   },
   {
     "q": "According to Vygotsky, 'Inner Speech' is used by children to:",
-    "options": ["Communicate with others", "Self-regulate and guide behavior", "Show off", "Waste time"],
+    "options": ["Communicate with others", "Self-regulate and guide their own behavior", "Show off", "Waste time"],
     "a": 1,
-    "explanation": "Inner speech helps children manage cognitive tasks."
+    "explanation": "Private or inner speech helps children manage their cognitive tasks."
   },
   {
     "q": "Which reinforcement is given after an 'Unpredictable' amount of time?",
     "options": ["Fixed interval", "Variable interval", "Fixed ratio", "Variable ratio"],
     "a": 1,
-    "explanation": "Variable interval reinforcement occurs after varying time periods."
+    "explanation": "Variable interval reinforcement occurs after varying time periods (e.g., checking email)."
   },
   {
     "q": "The 'Triarchic' theory of intelligence was proposed by:",
     "options": ["Howard Gardner", "Robert Sternberg", "Charles Spearman", "Louis Thurstone"],
     "a": 1,
-    "explanation": "Sternberg's theory includes analytical, creative, and practical."
+    "explanation": "Sternberg's theory includes analytical, creative, and practical intelligence."
   },
   {
     "q": "Which of the following is an 'Extrinsic' motivator?",
     "options": ["Curiosity", "Love for the subject", "Grades and Trophies", "Personal satisfaction"],
     "a": 2,
-    "explanation": "Extrinsic motivation comes from outside."
+    "explanation": "Extrinsic motivation comes from outside the individual."
   },
   {
     "q": "What is 'Dyscalculia'?",
     "options": ["Reading disorder", "Writing disorder", "Math learning disability", "Speaking disorder"],
     "a": 2,
-    "explanation": "Specific disability in understanding numbers."
+    "explanation": "It is a specific learning disability in understanding numbers and math."
   },
   {
     "q": "The 'Micro-teaching' technique was pioneered at:",
     "options": ["Oxford University", "Stanford University", "Delhi University", "Harvard University"],
     "a": 1,
-    "explanation": "Developed at Stanford in the 1960s."
+    "explanation": "Dwight Allen and colleagues developed micro-teaching at Stanford in the 1960s."
   },
   {
     "q": "In an 'Authoritarian' classroom, the teacher is:",
     "options": ["A facilitator", "A strict controller", "Passive", "Democratic"],
     "a": 1,
-    "explanation": "They exert high control and demand obedience."
+    "explanation": "Authoritarian teachers exert high control and demand obedience."
   },
   {
     "q": "Which level of Maslow's hierarchy deals with 'Friendship and Family'?",
     "options": ["Safety needs", "Love and belonging needs", "Self-esteem", "Self-actualization"],
     "a": 1,
-    "explanation": "Social needs include desire for acceptance."
+    "explanation": "Social needs include the desire for intimacy and acceptance."
   },
   {
     "q": "What is the primary purpose of 'Summative Assessment'?",
-    "options": ["Identifying gaps", "Improving teaching", "Evaluating learning at the end", "Planning lessons"],
+    "options": ["Identifying gaps", "Improving teaching", "Evaluating learning at the end of a course", "Planning lessons"],
     "a": 2,
-    "explanation": "It evaluates learning at the end of a course."
+    "explanation": "It provides a summary of what has been learned (e.g., final exams)."
   },
   {
     "q": "A child's social development is most influenced by:",
     "options": ["Environment/Family", "Height", "Genetics alone", "Diet"],
     "a": 0,
-    "explanation": "Family is the primary agency of socialization."
+    "explanation": "The family is the primary agency of socialization."
   },
   {
-    "q": "ayaadi sandhi ka udaaharan hai:",
-    "options": ["pavan", "maharshi", "pratyek", "sadaiv"],
+    "q": "'अयादि संधि' का उदाहरण है:",
+    "options": ["पवन", "महर्षि", "प्रत्येक", "सदैव"],
     "a": 0,
-    "explanation": "po + an = pavan (ayaadi sandhi)."
+    "explanation": "पो + अन = पवन (अयादि संधि)।"
   },
   {
-    "q": "raajaputra mein kaun sa samaas hai?",
-    "options": ["dvandv", "tatpurush", "avyayibhaav", "bahuvrihi"],
+    "q": "'राजपुत्र' में कौन सा समास है?",
+    "options": ["द्वंद्व", "तत्पुरुष", "अव्ययीभाव", "बहुव्रीहि"],
     "a": 1,
-    "explanation": "Raja ka putra, sambandh tatpurush."
+    "explanation": "राजा का पुत्र; यहाँ संबंध तत्पुरुष समास है।"
   },
   {
-    "q": "kritagya ka vilom shabd hai:",
-    "options": ["kritaghn", "akritagya", "apakaaree", "dusht"],
+    "q": "'कृतज्ञ' का विलोम शब्द है:",
+    "options": ["कृतघ्न", "अकृतज्ञ", "अपकारी", "दुष्ट"],
     "a": 0,
-    "explanation": "Kritagya (grateful) opposite is Kritaghn."
+    "explanation": "कृतज्ञ (उपकार मानने वाला) का विलोम कृतघ्न (उपकार न मानने वाला) होता है।"
   },
   {
-    "q": "gaagar mein saagar bharana muhaavre ka arth hai:",
-    "options": ["ghade mein paanee bharana", "thode shabdon mein bahut kuchh kahana", "mushkil kaam karana", "majaak karana"],
+    "q": "'गागर में सागर भरना' मुहावरे का अर्थ है:",
+    "options": ["घड़े में पानी भरना", "थोड़े शब्दों में बहुत कुछ कहना", "मुश्किल काम करना", "मजाक करना"],
     "a": 1,
-    "explanation": "Expressing vast meaning in few words."
+    "explanation": "इसका अर्थ है कम शब्दों में गूढ़ और विस्तृत बात कह देना।"
   },
   {
-    "q": "shuddh vartanee vaale shabd ko pahachaanen:",
-    "options": ["nirog", "neerog", "nirog", "naarog"],
+    "q": "शुद्ध वर्तनी वाले शब्द को पहचानें:",
+    "options": ["निरोग", "नीरोग", "निरोग", "नारोग"],
     "a": 1,
-    "explanation": "Correct form is Neerog."
+    "explanation": "शुद्ध वर्तनी 'नीरोग' है (निः + रोग = नीरोग)।"
   },
   {
-    "q": "prithvee ka paryayavaachi shabd nahin hai:",
-    "options": ["vasudha", "dhara", "avani", "tarani"],
+    "q": "'पृथ्वी' का पर्यायवाची शब्द नहीं है:",
+    "options": ["वसुधा", "धरा", "अवनि", "तरणि"],
     "a": 3,
-    "explanation": "Tarani means Sun."
+    "explanation": "'तरणि' का अर्थ सूर्य (छोटी इ) या नाव (बड़ी ई) होता है।"
   },
   {
-    "q": "bhaasha shikshan ki aagaman vidhi shreshth hai kyonki:",
-    "options": ["isamen samay kam lagata hai", "ratane ki aadat nahin padatee", "vyaakaran saral hota hai", "shikshak ko mehanat nahin karanee padatee"],
+    "q": "भाषा शिक्षण की 'आगमन विधि' श्रेष्ठ है क्योंकि:",
+    "options": ["इसमें समय कम लगता है", "रटने की आदत नहीं पड़ती", "व्याकरण सरल होता है", "शिक्षक को मेहनत नहीं करनी पड़ती"],
     "a": 1,
-    "explanation": "It avoids rote learning."
+    "explanation": "Inductive method encourages discovery and logic over rote memorization."
+  },
+  {
+    "q": "Choose the correctly punctuated sentence:",
+    "options": ["i live in jaipur", "I live in Jaipur.", "I live in Jaipur", "i Live In Jaipur."],
+    "a": 1,
+    "explanation": "Sentences start with a capital, end with a period, and proper nouns are capitalized."
+  },
+  {
+    "q": "Identify the 'Adverb' in the sentence: 'He works hard.'",
+    "options": ["He", "Works", "Hard", "None"],
+    "a": 2,
+    "explanation": "'Hard' describes how he works."
+  },
+  {
+    "q": "Choose the synonym for 'Sincere':",
+    "options": ["Honest", "Lazy", "Weak", "Proud"],
+    "a": 0,
+    "explanation": "A sincere person is honest and genuine."
+  },
+  {
+    "q": "Select the correct article: 'He is ________ European.'",
+    "options": ["a", "an", "the", "No article"],
+    "a": 0,
+    "explanation": "'European' starts with a 'y' consonant sound, so 'a' is used."
+  },
+  {
+    "q": "What is the 'feminine' of 'Monk'?",
+    "options": ["Nun", "Priestess", "Witch", "Lady"],
+    "a": 0,
+    "explanation": "The feminine equivalent of a monk is a nun."
+  },
+  {
+    "q": "Which of these is an 'Interjection'?",
+    "options": ["And", "Bravo!", "Quickly", "Them"],
+    "a": 1,
+    "explanation": "Bravo expresses sudden praise or excitement."
+  },
+  {
+    "q": "Fill in the blank: 'I have ________ pen.'",
+    "options": ["any", "some", "a", "much"],
+    "a": 2,
+    "explanation": "'A' is used for singular countable nouns."
   },
   {
     "q": "The sum of the angles in a linear pair is:",
