@@ -33,23 +33,17 @@ function getQuote() {
  ***********************/
 function login() {
   const agree = document.getElementById("agree");
-  const emailEl = document.getElementById("email");
-  const passwordEl = document.getElementById("password");
+  const email = document.getElementById("email").value.trim();
+  const password = document.getElementById("password").value.trim();
 
   if (!agree.checked) return alert("Accept policies");
-
-  const email = emailEl.value.trim();
-  const password = passwordEl.value.trim();
-
   if (!email || !password) return alert("Enter email & password");
 
-  auth
-    .signInWithEmailAndPassword(email, password)
+  auth.signInWithEmailAndPassword(email, password)
     .then(res => afterLogin(res.user))
     .catch(err => {
       if (err.code === "auth/user-not-found") {
-        auth
-          .createUserWithEmailAndPassword(email, password)
+        auth.createUserWithEmailAndPassword(email, password)
           .then(res => afterLogin(res.user))
           .catch(e => alert(e.message));
       } else if (err.code === "auth/wrong-password") {
@@ -64,8 +58,7 @@ function resetPassword() {
   const email = document.getElementById("email").value.trim();
   if (!email) return alert("Enter email");
 
-  auth
-    .sendPasswordResetEmail(email)
+  auth.sendPasswordResetEmail(email)
     .then(() => alert("Reset email sent"))
     .catch(err => alert(err.message));
 }
@@ -92,9 +85,10 @@ function afterLogin(user) {
           level2_social: [],
           level2_socio: []
         }
+      }).then(() => {
+        hideAll();
+        show("nameSetup");
       });
-      hideAll();
-      show("nameSetup");
     } else {
       showDashboard();
     }
@@ -124,8 +118,10 @@ function showDashboard() {
   const ref = db.collection("users").doc(auth.currentUser.uid);
   ref.get().then(doc => {
     const data = doc.data();
+
     document.getElementById("welcome").innerText =
       "👋 Welcome, " + data.name;
+
     document.getElementById("quoteBox").innerText = getQuote();
 
     document.getElementById("selectionBox").style.display =
@@ -141,16 +137,27 @@ function showDashboard() {
 }
 
 /***********************
- * START TEST (FIXED)
+ * START TEST
  ***********************/
 function startFlow() {
-  const uid = auth.currentUser.uid;
-  const ref = db.collection("users").doc(uid);
+  console.log("startFlow() entered");
+
+  const user = auth.currentUser;
+  if (!user) {
+    alert("User not logged in");
+    return;
+  }
+
+  const ref = db.collection("users").doc(user.uid);
 
   ref.get().then(doc => {
+    if (!doc.exists) {
+      alert("User data missing");
+      return;
+    }
+
     const data = doc.data();
 
-    // FIRST TIME SELECTION
     if (!data.selection) {
       const level = document.getElementById("level").value;
       const stream = document.getElementById("stream").value;
@@ -165,26 +172,24 @@ function startFlow() {
         language
       };
 
-      // SAVE → RE-FETCH → LOAD MOCK
       ref.update({ selection }).then(() => {
-        ref.get().then(newDoc => {
-          loadMock(newDoc.data());
+        ref.get().then(updated => {
+          loadMock(updated.data());
         });
       });
 
     } else {
-      // SELECTION ALREADY EXISTS
       loadMock(data);
     }
   });
 }
 
 /***********************
- * LOAD MOCK (GUARDED)
+ * LOAD MOCK
  ***********************/
 async function loadMock(data) {
   if (!data || !data.selection) {
-    alert("Selection missing. Reload app.");
+    alert("Selection missing");
     return;
   }
 
@@ -231,7 +236,7 @@ async function loadMock(data) {
 }
 
 /***********************
- * VIEW HISTORY
+ * HISTORY
  ***********************/
 function showHistory() {
   const ref = db.collection("users").doc(auth.currentUser.uid);
@@ -353,6 +358,7 @@ function finishQuiz() {
 
   document.getElementById("finalScore").innerText =
     `Score: ${score}/40`;
+
   document.getElementById("finalMsg").innerText =
     "Test submitted successfully";
 }
@@ -378,16 +384,4 @@ function show(id) {
  ***********************/
 auth.onAuthStateChanged(user => {
   if (user) showDashboard();
-});
-/***********************
- * SAFE EVENT BINDING
- ***********************/
-document.addEventListener("DOMContentLoaded", () => {
-  const btn = document.getElementById("startTestBtn");
-  if (btn) {
-    btn.addEventListener("click", () => {
-      console.log("Start Test clicked");
-      startFlow();
-    });
-  }
 });
