@@ -1,0 +1,242 @@
+[
+  {
+    "q": "Which type of development is most affected by 'Socio-cultural' factors according to Vygotsky?",
+    "options": ["Physical", "Cognitive", "Biological", "Reflexive"],
+    "a": 1,
+    "explanation": "Vygotsky argued that social interaction and cultural tools are fundamental to intellectual (cognitive) development."
+  },
+  {
+    "q": "The concept of 'Mental Age' was first introduced by:",
+    "options": ["Lewis Terman", "Alfred Binet", "David Wechsler", "Robert Sternberg"],
+    "a": 1,
+    "explanation": "Alfred Binet developed the first intelligence test and the concept that a child's mental ability can be compared to chronological age."
+  },
+  {
+    "q": "Which of the following is a 'Projective Technique' for personality assessment?",
+    "options": ["Observation", "Interview", "Rorschach Inkblot Test", "Rating Scale"],
+    "a": 2,
+    "explanation": "Projective tests use ambiguous stimuli (like inkblots) to reveal the respondent's unconscious feelings."
+  },
+  {
+    "q": "A teacher notices a student is very good at identifying patterns in nature and plants. Which intelligence is this?",
+    "options": ["Spatial", "Naturalistic", "Mathematical", "Musical"],
+    "a": 1,
+    "explanation": "Naturalistic intelligence involves sensitivity to the flora and fauna of the world."
+  },
+  {
+    "q": "'Learning by Doing' is the main principle of:",
+    "options": ["Idealism", "Pragmatism", "Naturalism", "Realism"],
+    "a": 1,
+    "explanation": "Pragmatism (led by John Dewey) emphasizes learning through practical experience and problem-solving."
+  },
+  {
+    "q": "Which of the following is NOT a stage of creative thinking?",
+    "options": ["Preparation", "Incubation", "Verification", "Rote repetition"],
+    "a": 3,
+    "explanation": "Creative stages include preparation, incubation, illumination, and verification. Rote repetition is mechanical and non-creative."
+  },
+  {
+    "q": "The term 'Cephalocaudal' development means growth from:",
+    "options": ["Center to periphery", "Head to toe", "Toe to head", "Specific to general"],
+    "a": 1,
+    "explanation": "Growth proceeds from the head downward to the feet (Cephalo = Head, Caudal = Tail/Foot)."
+  },
+  {
+    "q": "Which law of learning states that 'Practice makes perfect'?",
+    "options": ["Law of Readiness", "Law of Exercise", "Law of Effect", "Law of Recency"],
+    "a": 1,
+    "explanation": "The Law of Exercise suggests that the more often a stimulus-response connection is made, the stronger it becomes."
+  },
+  {
+    "q": "Which psychologist described the 'Identity Crisis' during adolescence?",
+    "options": ["Erik Erikson", "Jean Piaget", "Sigmund Freud", "Carl Rogers"],
+    "a": 0,
+    "explanation": "Erik Erikson's theory identifies 'Identity vs. Role Confusion' as the core conflict in teenagers."
+  },
+  {
+    "q": "What does 'Metacognition' refer to?",
+    "options": ["Learning by rote", "Thinking about one's own thinking", "Social interaction", "Physical growth"],
+    "a": 1,
+    "explanation": "Metacognition is the awareness and understanding of one's own thought processes."
+  },
+  {
+    "q": "The 'Individualized Education Program' (IEP) is designed for:",
+    "options": ["Gifted students only", "Children with special needs", "Average students", "Teachers' training"],
+    "a": 1,
+    "explanation": "IEPs are legally mandated plans in inclusive education to provide tailored support for students with disabilities."
+  },
+  {
+    "q": "'पवन' का सही संधि-विच्छेद है:",
+    "options": ["प + वन", "पा + वन", "पो + अन", "पौ + अन"],
+    "a": 2,
+    "explanation": "यह अयादि संधि का उदाहरण है, जहाँ 'पो + अन' मिलकर 'पवन' बनता है."
+  },
+  {
+    "q": "'लम्बोदर' में कौन सा समास है?",
+    "options": ["कर्मधारय", "बहुव्रीहि", "द्वंद्व", "तत्पुरुष"],
+    "a": 1,
+    "explanation": "जहाँ दोनों पद मिलकर किसी तीसरे (गणेश जी) की ओर संकेत करें, वहाँ बहुव्रीहि समास होता है."
+  },
+  {
+    "q": "'आँखें दिखाना' मुहावरे का अर्थ है:",
+    "options": ["स्वागत करना", "गुस्सा करना", "निरीक्षण करना", "सावधान करना"],
+    "a": 1,
+    "explanation": "आँखें दिखाना मुहावरे का अर्थ किसी पर क्रोधित होना या डराना होता है."
+  },
+  {
+    "q": "'लेखक' शब्द में कौन सा प्रत्यय है?",
+    "options": ["क", "इक", "अक", "आक"],
+    "a": 2,
+    "explanation": "लिख् (धातु) + अक (प्रत्यय) = लेखक."
+  },
+  {
+    "q": "'तरणि' (छोटी इ) शब्द का अर्थ है:",
+    "options": ["सूर्य", "नाव", "युवती", "नदी"],
+    "a": 0,
+    "explanation": "'तरणि' का अर्थ सूर्य होता है। (तरणी का अर्थ नाव होता है)."
+  },
+  {
+    "q": "जो 'सब कुछ जानता हो' - वाक्यांश के लिए एक शब्द है:",
+    "options": ["अल्पज्ञ", "बहुज्ञ", "सर्वज्ञ", "अभिज्ञ"],
+    "a": 2,
+    "explanation": "सर्वज्ञ का अर्थ है वह जो हर विषय की जानकारी रखता हो."
+  },
+  {
+    "q": "शिक्षण की 'आगमन विधि' (Inductive Method) चलती है:",
+    "options": ["नियम से उदाहरण की ओर", "उदाहरण से नियम की ओर", "सूक्ष्म से स्थूल की ओर", "अमूर्त से मूर्त की ओर"],
+    "a": 1,
+    "explanation": "आगमन विधि में पहले उदाहरण दिए जाते हैं, फिर नियम का सामान्यीकरण किया जाता है."
+  },
+  {
+    "q": "Choose the synonym for the word 'Diligent'.",
+    "options": ["Lazy", "Hardworking", "Careless", "Wealthy"],
+    "a": 1,
+    "explanation": "Diligent means showing steady and earnest effort; hardworking."
+  },
+  {
+    "q": "Select the correct passive voice for: 'The teacher corrected the mistakes.'",
+    "options": ["The mistakes are corrected by the teacher.", "The mistakes were corrected by the teacher.", "The teacher was corrected by the mistakes.", "The mistakes corrected by the teacher."],
+    "a": 1,
+    "explanation": "Simple Past (corrected) becomes 'were + past participle' in the passive voice."
+  },
+  {
+    "q": "Which of the following is an example of an 'Interrogative Pronoun'?",
+    "options": ["He", "Each", "Who", "Them"],
+    "a": 2,
+    "explanation": "'Who' is used to ask questions about people."
+  },
+  {
+    "q": "Choose the correct article: 'He is ________ honest man.'",
+    "options": ["a", "an", "the", "No article"],
+    "a": 1,
+    "explanation": "'Honest' starts with a vowel sound (silent 'h'), so 'an' is required."
+  },
+  {
+    "q": "Which of these is NOT a principle of Language Teaching?",
+    "options": ["Principle of Motivation", "Principle of Habit Formation", "Principle of Rote Memorization", "Principle of Oral Approach"],
+    "a": 2,
+    "explanation": "Rote memorization is a mechanical method, not a psychological principle of learning."
+  },
+  {
+    "q": "Choose the correctly punctuated sentence:",
+    "options": ["He said I am coming.", "He said, 'I am coming.'", "He said \"I am coming.\"", "He said, I am coming."],
+    "a": 1,
+    "explanation": "Punctuation in direct speech requires a comma after the reporting verb and single or double quotes for the spoken words."
+  },
+  {
+    "q": "Identify the 'Subject' in the sentence: 'On the top of the hill lives a hermit.'",
+    "options": ["The hill", "The top", "A hermit", "Lives"],
+    "a": 2,
+    "explanation": "The subject is the person performing the action (living), which is 'a hermit'."
+  },
+  {
+    "q": "What is the value of 100 - 45 + 5?",
+    "options": ["50", "60", "70", "80"],
+    "a": 1,
+    "explanation": "Follow BODMAS (Addition before Subtraction): 100 + 5 = 105; 105 - 45 = 60."
+  },
+  {
+    "q": "How many millimeters are in 1 centimeter?",
+    "options": ["1", "10", "100", "1000"],
+    "a": 1,
+    "explanation": "The metric scale for length is based on tens; 10 mm = 1 cm."
+  },
+  {
+    "q": "The perimeter of a rectangle with length 5cm and width 3cm is:",
+    "options": ["8 cm", "15 cm", "16 cm", "20 cm"],
+    "a": 2,
+    "explanation": "Perimeter = 2 x (Length + Width) = 2 x (5 + 3) = 2 x 8 = 16 cm."
+  },
+  {
+    "q": "Which of the following is an even number?",
+    "options": ["21", "33", "42", "55"],
+    "a": 2,
+    "explanation": "An even number is divisible by 2; 42 ends in '2', making it even."
+  },
+  {
+    "q": "What is 1/2 of 50?",
+    "options": ["10", "20", "25", "30"],
+    "a": 2,
+    "explanation": "50 divided by 2 is 25."
+  },
+  {
+    "q": "A circle has how many sides?",
+    "options": ["1", "2", "4", "0"],
+    "a": 3,
+    "explanation": "A circle is a curved line with no straight lines (sides) or vertices."
+  },
+  {
+    "q": "The sum of 150 and 250 is:",
+    "options": ["300", "350", "400", "450"],
+    "a": 2,
+    "explanation": "150 + 250 = 400."
+  },
+  {
+    "q": "What is the value of 8 multiplied by 7?",
+    "options": ["48", "54", "56", "64"],
+    "a": 2,
+    "explanation": "8 x 7 = 56."
+  },
+  {
+    "q": "A triangle with all three sides equal is called:",
+    "options": ["Isosceles", "Equilateral", "Scalene", "Right-angled"],
+    "a": 1,
+    "explanation": "Equilateral triangle has three equal sides."
+  },
+  {
+    "q": "What is the LCM of 4 and 6?",
+    "options": ["2", "12", "24", "10"],
+    "a": 1,
+    "explanation": "The least common multiple of 4 and 6 is 12."
+  },
+  {
+    "q": "The house made of snow is called:",
+    "options": ["Tent", "Igloo", "Houseboat", "Caravan"],
+    "a": 1,
+    "explanation": "Igloos are built by Eskimos in polar regions using blocks of compressed snow."
+  },
+  {
+    "q": "Which part of the body helps us to taste food?",
+    "options": ["Teeth", "Lips", "Tongue", "Skin"],
+    "a": 2,
+    "explanation": "The tongue contains taste buds that detect sweet, sour, salty, and bitter flavors."
+  },
+  {
+    "q": "Which planet is the largest in our solar system?",
+    "options": ["Earth", "Mars", "Jupiter", "Venus"],
+    "a": 2,
+    "explanation": "Jupiter is a gas giant and the most massive planet orbiting the Sun."
+  },
+  {
+    "q": "The spinning movement of Earth on its axis is called:",
+    "options": ["Revolution", "Rotation", "Orbit", "Gravity"],
+    "a": 1,
+    "explanation": "Rotation causes day and night. (Revolution is the movement around the Sun)."
+  },
+  {
+    "q": "Which of the following is a source of protein?",
+    "options": ["Sugar", "Butter", "Pulses", "Potato"],
+    "a": 2,
+    "explanation": "Pulses (daals) are vital sources of plant-based protein."
+  }
+]
