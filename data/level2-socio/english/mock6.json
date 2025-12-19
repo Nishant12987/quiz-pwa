@@ -9,19 +9,19 @@
     "q": "According to Piaget, at which stage does a child develop 'Hypothetico-deductive reasoning'?",
     "options": ["Sensory-motor", "Pre-operational", "Concrete operational", "Formal operational"],
     "a": 3,
-    "explanation": "In the formal operational stage (11+ years), adolescents can think about abstract propositions."
+    "explanation": "In the formal operational stage (11+ years), adolescents can think about abstract propositions and test hypotheses."
   },
   {
     "q": "The 'Zone of Proximal Development' (ZPD) is a concept proposed by:",
     "options": ["Jean Piaget", "Lev Vygotsky", "Jerome Bruner", "B.F. Skinner"],
     "a": 1,
-    "explanation": "Vygotsky defined ZPD as the distance between what a learner can do without help and with support."
+    "explanation": "Vygotsky defined ZPD as the distance between what a learner can do without help and what they can do with support."
   },
   {
     "q": "Which of the following is an 'Objective Type' test item?",
     "options": ["Essay", "Short answer", "Multiple choice", "Oral presentation"],
     "a": 2,
-    "explanation": "Multiple choice questions have one specific correct answer."
+    "explanation": "Multiple choice questions have one specific correct answer, reducing examiner bias."
   },
   {
     "q": "What is the I.Q. of a child whose mental age is 12 and chronological age is 10?",
@@ -39,7 +39,7 @@
     "q": "'Learning disability' in motor skills is called:",
     "options": ["Dyscalculia", "Dyslexia", "Dysphasia", "Dyspraxia"],
     "a": 3,
-    "explanation": "Dyspraxia affects motor coordination and planning."
+    "explanation": "Dyspraxia affects motor coordination and the ability to plan and process motor tasks."
   },
   {
     "q": "Which of the following is a primary law of learning given by Thorndike?",
@@ -51,13 +51,13 @@
     "q": "The concept of 'Discovery Learning' was given by:",
     "options": ["David Ausubel", "Jerome Bruner", "Albert Bandura", "Robert Gagne"],
     "a": 1,
-    "explanation": "Bruner advocated for students to interact with their environment to discover principles."
+    "explanation": "Bruner advocated for students to interact with their environment to discover principles for themselves."
   },
   {
     "q": "Which of the following is an example of 'Intrinsic Motivation'?",
     "options": ["Studying to win a trophy", "Studying to avoid punishment", "Studying because the subject is interesting", "Studying to please parents"],
     "a": 2,
-    "explanation": "Intrinsic motivation comes from internal satisfaction."
+    "explanation": "Intrinsic motivation comes from internal satisfaction and personal interest."
   },
   {
     "q": "What does 'CCE' stand for in the context of school education?",
@@ -66,46 +66,46 @@
     "explanation": "CCE refers to a system of evaluation that covers all aspects of students' development."
   },
   {
-    "q": "atyadhik shabd mein kaun si sandhi hai?",
-    "options": ["deergh sandhi", "gun sandhi", "vriddhi sandhi", "yan sandhi"],
+    "q": "'अत्यधिक' शब्द में कौन सी संधि है?",
+    "options": ["दीर्घ संधि", "गुण संधि", "वृद्धि संधि", "यण संधि"],
     "a": 3,
-    "explanation": "ati + adhik = atyadhik (i + a = y, yan sandhi)."
+    "explanation": "अति + अधिक = अत्यधिक (इ + अ = य, यण संधि)।"
   },
   {
-    "q": "trilochan mein kaun sa samaas hai?",
-    "options": ["avyayibhaav", "bahuvrihi", "dvigu", "dvandv"],
+    "q": "'त्रिलोचन' में कौन सा समास है?",
+    "options": ["अव्ययीभाव", "बहुव्रीहि", "द्विगु", "द्वंद्व"],
     "a": 1,
-    "explanation": "Teen netra hain jiske (shiva), bahuvrihi samas."
+    "explanation": "तीन नेत्र हैं जिसके (शिव जी), तीसरा अर्थ प्रधान होने से बहुव्रीहि समास है।"
   },
   {
-    "q": "anuraag ka sahi vilom shabd hai:",
-    "options": ["viraag", "tyaag", "prem", "ghrina"],
+    "q": "'अनुराग' का सही विलोम शब्द है:",
+    "options": ["विराग", "त्याग", "प्रेम", "घृणा"],
     "a": 0,
-    "explanation": "anuraag (love) opposite is viraag."
+    "explanation": "अनुराग (प्रेम) का विलोम विराग (वैराग्य/अरुचि) होता है।"
   },
   {
-    "q": "haath kangan ko aarasee kya lokokti ka arth hai:",
-    "options": ["ahankaar karana", "pratyaksh ko pramaan ki aavashyakata nahin", "bahut ameer hona", "kathin kaary karana"],
+    "q": "'हाथ कंगन को आरसी क्या' लोकोक्ति का अर्थ है:",
+    "options": ["अहंकार करना", "प्रत्यक्ष को प्रमाण की आवश्यकता नहीं", "बहुत अमीर होना", "कठिन कार्य करना"],
     "a": 1,
-    "explanation": "Evidence is not needed for something obvious."
+    "explanation": "जो सामने दिख रहा हो, उसे साबित करने के लिए सबूत की जरूरत नहीं होती।"
   },
   {
-    "q": "nimnalikhit mein se ashuddh vartanee vaala shabd hai:",
-    "options": ["kavayitri", "ujjval", "shringaar", "aashirvaad"],
+    "q": "निम्नलिखित में से 'अशुद्ध' वर्तनी वाला शब्द है:",
+    "options": ["कवयित्री", "उज्ज्वल", "श्रृंगार", "आशीर्वाद"],
     "a": 2,
-    "explanation": "The correct form is 'shringaar' with a specific r-vowel mark."
+    "explanation": "शुद्ध रूप 'शृंगार' होता है (नीचे ऋ की मात्रा)।"
   },
   {
-    "q": "aakaash ka paryayavaachi shabd hai:",
-    "options": ["vyom", "ambar", "gagan", "uparyukt sabhee"],
+    "q": "'आकाश' का पर्यायवाची शब्द है:",
+    "options": ["व्योम", "अंबर", "गगन", "उपरोक्त सभी"],
     "a": 3,
-    "explanation": "All three are synonyms for sky."
+    "explanation": "व्योम, अंबर और गगन तीनों ही आकाश के पर्यायवाची हैं।"
   },
   {
-    "q": "hindi bhaasha mein ayogavaah varn kaun se hain?",
-    "options": ["a, aa", "i, ee", "am, ah", "u, oo"],
+    "q": "हिंदी भाषा में 'अयोगवाह' वर्ण कौन से हैं?",
+    "options": ["अ, आ", "इ, ई", "अं, अः", "उ, ऊ"],
     "a": 2,
-    "explanation": "Am and Ah are called Ayogavah."
+    "explanation": "अं (अनुस्वार) और अः (विसर्ग) को अयोगवाह कहा जाता है।"
   },
   {
     "q": "Identify the 'Adjective' in the sentence: 'The courageous soldier fought well.'",
@@ -117,7 +117,7 @@
     "q": "Choose the correct article: 'I saw ________ one-eyed man yesterday.'",
     "options": ["a", "an", "the", "No article"],
     "a": 0,
-    "explanation": "'One' starts with a 'w' sound (consonant sound), so 'a' is used."
+    "explanation": "'One' starts with a consonant sound ('w' sound), so 'a' is used."
   },
   {
     "q": "What is the feminine gender of 'Horse'?",
@@ -129,13 +129,13 @@
     "q": "Change the voice: 'Who broke the glass?'",
     "options": ["By whom was the glass broken?", "Who was broken the glass?", "By whom is the glass broken?", "The glass was broken by whom?"],
     "a": 0,
-    "explanation": "Passive voice for 'Who' is 'By whom'."
+    "explanation": "Interrogative 'Who' changes to 'By whom' in passive voice."
   },
   {
     "q": "Which of the following is a 'Lexical Word'?",
     "options": ["Is", "And", "Love", "With"],
     "a": 2,
-    "explanation": "Lexical words carry independent meaning (nouns, verbs)."
+    "explanation": "Lexical words carry independent meaning (nouns, verbs, adjectives)."
   },
   {
     "q": "The sound produced by 'ch' in 'Chair' is a:",
@@ -147,7 +147,7 @@
     "q": "The primary aim of teaching English in India is to enable students to:",
     "options": ["Pass exams", "Become scholars", "Communicate effectively", "Recite poems"],
     "a": 2,
-    "explanation": "Communication is the primary goal of language teaching."
+    "explanation": "The modern approach focuses on communicative competence."
   },
   {
     "q": "What is the value of 2^0 + 3^0 + 4^0?",
