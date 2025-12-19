@@ -3,19 +3,19 @@
     "q": "Which theorist proposed the 'Hierarchy of Needs'?",
     "options": ["Maslow", "Rogers", "Freud", "Skinner"],
     "a": 0,
-    "explanation": "Abraham Maslow's theory ranges from physiological to self-actualization."
+    "explanation": "Abraham Maslow's theory ranges from physiological to self-actualization needs."
   },
   {
     "q": "The 'Sensory-motor' stage lasts from:",
     "options": ["0-2 years", "2-7 years", "7-11 years", "11+ years"],
     "a": 0,
-    "explanation": "This is Piaget's first stage where infants learn through senses."
+    "explanation": "This is Piaget's first stage where infants learn through senses and actions."
   },
   {
     "q": "Which type of intelligence is high in 'Poets and Writers'?",
     "options": ["Spatial", "Linguistic", "Mathematical", "Kinesthetic"],
     "a": 1,
-    "explanation": "Linguistic intelligence involves sensitivity to language."
+    "explanation": "Linguistic intelligence involves sensitivity to language and meaning."
   },
   {
     "q": "What is 'Growth' compared to development?",
@@ -27,19 +27,19 @@
     "q": "Which assessment is used at the 'End' of a term?",
     "options": ["Formative", "Summative", "Diagnostic", "Placement"],
     "a": 1,
-    "explanation": "Summative assessment evaluates learning at the end."
+    "explanation": "Summative assessment evaluates learning at the end of a course."
   },
   {
     "q": "Who is the proponent of 'Social Learning Theory'?",
     "options": ["Albert Bandura", "Lev Vygotsky", "B.F. Skinner", "Jean Piaget"],
     "a": 0,
-    "explanation": "Bandura focused on learning through observation."
+    "explanation": "Bandura focused on learning through observation and imitation."
   },
   {
     "q": "What does 'IQ' stand for?",
     "options": ["Intellectual Quality", "Intelligence Quotient", "Internal Quantity", "Integrated Quality"],
     "a": 1,
-    "explanation": "IQ is a score to measure intelligence."
+    "explanation": "IQ is a score derived from standardized tests to measure intelligence."
   },
   {
     "q": "Which reinforcement is given 'Unpredictably'?",
@@ -57,55 +57,97 @@
     "q": "Who is the father of 'Behaviorism'?",
     "options": ["John Watson", "William James", "Sigmund Freud", "Carl Rogers"],
     "a": 0,
-    "explanation": "Watson focused on observable behavior."
+    "explanation": "Watson focused on observable behavior over internal processes."
   },
   {
     "q": "Which stage of development is the 'Gang Age'?",
     "options": ["Early Childhood", "Later Childhood", "Adolescence", "Infancy"],
     "a": 1,
-    "explanation": "Children form strong groups during later childhood."
+    "explanation": "Children form strong peer groups during later childhood (7-12)."
   },
   {
-    "q": "dayaanand mein prayukt sandhi ka naam hai:",
-    "options": ["gun sandhi", "deergh sandhi", "vyanjan sandhi", "yan sandhi"],
+    "q": "'दयानंद' में कौन सी संधि है?",
+    "options": ["गुण", "दीर्घ", "व्यंजन", "यण"],
     "a": 1,
-    "explanation": "daya + aanand = dayaanand (aa + aa = aa, deergh sandhi)."
+    "explanation": "दया + आनंद = दयानंद (दीर्घ संधि)।"
   },
   {
-    "q": "chauraaha mein kaun sa samaas hai?",
-    "options": ["dvigu", "dvandv", "tatpurush", "avyayibhaav"],
+    "q": "'चौराहा' में कौन सा समास है?",
+    "options": ["द्विगु", "द्वंद्व", "तत्पुरुष", "अव्ययीभाव"],
     "a": 0,
-    "explanation": "Chau (four) is a number, so dvigu."
+    "explanation": "चार राहों का समूह (द्विगु)।"
   },
   {
-    "q": "upakaar ka vilom shabd hai:",
-    "options": ["vikaar", "anupakaar", "apakaar", "tiraskaar"],
+    "q": "'उपकार' का विलोम शब्द है:",
+    "options": ["विकार", "अनुपकार", "अपकार", "तिरस्कार"],
     "a": 2,
-    "explanation": "Upakar (benefit) opposite is Apakar (harm)."
+    "explanation": "उपकार का विलोम अपकार है।"
   },
   {
-    "q": "aankh dikhaana muhaavre ka arth hai:",
-    "options": ["pyaar karana", "gussa karana", "beemaar hona", "jhagada karana"],
+    "q": "'आँख दिखाना' मुहावरे का अर्थ है:",
+    "options": ["प्यार करना", "गुस्सा करना", "बीमार होना", "झगड़ा करना"],
     "a": 1,
-    "explanation": "It means to look with anger or warn."
+    "explanation": "इसका अर्थ क्रोधित होना है।"
   },
   {
-    "q": "shuddh vaaky ka chayan karen:",
-    "options": ["mere ko jaana hai.", "mujhe jaana hai.", "main jaana hai.", "mainne jaana hai."],
+    "q": "शुद्ध वाक्य का चयन करें:",
+    "options": ["मेरे को जाना है।", "मुझे जाना है।", "मैं जाना है।", "मैंने जाना है।"],
     "a": 1,
-    "explanation": "Correct Hindi: 'mujhe jaana hai'."
+    "explanation": "व्याकरण की दृष्टि से 'मुझे जाना है' सही है।"
   },
   {
-    "q": "anal shabd ka arth hai:",
-    "options": ["hava", "paanee", "aag", "nadee"],
+    "q": "'अनल' शब्द का अर्थ है:",
+    "options": ["हवा", "पानी", "आग", "नदी"],
     "a": 2,
-    "explanation": "Anal = Fire, Anil = Wind."
+    "explanation": "अनल का अर्थ आग है; अनिल का अर्थ हवा है।"
   },
   {
-    "q": "shikshan ki aagaman vidhi chalatee hai:",
-    "options": ["niyam se udaaharan", "udaaharan se niyam", "amoort se moort", "jatil se saral"],
+    "q": "शिक्षण की 'आगमन विधि' चलती है:",
+    "options": ["नियम से उदाहरण", "उदाहरण से नियम", "अमूर्त से मूर्त", "जटिल से सरल"],
     "a": 1,
-    "explanation": "Inductive starts with specific examples."
+    "explanation": "Inductive method starts with specific examples."
+  },
+  {
+    "q": "Choose the correctly spelled word:",
+    "options": ["Accomodation", "Accommodation", "Acomodation", "Accommadation"],
+    "a": 1,
+    "explanation": "Correct spelling has double c and double m."
+  },
+  {
+    "q": "What is the synonym of 'Diligent'?",
+    "options": ["Lazy", "Hardworking", "Rich", "Happy"],
+    "a": 1,
+    "explanation": "Diligent means putting effort into work."
+  },
+  {
+    "q": "Identify the 'Adjective' in: 'The blue pen is mine.'",
+    "options": ["Pen", "Blue", "Mine", "The"],
+    "a": 1,
+    "explanation": "Blue describes the noun pen."
+  },
+  {
+    "q": "Select the correct plural of 'Tooth':",
+    "options": ["Tooths", "Teeth", "Teeths", "Toothes"],
+    "a": 1,
+    "explanation": "Tooth (singular) -> Teeth (plural)."
+  },
+  {
+    "q": "Which part of speech is 'And'?",
+    "options": ["Noun", "Adjective", "Conjunction", "Preposition"],
+    "a": 2,
+    "explanation": "And joins words or sentences."
+  },
+  {
+    "q": "Choose the correct article: 'He is ________ MLA.'",
+    "options": ["a", "an", "the", "No article"],
+    "a": 1,
+    "explanation": "MLA starts with a vowel sound 'em'."
+  },
+  {
+    "q": "Identify the 'Subject' in: 'Ram is a good boy.'",
+    "options": ["Ram", "Is", "Good", "Boy"],
+    "a": 0,
+    "explanation": "Ram is the person being spoken about."
   },
   {
     "q": "The perimeter of a rectangle with length 15 and width 10 is:",
