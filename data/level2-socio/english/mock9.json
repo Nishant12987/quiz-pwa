@@ -3,109 +3,151 @@
     "q": "Which stage of development is called the 'Stage of Stress and Storm'?",
     "options": ["Infancy", "Early Childhood", "Later Childhood", "Adolescence"],
     "a": 3,
-    "explanation": "G. Stanley Hall described adolescence as a period of great tension."
+    "explanation": "G. Stanley Hall described adolescence as a period of great tension and emotional upheaval."
   },
   {
     "q": "The 'Insight Theory' of learning was experimented using a chimpanzee named Sultan by:",
     "options": ["Wolfgang Kohler", "Max Wertheimer", "Kurt Koffka", "Kurt Lewin"],
     "a": 0,
-    "explanation": "Kohler’s work with Sultan demonstrated sudden problem-solving."
+    "explanation": "Kohler’s work with Sultan demonstrated sudden problem-solving or 'insight'."
   },
   {
     "q": "According to Piaget, 'Centration' is a limitation of which stage?",
     "options": ["Sensory-motor", "Pre-operational", "Concrete operational", "Formal operational"],
     "a": 1,
-    "explanation": "Centration is focusing on only one aspect of a situation."
+    "explanation": "Centration is the tendency to focus on only one aspect of a situation at a time."
   },
   {
     "q": "Which personality type is 'Social, outgoing, and talkative' according to Jung?",
     "options": ["Introvert", "Extrovert", "Ambivert", "Neurotic"],
     "a": 1,
-    "explanation": "Extroverts direct their energy outward."
+    "explanation": "Extroverts direct their energy outward toward other people and social environments."
   },
   {
     "q": "The 'Individual differences' in a classroom should be viewed by teachers as:",
     "options": ["A nuisance", "An obstacle to teaching", "A resource for learning", "A sign of failure"],
     "a": 2,
-    "explanation": "Diverse backgrounds should be leveraged to enrich learning."
+    "explanation": "Diverse backgrounds and abilities should be leveraged to enrich the learning environment."
   },
   {
     "q": "Which assessment is best for 'Improving' the teaching-learning process?",
     "options": ["Summative", "Formative", "Placement", "Standardized"],
     "a": 1,
-    "explanation": "Formative assessment provides feedback during instruction."
+    "explanation": "Formative assessment provides feedback during the process to adjust instruction."
   },
   {
     "q": "The concept of 'Intelligence Quotient' (IQ) was first given by:",
     "options": ["William Stern", "Lewis Terman", "Alfred Binet", "David Wechsler"],
     "a": 0,
-    "explanation": "Stern proposed the formula (MA/CA)."
+    "explanation": "Stern proposed the formula (MA/CA), though Terman later popularized it by multiplying by 100."
   },
   {
     "q": "Dysgraphia is a learning disability associated with:",
     "options": ["Reading", "Writing", "Mathematical calculation", "Listening"],
     "a": 1,
-    "explanation": "Dysgraphia primarily affects handwriting."
+    "explanation": "Dysgraphia primarily affects handwriting and fine motor coordination related to writing."
   },
   {
     "q": "In an 'Authoritative' parenting style, parents are:",
     "options": ["Demanding and unresponsive", "Undemanding and responsive", "Demanding and responsive", "Undemanding and unresponsive"],
     "a": 2,
-    "explanation": "Authoritative parents set rules but are supportive."
+    "explanation": "Authoritative parents set rules but are also supportive and communicative."
   },
   {
     "q": "What is 'Object Permanence'?",
     "options": ["Thinking objects have life", "Knowing objects exist even when unseen", "Grouping similar objects", "Solving math with objects"],
     "a": 1,
-    "explanation": "Realizing things still exist out of sight."
+    "explanation": "A key milestone of the sensory-motor stage where babies realize things still exist out of sight."
   },
   {
     "q": "The 'Constructivist' framework of learning emphasizes:",
     "options": ["Passive reception", "Active participation of the learner", "Conditioning", "Punishment"],
     "a": 1,
-    "explanation": "Constructivism posits that learners build their own knowledge."
+    "explanation": "Constructivism posits that learners build their own knowledge through experience."
   },
   {
-    "q": "naayak ka sahi sandhi-vichchhed hai:",
-    "options": ["na + ak", "nai + ak", "ne + ak", "nay + ak"],
+    "q": "'नायक' का सही संधि-विच्छेद है:",
+    "options": ["ना + अक", "नै + अक", "ने + अक", "नय + अक"],
     "a": 1,
-    "explanation": "nai + ak = naayak (ayaadi sandhi)."
+    "explanation": "नै + अक = नायक (अयादि संधि)।"
   },
   {
-    "q": "pratidin mein kaun sa samaas hai?",
-    "options": ["dvigu", "dvandv", "avyayibhaav", "tatpurush"],
+    "q": "'प्रतिदिन' में कौन सा समास है?",
+    "options": ["द्विगु", "द्वंद्व", "अव्ययीभाव", "तत्पुरुष"],
     "a": 2,
-    "explanation": "First word is an avyaya, so avyayibhaav."
+    "explanation": "जिसका पहला पद अव्यय हो, वह अव्ययीभाव समास होता है।"
   },
   {
-    "q": "jangam ka vilom shabd hai:",
-    "options": ["sthaavar", "agam", "durgam", "chanchal"],
+    "q": "'जंगम' का विलोम शब्द है:",
+    "options": ["स्थावर", "अगम", "दुर्गम", "चंचल"],
     "a": 0,
-    "explanation": "Jangam (movable) opposite is Sthavar (fixed)."
+    "explanation": "जंगम का अर्थ है जो चल सके, और स्थावर का अर्थ है जो स्थिर रहे।"
   },
   {
-    "q": "naak mein dam karana muhaavre ka arth hai:",
-    "options": ["naak mein chot lagana", "bahut pareshaan karana", "ghamand karana", "saans na le paana"],
+    "q": "'नाक में दम करना' मुहावरे का अर्थ है:",
+    "options": ["नाक में चोट लगना", "बहुत परेशान करना", "घमण्ड करना", "साँस न ले पाना"],
     "a": 1,
-    "explanation": "It means to harass or trouble a lot."
+    "explanation": "इसका अर्थ है किसी को बहुत ज्यादा तंग या परेशान कर देना।"
   },
   {
-    "q": "shuddh vaaky chuniye:",
-    "options": ["yahaan shuddh gaay ka doodh milata hai.", "yahaan gaay ka shuddh doodh milata hai.", "yahaan gaay shuddh ka doodh milata hai.", "shuddh gaay ka doodh yahaan milata hai."],
+    "q": "शुद्ध वाक्य चुनिए:",
+    "options": ["यहाँ शुद्ध गाय का दूध मिलता है।", "यहाँ गाय का शुद्ध दूध मिलता है।", "यहाँ गाय शुद्ध का दूध मिलता है।", "शुद्ध गाय का दूध यहाँ मिलता है।"],
     "a": 1,
-    "explanation": "Correct word order: 'yahaan gaay ka shuddh doodh milata hai'."
+    "explanation": "व्याकरण के अनुसार 'यहाँ गाय का शुद्ध दूध मिलता है' सही पदक्रम है।"
   },
   {
-    "q": "pavan ka paryayavaachi shabd nahin hai:",
-    "options": ["sameer", "maarut", "anal", "vaat"],
+    "q": "'पवन' का पर्यायवाची शब्द नहीं है:",
+    "options": ["समीर", "मारुत", "अनल", "वात"],
     "a": 2,
-    "explanation": "Anal means Fire."
+    "explanation": "'अनल' अग्नि का पर्यायवाची है, जबकि अनिल हवा का होता है।"
   },
   {
-    "q": "shikshan ki sootra vidhi kis bhaasha se aaee hai?",
-    "options": ["hindi", "sanskrit", "angrejee", "arabee"],
+    "q": "शिक्षण की 'सूत्र विधि' किस भाषा से आई है?",
+    "options": ["हिंदी", "संस्कृत", "अंग्रेजी", "अरबी"],
     "a": 1,
-    "explanation": "Sutra method originates from Sanskrit grammar."
+    "explanation": "सूत्र विधि मूल रूप से संस्कृत व्याकरण शिक्षण की प्राचीन विधि है।"
+  },
+  {
+    "q": "Identify the 'Possessive Pronoun' in the following list:",
+    "options": ["Him", "His", "Mine", "They"],
+    "a": 2,
+    "explanation": "'Mine' indicates ownership."
+  },
+  {
+    "q": "Choose the correct article: 'He is ________ M.A. in English.'",
+    "options": ["a", "an", "the", "No article"],
+    "a": 1,
+    "explanation": "'M.A.' starts with a vowel sound 'em', so 'an' is used."
+  },
+  {
+    "q": "What is the superlative degree of 'Bad'?",
+    "options": ["Badder", "Baddest", "Worst", "Worse"],
+    "a": 2,
+    "explanation": "Bad (Positive), Worse (Comparative), Worst (Superlative)."
+  },
+  {
+    "q": "Identify the 'Conjunction' in the sentence: 'Work hard or you will fail.'",
+    "options": ["Hard", "Or", "Fail", "You"],
+    "a": 1,
+    "explanation": "'Or' connects two independent ideas."
+  },
+  {
+    "q": "Select the correct spelling of the word meaning to receive:",
+    "options": ["Receive", "Recieve", "Receve", "Riceive"],
+    "a": 0,
+    "explanation": "Remember the rule: 'i' before 'e' except after 'c'."
+  },
+  {
+    "q": "The expression 'In a nutshell' means:",
+    "options": ["Inside a shell", "In detail", "Briefly and clearly", "Secretly"],
+    "a": 2,
+    "explanation": "It means to summarize something in a very few words."
+  },
+  {
+    "q": "Which type of question allows for 'Creative Expression'?",
+    "options": ["Multiple choice", "True/False", "Open-ended questions", "Matching"],
+    "a": 2,
+    "explanation": "Open-ended questions give students the freedom to think and express unique ideas."
   },
   {
     "q": "In which type of triangle are all three angles equal to 60 degrees?",
