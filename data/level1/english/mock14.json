@@ -1,242 +1,242 @@
 [
   {
-    "q": "Which type of development is most affected by 'Socio-cultural' factors according to Vygotsky?",
-    "options": ["Physical", "Cognitive", "Biological", "Reflexive"],
+    "q": "Which type of 'Aphasia' is characterized by difficulty in producing speech while comprehension remains relatively intact?",
+    "options": ["Wernicke's Aphasia", "Broca's Aphasia", "Global Aphasia", "Anomic Aphasia"],
     "a": 1,
-    "explanation": "Vygotsky argued that social interaction and cultural tools are fundamental to intellectual (cognitive) development."
+    "explanation": "Broca's aphasia involves damage to the frontal lobe, making it difficult to form sentences even though the person understands what others say."
   },
   {
-    "q": "The concept of 'Mental Age' was first introduced by:",
-    "options": ["Lewis Terman", "Alfred Binet", "David Wechsler", "Robert Sternberg"],
+    "q": "The 'Visual Cliff' experiment was designed by Gibson and Walk to study which phenomenon in infants?",
+    "options": ["Color perception", "Depth perception", "Object permanence", "Social referencing"],
     "a": 1,
-    "explanation": "Alfred Binet developed the first intelligence test and the concept that a child's mental ability can be compared to chronological age."
+    "explanation": "The visual cliff uses a glass-covered table to determine if infants can perceive depth and avoid a perceived drop-off."
   },
   {
-    "q": "Which of the following is a 'Projective Technique' for personality assessment?",
-    "options": ["Observation", "Interview", "Rorschach Inkblot Test", "Rating Scale"],
+    "q": "Which psychologist introduced the concept of 'Mental Age' and the first intelligence scale?",
+    "options": ["Lewis Terman", "David Wechsler", "Alfred Binet", "Francis Galton"],
     "a": 2,
-    "explanation": "Projective tests use ambiguous stimuli (like inkblots) to reveal the respondent's unconscious feelings."
+    "explanation": "Alfred Binet developed the Binet-Simon scale to identify children needing educational assistance, introducing the 'Mental Age' concept."
   },
   {
-    "q": "A teacher notices a student is very good at identifying patterns in nature and plants. Which intelligence is this?",
-    "options": ["Spatial", "Naturalistic", "Mathematical", "Musical"],
+    "q": "In an inclusive classroom, 'Peer Tutoring' is a strategy where:",
+    "options": ["Teachers teach each other", "Students help and teach their classmates", "Parents teach the students", "The principal monitors the class"],
     "a": 1,
-    "explanation": "Naturalistic intelligence (added later by Gardner) involves sensitivity to the flora and fauna of the world."
+    "explanation": "Peer tutoring leverages the social nature of learning by allowing students to reinforce their own knowledge by helping peers."
   },
   {
-    "q": "'Learning by Doing' is the main principle of:",
-    "options": ["Idealism", "Pragmatism", "Naturalism", "Realism"],
-    "a": 1,
-    "explanation": "Pragmatism (led by John Dewey) emphasizes learning through practical experience and problem-solving."
-  },
-  {
-    "q": "Which of the following is NOT a stage of creative thinking?",
-    "options": ["Preparation", "Incubation", "Verification", "Rote repetition"],
-    "a": 3,
-    "explanation": "Creative stages include preparation, incubation, illumination, and verification. Rote repetition is mechanical and non-creative."
-  },
-  {
-    "q": "The term 'Cephalocaudal' development means growth from:",
-    "options": ["Center to periphery", "Head to toe", "Toe to head", "Specific to general"],
-    "a": 1,
-    "explanation": "Growth proceeds from the head downward to the feet (Cephalo = Head, Caudal = Tail/Foot)."
-  },
-  {
-    "q": "Which law of learning states that 'Practice makes perfect'?",
-    "options": ["Law of Readiness", "Law of Exercise", "Law of Effect", "Law of Recency"],
-    "a": 1,
-    "explanation": "The Law of Exercise suggests that the more often a stimulus-response connection is made, the stronger it becomes."
-  },
-  {
-    "q": "In Piaget's theory, the ability to understand that quantity remains the same despite changes in shape is called:",
-    "options": ["Object Permanence", "Centration", "Conservation", "Egocentrism"],
+    "q": "Which 'Defense Mechanism' involves attributing one's own unacceptable thoughts or feelings to someone else?",
+    "options": ["Repression", "Regression", "Projection", "Displacement"],
     "a": 2,
-    "explanation": "Conservation is the cognitive ability to recognize that properties of objects stay the same even if appearance changes."
+    "explanation": "Projection allows an individual to deny their own traits by seeing them in others instead."
   },
   {
-    "q": "Which of the following is an example of 'Gross Motor Skill' development?",
-    "options": ["Writing a letter", "Drawing a circle", "Jumping and skipping", "Threading a needle"],
-    "a": 2,
-    "explanation": "Gross motor skills involve large muscle movements like jumping, while fine motor skills involve small muscle movements."
-  },
-  {
-    "q": "The 'Individualized Education Program' (IEP) is designed for:",
-    "options": ["Gifted students only", "Children with special needs", "Average students", "Teachers' training"],
+    "q": "According to the 'Law of Primacy' in learning:",
+    "options": ["The last thing learned is remembered best", "The first thing learned is remembered best", "Learning should be fun", "Practice makes perfect"],
     "a": 1,
-    "explanation": "IEPs are legally mandated plans in inclusive education to provide tailored support for students with disabilities."
+    "explanation": "The law of primacy states that information presented first is often more easily recalled and more impactful than later information."
   },
   {
-    "q": "'पवन' का सही संधि-विच्छेद है:",
+    "q": "A child with 'Dysgraphia' would most likely struggle with:",
+    "options": ["Understanding spoken language", "Performing mental math", "Fine motor coordination for handwriting", "Reading social cues"],
+    "a": 2,
+    "explanation": "Dysgraphia is a specific learning disability affecting writing, often resulting in illegible handwriting and poor spatial planning on paper."
+  },
+  {
+    "q": "Which part of the personality, according to Freud, acts as the 'Moral Guardian'?",
+    "options": ["Id", "Ego", "Superego", "Libido"],
+    "a": 2,
+    "explanation": "The superego incorporates the values and morals of society, striving for perfection and inducing guilt."
+  },
+  {
+    "q": "The 'Pygmalion Effect' refers to the phenomenon where:",
+    "options": ["Students perform poorly due to low teacher expectations", "Higher expectations lead to an increase in performance", "Students imitate their peers", "Learning is better through play"],
+    "a": 1,
+    "explanation": "Also known as the Rosenthal effect, it shows that teacher expectations significantly influence student outcomes."
+  },
+  {
+    "q": "Which 'Reinforcement Schedule' is used in slot machines (gambling)?",
+    "options": ["Fixed-Ratio", "Variable-Ratio", "Fixed-Interval", "Variable-Interval"],
+    "a": 1,
+    "explanation": "Variable-ratio reinforcement provides rewards after an unpredictable number of attempts, creating high engagement and resistance to extinction."
+  },
+  {
+    "q": "Inclusive Education is based on the principle of:",
+    "options": ["Segregation", "Assimilation", "Equity", "Competition"],
+    "a": 2,
+    "explanation": "Equity ensures that every student gets the specific support they need to succeed in a general education setting."
+  },
+  {
+    "q": "'पवन' शब्द का सही संधि-विच्छेद है:",
     "options": ["प + वन", "पा + वन", "पो + अन", "पौ + अन"],
     "a": 2,
-    "explanation": "यह अयादि संधि का उदाहरण है, जहाँ 'पो + अन' मिलकर 'पवन' बनता है."
+    "explanation": "यह अयादि संधि है जहाँ 'ओ + अ' मिलकर 'अव' हो जाता है।"
   },
   {
-    "q": "'लम्बोदर' में कौन सा समास है?",
-    "options": ["कर्मधारय", "बहुव्रीहि", "द्वंद्व", "तत्पुरुष"],
+    "q": "'पंचवटी' में कौन सा समास प्रयुक्त है?",
+    "options": ["द्वंद्व", "द्विगु", "तत्पुरुष", "कर्मधारय"],
     "a": 1,
-    "explanation": "जहाँ दोनों पद मिलकर किसी तीसरे (गणेश जी) की ओर संकेत करें, वहाँ बहुव्रीहि समास होता है."
+    "explanation": "जहाँ पहला पद संख्यावाचक हो (पंच = पाँच), वहाँ द्विगु समास होता है।"
   },
   {
-    "q": "'आँखें दिखाना' मुहावरे का अर्थ है:",
-    "options": ["स्वागत करना", "गुस्सा करना", "निरीक्षण करना", "सावधान करना"],
+    "q": "'तरणि' (छोटी इ) का अर्थ 'सूर्य' है, तो 'तरणी' (बड़ी ई) का अर्थ क्या होगा?",
+    "options": ["युवती", "नाव", "किरण", "नदी"],
     "a": 1,
-    "explanation": "आँखें दिखाना मुहावरे का अर्थ किसी पर क्रोधित होना या डराना होता है."
+    "explanation": "तरणि = सूर्य, जबकि तरणी = नाव।"
   },
   {
-    "q": "'लेखक' शब्द में कौन सा प्रत्यय है?",
-    "options": ["क", "इक", "अक", "आक"],
+    "q": "'दाल न गलना' मुहावरे का सही अर्थ है:",
+    "options": ["दाल का कच्चा रहना", "सफल न होना", "झगड़ा करना", "भूख न लगना"],
+    "a": 1,
+    "explanation": "'दाल न गलना' का अर्थ है किसी काम में युक्ति या कोशिश का सफल न होना।"
+  },
+  {
+    "q": "'उज्ज्वल' की शुद्ध वर्तनी है:",
+    "options": ["उज्वल", "उज्जवल", "उज्ज्वल", "उजवल"],
     "a": 2,
-    "explanation": "लिख् (धातु) + अक (प्रत्यय) = लेखक."
+    "explanation": "उज्ज्वल में दोनों 'ज' आधे होते हैं।"
   },
   {
-    "q": "'तरणि' (छोटी इ) शब्द का अर्थ है:",
-    "options": ["सूर्य", "नाव", "युवती", "नदी"],
-    "a": 0,
-    "explanation": "'तरणि' का अर्थ सूर्य होता है। (तरणी का अर्थ नाव होता है)."
-  },
-  {
-    "q": "जो 'सब कुछ जानता हो' - वाक्यांश के लिए एक शब्द है:",
-    "options": ["अल्पज्ञ", "बहुज्ञ", "सर्वज्ञ", "अभिज्ञ"],
+    "q": "'अनल' किसका पर्यायवाची शब्द है?",
+    "options": ["हवा", "पानी", "आग", "आकाश"],
     "a": 2,
-    "explanation": "सर्वज्ञ का अर्थ है वह जो हर विषय की जानकारी रखता हो."
+    "explanation": "अनल = आग। (अनिल = हवा)।"
   },
   {
-    "q": "शिक्षण की 'आगमन विधि' (Inductive Method) चलती है:",
-    "options": ["नियम से उदाहरण की ओर", "उदाहरण से नियम की ओर", "सूक्ष्म से स्थूल की ओर", "अमूर्त से मूर्त की ओर"],
+    "q": "वाक्यों में शब्दों का क्रम निश्चित करने वाला शास्त्र क्या कहलाता है?",
+    "options": ["अर्थशास्त्र", "व्याकरण", "लिपि", "कोश"],
     "a": 1,
-    "explanation": "आगमन विधि में पहले उदाहरण दिए जाते हैं, फिर नियम का सामान्यीकरण किया जाता है."
+    "explanation": "व्याकरण वह विधा है जो भाषा के शुद्ध प्रयोग और नियमों का बोध कराती है।"
   },
   {
-    "q": "Choose the synonym for the word 'Diligent'.",
-    "options": ["Lazy", "Hardworking", "Careless", "Wealthy"],
-    "a": 1,
-    "explanation": "Diligent means showing steady and earnest effort; hardworking."
-  },
-  {
-    "q": "Select the correct passive voice for: 'The teacher corrected the mistakes.'",
-    "options": ["The mistakes are corrected by the teacher.", "The mistakes were corrected by the teacher.", "The teacher was corrected by the mistakes.", "The mistakes corrected by the teacher."],
-    "a": 1,
-    "explanation": "Simple Past (corrected) becomes 'were + past participle' in the passive voice."
-  },
-  {
-    "q": "Which of the following is an example of an 'Interrogative Pronoun'?",
-    "options": ["He", "Each", "Who", "Them"],
+    "q": "Identify the 'Adjective' in: 'The hungry lion roared loudly.'",
+    "options": ["Lion", "Roared", "Hungry", "Loudly"],
     "a": 2,
-    "explanation": "'Who' is used to ask questions about people."
+    "explanation": "'Hungry' describes the state of the noun 'lion'."
   },
   {
-    "q": "Choose the correct article: 'He is ________ honest man.'",
+    "q": "Choose the correct article: 'He is ________ one-eyed man.'",
     "options": ["a", "an", "the", "No article"],
+    "a": 0,
+    "explanation": "'One' starts with a 'W' (consonant) sound, so we use 'a'."
+  },
+  {
+    "q": "What is the synonym of 'Courageous'?",
+    "options": ["Weak", "Brave", "Cowardly", "Quiet"],
     "a": 1,
-    "explanation": "'Honest' starts with a vowel sound (silent 'h'), so 'an' is required."
+    "explanation": "Both words mean having the strength to face fear or danger."
   },
   {
-    "q": "Which of these is NOT a principle of Language Teaching?",
-    "options": ["Principle of Motivation", "Principle of Habit Formation", "Principle of Rote Memorization", "Principle of Oral Approach"],
+    "q": "Select the correct plural of 'Goose'.",
+    "options": ["Gooses", "Goose", "Geese", "Geeses"],
     "a": 2,
-    "explanation": "Rote memorization is an mechanical method, not a psychological principle of learning."
+    "explanation": "'Goose' is an irregular noun; its plural is 'Geese'."
   },
   {
-    "q": "Choose the correctly punctuated sentence:",
-    "options": ["He said I am coming.", "He said, 'I am coming.'", "He said \"I am coming.\"", "He said, I am coming."],
+    "q": "Identify the 'Preposition' in: 'The cat jumped off the table.'",
+    "options": ["Cat", "Jumped", "Off", "Table"],
+    "a": 2,
+    "explanation": "'Off' shows the relationship between the cat's action and the table."
+  },
+  {
+    "q": "Which suffix converts the verb 'Read' into a noun meaning 'one who reads'?",
+    "options": ["-ing", "-er", "-able", "-tion"],
     "a": 1,
-    "explanation": "Punctuation in direct speech requires a comma after the reporting verb and quotes for the spoken words."
+    "explanation": "Reader = Read + er."
   },
   {
-    "q": "Identify the 'Subject' in the sentence: 'On the top of the hill lives a hermit.'",
-    "options": ["The hill", "The top", "A hermit", "Lives"],
+    "q": "Choose the correctly spelled word:",
+    "options": ["Necessary", "Necesary", "Neccessary", "Necerary"],
+    "a": 0,
+    "explanation": "The correct spelling is 'Necessary' (one 'c', two 's's)."
+  },
+  {
+    "q": "What is the place value of 5 in 7,52,100?",
+    "options": ["500", "5,000", "50,000", "5,00,000"],
     "a": 2,
-    "explanation": "The subject is the person performing the action (living), which is 'a hermit'."
+    "explanation": "5 is in the ten-thousands place, so its value is 50,000."
   },
   {
-    "q": "What is the value of 100 - 45 + 5?",
-    "options": ["50", "60", "70", "80"],
+    "q": "How many millimeters are in 5 centimeters?",
+    "options": ["5", "50", "500", "5000"],
     "a": 1,
-    "explanation": "Follow BODMAS (Addition before Subtraction): 100 + 5 = 105; 105 - 45 = 60."
+    "explanation": "1 cm = 10 mm. So, 5 cm = 50 mm."
   },
   {
-    "q": "How many millimeters are in 1 centimeter?",
-    "options": ["1", "10", "100", "1000"],
+    "q": "What is the sum of the first three prime numbers?",
+    "options": ["6", "10", "12", "15"],
     "a": 1,
-    "explanation": "The metric scale for length is based on tens; 10 mm = 1 cm."
+    "explanation": "The first three primes are 2, 3, and 5. 2 + 3 + 5 = 10."
   },
   {
-    "q": "The perimeter of a rectangle with length 5cm and width 3cm is:",
-    "options": ["8 cm", "15 cm", "16 cm", "20 cm"],
+    "q": "A triangle with all sides of different lengths is called:",
+    "options": ["Equilateral", "Isosceles", "Scalene", "Right-angled"],
     "a": 2,
-    "explanation": "Perimeter = 2 x (Length + Width) = 2 x (5 + 3) = 2 x 8 = 16 cm."
+    "explanation": "Scalene triangles have no equal sides or angles."
   },
   {
-    "q": "Which of the following is an even number?",
-    "options": ["21", "33", "42", "55"],
-    "a": 2,
-    "explanation": "An even number is divisible by 2; 42 ends in '2', making it even."
-  },
-  {
-    "q": "What is 1/2 of 50?",
-    "options": ["10", "20", "25", "30"],
-    "a": 2,
-    "explanation": "50 divided by 2 is 25."
-  },
-  {
-    "q": "A circle has how many sides?",
-    "options": ["1", "2", "4", "0"],
+    "q": "If 1/4 of a number is 20, what is the number?",
+    "options": ["5", "40", "60", "80"],
     "a": 3,
-    "explanation": "A circle is a curved line with no straight lines (sides) or vertices."
+    "explanation": "If 1/4 * x = 20, then x = 20 * 4 = 80."
   },
   {
-    "q": "The sum of 150 and 250 is:",
-    "options": ["300", "350", "400", "450"],
+    "q": "How many vertices does a triangle have?",
+    "options": ["1", "2", "3", "4"],
     "a": 2,
-    "explanation": "150 + 250 = 400."
+    "explanation": "A triangle has three corners or vertices."
   },
   {
-    "q": "What is the value of 8 multiplied by 7?",
-    "options": ["48", "54", "56", "64"],
-    "a": 2,
-    "explanation": "8 x 7 = 56."
-  },
-  {
-    "q": "What is the place value of 9 in 7,89,450?",
-    "options": ["90", "900", "9,000", "90,000"],
-    "a": 2,
-    "explanation": "In 7,89,450, the digit 9 is in the thousands place, so its value is 9,000."
-  },
-  {
-    "q": "Convert 3/4 into a percentage.",
-    "options": ["30%", "45%", "75%", "80%"],
-    "a": 2,
-    "explanation": "To convert to percentage, multiply by 100: (3/4) * 100 = 75%."
-  },
-  {
-    "q": "The house made of snow is called:",
-    "options": ["Tent", "Igloo", "Houseboat", "Caravan"],
+    "q": "What is 0.8 as a fraction in simplest form?",
+    "options": ["8/10", "4/5", "1/8", "2/5"],
     "a": 1,
-    "explanation": "Igloos are built by Eskimos in polar regions using blocks of compressed snow."
+    "explanation": "0.8 = 8/10. Dividing both by 2 gives 4/5."
   },
   {
-    "q": "Which part of the body helps us to taste food?",
-    "options": ["Teeth", "Lips", "Tongue", "Skin"],
+    "q": "Which of these is a multiple of 9?",
+    "options": ["19", "28", "45", "56"],
     "a": 2,
-    "explanation": "The tongue contains taste buds that detect sweet, sour, salty, and bitter flavors."
+    "explanation": "9 * 5 = 45."
   },
   {
-    "q": "Which planet is the largest in our solar system?",
-    "options": ["Earth", "Mars", "Jupiter", "Venus"],
+    "q": "How many minutes are in 1.5 hours?",
+    "options": ["60", "75", "90", "100"],
     "a": 2,
-    "explanation": "Jupiter is a gas giant and the most massive planet orbiting the Sun."
+    "explanation": "1 hour = 60 mins. Half hour = 30 mins. 60 + 30 = 90 mins."
   },
   {
-    "q": "The spinning movement of Earth on its axis is called:",
-    "options": ["Revolution", "Rotation", "Orbit", "Gravity"],
+    "q": "Simplify: (20 + 4) ÷ 6",
+    "options": ["2", "4", "6", "10"],
     "a": 1,
-    "explanation": "Rotation causes day and night. (Revolution is the movement around the Sun)."
+    "explanation": "24 ÷ 6 = 4."
   },
   {
-    "q": "Which of the following is a source of protein?",
-    "options": ["Sugar", "Butter", "Pulses", "Potato"],
+    "q": "Which of these animals is an 'Invertebrate' (has no backbone)?",
+    "options": ["Frog", "Snake", "Butterfly", "Fish"],
     "a": 2,
-    "explanation": "Pulses (daals) are vital sources of plant-based protein."
+    "explanation": "Butterflies are insects, which have an exoskeleton instead of a backbone."
+  },
+  {
+    "q": "Which gas is released by plants during the night as a byproduct of respiration?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+    "a": 2,
+    "explanation": "While they release oxygen during the day (photosynthesis), plants release CO2 at night through respiration."
+  },
+  {
+    "q": "The movement of Earth around the Sun is called:",
+    "options": ["Rotation", "Revolution", "Orbit", "Spin"],
+    "a": 1,
+    "explanation": "Revolution takes approximately 365 days and causes the change of seasons."
+  },
+  {
+    "q": "Which of these is a Kharif crop?",
+    "options": ["Wheat", "Mustard", "Rice", "Gram"],
+    "a": 2,
+    "explanation": "Rice is sown during the monsoon (Kharif) season."
+  },
+  {
+    "q": "The instrument used to see very tiny objects like germs is:",
+    "options": ["Telescope", "Microscope", "Stethoscope", "Periscope"],
+    "a": 1,
+    "explanation": "Microscopes magnify microscopic organisms or structures."
   }
 ]
