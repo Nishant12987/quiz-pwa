@@ -189,6 +189,7 @@ function finishQuiz() {
     const history = data.history || {};
     if (!history[key]) history[key] = [];
     
+    // ✅ SAVE FULL DETAILS FOR REVIEW
     history[key].push({
       score: score,
       date: new Date().toLocaleString(),
@@ -209,7 +210,7 @@ function finishQuiz() {
 }
 
 /***********************
- * HISTORY & REVIEW
+ * HISTORY & REVIEW UI
  ***********************/
 function showHistory() {
   const ref = db.collection("users").doc(auth.currentUser.uid);
