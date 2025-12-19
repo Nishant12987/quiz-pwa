@@ -17,10 +17,6 @@
     "a": 1,
     "explanation": "स्थानिक बुद्धि दृश्य-स्थानिक दुनिया को सटीक रूप से देखने की क्षमता है।"
   },
-  
-
-[Image of Gardner's theory of multiple intelligences chart]
-,
   {
     "q": "मनोविज्ञान में 'IQ' का क्या अर्थ है?",
     "options": ["Internal Quotient", "Intellectual Quantity", "Intelligence Quotient", "Integrated Quality"],
@@ -131,7 +127,12 @@
   },
   {
     "q": "Direct Speech में बदलें: 'She said that she was happy.'",
-    "options": ["She said, \"I am happy.\"", "She said, \"She is happy.\"", "She says, \"I am happy.\"", "She said, \"I was happy.\""],
+    "options": [
+      "She said, \"I am happy.\"",
+      "She said, \"She is happy.\"",
+      "She says, \"I am happy.\"",
+      "She said, \"I was happy.\""
+    ],
     "a": 0,
     "explanation": "डायरेक्ट स्पीच में 'was' वापस 'am' में बदल जाता है और 'that' हटा दिया जाता है।"
   },
@@ -165,7 +166,6 @@
     "a": 1,
     "explanation": "विशाल स्नानागार मोहनजोदड़ो की सबसे प्रसिद्ध संरचनाओं में से एक है।"
   },
-  ,
   {
     "q": "किस ग्रह को 'भोर का तारा' या 'सांझ का तारा' कहा जाता है?",
     "options": ["बुध", "शुक्र", "मंगल", "बृहस्पति"],
@@ -184,7 +184,6 @@
     "a": 0,
     "explanation": "82°30' पूर्वी देशांतर मिर्जापुर (यूपी) से गुजरता है और इसे भारतीय मानक समय माना जाता है।"
   },
-  ,
   {
     "q": "'भारत की खोज' (Discovery of India) पुस्तक किसने लिखी थी?",
     "options": ["महात्मा गांधी", "जवाहरलाल नेहरू", "सुभाष चंद्र बोस", "रवींद्रनाथ टैगोर"],
@@ -197,7 +196,6 @@
     "a": 0,
     "explanation": "वेगनर ने 1912 में प्रस्तावित किया था कि महाद्वीप कभी 'पेंजिया' नामक एक एकल भूभाग थे।"
   },
-  ,
   {
     "q": "भारत में किस संस्था को संसद का 'उच्च सदन' कहा जाता है?",
     "options": ["लोकसभा", "राज्यसभा", "विधानसभा", "सुप्रीम कोर्ट"],
