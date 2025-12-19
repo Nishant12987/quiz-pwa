@@ -1,0 +1,242 @@
+[
+  {
+    "q": "The primary cause of 'Individual Differences' in children is the interaction between:",
+    "options": ["School and Society", "Heredity and Environment", "Peer group and Teachers", "Nutrition and Physical exercise"],
+    "a": 1,
+    "explanation": "Individual differences result from the complex interplay between a child's genetic makeup (heredity) and the external world (environment) they grow up in."
+  },
+  {
+    "q": "According to Erikson's psychosocial theory, the stage of 'Autonomy vs. Shame and Doubt' occurs during:",
+    "options": ["Infancy", "Early Childhood", "Middle Childhood", "Adolescence"],
+    "a": 1,
+    "explanation": "This second stage occurs between ages 18 months to 3 years, where children begin to assert their independence."
+  },
+  {
+    "q": "The 'Primary Mental Abilities' (PMA) theory of intelligence was proposed by:",
+    "options": ["Charles Spearman", "L.L. Thurstone", "Howard Gardner", "Robert Sternberg"],
+    "a": 1,
+    "explanation": "Thurstone argued that intelligence is not a single general factor but consists of seven distinct primary mental abilities."
+  },
+  {
+    "q": "According to the RTE Act 2009, how many minimum working hours per week are prescribed for a teacher, including preparation hours?",
+    "options": ["40 hours", "45 hours", "50 hours", "55 hours"],
+    "a": 1,
+    "explanation": "The Right to Education Act specifies a minimum of 45 teaching hours per week, which includes the time spent on preparation."
+  },
+  {
+    "q": "In Maslow’s hierarchy of needs, the need for 'Love and Belongingness' is categorized as:",
+    "options": ["Physiological need", "Safety need", "Social need", "Self-actualization need"],
+    "a": 2,
+    "explanation": "After physiological and safety needs are met, the third level involves social needs, which include friendship, intimacy, and family."
+  },
+  {
+    "q": "Which principle of Operant Conditioning involves removing an unpleasant stimulus to increase the frequency of a behavior?",
+    "options": ["Positive Reinforcement", "Negative Reinforcement", "Positive Punishment", "Negative Punishment"],
+    "a": 1,
+    "explanation": "Negative reinforcement increases a behavior by taking away an aversive (unpleasant) stimulus when the behavior is performed."
+  },
+  {
+    "q": "The 'Kindergarten' method of education, focusing on 'Gifts' and 'Occupations', was developed by:",
+    "options": ["Maria Montessori", "Friedrich Froebel", "John Dewey", "Jean-Jacques Rousseau"],
+    "a": 1,
+    "explanation": "Froebel created the Kindergarten (garden of children) concept, utilizing specific play materials called 'Gifts' to stimulate learning."
+  },
+  {
+    "q": "Which of the following is considered a core component of 'Creativity'?",
+    "options": ["High IQ score", "Rote memorization", "Originality and Flexibility", "Conformity to rules"],
+    "a": 2,
+    "explanation": "Creativity is characterized by the ability to produce original ideas (originality) and think about problems in various ways (flexibility)."
+  },
+  {
+    "q": "A narrative description of a child’s behavior in a specific situation, recorded by a teacher, is called:",
+    "options": ["A Checklist", "A Rating Scale", "An Anecdotal Record", "A Portfolio"],
+    "a": 2,
+    "explanation": "An anecdotal record is a brief, objective account of a significant incident or behavior observed in a student."
+  },
+  {
+    "q": "According to Kohlberg, at which level of moral development do individuals follow 'Universal Ethical Principles'?",
+    "options": ["Pre-conventional", "Conventional", "Post-conventional", "Non-conventional"],
+    "a": 2,
+    "explanation": "At the highest level (Post-conventional), morality is defined by abstract principles and conscience that transcend specific laws."
+  },
+  {
+    "q": "In Piaget's theory, the ability for 'Hypothetico-deductive reasoning' develops during the:",
+    "options": ["Sensory-motor stage", "Pre-operational stage", "Concrete operational stage", "Formal operational stage"],
+    "a": 3,
+    "explanation": "Formal operations (11+ years) allow adolescents to think abstractly, form hypotheses, and deduce logical conclusions."
+  },
+  {
+    "q": "'मनोरंजन' का सही संधि-विच्छेद है:",
+    "options": ["मनो + रंजन", "मन + ओरंजन", "मनः + रंजन", "मनः + रञ्जन"],
+    "a": 2,
+    "explanation": "यह विसर्ग संधि का उदाहरण है, जहाँ विसर्ग का 'ओ' हो जाता है (मनः + रंजन = मनोरंजन)।"
+  },
+  {
+    "q": "'नीलकमल' में कौन सा समास है?",
+    "options": ["अव्ययीभाव", "तत्पुरुष", "कर्मधारय", "बहुव्रीहि"],
+    "a": 2,
+    "explanation": "जहाँ एक पद विशेषण (नील) और दूसरा विशेष्य (कमल) हो, वहाँ कर्मधारय समास होता है।"
+  },
+  {
+    "q": "'आयात' शब्द का सही विलोम है:",
+    "options": ["निर्यात", "आगत", "विदेशी", "प्रस्थान"],
+    "a": 0,
+    "explanation": "आयात (Import) का विपरीतार्थक शब्द निर्यात (Export) होता है।"
+  },
+  {
+    "q": "'मुँह की खाना' मुहावरे का अर्थ है:",
+    "options": ["भोजन करना", "पराजित होना", "गाली देना", "बहुत बोलना"],
+    "a": 1,
+    "explanation": "मुँह की खाना मुहावरे का प्रयोग बुरी तरह हार जाने या पराजित होने के लिए किया जाता है।"
+  },
+  {
+    "q": "निम्नलिखित में से 'शुद्ध' शब्द है:",
+    "options": ["उज्वल", "उज्जवल", "उज्ज्वल", "उजवल"],
+    "a": 2,
+    "explanation": "उज्ज्वल में दोनों 'ज' आधे होते हैं (उत + ज्वल)।"
+  },
+  {
+    "q": "'बिजली' का पर्यायवाची शब्द है:",
+    "options": ["दामिनी", "सरिता", "विभावरी", "तनया"],
+    "a": 0,
+    "explanation": "दामिनी बिजली का पर्यायवाची है। सरिता नदी को, विभावरी रात को और तनया पुत्री को कहते हैं।"
+  },
+  {
+    "q": "'घबराहट' शब्द में कौन सा प्रत्यय है?",
+    "options": ["हट", "आहट", "राहट", "घबरा"],
+    "a": 1,
+    "explanation": "घबरा (मूल शब्द) + आहट (प्रत्यय) मिलकर घबराहट बनता है।"
+  },
+  {
+    "q": "Identify the 'Reflexive Pronoun' in the following sentence: 'He hurt himself while playing.'",
+    "options": ["He", "Hurt", "Himself", "Playing"],
+    "a": 2,
+    "explanation": "Reflexive pronouns (like himself, herself, myself) refer back to the subject of the sentence."
+  },
+  {
+    "q": "Fill in the blank: The sweets were distributed ________ the children of the class.",
+    "options": ["between", "among", "with", "into"],
+    "a": 1,
+    "explanation": "'Between' is used for two people/things; 'among' is used when there are more than two."
+  },
+  {
+    "q": "What is the synonym of 'Enormous'?",
+    "options": ["Tiny", "Huge", "Weak", "Bright"],
+    "a": 1,
+    "explanation": "Enormous and huge both mean extremely large in size or scale."
+  },
+  {
+    "q": "Choose the correct antonym of 'Humble'.",
+    "options": ["Modest", "Arrogant", "Simple", "Kind"],
+    "a": 1,
+    "explanation": "Humble means showing a modest estimate of one's importance; arrogant is the opposite."
+  },
+  {
+    "q": "Identify the correct indirect speech: He said, 'Where are you going?'",
+    "options": ["He asked where I am going.", "He asked where I was going.", "He said where I was going.", "He asked where was I going."],
+    "a": 1,
+    "explanation": "In indirect questions, the reporting verb changes to 'asked', and the tense shifts back (are going to was going)."
+  },
+  {
+    "q": "Change to Passive Voice: 'The boy is playing football.'",
+    "options": ["Football is played by the boy.", "Football was being played by the boy.", "Football is being played by the boy.", "Football is played boy."],
+    "a": 2,
+    "explanation": "Present continuous changes to 'is/am/are + being + V3' in the passive voice."
+  },
+  {
+    "q": "Reading a text quickly to find a 'specific' piece of information is called:",
+    "options": ["Scanning", "Skimming", "Extensive reading", "Intensive reading"],
+    "a": 0,
+    "explanation": "Scanning involves looking for a particular detail (like a date or name) without reading the entire text."
+  },
+  {
+    "q": "The Roman numeral 'D' represents the number:",
+    "options": ["50", "100", "500", "1000"],
+    "a": 2,
+    "explanation": "In the Roman numeral system: L=50, C=100, D=500, and M=1000."
+  },
+  {
+    "q": "Find the prime factors of 24.",
+    "options": ["2 x 2 x 6", "2 x 3 x 4", "2 x 2 x 2 x 3", "4 x 6"],
+    "a": 2,
+    "explanation": "24 = 2 x 12 = 2 x 2 x 6 = 2 x 2 x 2 x 3. Prime factors must be prime numbers."
+  },
+  {
+    "q": "What is the volume of a cuboid with length 6 cm, width 2 cm, and height 1 cm?",
+    "options": ["9 cubic cm", "12 cubic cm", "18 cubic cm", "24 cubic cm"],
+    "a": 1,
+    "explanation": "Volume of cuboid = Length x Width x Height = 6 x 2 x 1 = 12 cubic cm."
+  },
+  {
+    "q": "If 1 apple costs 10 rupees, how much will 12 apples (one dozen) cost?",
+    "options": ["100 rupees", "110 rupees", "120 rupees", "130 rupees"],
+    "a": 2,
+    "explanation": "Using the unitary method: 12 apples x 10 rupees/apple = 120 rupees."
+  },
+  {
+    "q": "How many milliliters (ml) are in 1 liter?",
+    "options": ["10", "100", "500", "1000"],
+    "a": 3,
+    "explanation": "The standard metric conversion is 1 liter = 1000 milliliters."
+  },
+  {
+    "q": "A part of a line that has one fixed endpoint and extends infinitely in the other direction is a:",
+    "options": ["Line segment", "Ray", "Angle", "Parallel line"],
+    "a": 1,
+    "explanation": "A ray starts at a point and goes on forever in one direction."
+  },
+  {
+    "q": "What is the sum of 3/5 and 1/5?",
+    "options": ["2/5", "4/5", "4/10", "1"],
+    "a": 1,
+    "explanation": "Since the denominators are the same, add the numerators: (3 + 1) / 5 = 4/5."
+  },
+  {
+    "q": "In the number 12.5, what is the value of the digit 5?",
+    "options": ["5 units", "5 tens", "5 tenths", "5 hundredths"],
+    "a": 2,
+    "explanation": "The first place to the right of the decimal point is the tenths place."
+  },
+  {
+    "q": "What is the perimeter of a regular hexagon with each side measuring 3 cm?",
+    "options": ["12 cm", "15 cm", "18 cm", "24 cm"],
+    "a": 2,
+    "explanation": "Perimeter of a regular hexagon = 6 x Side = 6 x 3 = 18 cm."
+  },
+  {
+    "q": "What is the successor of the number 9999?",
+    "options": ["9998", "1000", "10000", "99991"],
+    "a": 2,
+    "explanation": "The successor is found by adding 1: 9999 + 1 = 10000."
+  },
+  {
+    "q": "The process of heating milk to a high temperature and then cooling it quickly to kill germs is called:",
+    "options": ["Boiling", "Pasteurization", "Evaporation", "Fermentation"],
+    "a": 1,
+    "explanation": "Pasteurization (developed by Louis Pasteur) is a common method used to preserve milk."
+  },
+  {
+    "q": "A house built on wooden poles in areas with heavy rainfall (like Assam) is called a:",
+    "options": ["Houseboat", "Igloo", "Stilt house", "Tent"],
+    "a": 2,
+    "explanation": "Stilt houses are raised on platforms to protect them from floods and heavy rain."
+  },
+  {
+    "q": "Which of the following animals is 'Nocturnal' (active at night)?",
+    "options": ["Cow", "Elephant", "Owl", "Sparrow"],
+    "a": 2,
+    "explanation": "Nocturnal animals like owls and bats are adapted to hunt and move in the dark."
+  },
+  {
+    "q": "Which adaptation helps desert plants like cactus to survive with very little water?",
+    "options": ["Broad leaves", "Leaves modified into thorns", "Very small roots", "Fleshy flowers"],
+    "a": 1,
+    "explanation": "Thorns reduce water loss through transpiration and protect the plant from being eaten by animals."
+  },
+  {
+    "q": "Which of the following is the 'State Tree' of Rajasthan?",
+    "options": ["Neem", "Peepal", "Khejri", "Banyan"],
+    "a": 2,
+    "explanation": "The Khejri (Prosopis cineraria) is vital for the desert ecosystem and is the official state tree of Rajasthan."
+  }
+]
