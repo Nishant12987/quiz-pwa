@@ -66,46 +66,46 @@
     "explanation": "Mental health involves a student's ability to handle stress and relate to others."
   },
   {
-    "q": "paropkaar shabd ka sandhi-vichchhed hoga:",
-    "options": ["par + upkaar", "paro + pkaar", "parau + pkaar", "paro + upkaar"],
+    "q": "'परोपकार' शब्द का संधि-विच्छेद होगा:",
+    "options": ["पर + उपकार", "परो + पकार", "परौ + पकार", "परो + उपकार"],
     "a": 0,
-    "explanation": "par + upkaar = paropkar (a + u = o, gun sandhi)."
+    "explanation": "पर + उपकार = परोपकार (अ + उ = ओ, गुण संधि)।"
   },
   {
-    "q": "peetaambar mein kaun sa samaas hai?",
-    "options": ["avyayibhaav", "tatpurush", "dvandv", "bahuvrihi"],
+    "q": "'पीताम्बर' में कौन सा समास है?",
+    "options": ["अव्ययीभाव", "तत्पुरुष", "द्वंद्व", "बहुव्रीहि"],
     "a": 3,
-    "explanation": "peet hai ambar jiska (krishna), here bahuvrihi samas."
+    "explanation": "पीत है अम्बर जिसका (कृष्ण जी), यहाँ बहुव्रीहि समास है।"
   },
   {
-    "q": "aagaman ka vilom shabd hai:",
-    "options": ["prasthaan", "gaman", "nirgam", "aayaat"],
+    "q": "'आगमन' का विलोम शब्द है:",
+    "options": ["प्रस्थान", "गमन", "निर्गम", "आयात"],
     "a": 1,
-    "explanation": "aagaman means coming, gaman means going."
+    "explanation": "आगमन का अर्थ आना और गमन का अर्थ जाना होता है।"
   },
   {
-    "q": "ghee ke diye jalaana muhaavre ka arth hai:",
-    "options": ["roshani karana", "pooja karana", "khushiyaan manaana", "dhanavaan hona"],
+    "q": "'घी के दिए जलाना' मुहावरे का अर्थ है:",
+    "options": ["रोशनी करना", "पूजा करना", "खुशियाँ मनाना", "धनवान होना"],
     "a": 2,
-    "explanation": "It means to celebrate or express great joy."
+    "explanation": "इसका अर्थ अत्यधिक प्रसन्नता प्रकट करना या खुशियाँ मनाना है।"
   },
   {
-    "q": "nimnalikhit mein se shuddh shabd hai:",
-    "options": ["aashirvaad", "aashirvaad", "ashirvaad", "aasirvaad"],
+    "q": "निम्नलिखित में से 'शुद्ध' शब्द है:",
+    "options": ["आशिर्वाद", "आशीर्वाद", "अशीर्वाद", "आसीर्वाद"],
     "a": 1,
-    "explanation": "The correct spelling is 'aashirvaad'."
+    "explanation": "शुद्ध वर्तनी 'आशीर्वाद' है।"
   },
   {
-    "q": "soory ka paryayavaachi shabd nahin hai:",
-    "options": ["dinakar", "divaakar", "nishaakar", "bhaaskar"],
+    "q": "'सूर्य' का पर्यायवाची शब्द नहीं है:",
+    "options": ["दिनकर", "दिवाकर", "निशाकर", "भास्कर"],
     "a": 2,
-    "explanation": "nishakar is the synonym of Moon."
+    "explanation": "'निशाकर' चन्द्रमा का पर्यायवाची है।"
   },
   {
-    "q": "bhaasha ki sabase chhoti ikaee kya hai?",
-    "options": ["shabd", "vyanjan", "svar", "varn"],
+    "q": "भाषा की सबसे छोटी इकाई क्या है?",
+    "options": ["शब्द", "व्यंजन", "स्वर", "वर्ण"],
     "a": 3,
-    "explanation": "Varn is the smallest unit of language."
+    "explanation": "ध्वनि के लिखित रूप को वर्ण कहते हैं, जो भाषा की लघुतम इकाई है।"
   },
   {
     "q": "Identify the 'Abstract Noun' in the following list:",
@@ -114,7 +114,7 @@
     "explanation": "Wisdom represents a quality or state, which is an abstract noun."
   },
   {
-    "q": "Fill in the blank: 'Neither of the two candidates ________ qualified.'",
+    "q": "Fill in the blank: Neither of the two candidates ________ qualified.",
     "options": ["are", "is", "were", "have"],
     "a": 1,
     "explanation": "'Neither' is singular and requires a singular verb 'is'."
@@ -132,7 +132,7 @@
     "explanation": "Management is the noun form of the verb manage."
   },
   {
-    "q": "Choose the correct indirect speech: 'He said, \"I work hard.\"'",
+    "q": "Choose the correct indirect speech: He said, \"I work hard.\"",
     "options": ["He said that he works hard.", "He said that he worked hard.", "He says that he worked hard.", "He said that I worked hard."],
     "a": 1,
     "explanation": "In indirect speech, simple present changes to simple past."
@@ -150,93 +150,93 @@
     "explanation": "Silent reading helps students focus on the meaning and increases reading pace."
   },
   {
-    "q": "A number whose one-fourth is 10 more than its one-fifth is:",
-    "options": ["200", "100", "300", "400"],
-    "a": 0,
-    "explanation": "x/4 = x/5 + 10. Multiplying by 20: 5x = 4x + 200. x = 200."
-  },
-  {
-    "q": "The smallest number by which 180 should be multiplied so that it becomes a perfect square is:",
-    "options": ["2", "3", "5", "6"],
-    "a": 2,
-    "explanation": "180 = 2*2 * 3*3 * 5. To make it a square, we need another 5."
-  },
-  {
-    "q": "If the sum of two numbers is 14 and their difference is 2, find the product of the numbers.",
-    "options": ["24", "48", "32", "40"],
-    "a": 1,
-    "explanation": "x+y=14, x-y=2. 2x=16 -> x=8, y=6. Product = 8*6 = 48."
-  },
-  {
-    "q": "A polyhedral with 6 faces and 8 vertices has how many edges?",
-    "options": ["10", "12", "14", "16"],
-    "a": 1,
-    "explanation": "Euler's Formula: F + V - E = 2. 6 + 8 - E = 2. E = 12."
-  },
-  {
-    "q": "The measure of each interior angle of a regular octagon is:",
-    "options": ["108 degrees", "120 degrees", "135 degrees", "150 degrees"],
-    "a": 2,
-    "explanation": "Angle = (n-2)*180/n. (8-2)*180/8 = 6*180/8 = 135."
-  },
-  {
-    "q": "The value of (625)^0.25 is:",
+    "q": "The value of (625) raised to the power 0.25 is:",
     "options": ["5", "25", "125", "625"],
     "a": 0,
     "explanation": "625 is 5^4. (5^4)^0.25 = 5^(4*0.25) = 5^1 = 5."
   },
   {
-    "q": "The sum of a number and its reciprocal is 2. The number is:",
-    "options": ["0", "1", "2", "-1"],
-    "a": 1,
-    "explanation": "1 + 1/1 = 2. The only positive number satisfying this is 1."
+    "q": "A rational number between 1/4 and 1/2 is:",
+    "options": ["3/8", "1/8", "5/8", "7/8"],
+    "a": 0,
+    "explanation": "1/4 = 2/8 and 1/2 = 4/8. 3/8 lies between them."
   },
   {
-    "q": "Find the simple interest on 5000 at 10% per annum for 2 years.",
-    "options": ["500", "1000", "1500", "2000"],
+    "q": "If the length of a rectangle is increased by 20% and breadth is decreased by 20%, the area:",
+    "options": ["Increases by 4%", "Decreases by 4%", "Remains same", "Decreases by 2%"],
     "a": 1,
-    "explanation": "SI = P*R*T/100 = 5000*10*2/100 = 1000."
+    "explanation": "Change = (1.2 * 0.8) - 1 = 0.96 - 1 = -0.04 or 4% decrease."
+  },
+  {
+    "q": "The sum of the digits of a two-digit number is 9. If 27 is added to it, the digits are reversed. The number is:",
+    "options": ["36", "63", "45", "54"],
+    "a": 0,
+    "explanation": "36 + 27 = 63. The digits of 36 are 3 and 6, sum = 9."
+  },
+  {
+    "q": "The sides of a triangle are in ratio 12:17:25 and its perimeter is 540cm. Find the smallest side.",
+    "options": ["120 cm", "170 cm", "250 cm", "100 cm"],
+    "a": 0,
+    "explanation": "12x+17x+25x=540 -> 54x=540 -> x=10. Smallest side = 12*10 = 120."
+  },
+  {
+    "q": "If a cube of side 4 cm is cut into 1 cm cubes, how many cubes will be formed?",
+    "options": ["16", "32", "64", "4"],
+    "a": 2,
+    "explanation": "Volume of large cube / Volume of small cube = 4^3 / 1^3 = 64."
+  },
+  {
+    "q": "The probability of getting a doublet when two dice are thrown together is:",
+    "options": ["1/3", "1/6", "1/12", "1/36"],
+    "a": 1,
+    "explanation": "Doublets are (1,1), (2,2), (3,3), (4,4), (5,5), (6,6). Total = 6/36 = 1/6."
   },
   {
     "q": "Which of the following is a non-contact force?",
-    "options": ["Frictional force", "Muscular force", "Magnetic force", "Mechanical force"],
+    "options": ["Friction", "Magnetic Force", "Muscular Force", "Tension"],
+    "a": 1,
+    "explanation": "Magnetic force acts over a distance without physical contact."
+  },
+  {
+    "q": "The image formed by a convex mirror is always:",
+    "options": ["Real and Inverted", "Virtual and Diminished", "Real and Magnified", "Virtual and Magnified"],
+    "a": 1,
+    "explanation": "Convex mirrors always form virtual, erect, and diminished images."
+  },
+  {
+    "q": "Which of the following is a poor conductor of electricity?",
+    "options": ["Copper", "Aluminum", "Distilled Water", "Salt Solution"],
     "a": 2,
-    "explanation": "Magnetic force acts from a distance without physical contact."
+    "explanation": "Distilled water lacks ions and does not conduct electricity effectively."
   },
   {
-    "q": "The part of the eye that gives it its distinctive color is the:",
-    "options": ["Cornea", "Iris", "Pupil", "Retina"],
-    "a": 1,
-    "explanation": "The iris is the pigmented part of the eye."
-  },
-  {
-    "q": "Which synthetic fiber is also known as artificial silk?",
-    "options": ["Nylon", "Rayon", "Polyester", "Acrylic"],
-    "a": 1,
-    "explanation": "Rayon is chemically similar to silk and has a similar shine."
-  },
-  {
-    "q": "The conversion of a liquid into gas below its boiling point is called:",
-    "options": ["Vaporization", "Condensation", "Evaporation", "Sublimation"],
+    "q": "The process of converting sugar into alcohol by yeast is called:",
+    "options": ["Nitrogen Fixation", "Pasteurization", "Fermentation", "Moulding"],
     "a": 2,
-    "explanation": "Evaporation is the surface process of liquid turning to gas below BP."
+    "explanation": "Fermentation is the anaerobic breakdown of sugar into alcohol and CO2."
   },
   {
-    "q": "Which organelle is known as the suicide bag of the cell?",
-    "options": ["Ribosome", "Lysosome", "Mitochondria", "Vacuole"],
+    "q": "Which of the following is responsible for acid rain?",
+    "options": ["Oxygen", "Nitrogen", "Sulfur Dioxide", "Helium"],
+    "a": 2,
+    "explanation": "Sulfur dioxide and nitrogen oxides react with water to form acid rain."
+  },
+  {
+    "q": "The powerhouse of the cell is:",
+    "options": ["Nucleus", "Ribosome", "Mitochondria", "Golgi Body"],
+    "a": 2,
+    "explanation": "Mitochondria are responsible for cellular respiration and energy production."
+  },
+  {
+    "q": "Crops grown in the winter season are known as:",
+    "options": ["Kharif", "Rabi", "Zaid", "Cash Crops"],
     "a": 1,
-    "explanation": "Lysosomes contain digestive enzymes that can destroy the cell."
+    "explanation": "Rabi crops (like wheat) are sown in winter (October-November)."
   },
   {
-    "q": "Which vitamin is essential for blood clotting?",
-    "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin K"],
+    "q": "Sound can travel through:",
+    "options": ["Solids only", "Liquids only", "Gases only", "Solids, liquids and gases"],
     "a": 3,
-    "explanation": "Vitamin K is the primary clotting factor."
-  },
-  {
-    "q": "The path of a projectile is a:",
-    "options": ["Straight line", "Circle", "Parabola", "Hyperbola"],
-    "a": 2,
-    "explanation": "Under gravity, the path of a projectile is parabolic."
+    "explanation": "Sound is a mechanical wave and can travel through any material medium."
   }
 ]
