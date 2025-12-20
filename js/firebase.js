@@ -1,3 +1,8 @@
+/******************************
+ * FIREBASE INITIALIZATION
+ * (FRONTEND)
+ ******************************/
+
 firebase.initializeApp({
   apiKey: "AIzaSyD04D7s8Y4ZCUxWE08cYetErY0SXA2hcb0",
   authDomain: "prepone-92297.firebaseapp.com",
@@ -7,5 +12,21 @@ firebase.initializeApp({
   appId: "1:208806915220:web:a54fbca8db1dc88c2e1881"
 });
 
+/******************************
+ * CORE SERVICES
+ ******************************/
 const auth = firebase.auth();
 const db = firebase.firestore();
+const functions = firebase.functions();
+
+/******************************
+ * EXPORTS (GLOBAL)
+ ******************************/
+window.auth = auth;
+window.db = db;
+window.functions = functions;
+
+/******************************
+ * DEBUG (SAFE)
+ ******************************/
+console.log("✅ Firebase initialized");
